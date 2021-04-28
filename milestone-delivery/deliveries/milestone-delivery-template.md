@@ -2,7 +2,7 @@
 
 > Only the GitHub account, which is responsible for the pull request of the accepted application is allowed to submit milestones. Don't remove any of the mandatory parts presented in bold letters or as headlines!
 
-**The ERC20 address has been filled out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/vechain/grant-program/tree/main/milestone-delivery).**  
+**The Ethereum address has been filled out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](../).**  
 
 * **PR Link:** Please, provide a link to the initial accepted pull request of your application to the [VeChain General Grant Program repository](https://github.com/vechain/grant-program). 
 * **Milestone Number:** The number of the milestone
