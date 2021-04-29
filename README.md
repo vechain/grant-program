@@ -96,7 +96,7 @@ Evaluators are individuals who check whether the application is formatted correc
 
 - [Tony Li](https://github.com/libotony)
 - [Jack Wu](https://github.com/XJWX89)
-- [Xiqing Chu](https://github.com/laalaguer)
+- [Tofu Chu](https://github.com/laalaguer)
 - [Mog Lu](https://github.com/mongelly)
 - [Zhijie Ren](https://github.com/Zhijieren)
 - [Asbert Ma](http://github.com/asbertMa/)
