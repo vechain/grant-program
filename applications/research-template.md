@@ -4,7 +4,7 @@
 
 ## Applicants
 
-Please include here information about all (co-)applicants, with names, affiliations, scientific background, and any information related to the merits of the applicants for the research.
+Please include here information about all (co-)applicants, with names, affiliations, scientific background, and any information related to the merits of the applicants for the research. In case there are multiple applicants, it should be clearly stated that who is the corresponding applicant. The corresponding applicant will take primary responsibility for the project, e.g., managing the progress of the project, communicating with VeChain foundation, and in charge of the budget distribution.
 
 CVs of the applicants should also be included, either in the end of this proposal or in a separate file.
 
