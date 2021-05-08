@@ -4,7 +4,7 @@
 
 ## Applicants
 
-Fangyu Gai. He is currently a third-year Ph.D. student at School of Engineering, University of British Columbia, supervised by [Dr. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html), who is the co-cluster lead of [Blockchain@UBC](https://blockchain.ubc.ca/). His research interests lie in distributed systems, especially blockchain systems. Most recently, He has been focusing on building efficient and high-performance permissioned blockchain databases at [Alibaba DAMO Academy](https://damo.alibaba.com/) as a research intern. More information including his CV can be found at his [website](https://fangyugai.me/).
+Fangyu Gai (corresponding applicant). He is currently a third-year Ph.D. student at School of Engineering, University of British Columbia, supervised by [Dr. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html), who is the co-cluster lead of [Blockchain@UBC](https://blockchain.ubc.ca/). His research interests lie in distributed systems, especially blockchain systems. Most recently, He has been focusing on building efficient and high-performance permissioned blockchain databases at [Alibaba DAMO Academy](https://damo.alibaba.com/) as a research intern. More information including his CV can be found at his [website](https://fangyugai.me/).
 
 Jianyu Niu. He is currently a fourth-year Ph.D student at School of Engineering, University of British Columbia, also supervised by Dr. Chen Feng. His research interests focus on incentive and consensus protocol designs on blockchains. His CV can be found [here](https://fangyugai.me/files/JiangyuNiu_CV.pdf).
 
@@ -28,13 +28,16 @@ Byzantine fault-tolerant, blockchain consensus
 
 ## Research proposal (main body)
 
-We have written a draft of our proposal in latex which is more scientific-friendly than markdown. Copy-paste contents here would be pure labor work. Please refer this [link](https://fangyugai.me/files/Leaderless_Byzantine_fault_tolerant_consensus.pdf) for the proposal. Many thanks.
+We have written a draft of our proposal in latex which is more scientific-friendly than markdown. Please refer this [technical report](https://fangyugai.me/files/Leaderless_Byzantine_fault_tolerant_consensus.pdf) for the proposal. Many thanks.
 
-We believe that our work have potentials of applying it on VeChain's PoA 2.0 to improve its finality.
+We believe that our work has a lot of potentials of being applied on VeChain's PoA 2.0 to improve its finality. Therefore, the purpose of applying for the grant is to continue working on this project as it is still in a very early stage.
+
+The technical report already covers the most of the technical details. In this project, we plan to improve it in the following three stages:
+1. Write a scientific paper based on the technical report, potentially working with the Vechain research team to make it more friendly to Vechain's ecosystem.
+2. Implement a proof-of-concept of our proposed protocol and compare it with other related work (e.g., Casper) in terms of performance and other properties.
+3. Consider to apply it into Vechain's ecosystem.
 
 ### Milestones
-
-The applicants should define multiple milestones together with the outcome of each milestone. The outcome may, for instance, be a prototype system, proof-of-concept, scientific paper, technical report, etc.
 
 #### Overview
 
