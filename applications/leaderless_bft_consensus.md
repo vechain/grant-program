@@ -43,28 +43,26 @@ The technical report already covers the most of the technical details. In this p
 
 |  | Milestone 1 | Milestone 2 |  Milestone 3 | Total |
 | - | - |- | - | - |
-| Estimated Duration | 30 d | 30 d | 30 d | 90 d |
+| Estimated Duration | 60 d | 60 d | 60 d | 180 d |
 | Full-time equivalent (FTE) | 0.5 | 0.5 | 0.5 | 1.5 |
-| Cost (up to $ 30,000) | $ 10,000 | $ 10,000 | $ 10,000 | $30,000 |
+| Cost (up to $ 30,000) | $ 10,000 | $ 15,000 | $ 5,000 | $30,000 |
 
 #### Milestone 1 — Scientific paper
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 0 | Techinical Report | We will improve the technical report that we have been writing and make sure it is well-written and technically correct |
+| 0 | Techinical Report | We will improve the technical report that we have been writing and make sure it is well-written and technically correct; the output should be a techinical report publicly available on [arXiv](https://arxiv.org/) and potentially submitted to some academic conference or journal |
 
 #### Milestone 2  —  Prototype
 | Number | Deliverable | Specification |
 |-|-|-|
-| 0 | Prototype | We will build a prototype of our protocol using Golang for proof-of-concept |
+| 0 | Open-sourced Demo | We will build a prototype of our protocol using Golang for proof-of-concept; the output should be a open-sourced repo on [github.com](https://github.com/) that is implemented following the specification of the technical report from Milestone 1 and have cloud-deployment abilities |
 
 #### Milestone 3  —  Application
 | Number | Deliverable | Specification |
 |-|-|-|
-| 0 | Application | We will consider its application for Vechain's ecosystem (e.g., improving PoA 2.0's finality) |
+| 0 | Integrated Blockchain Platform | We will consider its application for Vechain's ecosystem (e.g., improving PoA 2.0's finality); the output should be production-level code integrated into an existing blockchain platform |
 
 ## Budget
 
 The money is used for living supplies as well as infrastructures that will be needed for building the prototype and evaluation on Cloud.
-
-For each Milestone, the budget is $ 10,000, and $ 30,000 in total.
