@@ -55,9 +55,9 @@ The approach to conduct the research, also reasoning about the viability of this
 
 Discussion about the possible risks during the research process and their consequences.
 
-### Milestones
+## Milestones
 
-The applicants should define multiple milestones together with the outcome of each milestone. The outcome may, for instance, be a prototype system, proof-of-concept, scientific paper, technical report, etc.
+The applicants should define multiple milestones together with the budget and the expected outcome of each milestone. The outcome may, for instance, be a prototype system, proof-of-concept, scientific paper, technical report, etc. Note that the grant will be disbursed step-by-step according to the budget of each milestone as explained in the [Application Process](https://github.com/vechain/grant-program#application-process).
 
 ## Budget
 
