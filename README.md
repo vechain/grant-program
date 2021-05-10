@@ -67,7 +67,7 @@ Note that your project will have to follow [Grant Milestone Delivery](/milestone
  
 4. **Milestone Delivery and Payment**
 
-   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#milestone-delivery-process). **Once the application is accepted, the first payment will be immediately disbursed to fund the project.**
+   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#milestone-delivery-process). **Once the application is accepted, the payment for the first milestone will be immediately disbursed to fund the project. The payments of the rest milestones will be disbursed once their previous milestones are delivered and reviewed.**
 
    The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
