@@ -41,7 +41,6 @@ In general, your project will have better chances to get accepted if:
 
 Additionally, it must fulfill the following requirements:
 
-- All code produced as part of a grant must be **open-sourced**. 
 - We do not award grants for projects that have been the object of a successful token sale. However, we do not limit the project's option to do token sales in the future.
 - Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
 
