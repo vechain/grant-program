@@ -45,7 +45,7 @@ The technical report already covers the most of the technical details. In this p
 | - | - |- | - | - |
 | Estimated Duration | 60 d | 60 d | 60 d | 180 d |
 | Full-time equivalent (FTE) | 0.5 | 0.5 | 0.5 | 1.5 |
-| Cost (up to $ 30,000) | $ 10,000 | $ 15,000 | $ 5,000 | $30,000 |
+| Cost (up to $ 30,000) | $ 5,000 | $ 5,100 | $ 5,100 | $15,200 |
 
 #### Milestone 1 — Scientific paper
 
@@ -65,4 +65,11 @@ The technical report already covers the most of the technical details. In this p
 
 ## Budget
 
-The money is used for living supplies as well as infrastructures that will be needed for building the prototype and evaluation on Cloud.
+The budgest mainly consists of human resources and cloud facilities.
+
+According to UBC's latest teaching assistant [pay rate](https://cupe2278.ca/how-we-help/pay-rates/), a Ph.D. student is paid at the level of GTA I, which is 34.44 CAD (around 29 USD) per hour. For each milestone, we have 60 days, which is 8.5 weeks, counting to 8.5 (weeks) * 40 (total work hours per week) * 0.5 (FTE) = 170 h. Therefore, the budget for human resources is 170 * 29 = 4,930, which is up to 5k USD.
+
+As for the cloud deployment facilities that will be used in Milestone 2 and 3, the budget is calculated based on the hourly price of AWS's EC2 [instance a1.xlarge](https://aws.amazon.com/ec2/pricing/on-demand/):
+0.1 (hourly price) * 10 (instance number) * 100 (expected hours) = 100 USD.
+
+In summary, the budget for Milestone 1, 2, 3 is 5,000 USD, 5,100 USD, and 5,100 USD, respectively.
