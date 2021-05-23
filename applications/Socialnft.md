@@ -51,17 +51,16 @@ The system is comprised of following parts:
 
 ![image](https://ipfs.io/ipfs/bafkreibnpzq5ano4fkjaampday5yivdtcwbgnjyqnkeh33h26tp3biz2qe)
 
-
 - PoC/MVP or other relevant prior work or research on the topic.
 
-We developed cryptoart.ai which is the earliest Chinese version of Cryptoart Market based on ERC721 launched in Q3 2020. The platform so far has more than 700 artist with 500+ artwork uploaded. More than 300 artworks were sold for 300+ ETH. We are fully experience with creating NFT market.
+Our previous developed NFT market is the earliest Chinese version of Cryptoart Market based on ERC721 launched in 2020. The platform so far has almost 1000 artist with 500+ artwork uploaded. More than 300 artworks were sold at the average prive above 1 ETH. We are fully experience with creating NFT market.
 
 
 ### Ecosystem Fit
 
 Per our research, currently on VeChain there is only VIM-world as an NFT platform, but ours is much different as we convert social media posts directly into NFTs, thus we have more contents.
 
-On Ethereum, we have a competitor v.cent.co converts twitter tweets to NFT. We convert instagram posts to NFT. And they are not on VeChain yet.
+On Ethereum, we have a benchmark v.cent.co converts twitter tweets to NFT. We convert instagram posts to NFT. And they are not on VeChain yet.
 
 ## Team 
 
@@ -69,13 +68,13 @@ On Ethereum, we have a competitor v.cent.co converts twitter tweets to NFT. We c
 
 #### **Name of team leader**
 
-- LI Qingshun
+- Pablo
 
 #### **Names of team members**
 
-- LI Mingbo
+- Aiboo
 - Joe
-- Macro Shen
+- Maco
 
 
 ### Team Website
@@ -84,7 +83,7 @@ On Ethereum, we have a competitor v.cent.co converts twitter tweets to NFT. We c
 
 ### Team's experience
 
-- Previous similar NFT project: cryptoart.ai.
+- Successful NFT market development experience on Ethereum.
 
 ### Team Code Repos
 
@@ -97,18 +96,14 @@ On Ethereum, we have a competitor v.cent.co converts twitter tweets to NFT. We c
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/in/qingsli/
-
 ## Development Roadmap 
-
-### Example Roadmap for a dApp Application
 
 #### **Overview**
 
 |  | Milestone 1 | Milestone 2 | Total |
 | - | - |- | - |
 | Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 3 | 3 | 6 |
+| Full-time equivalent (FTE) | 4 | 4 | 8 |
 | Cost (up to $ 30,000) | $ 15,000 | $ 15,000 | $ 30,000|
 
 <br/>
@@ -141,14 +136,4 @@ As part of the Program, we require that you produce and publish at least one art
 
 - Issue social token
 
-- Offer to earn
-
-
-## Additional Information 
-
-Any additional information that you think is relevant to this application that hasn't already been included.
-
-Possible additional information to include:
-- What work has been done so far?
-- Are there any teams who have already contributed (financially) to the project?
-- Have you applied for other grants so far?
+- Offer to earn mode
