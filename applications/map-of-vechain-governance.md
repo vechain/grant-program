@@ -51,13 +51,10 @@ VeChain is not a single action arena, but a series of different action arenas (e
 Each action situation is constrained and enabled by a set of rules (see [Figure 2](https://darcyallendotnet.files.wordpress.com/2021/05/figure-2.png)), which will be the focal point of analysis in the proposed project. The IAD provides a detailed classification of rules that enable us to map blockchain governance in a range of different action arenas. These rules shift the way that participants interact (e.g. do they vote?) and therefore change the patterns that emerge from repeated governance processes (e.g. voting deadlocks, token price changes). For example:
 
 * Blockchains have **position rules** determining what different positions participants can hold in a given governance choice (e.g. governance token holder, core developer, enterprise user). Importantly the formal position rules may differ from more informal ‘rules-in-use’ that leverage reputation and other resources to coordinate (e.g. core developers have greater weight).
-* 
 * Blockchains have **boundary rules** outlining how participants can or cannot take part in governance (e.g. staked tokens required to vote, transaction fees, delegated rights). VeChain, for instance, has specific levels of Economic Nodes and Economic X nodes that are given different rights to vote.
-* 
 * Blockchains have **choice rules** that outline what choices are available to different positions (e.g. proposing an upgrade, voting yes or no, delegating or selling votes). For example, in VeChain the Board of the Steering Committee has the choice to execute emergency actions.
-* 
 * Blockchains have **aggregation rules** that determine how inputs to governance are aggregated into a collective choice (e.g. one-token-one-vote, quadratic voting). In VeChain, different positions hold different weights in an asymmetric voting system.
-* 
+
 This project will adopt this rule classification system (including further rules such as scope rules and information rules) and the IAD framework to outline a case study of VeChain blockchain governance. Multiple ‘action arenas’ will be identified and analysed including: (1) all stakeholder voting event; (2) adding a block through the proof of authority consensus process; and (3) the election of the Board. We will analyse the various rules, positions and choices in these action arenas, and how those action arenas relate and are interconnected with each other. These case studies will rely on mixed data, with a reliance on synthesising existing public resources such as the Governance Charter, VeVote outcomes, VeChain Stats, Discord and Telegram channels. 
 
 This project is viable based on the skills, publication records and experience of the project team. Each of the team members have published widely on the governance and institutional economics of blockchain and distributed ledger technologies (see attached CVs). The team has been collaborating with VeChain on the frontiers of governance research. Dr Allen has published several articles and books that leverage institutional analysis of shared governance (including in the premier journal on the topic, the *International Journal of the Commons*). Associate Professor Poblet has also published in the *International Journal of the Commons* on commons-related scholarship, and has deep expertise in democratic theory. Associate Professor Berg has written extensively on political economy, democratic governance and blockchain technologies, including the landmark application of institutional economics to blockchain, *Understanding the Blockchain Economy: An Introduction to Institutional Cryptoeconomics*, and a co-authored book with Dr Allen, *Cryptodemocracy: How Blockchain Can Radically Expand Democratic Choice*.
@@ -73,7 +70,47 @@ The project approach has been designed in a way that is both timely and realisti
 
 
 ## Budget
-
-A detailed budget should be provided to justify the requested fund. Please note that funding for each research project will be capped at 30,000 USD. 
+The total requested budget for the project is $29,646 USD. Each of the items are listed below.
+* Dr Allen research services ($698 per day for 14 days). Cost: $9,772 AUD
+* Dr Berg research services ($840 per day for 14 days). Cost: $11,760 AUD
+* Dr Poblet research services ($840 per day for 14 days). Cost: $11,760 AUD
+* Research assistant services (50 hours). Cost: $2,718 AUD
+* Report design. Cost: $1,000 AUD
+* Medium post write up for popular outlet. Cost: $1,200 AUD
+*Daily rates calculated based on RMIT institutional rates, including on-costs.*
 
 ## References
+Allen, D. W. E and Berg, C. (2020). Blockchain Governance: What we can Learn from the Economics of Corporate Governance. *The Journal of the British Blockchain Association*, 3(1).
+
+Allen, D. W. E. and Potts, J. (2016). How Innovation Commons Contribute to Discovering and Developing New Technologies. *International Journal of the Commons*, 10(2), pp. 1035-1054.
+
+Allen, D. W. E., Berg, C., and Lane, A. M. (2019). *Cryptodemocracy: How Blockchain Can Radically Expand Democratic Choice*. Rowman & Littlefield.
+
+De Filippi, P., Mannan, M., and Reijers, W. (2020). Blockchain as a Confidence Machine: The Problem of Trust & Challenges of Governance. *Technology in Society*, 62, pp. 101284.
+Frischmann, B. M., Madison, M. J., and Strandburg, K. J. (Eds.). (2014). Governing Knowledge Commons. *Oxford University Press*.
+
+Hardin, G. (1968). ‘The Tragedy of the Commons’, *Science* 162, pp. 1243-1248.
+
+Herzberg, B., Boettke, P., & Aligica, P. (2019). *Ostrom's Tensions: Reexamining the Political Economy and Public Policy of Elinor C. Ostrom*. Mercatus Center at George Mason University.
+
+Howell, B. E., and Potgieter, P. H. (2019). ‘Governance of Blockchain and Distributed Ledger Technology Projects: A Common-Pool Resource View’. Conference paper, Workshop on the Ostrom Workshop (WOW6) Conference, Indiana University Bloomington.
+
+Liu, Y., Lu, Q., Zhu, L., Paik, H. Y., and Staples, M. (2021). A Systematic Literature Review on Blockchain Governance. arXiv preprint arXiv:2105.05460.
+
+McGinnis, M. D. (2011). An Introduction to IAD and the Language of the Ostrom Workshop: A Simple Guide to a Complex Framework. *Policy Studies Journal*, 39(1), pp. 169-183.
+
+Madison, M. J., Frischmann, B. M., and Strandburg, K. J. (2009). Constructing Commons in the Cultural Environment. *Cornell Law Review*, 95(4), pp. 657-710.
+
+Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press.
+
+Ostrom, E. (2005). *Understanding Institutional Diversity*. Princeton University Press.
+
+Ostrom, E. (2010). Beyond Markets and States: Polycentric Governance of Complex Economic Systems. *American Economic Review*, 100(3), pp. 641-72.
+
+Poblet, M., & Sierra, C. (2020). Understanding Help as a Commons. *International Journal of the Commons*, 14(1), pp. 481-493.
+
+Potts, J. (2019). *Innovation Commons: The Origin of Economic Growth*. Oxford University Press.
+
+Potts, J., Allen, D. W. E., Berg, C., Davidson, S., and MacDonald, T. J. (2021). An Economic Theory of Blockchain Foundations. Available at SSRN 3842281.
+
+Tarko, V. (2016). *Elinor Ostrom: An Intellectual Biography*. Rowman & Littlefield.
