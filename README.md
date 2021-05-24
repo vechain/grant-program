@@ -25,7 +25,7 @@ The general grant program is designed to fund projects covering a wide range of 
 
 Each application can be funded up to **$30,000**. All Applications will be tracked on GitHub and disbursed in USDT.
 
-**For Economic X Nodes holders, VeChain Foundation will provide 50% additional funds as bonus if their applications are approved. Successful applicants will have to send an email([`applications/email-template.md`](applications/email-template.md)) to bounty@vechain.com to claim the additional grant.**
+**For Economic X Nodes holders, VeChain Foundation will provide 50% additional funds as bonus if their applications are approved. Successful applicants will have to send an email([`applications/email-template.md`](applications/email-template.md)) to grant@vechain.org to claim the additional grant.**
 
 
 ## Guidelines
