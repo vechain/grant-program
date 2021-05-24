@@ -13,9 +13,7 @@ The team on this project are an experienced group of academic economists and law
 **Dr Marta Poblet** is an Associate Professor at RMIT's Graduate School of Business and Law. She is one of the co-founders of the Institute of Law and Technology at the Autonomous University of Barcelona and past researcher at ICREA (Catalonia). She holds a JSD in law (Stanford University 2002) and a Master in International Legal Studies (Stanford University 2000). Her research interests cover different areas at the intersection of law, political sciences and sociology, and technology. She is also interested in the connections between technology developments (AI, blockchain, human computer interaction) and the different theories of democracy, participation, and citizenship. She has been the PI of a number of national and international research projects and has published over 80 scientific articles on these topics in journals and books. CV available [online](https://docs.google.com/document/d/1Dk67jrVWbHG_NA67ehQEN50dW7Gt0Jvlv-5xUPaehOs/edit?usp=sharing).
 
 ## Payment Address
-A USDT (ERC 20) payment address should be provided. We don't accept payments for the program in other currencies at this stage. 
-
-0xa527caf3f6253F5cE421FD0469A3e20bd2c999d8
+A USDT (ERC 20) payment address: 0xa527caf3f6253F5cE421FD0469A3e20bd2c999d8
 
 ## Summary
 
