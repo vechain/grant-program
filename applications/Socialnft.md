@@ -112,7 +112,7 @@ On Ethereum, we have a benchmark v.cent.co converts twitter tweets to NFT. We co
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | prototype | We will develop prototype that demonstrate the process of converting instagram posts to NFT and making it tradable on our platform. |
+| 1 | prototype | We will develop prototype that demonstrate the process of converting instagram posts to NFT and making it tradable on our platform. The workload includes detailed product and UI design, connecting and testing facebook API, setting up filecoin and ipfs storage, all non-blockchain frontend and backend realization|
 
 <br/>
 
@@ -120,7 +120,7 @@ On Ethereum, we have a benchmark v.cent.co converts twitter tweets to NFT. We co
 
 |  | Milestone 1 | Milestone 2 |
 | - | - |- |
-| 1 | Frontend | We will develop frontend that connect with sync wallet to mint and transfer NFT |
+| 1 | Frontend | We will finish the development of frontend part that connects with sync wallet to mint and transfer NFT |
 | 2 | Backend | Establish the wallet service to receive assets on Vechain |
 | 3 | Smart Contract | NFT smart contract on Vechain |
 
