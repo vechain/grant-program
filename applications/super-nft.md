@@ -49,11 +49,13 @@ NFT 持有者和权益发放方签订合同（例：NFT持有者每年给权益�
 
 - An indication of why your team is interested in creating this project within the VeChain Ecosystem.
 
-在更长远的规划中，NFT 将和 实体实现 1：1挂钩，因此需要选择和物联网技术（如 NFC）技术契合度最好的公链。
+**在更长远的规划中，NFT 将和 实体实现 1：1挂钩，因此需要选择和物联网技术（如 NFC）技术契合度最好的公链。**
 
 - If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
 
-None.
+事实上，在 Vechain 的发展战略中，也在强调和实体挂钩的 [eNFT](https://medium.com/vechain-foundation/the-future-of-vechainthor-enterprise-nft-enft-ecosystem-137589e53974)，所以我们项目的规划和 Vechain 的发展战略是契合的。
+
+此外，如果有生态中的企业推出NFT Wallet（浏览器/App）（e.g. [sync2](https://github.com/vechain/sync2))，我们也会全力配合，让 NFT-PLus 和 NFT Wallet 兼容。
 
 ### Project Details
 
@@ -233,23 +235,25 @@ Below we provide an **example roadmap**. For each milestone:
 
 
 
-|                            | **Milestone 1** | **Milestone 2** | **Total** |
+|                            | **Milestone 1** | **Milestone 2** | **Milestone 3** |
 | -------------------------- | --------------- | --------------- | --------- |
 | Estimated Duration         | 60 d            | 60 d            | 60 d      |
-| Full-time equivalent (FTE) | 2               | 1               | 3         |
+| Full-time equivalent (FTE) | 2(4 Part-Time Worker)| 2(4 Part-Time Worker)  | 4(8 Part Time Worker) |
 | Cost (up to $ 30,000)      | $ 10,000        | $ 10,000        | $ 10,000  |
 
 
 
 #### **Milestone 1 — NFT 分解组合引擎的开发及完善**
 
-- [ ] **抽象设计**
+##### 1. 开发计划
+
+- [x] **抽象设计**
 
 简述：设计NFT+中的额外属性。
 
 见 [NFT+ 设计文档](NFT+ 设计文档.md)。
 
-- [ ] **区块链端**
+- [x] **区块链端**
 
 **技术栈：** Solidity/WASM
 
@@ -271,11 +275,11 @@ Below we provide an **example roadmap**. For each milestone:
 
 **简述：** NFT 熔炼核心，支持界面/接口两种熔炼方式。
 
-- [ ] `Syncer`
+- [x] `Syncer`
 
 支持多链的链上-本地同步器。
 
-- [ ] `Combiner`
+- [x] `Combiner`
 
   混合器，负责 NFT 的输入、处理与输出。
 
@@ -309,21 +313,83 @@ Below we provide an **example roadmap**. For each milestone:
   - NFT Parser 0x02：与二次创作玩法相结合的NFT关系树
   - ……
 
+##### 2. 运营计划
+
+- 在个人（李大狗）/企业（柏链）的多个公众号中及时宣发项目进展
+- 「一点知道」学习 App 率先使用
+- 通过 Vechain 的渠道进行项目宣发
+
+##### 3. 开发计划
+
+- **需要完成的目标：**
+
+- 应用的开发（已完成）：
+
+浏览地址：https://taishang.leeduckgo.com
+
+- Vechain 测试网的适配：
+
+完成接入。
+
+- Vechain 上线：
+
+基础设施独立上线。
+
 #### **Milestone 2  —  平台主体打造**
+
+##### 1. 研发计划
 
 - 平台主体完成Vechain适配
 - 平台前端实现
 - 平台后端实现
 - 文档完善
 - 线上体验系统部署
+- 钱包接入
+
+##### 2. 运营计划
+
+- 在个人（李大狗）/企业（柏链）的多个公众号中及时宣发项目进展
+- 「一点知道」学习 App 率先使用
+- 通过 Vechain 的渠道进行项目宣发
+- 作为独立项目争取融资
+
+##### 3. 需要完成的目标
+
+- Vechain 测试网的适配：
+
+  - 完成接入。
+  - 流程闭环跑通。
+
+- 项目主网上线
 
 #### Milestone 3  —  链上-实体连接
+
+##### 1. 研发计划
 
 - IoT/NFC 相关部分的支持。
 - 链上-实体绑定的实现。
 - 平台主体升级
 - NFT 分解组合引擎升级
 - NFT Parser 升级
+
+- **需要完成的目标：**
+
+
+##### 2. 运营计划
+
+- 在个人（李大狗）/企业（柏链）的多个公众号中及时宣发项目进展
+- 「一点知道」学习 App 率先使用
+- 通过 Vechain 的渠道进行项目宣发
+- 商业逻辑完全跑通
+
+##### 3. 需要完成的目标
+
+- Vechain 测试网的适配：
+
+  - 完成接入。
+  - 流程闭环跑通（现实实体——NFT打通）。
+
+- 生产环境项目升级
 
 #### **Community engagement**
 
