@@ -159,11 +159,11 @@ Evelyn launched the first ever entirely 3D fashion week from which Digital Villa
 
 #### Overview
 
-|  | Phase 1 | Phase 2 | Phase 3 | Phase 4 | Total |
-| - | - | - | - | - | - |
-| Estimated Duration | 40 d | 40 d | 30 d | 110 d | 220 d |
-| Full-time equivalent (FTE) | 2 | 2 | 2 | 2 | 8 |
-| Cost (up to $ 30,000) | $ 20,000 | $ 20,000 | $ 15,000 | $ 55,000 | $ 110,000 |
+|  | Phase 1 | Phase 2 | Total |
+| - | - | - | - |
+| Estimated Duration | 20 d | 15 d | 35 d |
+| Full-time equivalent (FTE) | 2 | 2 | 4 |
+| Cost (up to $ 30,000) | $ 20,000 | $ 10,000 | $ 30,000 |
 
 <br/>
 
