@@ -79,13 +79,9 @@ To summarize,  Digital Village is building an NFT metaverse platform where brand
 
 
 ### Ecosystem Fit
-* The space for blockchain gaming and NFT marketplaces is growing with companies like Decentraland, Sandbox, Axie Infinity, Bit. Country, Opensea trying to redefine ownership of digital assets and create an ecosystem for new micro-entrepreneurs. Digital Village brings diversity to this space by focusing on artistic refined worlds, sustainability, and utility of digital assets. We don't see other platforms as mere competitors, but we believe in interoperability, and we have already started taking steps in that direction. 
- 
-* NFTs Are Redefining our cultural mentality around value and creating new values, but this space lacks a social engagement platform which is quite essential to create new value systems and decide the value. Digital Village is addressing the gap through village protocol.
+* Our platform can help the VeChain ecosystem to launch their eNFTs and build communities around it using our village protocol, find utility for their assets in our metaverse, connect IRL NFTs to digital NFTs and learn how their customers are engaging with their eNFTs to develop sustainable IRL products which can resonate with their customers. Digital Village is a new social media for gen Z and the VeChain ecosystem can embrace the social connections to build new applications on top of the Village protocol social graph.
  
 * Digital Village merges digital world with real world by tracing digital footprints of the users and goods. Digital village is currently in discussions with departments of sustainable development in several cities, luxury brands, and museums to take up residence and use Digital village to simulate human behavior for social betterment, tackle climate change, and build better societies. We allow our users to interact with these companies in the metaverse and physical spaces connecting these two different worlds through their digital footprints powered by the social blockchain technology of our platform. Digital Village can help brands envision the future of their brand and accelerate their innovations towards overall sustainability.
- 
-* Users in the Digital Village will have their infinity room and asset libraries and have an opportunity to develop supportive and collaborative relationships within a new Digital Society, embodying a philosophy that embraces the culture of connection, diversity, and global trade. The main purpose of this platform is to connect people through a global culture where data is democratized and accessible to the individuals who created that data in the first place and to find a social ecology between the digital and the real world and focus on the overall sustainability of humans.
 
 <br/>
 
