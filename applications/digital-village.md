@@ -43,25 +43,25 @@ To summarize,  Digital Village is building an NFT metaverse platform where brand
 
 * The designs/ UX illustrates a few core screens of the Digital Village Web application for its designers/artists.
   * Profile Creation
-    ![sign up 1](https://github.com/alchemytech/dv-grant-program/raw/master/img/signup1.png)
-    ![sign up 2](https://github.com/alchemytech/dv-grant-program/raw/master/img/signup2.png)
-    ![sign up 3](https://github.com/alchemytech/dv-grant-program/raw/master/img/signup3.png)
+    ![sign up 1](https://github.com/alchemytech/dv-grant-program/raw/img/img/signup1.png)
+    ![sign up 2](https://github.com/alchemytech/dv-grant-program/raw/img/img/signup2.png)
+    ![sign up 3](https://github.com/alchemytech/dv-grant-program/raw/img/img/signup3.png)
   * Sign In Page and Profile Page
-    ![sign in 1](https://github.com/alchemytech/dv-grant-program/raw/master/img/login1.png)
-    ![sign in 2](https://github.com/alchemytech/dv-grant-program/raw/master/img/login2.png)
+    ![sign in 1](https://github.com/alchemytech/dv-grant-program/raw/img/img/login1.png)
+    ![sign in 2](https://github.com/alchemytech/dv-grant-program/raw/img/img/login2.png)
   * Product Creation
-    ![product 1](https://github.com/alchemytech/dv-grant-program/raw/master/img/product1.png)
-    ![product 2](https://github.com/alchemytech/dv-grant-program/raw/master/img/product2.png)
+    ![product 1](https://github.com/alchemytech/dv-grant-program/raw/img/img/product1.png)
+    ![product 2](https://github.com/alchemytech/dv-grant-program/raw/img/img/product2.png)
   * Auctioning Process for the marketplace user
-    ![auction 1](https://github.com/alchemytech/dv-grant-program/raw/master/img/auction1.png)
-    ![marketplace 1](https://github.com/alchemytech/dv-grant-program/raw/master/img/marketplace1.png)
+    ![auction 1](https://github.com/alchemytech/dv-grant-program/raw/img/img/auction1.png)
+    ![marketplace 1](https://github.com/alchemytech/dv-grant-program/raw/img/img/marketplace1.png)
   * Crowdfunding process
-    ![crowdfunding 1](https://github.com/alchemytech/dv-grant-program/raw/master/img/crowdfunding1.png)
-    ![crowdfunding 2](https://github.com/alchemytech/dv-grant-program/raw/master/img/crowdfunding2.png)
-    ![product detail](https://github.com/alchemytech/dv-grant-program/raw/master/img/product-detail1.jpg)
-    ![product detail 2](https://github.com/alchemytech/dv-grant-program/raw/master/img/product-detail2.jpg)
+    ![crowdfunding 1](https://github.com/alchemytech/dv-grant-program/raw/img/img/crowdfunding1.png)
+    ![crowdfunding 2](https://github.com/alchemytech/dv-grant-program/raw/img/img/crowdfunding2.png)
+    ![product detail](https://github.com/alchemytech/dv-grant-program/raw/img/img/product-detail1.jpg)
+    ![product detail 2](https://github.com/alchemytech/dv-grant-program/raw/img/img/product-detail2.jpg)
 * Virtual open worlds built on UE4
-  ![virtual world](https://github.com/alchemytech/dv-grant-program/raw/master/img/virtual-world.jpg)
+  ![virtual world](https://github.com/alchemytech/dv-grant-program/raw/img/img/virtual-world.jpg)
 * [API specification document](https://docs.google.com/document/d/1WxgRWMo4k3Fzx_rgcZJS5iwFMrMrAHGF/edit#heading=h.gjdgxs) of the Core functionality
 * Tech Stack:
   * Node.JS
@@ -190,7 +190,7 @@ Evelyn Mora created Helsinki Fashion Week in 2014, she relaunched the event unde
 | 5 | Follow other users and follow up notification | Option to follow the users/artists on the platform and see their works highlighted at a certain place |
 | 6 | Social Account Integration | Sign in using the Facebook and Twitter accounts |
 
-![phase 1 gantt](https://github.com/alchemytech/dv-grant-program/raw/master/img/gantt1.png)
+![phase 1 gantt](https://github.com/alchemytech/dv-grant-program/raw/img/img/gantt1.png)
 
 <br/>
 
@@ -208,7 +208,7 @@ Evelyn Mora created Helsinki Fashion Week in 2014, she relaunched the event unde
 | 14 | Depositing NFT's from wallet and account | User can sell their NFTs bought from other NFT platforms |
 | 15 | Share links on different platforms | User can copy and share the link to sale/auction item on different platforms |
 
-![phase 2 gantt](https://github.com/alchemytech/dv-grant-program/raw/master/img/gantt2.png)
+![phase 2 gantt](https://github.com/alchemytech/dv-grant-program/raw/img/img/gantt2.png)
 
 <br/>
 
@@ -223,7 +223,7 @@ Evelyn Mora created Helsinki Fashion Week in 2014, she relaunched the event unde
 | 20 | Make an offer | Option to make an offer for the products added for Auction
 | 21 | Get recent biddings | User can see and compare recent biddings
 
-![phase 3 gantt](https://github.com/alchemytech/dv-grant-program/raw/master/img/gantt3.png)
+![phase 3 gantt](https://github.com/alchemytech/dv-grant-program/raw/img/img/gantt3.png)
 
 <br/>
 
@@ -250,7 +250,7 @@ Evelyn Mora created Helsinki Fashion Week in 2014, she relaunched the event unde
 | 39 | Manage Wallets | Admin Panel - To View and manage the Wallet providers on the Digital Village platform
 | 40 | User Transaction Management | Admin Panel - To view the user transaction happening on the Digital Village platform
 
-![phase 4 gantt](https://github.com/alchemytech/dv-grant-program/raw/master/img/gantt4.png)
+![phase 4 gantt](https://github.com/alchemytech/dv-grant-program/raw/img/img/gantt4.png)
 
 <br/>
 
