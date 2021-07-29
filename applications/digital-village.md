@@ -10,7 +10,7 @@
 
 <br />
 
-Digital Village (DV) is a recomposition of social media, gaming and e-commerce. DV is the first real-time Sustainable Multiplayer Metaverse connected to its Social Marketplace, which merges the physical and digital world with its own social blockchain technology UI, Village Protocol, and allows the real utility of digital assets. DV applies human-centric design principles to create a Metaverse through the blockchain-based Metaprofiles powered by The Village Protocol Social System, connecting users through the marketplace to the DV MMO, connecting users with physical environments through their digital footprints.
+Digital Village (DV) is a recomposition of social media, gaming and e-commerce. DV is the first real-time Sustainable Multiplayer Metaverse connected to its Social Marketplace, which merges the physical and digital world with its own social blockchain technology, Village Protocol, and allows the real utility of digital assets. DV applies human-centric design principles to create a Metaverse through the blockchain-based Metaprofiles powered by The Village Protocol Social System, connecting users through the marketplace to the DV MMO, connecting users with physical environments through their digital footprints.
 Our global patented Village protocol allows users to visualize and immerse themselves with the blockchain in real-time, charting the movement of the digital footprints of their avatars and the community. Users participate, socialize, and collaborate with fellow users on the Village Protocol, where they influence the fluctuating movement of the protocol impacting the market directly, transparent to the entire community. The Village Protocol allows users to mirror their activities and experiences in the physical world to the digital world utilizing DV coins in real-time from the marketplace into the metaverse through their Metaprofiles of Digital Village.
 
 <br />
@@ -29,12 +29,9 @@ To summarize,  Digital Village is building an NFT metaverse platform where brand
 * Increase in user adoption for VET tokens
 * Lower Gas fee
 * Faster transaction confirmation times
-* And also rated as a 5 Star rated BlockChain service provider certified by the TUV Saarland.
-* VeChain’s focus on sustainability. 
+* And also rated as a 5 Star rated BlockChain service provider certified by the TUV Saarland
+* VeChain’s focus on sustainability
 * VeChain’s vision to build an ecosystem for eNFTs
-* Features like MPP, MTT, Controllable TXs Lifecycle, TXs dependency
-* Low technical literacy and utility 
-* Low code dev environment 
 
 <br />
 
@@ -79,9 +76,20 @@ To summarize,  Digital Village is building an NFT metaverse platform where brand
 
 
 ### Ecosystem Fit
-* Our platform can help the VeChain ecosystem to launch their eNFTs and build communities around it using our village protocol, find utility for their assets in our metaverse, connect IRL NFTs to digital NFTs and learn how their customers are engaging with their eNFTs to develop sustainable IRL products which can resonate with their customers. Digital Village is a new social media for gen Z and the VeChain ecosystem can embrace the social connections to build new applications on top of the Village protocol social graph.
+* Our platform can help the VeChain ecosystem to launch their eNFTs and build communities around it using our Village Protocol, find utility for their assets in our metaverse, connect physical NFTs to digital NFTs, engage with the new generation and learn how their  customers are interacting with their digital products and services to develop sustainable physical supply chain  which can resonate with their customers. 
  
-* Digital Village merges digital world with real world by tracing digital footprints of the users and goods. Digital village is currently in discussions with departments of sustainable development in several cities, luxury brands, and museums to take up residence and use Digital village to simulate human behavior for social betterment, tackle climate change, and build better societies. We allow our users to interact with these companies in the metaverse and physical spaces connecting these two different worlds through their digital footprints powered by the social blockchain technology of our platform. Digital Village can help brands envision the future of their brand and accelerate their innovations towards overall sustainability.
+* Digital Village is a new social media for gen Z and the VeChain ecosystem can embrace the social connections to build new applications on top of the Village Protocol social graph interface. 
+ 
+* Digital Village merges digital world with real world by tracing digital footprints of the users and goods. Digital Village is currently in discussions with departments of sustainable development in several cities to take up residence and use Digital Village to simulate human behavior for social betterment, tackle climate change, and build better societies. 
+ 
+* We allow our users to interact with these companies in the metaverse and physical spaces connecting these two different worlds through their digital footprints powered by the social graph  blockchain interface of our platform. Digital Village can help brands to envision the future of their brands, experiences, product offering, services and accelerate their innovations and overall sustainability goals into their supply chains.
+ 
+* Businesses developing on VeChain can add new revenue channels and  explore new business models 
+ 
+* Developers can build dapps on VeChain and connect it to the Village Protocol social graph
+
+* Traditional companies can adapt Digital Village to gamify and better communicate their supply chain better to their customers by connecting it to Village Protocol
+
 
 <br/>
 
@@ -105,12 +113,13 @@ To summarize,  Digital Village is building an NFT metaverse platform where brand
 * Ronak Shah
 * Praveen Anasurya
 #### UX/UI Team
-* Evelyn Mora, UX, UI
-* Utsav Mistry
+* Evelyn Mora
+* Adnan Aeranpurwala
 * Rajan Dave, Blockchain Enthusiast
 * Dhiraj More, Technical Artist
 * Cornel Doornebosch
 #### Developers Team
+* Ronak Shah
 * Rajnish Singh
 * Sanyoni Shah
 * Kunal Tomar,  Game  Developer
@@ -127,7 +136,7 @@ To summarize,  Digital Village is building an NFT metaverse platform where brand
 Evelyn Mora is a Finnish 28-year old awarded strategist, tech, and sustainability consultant based in Paris, France. She extensively analyzes and evaluates the transformation of the public and private sectors in terms of technological transition and sustainable development, emphasizing Gen Alpha, Gen Z, and Millennial generation studies.
  
 Evelyn Mora created Helsinki Fashion Week in 2014, she relaunched the event under sustainability principles and became the world’s first recognized and most sustainable fashion week. Under the leadership of Evelyn, Helsinki Fashion Week evolved into a multimillion-euro brand and was recognized and nominated for the British Fashion Awards and awarded as the event of the year by Peta in 2018 and the Epica Awards in the fashion category in 2020. Her clients include the Ministry of Environment of Finland, Kering Group, Tesla, Condé Nast International, VTT Technical Research Institute, European Space Agency, Flanders DC, Ministry of Agriculture and Forestry of Finland, Norden – Council of Nordic Ministers.
-Evelyn launched the first ever entirely 3D fashion week from which Digital Village was born, attracting more than 700k visitors during the one week event and reaching over 3 million Euro worth EMV. 
+
 * Toolchain Integration of [Gustav Gerig](https://pages.vetoolchain.com/10011800-6603-49c8-bd5d-8cb400200007/index.html?vid=0xd8eed83f0016135300351fdce564b7b22fd7351c2be20f4755a94504014f44e6#/)
 * Toolchain Integration of Nissan for Battery Tracking app [Private]
 * Toolchain Integration of BMW Car Verify app [Private]
@@ -159,11 +168,11 @@ Evelyn launched the first ever entirely 3D fashion week from which Digital Villa
 
 #### Overview
 
-|  | Phase 1 | Phase 2 | Total |
-| - | - | - | - |
-| Estimated Duration | 20 d | 15 d | 35 d |
-| Full-time equivalent (FTE) | 2 | 2 | 4 |
-| Cost (up to $ 30,000) | $ 20,000 | $ 10,000 | $ 30,000 |
+|  | Phase 1 | Phase 2 | Marketing & Maintenance | Total |
+| - | - | - | - | - |
+| ETD | 20 d | 15 d | 30 d | 65 d |
+| FTE | 2 | 2 | 1 | 5 |
+| Cost | $ 15,000 | $ 10,000 | $ 5,000 | $ 30,000 |
 
 <br/>
 
@@ -247,8 +256,8 @@ Evelyn launched the first ever entirely 3D fashion week from which Digital Villa
 
 #### Community engagement
 
-As soon as we receive the grant, we will publish the article through our rich media and PR network such as Bloomberg, Business Insider,Forbes, BBC, Global Vogue magazines, inc. China, Japan, South Korea, Germany, Italy, Turkey, etc. 
-
+As soon as we receive the grant, we will publish the article through our rich media and PR network such as Bloomberg, Business Insider,Forbes, BBC, Global Vogue magazines, inc. China, Japan, South Korea, Germany, Italy, Turkey, etc.
+ 
 We will be also sharing updates with our 22k+ members at our Digital Fashion and Art Clubhouse club every Wednesdays and Saturdays.
 
 
@@ -258,9 +267,8 @@ To Develop a VeChain linker for UE4 and make it available for both VeChain and U
 
 To Bring sustainable enterprises to launch eNFTs on our marketplace and link them to real-world products. This could include luxury fashion brands, EV manufacturers, etc. 
 
-To Develop a Metaverse career academy for people to learn more about emerging opportunities in metaverse space.
+To Develop a Metaverse career academy for people to learn more about emerging opportunities in metaverse space 
 
-Supporting consumer interaction with blockchain technology through Village Protocol social interface.
 
 ## Additional Information 
 
@@ -273,10 +281,7 @@ Supporting consumer interaction with blockchain technology through Village Proto
       - View and Place a Bid
       - View and Back a Project - Crowdfunding process
       - View Profile
-    - Development of NFT Marketplace 
-      - User Registration - Sign Up
-      - User Sign Up
-      - User Profile Set-Up
+    - Development of NFT Marketplace - In-progress
 - Are there any teams who have already contributed (financially) to the project?
   - No
 - Have you applied for other grants so far?
