@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-- Project: Digital Village
+- Project: Digital Village - NFT Marketplace
 - Team Name: Digital Village 
 - Payment Address: 0x919C763d692DB41833b4CE0879DF980Ce50D9C1C
 
