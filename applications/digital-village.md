@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-- Project: Digital Village - NFT Marketplace
+- Project: Digital Village - A Digital Fashion NFT Marketplace
 - Team Name: Digital Village 
 - Payment Address: 0x919C763d692DB41833b4CE0879DF980Ce50D9C1C
 
@@ -10,16 +10,7 @@
 
 <br />
 
-Digital Village (DV) is a recomposition of social media, gaming and e-commerce. DV is the first real-time Sustainable Multiplayer Metaverse connected to its Social Marketplace, which merges the physical and digital world with its own social blockchain technology, Village Protocol, and allows the real utility of digital assets. DV applies human-centric design principles to create a Metaverse through the blockchain-based Metaprofiles powered by The Village Protocol Social System, connecting users through the marketplace to the DV MMO, connecting users with physical environments through their digital footprints.
-Our global patented Village protocol allows users to visualize and immerse themselves with the blockchain in real-time, charting the movement of the digital footprints of their avatars and the community. Users participate, socialize, and collaborate with fellow users on the Village Protocol, where they influence the fluctuating movement of the protocol impacting the market directly, transparent to the entire community. The Village Protocol allows users to mirror their activities and experiences in the physical world to the digital world utilizing DV coins in real-time from the marketplace into the metaverse through their Metaprofiles of Digital Village.
-
-<br />
-
-Our native token DV Coin (DVC) is a new social incentivizing system, a complete opposite to the "like" button, which fosters negative comparisons on social media. DV coins help support each other for good actions in the real world and Digital Village Metaverse, leading to a large impact through behavioral development. DV Coin is a new social system to build an ecosystem for sustainable action, and users earn their reputation based on efforts. DV coins are a new accounting mechanism like carbon offset with which a business, a government, online communities or an individual can use to transact with someone else to cut or remove a given quantity of greenhouse gases from the atmosphere (instead of planting a tree which will be planted now and will create actual impact in years time with DV Loyalty Points the impact has already been created.The only difference is DV Coin will focus on the overall sustainability of humans and not just on environmental sustainability but also on cultural and social aspects. Users can earn DV coins by completing challenges provided by DV or making mindful choices by supporting local and sustainable businesses, by supporting female entrepreneurship, businesses, and organizations owned by people of color, minorities, or practicing more sustainable lifestyles by taking physical and digital actions to contribute to positive social impact. DVC will also lead to an open, inclusive economy where emerging creative talents focus on their vision and sustainability goals through a peer-curated feedback loop of content, ideas, data, problem-solving, and design thinking approaches.
-
-<br />
-
-To summarize,  Digital Village is building an NFT metaverse platform where brands, governments, artists, and game developers can co-exist and drive sustainable behaviors. 
+Digital Village (DV) is a recomposition of social media, gaming and e-commerce. DV is the first real-time Sustainable Multiplayer Metaverse connected to its Social Marketplace, which merges the physical and digital world with its own social blockchain interface, Village Protocol, and allows the real utility of digital assets in a metaverse going beyond scarcity and reputation. Digital Village metaverse will create hundreds of use cases for NFTs and enable users to import and actually use them within games, events and experiences in DV metaverse. DV applies human-centric design principles to create a Metaverse through the blockchain-based Metaprofiles powered by The Village Protocol Social System, connecting users through the marketplace to the DV MMO, connecting users with physical environments through their digital footprints.
 
 <br />
 
@@ -32,6 +23,7 @@ To summarize,  Digital Village is building an NFT metaverse platform where brand
 * And also rated as a 5 Star rated BlockChain service provider certified by the TUV Saarland
 * VeChain’s focus on sustainability
 * VeChain’s vision to build an ecosystem for eNFTs
+
 
 <br />
 
@@ -58,8 +50,6 @@ To summarize,  Digital Village is building an NFT metaverse platform where brand
   * Crowdfunding process
     ![crowdfunding 1](https://github.com/alchemytech/dv-grant-program/raw/img/img/crowdfunding1.png)
     ![crowdfunding 2](https://github.com/alchemytech/dv-grant-program/raw/img/img/crowdfunding2.png)
-    ![product detail](https://github.com/alchemytech/dv-grant-program/raw/img/img/product-detail1.jpg)
-    ![product detail 2](https://github.com/alchemytech/dv-grant-program/raw/img/img/product-detail2.jpg)
 * Virtual open worlds built on UE4
   ![virtual world](https://github.com/alchemytech/dv-grant-program/raw/img/img/virtual-world.jpg)
 * [API specification document](https://docs.google.com/document/d/1WxgRWMo4k3Fzx_rgcZJS5iwFMrMrAHGF/edit#heading=h.gjdgxs) of the Core functionality
@@ -72,21 +62,15 @@ To summarize,  Digital Village is building an NFT metaverse platform where brand
   * C++
   * Unreal Engine
 * Documentation of core components, protocols, architecture, etc.
-  ![flow](https://github.com/alchemytech/dv-grant-program/raw/master/img/flow.png)
+  ![flow](https://github.com/alchemytech/dv-grant-program/raw/img/img/flow.png)
 
 
 ### Ecosystem Fit
-* Our platform can help the VeChain ecosystem to launch their eNFTs and build communities around it using our Village Protocol, find utility for their assets in our metaverse, connect physical NFTs to digital NFTs, engage with the new generation and learn how their  customers are interacting with their digital products and services to develop sustainable physical supply chain  which can resonate with their customers. 
- 
-* Digital Village is a new social media for gen Z and the VeChain ecosystem can embrace the social connections to build new applications on top of the Village Protocol social graph interface. 
+* Our platform can help the VeChain ecosystem to launch their eNFTs, find utility for their assets in our metaverse, connect physical NFTs to digital NFTs, engage with the new generation and learn how their  customers are interacting with their digital products and services to develop sustainable physical supply chain  which can resonate with their customers. 
  
 * Digital Village merges digital world with real world by tracing digital footprints of the users and goods. Digital Village is currently in discussions with departments of sustainable development in several cities to take up residence and use Digital Village to simulate human behavior for social betterment, tackle climate change, and build better societies. 
  
-* We allow our users to interact with these companies in the metaverse and physical spaces connecting these two different worlds through their digital footprints powered by the social graph  blockchain interface of our platform. Digital Village can help brands to envision the future of their brands, experiences, product offering, services and accelerate their innovations and overall sustainability goals into their supply chains.
- 
 * Businesses developing on VeChain can add new revenue channels and  explore new business models 
- 
-* Developers can build dapps on VeChain and connect it to the Village Protocol social graph
 
 * Traditional companies can adapt Digital Village to gamify and better communicate their supply chain better to their customers by connecting it to Village Protocol
 
@@ -135,7 +119,7 @@ To summarize,  Digital Village is building an NFT metaverse platform where brand
 
 Evelyn Mora is a Finnish 28-year old awarded strategist, tech, and sustainability consultant based in Paris, France. She extensively analyzes and evaluates the transformation of the public and private sectors in terms of technological transition and sustainable development, emphasizing Gen Alpha, Gen Z, and Millennial generation studies.
  
-Evelyn Mora created Helsinki Fashion Week in 2014, she relaunched the event under sustainability principles and became the world’s first recognized and most sustainable fashion week. Under the leadership of Evelyn, Helsinki Fashion Week evolved into a multimillion-euro brand and was recognized and nominated for the British Fashion Awards and awarded as the event of the year by Peta in 2018 and the Epica Awards in the fashion category in 2020. Her clients include the Ministry of Environment of Finland, Kering Group, Tesla, Condé Nast International, VTT Technical Research Institute, European Space Agency, Flanders DC, Ministry of Agriculture and Forestry of Finland, Norden – Council of Nordic Ministers.
+Evelyn Mora created [Helsinki Fashion Week](http://helsinkifashionweeklive.com/) in 2014, she relaunched the event under sustainability principles and became the world’s first recognized and most sustainable fashion week. Under the leadership of Evelyn, Helsinki Fashion Week evolved into a multimillion-euro brand and was recognized and nominated for the British Fashion Awards and awarded as the event of the year by Peta in 2018 and the Epica Awards in the fashion category in 2020. Her clients include the Ministry of Environment of Finland, Kering Group, Tesla, Condé Nast International, VTT Technical Research Institute, European Space Agency, Flanders DC, Ministry of Agriculture and Forestry of Finland, Norden – Council of Nordic Ministers.
 
 * Toolchain Integration of [Gustav Gerig](https://pages.vetoolchain.com/10011800-6603-49c8-bd5d-8cb400200007/index.html?vid=0xd8eed83f0016135300351fdce564b7b22fd7351c2be20f4755a94504014f44e6#/)
 * Toolchain Integration of Nissan for Battery Tracking app [Private]
@@ -159,7 +143,6 @@ Evelyn Mora created Helsinki Fashion Week in 2014, she relaunched the event unde
 - [Marie Schallar](https://www.linkedin.com/in/marie-schaller-63bbb215a/)
 - [Adnan Aeranpurwala](https://www.linkedin.com/in/aaeranpurwala)
 - [Ronak Shah](https://www.linkedin.com/in/ronakshah)
-- [Utsav Mistry](https://www.linkedin.com/in/utsav-mistry-951922126)
 - [Rajan Dave](https://www.linkedin.com/in/rajan-dave-aa311275)
 - [Rajnish Singh](https://www.linkedin.com/in/rajnish-ks)
 - [Sanyoni Shah](https://www.linkedin.com/in/sanyoni-shah-420783177/)
@@ -170,9 +153,9 @@ Evelyn Mora created Helsinki Fashion Week in 2014, she relaunched the event unde
 
 |  | Phase 1 | Phase 2 | Marketing & Maintenance | Total |
 | - | - | - | - | - |
-| ETD | 20 d | 15 d | 30 d | 65 d |
+| ETD | 20 d | 20 d | 20 d | 60 d |
 | FTE | 2 | 2 | 1 | 5 |
-| Cost | $ 15,000 | $ 10,000 | $ 5,000 | $ 30,000 |
+| Cost | $ 12,000 | $ 12,000 | $ 6,000 | $ 30,000 |
 
 <br/>
 
