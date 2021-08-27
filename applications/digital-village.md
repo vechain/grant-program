@@ -153,13 +153,14 @@ Evelyn Mora created [Helsinki Fashion Week](http://helsinkifashionweeklive.com/)
 
 |  | Phase 1 | Phase 2 | Marketing & Maintenance | Total |
 | - | - | - | - | - |
-| ETD | 20 d | 20 d | 20 d | 60 d |
+| ETD | 30 d | 30 d | 30 d | 90 d |
 | FTE | 2 | 2 | 1 | 5 |
 | Cost | $ 12,000 | $ 12,000 | $ 6,000 | $ 30,000 |
 
 <br/>
 
 **Phase 1** - Profile Creation of the users followed by Wallet linking on the Digital Village Web application
+and Option to Add the products followed by generating/ minting the NFTs for the products added on the Digital Village web application
 
 | # | Deliverables | Specification |
 | ------ | ------ | ------ |
@@ -172,15 +173,6 @@ Evelyn Mora created [Helsinki Fashion Week](http://helsinkifashionweeklive.com/)
 | 4 | Connect Crypto Wallet | Connecting user to the crypto wallets (generating mnemonics etc) |
 | 5 | Follow other users and follow up notification | Option to follow the users/artists on the platform and see their works highlighted at a certain place |
 | 6 | Social Account Integration | Sign in using the Facebook and Twitter accounts |
-
-![phase 1 gantt](https://github.com/alchemytech/dv-grant-program/raw/img/img/gantt1.png)
-
-<br/>
-
-**Phase 2** - Option to Add the products followed by generating/ minting the NFTs for the products added on the Digital Village web application
-
-| # | Deliverables | Specification |
-| ------ | ---------- | ------------ |
 | 7 | Add Products | Option to add products onto their account for sale/auction |
 | 8 | Link NFT / Generate NFT Tokens | Generate/Mint the NFT for added products |
 | 9 | Item interaction | Users can view a detailed description of the items added by the artist and perform certain actions such as marking as a favorite, adding to cart, moving from cart |
@@ -191,11 +183,10 @@ Evelyn Mora created [Helsinki Fashion Week](http://helsinkifashionweeklive.com/)
 | 14 | Depositing NFT's from wallet and account | User can sell their NFTs bought from other NFT platforms |
 | 15 | Share links on different platforms | User can copy and share the link to sale/auction item on different platforms |
 
-![phase 2 gantt](https://github.com/alchemytech/dv-grant-program/raw/img/img/gantt2.png)
-
 <br/>
 
-**Phase 3** - Allowing the users to raise the funds (crowdfunding), Auctioning for their products on the Digital Village web application
+**Phase 2** - Allowing the users to raise the funds (crowdfunding), Auctioning for their products on the Digital Village web application
+and Option for the end-users to manage their Wallets, sale, notifications, favorites, owned assets, and also configuring the royalty splits by the Admin users
 
 | # | Deliverables | Specification |
 | ------ | ---------- | ------------ |
@@ -205,15 +196,6 @@ Evelyn Mora created [Helsinki Fashion Week](http://helsinkifashionweeklive.com/)
 | 19 | Auction ending and result | The auction should end automatically when Endtime reaches and the highest bidder should be declared as winner (cron-job). Generation of results and basic analytics on auction end.
 | 20 | Make an offer | Option to make an offer for the products added for Auction
 | 21 | Get recent biddings | User can see and compare recent biddings
-
-![phase 3 gantt](https://github.com/alchemytech/dv-grant-program/raw/img/img/gantt3.png)
-
-<br/>
-
-**Phase 4** - Option for the end-users to manage their Wallets, sale, notifications, favorites, owned assets, and also configuring the royalty splits by the Admin users
-
-| # | Deliverables | Specification |
-| ------ | ---------- | ------------ |
 | 22 | Cart, favorites and owned | Option to view and manage the cart items, favorites, and owned NFTs on the digital village platform
 | 23 | Initiate Payment Process | Option to make the payment for the purchases of the Digital Artworks
 | 24 | Discounted and packed Offers | Option to view the offers running on the Digital Village platform
@@ -232,8 +214,6 @@ Evelyn Mora created [Helsinki Fashion Week](http://helsinkifashionweeklive.com/)
 | 38 | Manage Rating and Review | Admin Panel - To view and monitor the ratings and reviews added by the users on the listings on the DIgital Village platform
 | 39 | Manage Wallets | Admin Panel - To View and manage the Wallet providers on the Digital Village platform
 | 40 | User Transaction Management | Admin Panel - To view the user transaction happening on the Digital Village platform
-
-![phase 4 gantt](https://github.com/alchemytech/dv-grant-program/raw/img/img/gantt4.png)
 
 <br/>
 
