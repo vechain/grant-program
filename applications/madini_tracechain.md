@@ -202,7 +202,7 @@ Community engagement
 
 As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
 
-
+.
 
 Future Plans
 
