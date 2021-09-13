@@ -36,10 +36,10 @@ Village Protocol focuses on decentralizing data instead of monetizing user inter
 
 * The designs/ UX illustrates a few core screens of the Digital Village Web application for its designers/artists.
   * Village Protocol
-    ![vp 1](https://github.com/ronakshah/dvp-grant-program/raw/img/img/vp1.png)
-    ![vp 2](https://github.com/ronakshah/dvp-grant-program/raw/img/img/vp2.png)
-    ![vp 3](https://github.com/ronakshah/dvp-grant-program/raw/img/img/graph1.png)
-    ![vp 4](https://github.com/ronakshah/dvp-grant-program/raw/img/img/graph2.png)
+    ![vp 1](https://github.com/ronakshah/vp-grant-program/raw/img/img/vp1.png)
+    ![vp 2](https://github.com/ronakshah/vp-grant-program/raw/img/img/vp2.png)
+    ![vp 3](https://github.com/ronakshah/vp-grant-program/raw/img/img/graph1.png)
+    ![vp 4](https://github.com/ronakshah/vp-grant-program/raw/img/img/graph2.png)
 * Tech Stack:
   * Node.JS
   * Next.JS
