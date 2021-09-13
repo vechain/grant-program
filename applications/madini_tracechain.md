@@ -15,6 +15,7 @@ Please provide the following:
     
 Madini Africa - Madini TraceChain
 East Africa BlockChain Supply Chain Traceability
+============================================================
 
 One-stop app that connects producers with consumers and captures all value chain data from end to end. Empowering producers and building D2C models with blockchain.
 Connect producers with consumers and capture all value chain data E2E
@@ -60,6 +61,22 @@ TraceChain interfaces with both block-chain and a server with a database.Madini 
 	•VIP 191
 
 	TraceChain consists of Web App, API’s .The Web application is made using JQUERY,JAVASCRIPT and python 3.8 flask which integrates VIP 191 which help send data to the Vechain blockchain as well as saving data to the database.
+	
+	Madini Minerals Marketplace: 
+	======================================
+	
+	•Python 3.8 (Flask)
+	•Javascript / Jquery
+	•VPS / Server.
+	•Connex / Thorclient / Thordevkit
+	•Php 
+	•Javascript / Jquery
+	•Apache server
+	•TraceChain 
+	•MDN dapps conn integration
+	
+	In progress (Minerals Marketplace based on Madini TraceChain and VeChain Thor) Marketplace for purchasing/selling tracked/verified metals/minerals and related services from Africa. 
+
 
 	Madini Wallet - Technical Details 
 	======================================
@@ -92,7 +109,7 @@ TraceChain interfaces with both block-chain and a server with a database.Madini 
 Other tools:
 
 How Madini TraceChain Works.
-
+============================================================
 With Madini TraceChain you can easily upload your product descriptions, attributes, photos, 
 certificates, documents and videos to the VeChainThor blockchain. When the upload is completed, the 
 system will generate an unique QR code assigned to your product. You will also be able to see the 
@@ -134,7 +151,7 @@ www.madinitracechain.com
 
 
 Madini MDN Token
-
+============================================================
 MDN VIP180 is the Madini utility token in our ecosystem
 Madini (MDN) is one of the first platforms built exclusively to cater to the needs of Africa enter-prise-level clientele on BlockChain. We seek to improve supply chain in Africa and product lifecycle management through the use of distributed ledger technology (DLT). Importantly, the platform of-fers users a variety of new functionalities that make it ideal for businesses seeking to enhance supply chain protocols and business processes.
 VeChain provides Madini Ecosystem the ability to track an enormous amount of data. These indica-tors can include items such as quality, authenticity, traceability, and transportation status. Madini, using VeChain, provides African Mineral enterprises all of these features via a trust-free and distrib-uted business ecosystem. In this way, we reduce overhead and improves accountability.
@@ -154,23 +171,63 @@ VeChain provides Madini Ecosystem the ability to track an enormous amount of dat
 https://github.com/Bluegate-BS/token-registry
 https://explore.vechain.org/accounts/0x1b44a9718e12031530604137f854160759677192/
 
+Madini Minerals Marketplace
+============================================================
+60% Aug 2021 - Dec 2021 In progress (Minerals Marketplace based on Madini TraceChain and VeChain Thor) 
+Marketplace for purchasing/selling tracked/verified metals/minerals and related services from Africa. 
+
+It aim to represents the best for all in the African industry (including miners, refiners, traders, manufacturers, designers, makers, as well as retailers) and our vision is to build transparent minerals supply chains, regulated transactions, and people responsibly lead by example across the sector towards greater ethical sourcing, trust, and sustainability. All players in the marketplace will benefit of MDN % benefits and usability (VET/VTHO)
+
+At Madini, we believe VeChain BlockChain has the potential to powerfully disrupt many aspects of how Mineral Markets work, and provide trust, transparency, and security to the supply chain. This includes artisans and small-scale miners being part of our inclusive value chain that underpin human health, wellbeing, livelihoods, jobs and sustainable growth.
+Madini Marketplace was created to provide a safe and secure marketplace for sellers to market their mineral and royalty interests. With three selling options: buy now, auction, or continuous listing, sellers are able to enter the market on their own terms.
+
+	
+Trusted Listing
+
+With a fully automated identificaton of sellers and assets in Bluegate BlockChain, sellers can post assets for sale within minutes, with full guarantee of origin, certificates and licenses, and goverment permits. In just a few simple steps, Sellers can upload assets to their listing. Madini platform will automatically associate the mineral assets to the smart contract on Madini VeChain ToolChain, completely mapping the transaction from the origin to the destination.
+
+Madini Marketplace enables African Minerals trade with FAIR, TRUSTED and TRANSPARENT processes on Bluegate Technology.
+Test the Market
+
+Getting the best value can be a matter of timing. By utilizing the continuous listing option, sellers can receive offers without any commitment to sell. Additionally, sellers can safely list their assets with a reserve price for sale through an online auction.
+Optimal Exposure
+
+Sellers maximize the value of their assets by becoming instantly connected with a worldwide group of qualified buyers. Sellers also benefits from MDN usage and giveaways from the platform and the trade
+Buyers - Madini was created to position buyers with the tools, data and analytics necessary to make intelligent and timely decisions. Buyers are able to access exclusive, regulated, trust deals based on MADINI TRACECHAIN with certified providers never before marketed and work with the seller within the Madini Platform to fully transact the deal and ensure a mutually beneficial arrangement. 
+	
+Real-Time Data, Alerts & Analytics
+
+Automatic integration of assets into the blockchain, well, and production data allows buyers to conduct rapid analysis without leaving the platform. Buyers can also set real-time alerts and be notified of new listings in their area of interest.
+Efficient Buying Options
+
+Buy Now and Make an Offer features allow for a seamless transaction process. Don’t wait for an auction to be over when you can skip the line and secure a deal that fits perfectly into your portfolio.
+All in one platform
+Madini VeChain technology-focused platform improves the manner in which African minerals are traded by integrating trust, transparency and security.
+
+With our all-encompassing platform you can list, evaluate, and fully transact a deal with never before seen efficiency allowing for reduced acquisition time and better deal exposure. VeChain ToolChain is a key to the technology and facilitates peer-to-peer exchange of information on the Madini ecosystem, which includes Madini Decentralized Marketplace. This ensures high security, speed, reliability and transparency in all the transactions through VeChain Thor, and full supply chain traceability and regulation using VeChain hybrid technology. Madini Marktplace will deliver blockchain solutions that reflect your specific business needs, and provide trust, transparency, and security.
+
 
 
 Madini VeChain Thor Wallet
-
+============================================================
 Madini Wallet is a light mobile wallet app based on VeChainThor. We have forked VeChain github original code to buid Madini Wallet specific features and completely change the design and usability in Java. We aim to provide users with a powerful, secure, simple, fully functional portal of the Madini VeChainThor blockchain.
 Main functions include: MDN, VET, VTHO and other Crypto assets management, Balance, Exchange using Nomics API, Graph, Blockchain Inspector to check your transactions status, wallet observation, reward claim, etc.
 
 https://github.com/Bluegate-BS/MadiniWallet
-
+Wallet download link:  https://www.madiniafricainvest.com/apk/MadiniWallet.apk
 
 
 
 Project Details
-
+====================
 We expect the teams to already have a solid idea about the project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
+Madini Africa / Madini TraceChain milestones 1&2 components are live and working with real clients and organizations (screenshots and links of tracechain actual products available) 
+	
     Mockups/designs of any UI components - TraceChain https://www.madinitracechain.com/#features MadiniWallet https://www.madinitracechain.com/mdn-vechain-vip180/
+    
+    Madini marketplace mockups, design and functionality: https://www.madiniafricainvest.com/?page_id=2872
+    
     API specifications of the core functionality -  https://www.madinitracechain.com/#features MadiniWallet https://www.madinitracechain.com/mdn-vechain-vip180/
 
 Ecosystem Fit
