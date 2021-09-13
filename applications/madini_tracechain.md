@@ -16,14 +16,14 @@ Please provide the following:
 Madini Africa - Madini TraceChain
 East Africa BlockChain Supply Chain Traceability
 
-Bluegate Business Solutions LTD (Kenya) 2001 – www.bluegatebs.com
-Madini TraceChain www.madinitracechain.com
-Madini RockChain www.madiniafricainvest.com
-
 One-stop app that connects producers with consumers and captures all value chain data from end to end. Empowering producers and building D2C models with blockchain.
 Connect producers with consumers and capture all value chain data E2E
 Enable African Enterprises to introduce and complete Proof of Concepts on Blockchain Efficiently.
 Madini TraceChain is a platform that engages producers with consumers and enables them to gather and share data with the public via a QR code. All the information is encrypted and secured on VeChain blockchain, and is unforgeable and available worldwide.
+
+Bluegate Business Solutions LTD (Kenya) 2001 – www.bluegatebs.com
+Madini TraceChain www.madinitracechain.com
+Madini RockChain www.madiniafricainvest.com
 
     An indication of why your team is interested in creating this project within the VeChain Ecosystem.
     
@@ -46,7 +46,48 @@ Bluegate now has specialization in products traceability based on accumulated kn
     
     If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project.
 
-Fee delegation protocol - Development in progress
+TraceChain interfaces with both block-chain and a server with a database.Madini TraceChain relies on the Vechain blockchain a distributed block-chain service.Verified data is broadcasted to the blockchain and stored as hex data. Madini TraceChain relies on the Vechain blockchain a distributed block-chain service.Verified data is broadcasted to the blockchain and stored as hex data also stores the raw data to the SQLite 
+
+	Madini TraceChain - Technical Details:
+	======================================
+	
+	•Python 3.8 (Flask)
+	•Javascript / Jquery
+	•VPS / Server.
+	•Connex / Thorclient / Thordevkit
+	•Sqlite Database.
+	•VET Wallet address with VTHO.
+	•VIP 191
+
+	TraceChain consists of Web App, API’s .The Web application is made using JQUERY,JAVASCRIPT and python 3.8 flask which integrates VIP 191 which help send data to the Vechain blockchain as well as saving data to the database.
+
+	Madini Wallet - Technical Details 
+	======================================
+	
+	•Programming language used: Android JAVA
+	•Contract used:https://explore.vechain.org/accounts/0x1b44a9718e12031530604137f854160759677192
+	public static Token getMDNToken(){
+	    Token vthoToken = new Token();
+	    vthoToken.setAddress("0x1b44a9718e12031530604137f854160759677192");
+	    vthoToken.setDecimals(DECIMALS);
+	    vthoToken.setName(MDN);
+	    vthoToken.setSymbol(MDN);
+	    vthoToken.setTransferGas(21000);
+	    return mdnToken;
+	}
+	•Nomics API
+	Nomics API is integrated to the app for providing real time API for VET and VTHO prices.
+	Link:https://nomics.com/assets/vtho-vethor-token/widget
+
+
+	Madini Token (MDN)
+	======================================
+	
+	Contract on Vechain:https://explore.vechain.org/accounts/0x1b44a9718e12031530604137f854160759677192
+	MDN VIP180 is the Madini utility token in our ecosystem
+	Madini (MDN) is one of the first platforms built exclusively to cater to the needs of Africa enterprise-level clientele on BlockChain. We seek to improve supply chain in Africa and product lifecycle management through the use of distributed ledger technology (DLT). Importantly, the platform offers users a variety of new functionalities that make it ideal for businesses seeking to enhance supply chain protocols and business processes.
+	The VIP-181 Standard outlines a set of common methods that all NFT tokens can follow on the VeChainThor Network to transfer tokens, as well as allow tokens to be approved so they can be spent by another on-chain thrid party safely.
+
 
 Other tools:
 
@@ -129,37 +170,75 @@ Project Details
 
 We expect the teams to already have a solid idea about the project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-    Mockups/designs of any UI components
-    API specifications of the core functionality
-    An overview of the technology stack to be used
-    Documentation of core components, protocols, architecture, etc. to be deployed
-    PoC/MVP or other relevant prior work or research on the topic
+    Mockups/designs of any UI components - TraceChain https://www.madinitracechain.com/#features MadiniWallet https://www.madinitracechain.com/mdn-vechain-vip180/
+    API specifications of the core functionality -  https://www.madinitracechain.com/#features MadiniWallet https://www.madinitracechain.com/mdn-vechain-vip180/
 
 Ecosystem Fit
 
 Are there any other projects similar to yours? If so, how is your project different?
+	TooldChain is a similar project to Madini TraceChain, but economy of escale of TraceChain with a Traceability cost of 0.40USD, Kiswahili and multilanguage capabilities, time to market, ultrafast setup and activation, fees delegation, makes Madini TraceChain more suitable for African economies
+
 Team
 Team members
 
-    Name of team leader
-    Names of team members
+    Name of team leader - Taphline Akinyi Obiero - CEO and Co-Founder – Bluegate Business Solutions LTD
+    Names of team members - 
+    
+	Taphline Obiero
+	CEO and Co-Founder – Bluegate Business Solutions LTD
+
+	Catherine Gachenge
+	Board of Advisors Kenya Investment Authorities
+
+	Griphase Masinde
+	Board of Advisors – Nairobi University
+
+	Stephen Otieno Agan
+	Board of Advisors  – Agon Data Corporation & Jomo Kenyatta University of Agriculture and Technology
+
+	Samwel Gichungu
+	Tech Director -Bluegate Business Solutions LTD
+
+	Brenda Cherotich
+	CSS php and Design – Bluegate Business Solutions LTD
+
+	Joseph Tilombo
+	Java master - Bluegate Business Solutions LTD
+
+	Bret Mwenda
+	Web Developer - Php Phyton - Bluegate Business Solutions LTD
+
+	Jorge de Vega
+	EU BlockChain Developer - Bluegate Business Solutions LTD
+
+	Ana Perez-Vigo
+	EU Consultant Manager
+
+	Fernando Perez-Vigo
+	Co-Founder - Founding Partner
+
 
 Team Website
 
-    https://<your_domain>
+    https://www.madinitracechain.com/#team
 
 Team's experience
 
 Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects.
 Team Code Repos 
 
-    https://github.com/<your_repo_1>
-    https://github.com/<your_repo_2>
+    https://github.com/Bluegate-BS/Madini-TraceChain
+    https://github.com/Bluegate-BS/MadiniWallet
+    https://github.com/Bluegate-BS/token-registry
 
 Team LinkedIn Profiles
 
-    https://www.linkedin.com/<person_1>
-    https://www.linkedin.com/<person_2>
+    https://www.linkedin.com/in/fernandoperezvigo/
+    https://www.linkedin.com/in/taphline-obiero-1475a4161/
+    https://www.linkedin.com/in/griphase-masinde-48657333/
+    https://www.linkedin.com/in/agan-agalo-b04a7124/
+    https://www.linkedin.com/in/samwel-gichungu-b86441135/
+    Catherine Gachenge http://www.invest.go.ke/
 
 Development Roadmap
 
@@ -168,14 +247,46 @@ This section should break out the development roadmap into a number of milestone
 Below we provide an example roadmap. For each milestone:
 
     Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost.
-    
-Company StartUp: 100% Jun-Dec 2020
-MDNB Bluegate TestNet: 100% Jul - Dec 2020
+
+Milestone 1 
+====================
+Project StartUp: 100% Jun-Dec 2020 FTE 8 (Prerequisites, Nano tests, Vechain tests, Thor deploy on Strato servers, architecture, design, functionality, Testnet)
+Madini Bluegate TestNet: 100% Jul - Dec 2020
 MDN VIP180 Vechain MainNet: 100% Jan 2021
 Madini Whitepaper: 100% Dec 2020
 MDN VET Wallet : 100% Aug - Dec2020
-Madini TraceChain : 100% Jan - Aug 2021
-Madini Minerals Marketplace: 60% Aug 2021 - Dec 2021 
+
+Milestone 2
+====================
+Madini TraceChain
+Madini TraceChain : 100% Jan - Aug 2021 FTE 8 (Prerequisites, Nano tests, Vechain tests, Thor deploy on Strato servers, architecture, design, functionality, VIP191,  Testnet, mainnet) Already implemented and working with real clients in Kenya and Tanzania
+https://www.madinitracechain.com/2021/08/24/madini-tracechain-starts-operations-with-ea-agrobusinesses-using-vechain/
+https://www.madinitracechain.com/2021/08/17/madini-tracechain-starts-operations-in-tanzania/
+https://www.madinitracechain.com/2021/07/27/madini-africa-collaborates-with-haki-madini-in-tanzania/
+https://www.madinitracechain.com/2021/06/25/minerals-verified-on-vechain-what-are-tanzanites/
+https://www.madinitracechain.com/2021/05/11/pioneering-transparent-value-chains-in-africa-duplicate-1/
+
+Milestone2: Complete and integrate MadiniTraceChain in Tanzania and Kenya government standards. Continue implementation on Agrobusinesses and mining companies and asociations including in the short term (before Dec 2021): 
+Tanzania Ministry of Industry and Trade
+Tanzania Ministry of minerals
+Kenya Investment Authorities
+Kenya Ministry of Minerals
+BRELA (Tanzania Boureau of Standards) 
+** Tanzania Women Miners Association in Dar es Salaam: https://tamwa.org/a/  and Tanzania Miners Association (Merenani) Meetings in progress
+This is a key milestone of our project providing support and access to traceability and sustainability technology can greatly improve the african women.  This includes artisans and small-scale miners being part of our inclusive value chain that underpin human health, wellbeing, livelihoods, jobs and sustainable growth.
+
+Tanzania Media Women’s Association (TAMWA) is a non-profit, non-partisan, non-governmental and human rights organization founded and registered on 17th November 1987 under the Societies Ordinance Cap 337 of 1954 with registration number (SO 6763). In 2004, the association complied with the 2002, NGO Act of the United Republic of Tanzania. In 2007, TAMWA was also registered in Zanzibar as TAMWA Zanzibar under Society Act No. 6 of 1995.
+
+Milestone 3
+====================
+Madini Minerals Marketplace: 60% Aug 2021 - Dec 2021 In progress (Minerals Marketplace based on Madini TraceChain and VeChain Thor) 
+Marketplace for purchasing/selling tracked/verified metals/minerals and related services from Africa. 
+
+It aim to represents the best for all in the African industry (including miners, refiners, traders, manufacturers, designers, makers, as well as retailers) and our vision is to build transparent minerals supply chains, regulated transactions, and people responsibly lead by example across the sector towards greater ethical sourcing, trust, and sustainability. All players in the marketplace will benefit of MDN % benefits and usability (VET/VTHO)
+
+At Madini, we believe VeChain BlockChain has the potential to powerfully disrupt many aspects of how Mineral Markets work, and provide trust, transparency, and security to the supply chain. This includes artisans and small-scale miners being part of our inclusive value chain that underpin human health, wellbeing, livelihoods, jobs and sustainable growth.
+
+
     
     Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
     Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
@@ -183,36 +294,47 @@ Madini Minerals Marketplace: 60% Aug 2021 - Dec 2021
     Please commit to providing dockerfiles for the delivery of your project.
 
 Example Roadmap for a dApp Application
-Overview
-	Milestone 1 	Milestone 2 	Total
-Estimated Duration 	30 d 	30 d 	60 d
-Full-time equivalent (FTE) 	2 	1 	3
-Cost (up to $ 30,000) 	$ 5,000 	$ 10,000 	$ 15,000
-Milestone 1 — Smart Contract & Backend
-Number 	Deliverable 	Specification
-0a. 	License 	Apache 2.0 / MIT / Unlicense
-0b. 	Documentation 	We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service.
-0c. 	Testing Guide 	The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests
-1 	Smart Contracts 	We will develop smart contracts that will... (Please list the functionality that will be coded for the contracts)
-2 	Backend 	"We will create a backend service that will... (Please list the functionality that will be coded for the backend)"
-Milestone 2 — Frontend
+
+Cost (up to $ 30,000)  - Milestones 1 & 2 -	$ 225,000     Milestone 3 (Marketplace and implementation)	$ 80,000 	
 
 ...
 Community engagement
 
 As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
-
+OK
 .
 
 Future Plans
 
 Please include the team's long-term plans and intentions.
-Additional Information
+
+	a force for the good
+
+	Many projects leverage blockchain to increase supply chain transparency and detect operational inefficiencies as well as new business opportunities. However, few of them are as impact driven as TraceChain. In addition to private corporations, Bluegate works with governmental organisations and NGOs to have a positive social impact and empower underserved producers.
+
+	At Bluegate, we believe VeChain has the potential to powerfully disrupt many aspects of how African Markets work, and provide trust, transparency, and security to the supply chain. This includes artisans and small-scale farmers being part of our inclusive value chain that underpin human health, wellbeing, livelihoods, jobs and sustainable growth.
+	
+	
+	fast and safe trade
+
+	As a pioneer in transparent trade value chains, Madini TraceChain aims to empower African producers by establishing a direct market linkage facilitation to incentivize regeneration, from soil to economy to society at large with a powerful transparency application.
+
+	Powered by Bluegate, the TraceChain application collects and uploads authentic product information onto the VeChainThor Blockchain, This enables a traceable, visible, and transparent digital marketplace for the African market, which allows for producers, processors, packers, distributors, brands and other added-value stakeholders to publicly list Organization and Product profiles to access global markets.
+
+	VeChain powered
+
+	At Madini, we believe VeChain Thor Blockchain has the potential to powerfully disrupt many aspects of how businesses and economies work, even how societies are organised. Blockchain goes to the core of the role of trust in African Products – an area that is central to Madini purpose. This shapes the way we think through the challenges Africa faces – bringing together business acumen, user experience design, and existing and emerging technology. 
+
+Additional Information 
+
+https://www.madinitracechain.com/
+https://bluegatebs.com
+https://www.madiniafricainvest.com/
 
 Any additional information that you think is relevant to this application that hasn't already been included.
 
 Possible additional information to include:
 
-    What work has been done so far?
-    Are there any teams who have already contributed (financially) to the project?
-    Have you applied for other grants so far?
+    What work has been done so far? Milestones 1&2 
+    Are there any teams who have already contributed (financially) to the project? Yes, stakeholders have completed Milestone 1 & 2 with personal investments and without external resources from banks, NGOs or institutions
+    Have you applied for other grants so far? No
