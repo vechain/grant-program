@@ -82,8 +82,8 @@ https://data.bnf.fr/fr/17146365/le_chat_de_melies___jeu_video/
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Milestone 3 | Total |
-| - | - |- | - |
+| Milestones | Milestone 1 | Milestone 2 | Milestone 3 | Total |
+|-|-|-|-|-|
 | Estimated Duration | 240 d | 120 d | 240 d | 600 d |
 | Full-time equivalent (FTE) | 0.5 | 0.5 | 0.5 | 1.5 |
 | Cost (up to $ 30,000) | $ 10,000 | $ 5,000 | $ 15,000 | $ 30,000 | 
