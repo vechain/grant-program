@@ -18,23 +18,73 @@ Vechain has been chosen for the ease of implementation and the test environment 
 
 ### Project Details
 
-Expected final state and technical informations :
+The project repository can be found here (private repo - ask me first for granting access) :
+
+https://github.com/intharah/consign
+
+#### Expected final state and technical informations :
 
 - Mockups/designs of any UI components
 
-Coming soon
+<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-1_home.jpg" />
 
-- API specifications of the core functionality
+<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-2_consumer.jpg" />
 
-Coming soon
+<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-3_seller.jpg" />
 
-- Documentation of core components, protocols, architecture, etc. to be deployed
+<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-4_recycling.jpg" /> 
 
-Coming soon
+#### API specifications of the core functionality
+
+Please see the document : <a href="https://github.com/intharah/grant-program/blob/master/assets/Consign%20API.pdf">API Specifications</a>
+
+#### Documentation of core components, protocols, architecture, etc. to be deployed
+
+- Environment :
+
+
+node v10.24.1
+
+vue v2.6.14
+
+
+- Front-end env :
+
+
+bootstrap v5.1.0
+
+bootstrap-vue v2.21.2
+
+qrcode-vue v1.7.0
+
+vue-router v3.5.2
+
+
+- Back-end env : 
+
+
+express v4.17.1
+
+cors v2.8.5
+
+mysql2 v2.3.0
+
+body-parser v1.19.0
+
+
+- Vechain environment :
+
+
+Vechain Sync2
+
+Connex 
+
+
+<img src="https://github.com/intharah/grant-program/blob/master/assets/Consign%20-%20Infrastructure%20Diagram.jpeg" />
 
 - PoC/MVP or other relevant prior work or research on the topic
 
-Consign v0.1.0 has been inspired by the folowing article 'Blockchain Technology for Sustainable Waste Management' from Phillip Taylor, Katrien Steenmans and Ine Steenmans.
+Consign v0.1.0 has been inspired by the following article 'Blockchain Technology for Sustainable Waste Management' from Phillip Taylor, Katrien Steenmans and Ine Steenmans.
 
 https://www.frontiersin.org/articles/10.3389/fpos.2020.590923/full
 
@@ -82,14 +132,10 @@ https://data.bnf.fr/fr/17146365/le_chat_de_melies___jeu_video/
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | | Milestone 3 | Total |
-
-| - | - |- | - |
-
-| Estimated Duration | 240 d | 120 d | 240 d | 600 d
-
-| Full-time equivalent (FTE) | 0.5 | 0.5 | 0.5 | 1.5
-
+| | Milestone 1 | Milestone 2 | Milestone 3 | Total |
+|-|-|-|-|-|
+| Estimated Duration | 240 d | 120 d | 240 d | 600 d |
+| Full-time equivalent (FTE) | 0.5 | 0.5 | 0.5 | 1.5 |
 | Cost (up to $ 30,000) | $ 10,000 | $ 5,000 | $ 15,000 | $ 30,000 | 
 
 #### Milestone 1 — Backend/Frontend developments x Smart contracts integration
@@ -134,13 +180,13 @@ As part of the Program, I will produce an article on Medium to explain and infor
 
 If mid-term objectives are successful, I would manage to either hire qualified IT developer to build custom modules for the platform or find out a partner-associate with complementary skills.
 
-Long-term plans intend on building a local ecosystem including industrial partners and governmental instutions for the promotion of waste reduction initiative. The Consign project will take part of the next step in the blockchain (r)evolution by including the technology in the real-life needs for the consumer and by innovating in sustainable solutions.
+Long-term plans intend on building a local ecosystem including industrial partners and governmental institutions for the promotion of waste reduction initiative. The Consign project will take part of the next step in the blockchain (r)evolution by including the technology in the real-life needs for the consumer and by innovating in sustainable solutions.
 
 ## Additional Information 
 
 - What work has been done so far?
 
-Vechain Sync 2 and Connex testing already done and Steps 0 and 1 are in the pipeline.
+Vechain Sync 2 and Connex testing already done and Steps 0 and 1 are in the pipeline. Milestone 1 is in progress and project repository is built with initial structure.
 
 - Are there any teams who have already contributed (financially) to the project?
 
