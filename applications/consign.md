@@ -21,12 +21,15 @@ Vechain has been chosen for the ease of implementation and the test environment 
 Expected final state and technical informations :
 
 - Mockups/designs of any UI components
+
 Coming soon
 
 - API specifications of the core functionality
+
 Coming soon
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
+
 Coming soon
 
 - PoC/MVP or other relevant prior work or research on the topic
@@ -37,7 +40,9 @@ https://www.frontiersin.org/articles/10.3389/fpos.2020.590923/full
 
 ### Ecosystem Fit
 Indeed, there are other competitors in this sector as 
+
     - Circulor : https://www.circulor.com/ , which makes a partnership with TotalEnergies Group (industrial-sized waste reduction)
+    
     - Recereum : https://recereum.com/ , a blockchain-based platform for turning waste and recyclables to real value (no update since 2017)
 
 But on contrary to them, I am focusing the waste reduction to the main target of the project, the final consumers by granting rewards if they bring their waste directly to the recycling company instead of throwing to the domestic trash bin.
