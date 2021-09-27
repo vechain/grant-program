@@ -30,7 +30,7 @@ Coming soon
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
 
-Coming soon
+<img src="https://github.com/intharah/grant-program/blob/master/applications/Consign%20-%20Infrastructure%20Diagram.jpeg" />
 
 - PoC/MVP or other relevant prior work or research on the topic
 
