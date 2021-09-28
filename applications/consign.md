@@ -134,7 +134,7 @@ As part of the Program, I will produce an article on Medium to explain and infor
 
 If mid-term objectives are successful, I would manage to either hire qualified IT developer to build custom modules for the platform or find out a partner-associate with complementary skills.
 
-Long-term plans intend on building a local ecosystem including industrial partners and governmental instutions for the promotion of waste reduction initiative. The Consign project will take part of the next step in the blockchain (r)evolution by including the technology in the real-life needs for the consumer and by innovating in sustainable solutions.
+Long-term plans intend on building a local ecosystem including industrial partners and governmental institutions for the promotion of waste reduction initiative. The Consign project will take part of the next step in the blockchain (r)evolution by including the technology in the real-life needs for the consumer and by innovating in sustainable solutions.
 
 ## Additional Information 
 
