@@ -26,7 +26,7 @@ Coming soon
 
 - API specifications of the core functionality
 
-Coming soon
+Please see the document : <a link="https://github.com/intharah/grant-program/blob/master/applications/Consign%20API.pdf">API Specifications</a>
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
 
