@@ -18,6 +18,10 @@ Vechain has been chosen for the ease of implementation and the test environment 
 
 ### Project Details
 
+The project repository can be found here (private repo - ask me first for granting access) :
+
+https://github.com/intharah/consign
+
 Expected final state and technical informations :
 
 - Mockups/designs of any UI components
