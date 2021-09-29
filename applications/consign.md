@@ -22,37 +22,37 @@ The project repository can be found here (private repo - ask me first for granti
 
 https://github.com/intharah/consign
 
-Expected final state and technical informations :
+#### Expected final state and technical informations :
 
 - Mockups/designs of any UI components
 
 Coming soon
 
-- API specifications of the core functionality
+#### API specifications of the core functionality
 
 Please see the document : <a href="https://github.com/intharah/grant-program/blob/master/applications/Consign%20API.pdf">API Specifications</a>
 
-- Documentation of core components, protocols, architecture, etc. to be deployed
+#### Documentation of core components, protocols, architecture, etc. to be deployed
 
-Environment :
-* node v10.24.1 || No upper version otherwise Vechain environment won't work
-- vue v2.6.14
+- Environment :
+node v10.24.1 || No upper version otherwise Vechain environment won't work
+vue v2.6.14
 
-Front-end env :
-- bootstrap v5.1.0
-- bootstrap-vue v2.21.2
-- qrcode-vue v1.7.0
-- vue-router v3.5.2
+- Front-end env :
+bootstrap v5.1.0
+bootstrap-vue v2.21.2
+qrcode-vue v1.7.0
+vue-router v3.5.2
 
-Back-end env : 
-- express v4.17.1
-- cors v2.8.5
-- mysql2 v2.3.0
-- body-parser v1.19.0
+- Back-end env : 
+express v4.17.1
+cors v2.8.5
+mysql2 v2.3.0
+body-parser v1.19.0
 
-Vechain environment :
-- Vechain Sync2
-- Connex 1 library
+- Vechain environment :
+Vechain Sync2
+Connex 
 
 <img src="https://github.com/intharah/grant-program/blob/master/applications/Consign%20-%20Infrastructure%20Diagram.jpeg" />
 
