@@ -26,7 +26,13 @@ https://github.com/intharah/consign
 
 - Mockups/designs of any UI components
 
-Coming soon
+<img src="https://github.com/intharah/grant-program/blob/master/applications/mockup-1_home.jpg" />
+
+<img src="https://github.com/intharah/grant-program/blob/master/applications/mockup-2_consumer.jpg" />
+
+<img src="https://github.com/intharah/grant-program/blob/master/applications/mockup-3_seller.jpg" />
+
+<img src="https://github.com/intharah/grant-program/blob/master/applications/mockup-4_recycling.jpg" />
 
 #### API specifications of the core functionality
 
