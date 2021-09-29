@@ -35,7 +35,7 @@ Please see the document : <a href="https://github.com/intharah/grant-program/blo
 - Documentation of core components, protocols, architecture, etc. to be deployed
 
 Environment :
--- node v10.24.1 || No upper version otherwise Vechain environment won't work
+* node v10.24.1 || No upper version otherwise Vechain environment won't work
 - vue v2.6.14
 
 Front-end env :
