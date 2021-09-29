@@ -32,7 +32,7 @@ https://github.com/intharah/consign
 
 <img src="https://github.com/intharah/grant-program/blob/master/applications/mockup-3_seller.jpg" />
 
-<img src="https://github.com/intharah/grant-program/blob/master/applications/mockup-4_recycling.jpg" />
+<img src="https://github.com/intharah/grant-program/blob/master/applications/mockup-4_recycling.jpg" /> 
 
 #### API specifications of the core functionality
 
