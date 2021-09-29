@@ -78,7 +78,7 @@ Connex
 
 - PoC/MVP or other relevant prior work or research on the topic
 
-Consign v0.1.0 has been inspired by the folowing article 'Blockchain Technology for Sustainable Waste Management' from Phillip Taylor, Katrien Steenmans and Ine Steenmans.
+Consign v0.1.0 has been inspired by the following article 'Blockchain Technology for Sustainable Waste Management' from Phillip Taylor, Katrien Steenmans and Ine Steenmans.
 
 https://www.frontiersin.org/articles/10.3389/fpos.2020.590923/full
 
