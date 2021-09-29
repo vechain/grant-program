@@ -37,8 +37,7 @@ Please see the document : <a href="https://github.com/intharah/grant-program/blo
 - Environment :
 
 
-node v10.24.1 || No upper version otherwise Vechain environment won't work
-
+node v10.24.1
 vue v2.6.14
 
 
@@ -46,11 +45,8 @@ vue v2.6.14
 
 
 bootstrap v5.1.0
-
 bootstrap-vue v2.21.2
-
 qrcode-vue v1.7.0
-
 vue-router v3.5.2
 
 
@@ -58,11 +54,8 @@ vue-router v3.5.2
 
 
 express v4.17.1
-
 cors v2.8.5
-
 mysql2 v2.3.0
-
 body-parser v1.19.0
 
 
@@ -70,7 +63,6 @@ body-parser v1.19.0
 
 
 Vechain Sync2
-
 Connex 
 
 
