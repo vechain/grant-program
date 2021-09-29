@@ -26,17 +26,17 @@ https://github.com/intharah/consign
 
 - Mockups/designs of any UI components
 
-<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-1_home.jpg" />
+<img src="https://github.com/intharah/cs-grant-program/blob/master/assets/mockup-1_home.jpg" />
 
-<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-2_consumer.jpg" />
+<img src="https://github.com/intharah/cs-grant-program/blob/master/assets/mockup-2_consumer.jpg" />
 
-<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-3_seller.jpg" />
+<img src="https://github.com/intharah/cs-grant-program/blob/master/assets/mockup-3_seller.jpg" />
 
-<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-4_recycling.jpg" /> 
+<img src="https://github.com/intharah/cs-grant-program/blob/master/assets/mockup-4_recycling.jpg" /> 
 
 #### API specifications of the core functionality
 
-Please see the document : <a href="https://github.com/intharah/grant-program/blob/master/assets/Consign%20API.pdf">API Specifications</a>
+Please see the document : <a href="https://github.com/intharah/cs-grant-program/blob/master/assets/Consign%20API.pdf">API Specifications</a>
 
 #### Documentation of core components, protocols, architecture, etc. to be deployed
 
@@ -80,7 +80,7 @@ Vechain Sync2
 Connex 
 
 
-<img src="https://github.com/intharah/grant-program/blob/master/assets/Consign%20-%20Infrastructure%20Diagram.jpeg" />
+<img src="https://github.com/intharah/cs-grant-program/blob/master/assets/Consign%20-%20Infrastructure%20Diagram.jpeg" />
 
 - PoC/MVP or other relevant prior work or research on the topic
 
