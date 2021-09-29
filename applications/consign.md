@@ -22,51 +22,6 @@ The project repository can be found here (private repo - ask me first for granti
 
 https://github.com/intharah/consign
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-#### Expected final state and technical informations :
-=======
-Expected final state and technical informations :
->>>>>>> 955257f (Add project repository link)
-=======
-#### Expected final state and technical informations :
->>>>>>> 7fa0c84 (Update consign.md)
-
-- Mockups/designs of any UI components
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-1_home.jpg" />
-=======
-<img src="https://github.com/intharah/grant-program/blob/master/applications/mockup-1_home.jpg" />
-=======
-<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-1_home.jpg" />
->>>>>>> 0bd4668 (Update images path)
-
-<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-2_consumer.jpg" />
-
-<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-3_seller.jpg" />
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="https://github.com/intharah/grant-program/blob/master/applications/mockup-4_recycling.jpg" />
->>>>>>> 52eb298 (Update consign.md)
-=======
-<img src="https://github.com/intharah/grant-program/blob/master/applications/mockup-4_recycling.jpg" /> 
->>>>>>> 4e0770a (Update consign.md)
-=======
-<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-4_recycling.jpg" /> 
->>>>>>> 0bd4668 (Update images path)
-
-<<<<<<< HEAD
-<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-2_consumer.jpg" />
-=======
-#### API specifications of the core functionality
->>>>>>> 7fa0c84 (Update consign.md)
-
-<<<<<<< HEAD
-=======
 #### Expected final state and technical informations :
 
 - Mockups/designs of any UI components
@@ -75,7 +30,6 @@ Expected final state and technical informations :
 
 <img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-2_consumer.jpg" />
 
->>>>>>> 6ace810c3ad511ab66171d2b8d75c538a1301cc4
 <img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-3_seller.jpg" />
 
 <img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-4_recycling.jpg" /> 
@@ -95,73 +49,6 @@ vue v2.6.14
 
 
 - Front-end env :
-<<<<<<< HEAD
-=======
-Please see the document : <a href="https://github.com/intharah/grant-program/blob/master/assets/Consign%20API.pdf">API Specifications</a>
->>>>>>> 0bd4668 (Update images path)
-
-
-bootstrap v5.1.0
-
-bootstrap-vue v2.21.2
-
-qrcode-vue v1.7.0
-
-vue-router v3.5.2
-
-
-- Back-end env : 
-
-
-express v4.17.1
-
-cors v2.8.5
-
-mysql2 v2.3.0
-
-body-parser v1.19.0
-
-
-- Vechain environment :
-
-
-Vechain Sync2
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-Connex 
-=======
-Please see the document : <a link="https://github.com/intharah/grant-program/blob/master/applications/Consign%20API.pdf">API Specifications</a>
->>>>>>> 5c65987 (update consign.md)
-=======
-Please see the document : <a href="https://github.com/intharah/grant-program/blob/master/applications/Consign%20API.pdf">API Specifications</a>
->>>>>>> f76de83 (Update consign.md)
-
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="https://github.com/intharah/grant-program/blob/master/assets/Consign%20-%20Infrastructure%20Diagram.jpeg" />
-=======
-=======
-Environment :
-* node v10.24.1 || No upper version otherwise Vechain environment won't work
-- vue v2.6.14
-=======
-#### Documentation of core components, protocols, architecture, etc. to be deployed
-
-- Environment :
-
-
-node v10.24.1
-
-vue v2.6.14
->>>>>>> 7fa0c84 (Update consign.md)
-
-
-- Front-end env :
-=======
->>>>>>> 6ace810c3ad511ab66171d2b8d75c538a1301cc4
 
 
 bootstrap v5.1.0
@@ -192,22 +79,8 @@ Vechain Sync2
 
 Connex 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 8ac9be2 (Update consign.md)
-=======
-
-<<<<<<< HEAD
->>>>>>> a3f50e7 (Update consign.md)
-<img src="https://github.com/intharah/grant-program/blob/master/applications/Consign%20-%20Infrastructure%20Diagram.jpeg" />
->>>>>>> 285ce42 (Update consign.md)
-=======
-<img src="https://github.com/intharah/grant-program/blob/master/assets/Consign%20-%20Infrastructure%20Diagram.jpeg" />
->>>>>>> 0bd4668 (Update images path)
-=======
 
 <img src="https://github.com/intharah/grant-program/blob/master/assets/Consign%20-%20Infrastructure%20Diagram.jpeg" />
->>>>>>> 6ace810c3ad511ab66171d2b8d75c538a1301cc4
 
 - PoC/MVP or other relevant prior work or research on the topic
 
