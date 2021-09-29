@@ -24,6 +24,7 @@ https://github.com/intharah/consign
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### Expected final state and technical informations :
 =======
 Expected final state and technical informations :
@@ -65,6 +66,16 @@ Expected final state and technical informations :
 >>>>>>> 7fa0c84 (Update consign.md)
 
 <<<<<<< HEAD
+=======
+#### Expected final state and technical informations :
+
+- Mockups/designs of any UI components
+
+<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-1_home.jpg" />
+
+<img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-2_consumer.jpg" />
+
+>>>>>>> 6ace810c3ad511ab66171d2b8d75c538a1301cc4
 <img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-3_seller.jpg" />
 
 <img src="https://github.com/intharah/grant-program/blob/master/assets/mockup-4_recycling.jpg" /> 
@@ -84,6 +95,7 @@ vue v2.6.14
 
 
 - Front-end env :
+<<<<<<< HEAD
 =======
 Please see the document : <a href="https://github.com/intharah/grant-program/blob/master/assets/Consign%20API.pdf">API Specifications</a>
 >>>>>>> 0bd4668 (Update images path)
@@ -148,6 +160,8 @@ vue v2.6.14
 
 
 - Front-end env :
+=======
+>>>>>>> 6ace810c3ad511ab66171d2b8d75c538a1301cc4
 
 
 bootstrap v5.1.0
@@ -179,6 +193,7 @@ Vechain Sync2
 Connex 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8ac9be2 (Update consign.md)
 =======
 
@@ -189,6 +204,10 @@ Connex
 =======
 <img src="https://github.com/intharah/grant-program/blob/master/assets/Consign%20-%20Infrastructure%20Diagram.jpeg" />
 >>>>>>> 0bd4668 (Update images path)
+=======
+
+<img src="https://github.com/intharah/grant-program/blob/master/assets/Consign%20-%20Infrastructure%20Diagram.jpeg" />
+>>>>>>> 6ace810c3ad511ab66171d2b8d75c538a1301cc4
 
 - PoC/MVP or other relevant prior work or research on the topic
 
