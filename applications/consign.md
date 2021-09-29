@@ -34,6 +34,26 @@ Please see the document : <a href="https://github.com/intharah/grant-program/blo
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
 
+Environment :
+- node v10.24.1 || No upper version otherwise Vechain environment won't work
+- vue v2.6.14
+
+Front-end env :
+- bootstrap v5.1.0
+- bootstrap-vue v2.21.2
+- qrcode-vue v1.7.0
+- vue-router v3.5.2
+
+Back-end env : 
+- express v4.17.1
+- cors v2.8.5
+- mysql2 v2.3.0
+- body-parser v1.19.0
+
+Vechain environment :
+- Vechain Sync2
+- Connex 1 library
+
 <img src="https://github.com/intharah/grant-program/blob/master/applications/Consign%20-%20Infrastructure%20Diagram.jpeg" />
 
 - PoC/MVP or other relevant prior work or research on the topic
@@ -140,7 +160,7 @@ Long-term plans intend on building a local ecosystem including industrial partne
 
 - What work has been done so far?
 
-Vechain Sync 2 and Connex testing already done and Steps 0 and 1 are in the pipeline.
+Vechain Sync 2 and Connex testing already done and Steps 0 and 1 are in the pipeline. Milestone 1 is in progress and project repository is built with initial structure.
 
 - Are there any teams who have already contributed (financially) to the project?
 
