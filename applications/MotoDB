@@ -1,0 +1,70 @@
+## Project Overview 
+
+- Project: MotoDB protocol
+- Team Name: MOTODB Private Limited (UEN: 202142118M)
+- Registered office at 3 Fraser Street #05-24 Duo Tower Singapore (189352)
+- Payment Address: 0xbE08aD02642B4eFCdcBa32BF3417CB71C0B78936
+
+### Overview
+
+The MOTODB Protocol is a Global, Decentralized Car Industry Blockchain that will enable the Connected Cars Paradigm by putting the Driver at the Centre and Empower them to share their user-generated Data in return for real rewards. 
+We are passionate and strong advocates of Car Data Privacy and also believe that the Driver should benefit from the data they generate. 
+We are working with a wide variety of Car Ecosystem Partners to enable this Vision. 
+The MOTODB Protocol is a Driver-powered Network that aims to decentralize Car Data and deliver benefits to Car Drivers both from a data privacy perspective and monetization benefits. 
+Car data that is accessible on a Public blockchain enables to building of various distributed applications and crypto protocols on top of of this data e.g. decentralized insurance, car finance, prescriptive/ predictive maintenance ML models, decentralized car pooling/ ride sharing and car resale. 
+The MOTODB Protocol consists of Hardware/ Devices called CarMiners, a Driver App and a Decentralized Data marketplace for Cars and vehicles. 
+Our user go-to-market strategy and user-acquisition strategies are based on partnerships with 2 of the top, global companies in the mobility space that are also community-driven. 
+We aim to enable 10 million Cars in the first 2 years with the MOTODB Protocol and enable the collection of Car data in a decentralized, distributed and trustless manner.
+
+We are a team of 2 Masters in Tech. (M.Tech.) Engineers from the Indian Institute of Technology Madras and 1 MBA from INSEAD, France. 
+Our backgrounds are in IoT, Mechanical Engineering, Data Science, Chemical Engineering, Systems Control, sensor integration and software development, GSM-based Communications systems development and Business and Finance.
+
+MOTODB is both a Hardware based Data aggregator protocol, and also has a Mobile Application to access Telematics data (similar to ZenDrive, but with crypto-economic incentives) from Cars and Drivers. 
+The current working prototype has a Basic MOTODB CarMiner device, Data storage on Decentralized cloud and Data summary (trip wise metrics like average & top speed, engine health summary) stored on the Ethereum blockchain.
+
+We are also building more decentralized protocols leveraging Tokenized cars (NFTs) and use of Car Data to reimagine the entire vehicle data ecosystem. 
+Some major Dapps we are working on include Decentralized Car Insurance Protocol and a Used Car Financing Protocol and also building Car/ Vehicle DeFi Derivatives Protocol based on pools of Insurance bonds, etc.
+
+We see huge potential to leverage Car data to build Decentralized Car Pooling Apps, Car DeFi; which is universal and beneficial to anyone across the globe. 
+It is our intent to make Car NFTs open to any blockchain and enable anyone from any ecosystem to use this data for building their own protocols.
+
+The Vechain Protocol is the starting point for us as it allows us to bridge NFTs, Car Data and Car DeFi Securities across multiple chains. 
+We plan to port our MOTODB tokens to Vechain and also store telemetry data on the Vechain blockchain. 
+We have a dual token system and anyone who wants to access this data would have to burn MOTODB tokens and access Car data through a Data Credits mechanism. 
+We are also leveraging a burn-and-mint mechanism in our tokenomics design.
+
+Our Basic MOTODB CarMiner is ready and we are currently in testing phase with this device. 
+We have a working prototype installed in several Cars in India and the USA and their data including individual trips can be viewed on our Data Explorer. 
+Our first lot of 10,000 MOTODB CarMiner Devices is already in manufacturing phase and we will be testing these devices over the next 2 months. 
+Our pre-orders for the Basic MOTODB CarMiner will start on 15th Jan with a shipping date of 26 Feb 2022. 
+We are also working on the design of an Advanced MOTODB CarMiner which will have advanced Computing capabilities along with Artificial Intelligence capabilities built in. 
+The Advanced MOTODB CarMiner will be ready for shipping by May-2022 and will have the ability to integrate Cameras (Dash Cams, inward and outward facing) and LIDAR/ RADAR sensors, in addition to the OBD device, into the CarMiner.
+
+Our Customer Acquisition process for MOTODB CarMiner is currently through a Partnership agreement that we are in the process of finalizing with the World’s largest Community Driven Car Pooling App, BlaBlaCar. 
+They have 100 million Cars on the road and we are aiming to partner with them to reach their Customer base with our CarMiners. 
+The resultant combination would be the owners of the World’s largest pool of Car Data, along with incentivizing and rewarding Car Drivers and Passengers. 
+We are also focused on organic adoption of our CarMiners through various channels including Direct-to-Consumer and other B2B channels like global Car Dealerships.
+
+Allocation of funds
+Development and Coding of MOTODB Protocol on Vechain Mainnet: US$50k
+50% of funds to be distributed immediately.
+50% of funds to be distributed on confirmation of launching the app and HRC20 MotoDB token on Vechain mainnet.
+
+Team details:
+Atul Chatur
+INSEAD MBA, VJTI (Mumbai) B.E., JBIMS MMS
+Linkedin: 
+Atul is an Alternative Investment specialist and has been actively investing in Cryptocurrencies for the past 4+ years. 
+He has set up a Blockchain and Cryptocurrency Investment advisory platform and is actively involved in investing, researching and developing various Blockchain business ideas. 
+He was an early investor in the Matic Network (Polygon).
+
+Vedant Kadam
+IIT Madras B.Tech and Mtech (Data Science)
+Linkedin: 
+Vedant is a blockchain researcher and developer for the past 3+ years and has worked with Atul since 2017 for providing fundamental analysis of new IEOs and exploring new investment avenues.
+Previously Built UAV research facility for home security applications like convoy cover, Autonomous Border Patrolling, Automated mission execution.
+
+IIT Madras B.Tech and Mtech (System engineering)
+Linkedin: 
+Aashay has expertise in sensor integration and software development. He worked with Vedant on UAV research facility. 
+He has designed and implemented a GSM-based communication systems to operate drones beyond visual line of site (BVR).
