@@ -1,112 +1,292 @@
-# VeChain General Grant Application Template
+# **Index**
 
-## Project Overview 
+**[Index](#index)** **1**
 
-- Project: World Of V
-- Team Name: TheCollectors
-- Payment Address: USDT (ERC 20) payment address : TBD .
+**[Project Overview](#project-overview)** **2**
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+> [Overview](#overview) 2
+>
+> [Project Description](#project-description) 2
+>
+> [Why our team is interested in working with the VeChain
+> Ecosystem](#_i5koi98iiyqs) 2
+>
+> [How we will integrate tools and
+> features](#how-we-will-integrate-tools-and-features) 2
 
-### Overview
+**[Project Details](#project-details)** **3**
 
-World Of V Is a digital art collection featuring Vechain journey around the world seen by the eyes of different artists.
+> [Mockup/designs of any UI
+> components](#mockupdesigns-of-any-ui-components) 3
+>
+> [API specifications of the core
+> functionality](#api-specifications-of-the-core-functionality) 3
+>
+> [Technology stack](#technology-stack) 3
+>
+> [Documentation of core components](#documentation-of-core-components)
+> 3
+>
+> [PoC/MVP or other relevant prior work or research on the
+> topic](#_2rrcn17ak8dp) 3
 
-The Genesis collection is a set of 200 uniques NFTs introducing a combination of digital art and collectibles with a value hierarchy determined by both the creator and the consumer of the artwork.
+**[Ecosystem Fit](#_xdvhynmup8il)** **4**
 
-Additionally the control over what could be the rarest of all traits – **the name** – is given to the full extent to the consumer.
+**[Team](#team)** **5**
 
--  Created by over 50 artists globally.
--  Random distribution for full fairness.
--  Naming becomes a scarce commodity via the WoV token mechanism.
+> [Team members](#team-members-project-organization-chart) 5
+>
+> [Advisory
+> Team](#advisory-team-americo---carmelo-insert-past-experiences) 5
+>
+> [Leadership
+> Team](#leadership-team-current-team-for-example-bruti-daniele-etc) 5
+>
+> [Team Website](#team-website-httpsherakel.com) 5
+>
+> [Team's experience](#_j074e0d3bvig) 5
+>
+> [Team Code Repos](#team-code-repos) 5
+>
+> [Team LinkedIn Profiles](#team-linkedin-profiles) 5
 
-Use Multi-clauses & Fee delegation to Pay for the creator using the platform when minting the NFTs, that’s the coolest feature we are excited about using VeChain.
+**[Development
+Roadmap](#development-roadmap-americo---carmelo---pierpaolo)** **6**
 
-We hope to ease the steps of purchasing and selling by using the MTT feature (approve, transfer in one transaction using multi-clauses).
+> [Milestone 1 - Smart Contract &
+> Backend](#milestone-1---smart-contract-backend) 6
+>
+> [Milestone 2 - Frontend](#milestone-2---frontend) 6
+>
+> [Community engagement](#_n67ei9xbyipr) 6
 
+**[Future Plans](#_3sedrh5lyym8)** **7**
 
-### Project Details
+**[Additional Information](#_pbb07us5gyg5)** **8**
 
-- Website will be provided privately via PM;
-- Technology stack to be used:
-    - Connex
-    - Sync2
-    - IPFS for provenance;
-    - VIP180 & VIP181
-- Documentation: Can be provided privately via PM;
+# **Project Overview**
 
+**Project:** World Of V
 
-## Team 
+**Team Name:** WoV Team
 
-### Team members
+**Payment Address:** //(Owner Americo)
 
-- Name of team leader: Vetliever
-- Names of team members: WIP
+## **Overview**
 
-### Team Website
+### **Project Description**
 
-- https://worldofv.art/
+World of V is a NFT Marketplace which aims to top artists, new artists
+and moreover to be the first NFT platform to adopt Phygital (NFT +
+Physical)\
+\
+**Why our team is interested in working with the VeChain Ecosystem**
 
-### Team's experience
+-   Early investors and supporters of Vechain
 
-Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
+-   Low Gas fee
 
-### Team Code Repos
+-   Fee Delegation technology
 
-- NA
+-   Faster transaction confirmation times
 
-### Team LinkedIn Profiles
+-   One of the greenest blockchains
 
-- will be provided privately via PM;
+-   VeChain's vision to build an ecosystem for eNFTs
 
-## Development Roadmap 
+-   Vechain community
 
-### Expected  Roadmap for World Of V
+### **How we will integrate tools and features**
 
-#### Overview
+WorldOfV will integrate VeChain Thor Public tools such as Thorify, Sync2
+and will leverage VeChain VIP library;
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
-| Estimated Duration | 60 d | 180 d | 180 d |
-| Full-time equivalent (FTE) | 20 | 60 | 60 |
-| Cost (up to $ 45,000) | $ 5,000 | $ 15,000 | $ 25,000|
+# **Project Details**
 
-#### Milestone — Website and Initial Smart-Contract
+## **Mockup/designs of any UI components**
 
-| Number | Deliverable | Specification |
-|-|-|-|
-| 1.a | Project Website | Website to present and explain the project |
-| 1.b | Smart-Contract | VIP181 Smart-Contract containing the NFT ownership |
-| 1.c | Sales Dapp | sales dapp used to acquire one or multiple NFT |
-| 1.d | Smart-Contract | Auction Smart-Contract
-| 1.e | WoV Marketplace | We will develop a marketplace that will enable the NFT owner to put there token in auction |
+## **Homepage**
 
-#### Milestone 2  —  New MartketPlace Front-end & Introduction to WoV Token Economy
+![](.//media/image15.png){width="5.859375546806649in"
+height="4.126868985126859in"}![](.//media/image18.png){width="6.267716535433071in"
+height="4.291666666666667in"}
 
-| Number | Deliverable | Specification |
-|-|-|-|
-| 2.a | WoV Token Economy | We will publish the whitepaper describing the token economy linked to WoV Token, describing the farming rule based on the NFT  |
-| 2.b | WoV Token Smart-Contract | Deployment of WoV Token Smart-Contract|
-| 2.c | Market-Place | enabling additional Market-Place features
+![](.//media/image6.png){width="6.267716535433071in" height="4.625in"}
 
-#### Community engagement
+### **Marketplace**
 
-As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.""
+![](.//media/image21.png){width="6.267716535433071in" height="3.375in"}
 
-- Twitter: https://twitter.com/WorldOfV2
-- Medium: 
+### **NFT**
 
-## Future Plans
+#### **Cancel**
 
-Please include the team's long-term plans and intentions.
+![](.//media/image19.jpg){width="6.267716535433071in"
+height="3.9166666666666665in"}
 
-## Additional Information 
+#### **Sell Now, Transfer, and Burn Token**
 
-- What work has been done so far?
-    - Initial Website
-    - VIP181 Smart-Contract
-    - Pre-sales Dapp (70%)
-- Are there any teams who have already contributed (financially) to the project?
-    - Yes, please contact in private for further informations
-- Have you applied for other grants so far?
-    - no
+![](.//media/image3.jpg){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+![](.//media/image13.png){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+![](.//media/image14.png){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+![](.//media/image23.png){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+![](.//media/image17.png){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+#### **Buy Now**
+
+![](.//media/image4.jpg){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+![](.//media/image10.png){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+#### **Select edition**
+
+![](.//media/image8.png){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+#### **Create**
+
+![](.//media/image16.png){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+#### **Create Item**
+
+![](.//media/image5.jpg){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+![](.//media/image5.jpg){width="6.270833333333333in"
+height="2.120997375328084in"}
+
+![](.//media/image7.jpg){width="6.267716535433071in"
+height="3.9166666666666665in"}
+
+![](.//media/image7.jpg){width="6.270833333333333in"
+height="2.5363899825021874in"}
+
+#### **Create Collection**
+
+![](.//media/image20.jpg){width="6.270833333333333in"
+height="4.400459317585302in"}
+
+![](.//media/image22.jpg){width="6.270833333333333in"
+height="4.652222222222222in"}
+
+#### **Collection**
+
+![](.//media/image1.jpg){width="6.267716535433071in"
+height="4.402777777777778in"}![](.//media/image1.jpg){width="6.270833333333333in"
+height="3.6190419947506562in"}
+
+![](.//media/image2.png){width="6.267716535433071in"
+height="4.402777777777778in"}
+
+### **My Profile**
+
+![](.//media/image12.jpg){width="6.267716535433071in"
+height="4.402777777777778in"}
+
+![](.//media/image12.jpg){width="6.270833333333333in"
+height="1.8395833333333333in"}
+
+![](.//media/image11.png){width="6.267716535433071in"
+height="4.402777777777778in"}
+
+![](.//media/image9.jpg){width="6.267716535433071in"
+height="4.402777777777778in"}
+
+![](.//media/image9.jpg){width="6.270833333333333in"
+height="2.8993536745406825in"}
+
+## **API specifications of the core functionality** 
+
+## **Technology stack**
+
+**Front End:**
+
+-   NextJS (React + Styled Components)
+
+**Back End:**
+
+-   NestJS (NodeJS + Express)
+
+-   Redis for queue management with Bull Queue
+
+-   PostgreSQL as DBMS
+
+-   Architecture managed with AWS with EC2, RDS, ElasticCache and Load
+    > Balancers
+
+-   IPFS File Storage
+
+## **Documentation of core components**
+
+For Backend API, the team can send the swagger via PM.
+
+# **Team**
+
+## **Team members** (Project organization chart)
+
+### **Advisory Team** (Americo - Carmelo, insert past experiences)
+
+### **Leadership Team** (Current team for example, Bruti, Daniele etc )
+
+## **Team Website** [[https://herakel.com]{.underline}](https://herakel.com)
+
+## **Team Code Repos**
+
+Can be send via PM if needed;
+
+## **Team LinkedIn Profiles**
+
+[[https://www.linkedin.com/in/pierpaologuzzardi/]{.underline}](https://www.linkedin.com/in/pierpaologuzzardi/)
+
+[[https://www.linkedin.com/in/salvatore-distefano/]{.underline}](https://www.linkedin.com/in/salvatore-distefano/)
+
+[[https://www.linkedin.com/in/gianluigitozzolino/]{.underline}](https://www.linkedin.com/in/gianluigitozzolino/)
+
+#  
+
+# **Development Roadmap** (Americo - Carmelo - Pierpaolo)
+
+**THIS IS AN EXAMPLE**
+
+  -----------------------------------------------------------------------
+                    **Milestone 1**   **Milestone 2**   **Total**
+  ----------------- ----------------- ----------------- -----------------
+  Estimated         30 d              30 d              60 d
+  Duration                                              
+
+  Full-time         2                 1                 3
+  equivalent (FTE)                                      
+
+  Cost (up to \$    \$ 15,000         \$ 15,000         \$ 30,000
+  30,000)                                               
+  -----------------------------------------------------------------------
+
+## **Milestone 1 - Smart Contract & Backend**
+
+  ------------------------------------------------------------------------
+  **Number**   **Deliverable**          **Specification**
+  ------------ ------------------------ ----------------------------------
+  0a.          License                  Apache 2.0 / MIT / Unlicense
+
+  ------------------------------------------------------------------------
+
+## **Milestone 2 - Frontend**
+
+  ------------------------------------------------------------------------
+  **Number**   **Deliverable**          **Specification**
+  ------------ ------------------------ ----------------------------------
+  0a.          License                  Apache 2.0 / MIT / Unlicense
+
+  ------------------------------------------------------------------------
