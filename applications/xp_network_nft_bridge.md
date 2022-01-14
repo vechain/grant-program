@@ -57,17 +57,17 @@ The UI of the bridge is intuitive and does not require additional training. But 
 ## `MOCKUPS:`
 
 1. Initial view of the [bridge](https://bridge.xp.network/#) allows to choose the chains of departure & destination.
-![View-1](assets/1.png)
+![View-1](https://github.com/XP-NETWORK/vechain-grant-application/blob/main/VeChainApplication//1.png)
 
 2. A useer can choose from a range of EVM and Non-Evm chains by clicking an element of the list or type the name of the chain of interest in the search bar.
    
-![View-2](assets/2.png)
+![View-2](https://github.com/XP-NETWORK/vechain-grant-application/blob/main/VeChainApplication//2.png)
 
 3. The wallet selection pop-up window suggests a range of wallets supported by the bridge. The wallets relevant to the departure chain are active and displayed with bright colors. The wallets relevant for other chains are inactive and therefore greyed out.
-![View-3](assets/3.png)
+![View-3](https://github.com/XP-NETWORK/vechain-grant-application/blob/main/VeChainApplication//3.png)
 
 4. Our NFT-Indexer lists the NFTs a user Owns on the chain of departure
-![View-4](assets/4.png)
+![View-4](https://github.com/XP-NETWORK/vechain-grant-application/blob/main/VeChainApplication//4.png)
 
 
 ## `API specifications of the core functionality`
