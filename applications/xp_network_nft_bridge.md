@@ -357,5 +357,5 @@ Any additional information that you think is relevant to this application that h
 
 Possible additional information to include:
 - By the time of writing 10+ blockchains have been successfully bridged.
-- We already received grants for integrating [Velas](https://twitter.com/xpnetwork_/status/1481294575746572289?s=21) & [IoTeX](https://community.iotex.io/t/quigon-multi-chain-nft-bridge/5988). Tezos has funded our integration and partially covered the smart contract auditing costs.
+- We already received grants for integrating [Velas](https://velasblockchain.medium.com/velas-and-xp-network-partner-up-to-make-the-nft-world-more-accessible-than-ever-before-b39dc1eeb165) & [IoTeX](https://community.iotex.io/t/quigon-multi-chain-nft-bridge/5988). Tezos has funded our integration and partially covered the smart contract auditing costs.
 - We applied for grants on Velas & [IoTeX](https://community.iotex.io/t/quigon-multi-chain-nft-bridge/5988).
