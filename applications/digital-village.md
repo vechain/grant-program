@@ -4,7 +4,7 @@
 
 - Project: Digital Village - A Digital Fashion NFT Marketplace
 - Team Name: Digital Village 
-- Payment Address: 0x919C763d692DB41833b4CE0879DF980Ce50D9C1C
+- Payment Address: 0x1daccdfd2b9db79f59f58ee9217c204a85d8fc5d
 
 ### Overview
 
