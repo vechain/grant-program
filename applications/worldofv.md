@@ -12,6 +12,11 @@
 ### Project Description
 World of V is a NFT Marketplace which aims to top artists, new artists and moreover to be the first NFT platform to adopt Phygital (NFT + Physical). WorldOfV is the first green, zero-cost NFT platform focusing on Art built on the VeChain blockchain.
 
+Whether you’re an established NFT artist or an aspiring creator, the World of V platform offers everyone the opportunity to buy and sell digital art on one of the most environment-friendly NFT platforms on the market.
+
+#### What makes WoV special?
+On World of V all transaction fees are sponsored by World of V. World Of V is using VIP191 fee delegation to sponsored the transaction.
+
 #### Why our team is interested in working with the VeChain Ecosystem
     - Early investors and supporters of Vechain
     - Low Gas fee
@@ -93,8 +98,8 @@ For Backend API, the team can send the swagger via PM.
 
 |  Name   |    M1     |   M2      |    M3      |
 | ------- | --------- | --------- | ---------- |
-| Cost    | 10000 USD | 15000 USD | 20000 USD  |
-| Status  | Done      | Done      | Done       |
+| Cost    | 10000 USD | 10000 USD | 10000 USD  |
+| Status  | Done      | Progress  | Progress   |
 | Man-Day | 30        | 40        | 60         |
 
 ### Milestone Details
