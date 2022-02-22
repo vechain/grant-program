@@ -94,7 +94,7 @@ For Backend API, the team can send the swagger via PM.
 #### Overview
 
 
-**Total Funds: 45,000 USD**
+**Total Funds: 30,000 USD**
 
 |  Name   |    M1     |   M2      |    M3      |
 | ------- | --------- | --------- | ---------- |
