@@ -79,7 +79,8 @@ The community project leader and collective community member will be chosen by o
 The current committee members are:
  - **Committee Co-Chairs:**<br/>
 [Peter Zhou](https://twitter.com/PeterZh47977516) - Chief Scientist of VeChain <br/>
-[Lila Xu](https://www.linkedin.com/in/lila-x-93715215/) - CEO of VIMworld
+[Lila Xu](https://www.linkedin.com/in/lila-x-93715215/) - CEO of VIMworld <br>
+[Dimitris Neocleous](https://twitter.com/im_dimneo/) - UK and EU Ecosystem Manager of VeChain 
    
  - **Member of VeChain Core Dev team:**<br/>
 [Bin Qian](https://twitter.com/cola_tin) - Lead Dev of Core Dev team
