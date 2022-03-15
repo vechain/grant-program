@@ -10,7 +10,7 @@
 The milestone delivery process is part of the [General Grant Program](https://github.com/vechain/grant-program/). You can find the application process [here](https://github.com/vechain/grant-program#application-process).  
 
 1. **Milestone Delivery:**
-   1. In the fork that you used to submit the applicaiton, create a copy of the milestone delivery template ([`deliveries/milestone-delivery-template.md`](deliveries/milestone-delivery-template.md)). Make sure you **do not modify the template file directly**.
+   1. In the fork that you used to submit the application, create a copy of the milestone delivery template ([`deliveries/milestone-delivery-template.md`](deliveries/milestone-delivery-template.md)). Make sure you **do not modify the template file directly**.
    2. Name the file `project_name-milestone_number.md`.
    3. Fill out the template with the details of your milestone including a **link to the pull request** of your application.
    4. Once you're done, create a pull request.
