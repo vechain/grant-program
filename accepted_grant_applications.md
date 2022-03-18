@@ -10,7 +10,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 
 | Project | Category | Link | Funds |
 | --- | --- | --- | --- | 
-| [VeBlocks infrastructure upgrade](https://github.com/vechain/grant-program/blob/master/applications/VeBlocks_upgrade.md) | Infrustructure | [Website](https://visuals.veblocks.net/)  [GitHub](https://github.com/mirei83/VeChain-PublicNodes#public-vechain-thor-nodes)| $13,800 |
+| [VeBlocks infrastructure upgrade](https://github.com/vechain/grant-program/blob/master/applications/VeBlocks_upgrade.md) | Infrustructure | [Website](https://visuals.veblocks.net/), [GitHub](https://github.com/mirei83/VeChain-PublicNodes#public-vechain-thor-nodes)| $13,800 |
 | [An institutional map of VeChain governance](https://github.com/vechain/grant-program/blob/master/applications/map-of-vechain-governance.md) | Research  | [Applicantion](https://github.com/vechain/grant-program/blob/master/applications/map-of-vechain-governance.md)  | $29,646 |
 | [Leaderless Byzantine Fault Tolerant Consensus](https://github.com/vechain/grant-program/blob/master/applications/leaderless_bft_consensus.md) | Research |  [Applicantion](https://github.com/vechain/grant-program/blob/master/applications/leaderless_bft_consensus.md) | $15,200 |
 | [Digital Village](https://github.com/vechain/grant-program/blob/master/applications/digital-village.md) | NFT Marketplace |  [Website](https://digitalvillage.io/) | $30,000 |
@@ -22,4 +22,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | --- | --- | --- | --- | 
 | [XP Network](https://github.com/vechain/grant-program/blob/master/applications/xp_network_nft_bridge.md) | NFT Bridge |  [Website](https://bridge.xp.network/) | $30,000 |
 | [Documentation Internationalization and Translation to Portuguese](https://github.com/vechain/grant-program/blob/master/applications/docs-internationalization.md) | Docs |  [Website](https://docs.vechain.org/pt/) | $1,800 |
-| [VeRocket (formerly ZumoSwap)](https://github.com/vechain/grant-program/blob/master/applications/veRocket.md) | DEX |  [Website](https://verocket.com/) [GitHub](https://github.com/verocket/) | $22,000 |
+| [VeRocket (formerly ZumoSwap)](https://github.com/vechain/grant-program/blob/master/applications/veRocket.md) | DEX |  [Website](https://verocket.com/), [GitHub](https://github.com/verocket/) | $22,000 |
+| [The Economics of VeChain](https://github.com/vechain/grant-program/blob/master/applications/the_economics_of_vechain.md) | Research | [Application](https://github.com/vechain/grant-program/blob/master/applications/the_economics_of_vechain.md) | $30,000 |
+|  [WorldOfV](https://github.com/vechain/grant-program/blob/master/applications/worldofv.md) | NFT Marketplace | [Website](https://worldofv.art) | $30,000 |
+| [vechain.energy](https://github.com/vechain/grant-program/blob/master/applications/vechain.energy.md) | Service | [Website in Testnet](https://testnet.vechain.energy/)  | $29,850 |
