@@ -4,7 +4,7 @@
 
 - Project: World Of V
 - Team Name: WorldOfV
-- Payment Address: USDT (ERC 20) payment address : tbd
+- Payment Address: USDT (ERC 20) payment address : 0x663F7C8d9E4A2861922c0EC211a074A5AF528450
 
 
 ## Overview
