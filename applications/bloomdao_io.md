@@ -124,11 +124,25 @@ Please see budget plan https://s3.eu-west-1.amazonaws.com/bloomdao.io/Budgetplan
 
 #### Milestone 1 — Smart Contract & Backend
 
-Milestone October 2022: fullBloom launch
+0-a: License: GNU Lesser General Public License v3.0 
+0-b: Documentation: We will provide documentation of the code (open-source GitHub repository), create a blog with a tutorial on a platform such as medium. We will also prepare a tutorial on the code, separate from the blog/article.  
+0-c: Testing: We will employ best software engineering practices and implement test-driven code development with a testing coverage of 90%. The documentation will also provide clear instructions on how to run the tests. 
+0-d: Continuous research on assets: We will continuously research, assess and re-evaluate the assets that are to be included in the DAO, according to multiple criteria. 
+
+1- inBloom Dapp launch: Development and connection to vetted blockchains (that fulfill a set of sustainability criteria): 
+2. Personal dashboard: Develop the frontend of the personal dashboard and all functionalities it will support
+3. Integrate different crypto exchanges: make sure the Dapp supports various (at first only crypto) exchanges
+4. Implement zero slippage: ensure the Dapp can execute limit orders, not only market orders to prevent slippage
 
 #### Milestone 2  —  Frontend
 
-Milestone June 2022: Portal development
+1. fullBloom Dapp launch
+2. Automated rebalancing strategies: implement automated rebalancing strategies (baseline and others, in accordance to research)
+3. NFT integration and fiat gateway integration
+4. Multiple wallets integration: allow for multiple wallets that a user may hold
+5. Data lake construction: to enable analysis and open door to data science and AI solutions (especially in the evaluation of the assets)
+6. Aragon DAO integration and smart contract dev
+7. Cross- and side blockchain development: tbd which blockchains precisely 
 
 #### Community engagement
 
