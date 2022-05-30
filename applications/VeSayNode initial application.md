@@ -93,7 +93,7 @@ Simon Heer has worked several years in B2B Sales for RedHat and VmWare as well a
 #### Overview
 
 |  | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 | Total |
-| - | - | - | - | - |
+| - | - | - | - | - | - |
 | Estimated Duration | 15 d | 40 d | 40 d | 10 d | 105 d |
 | Full-time equivalent (FTE) | 0.5 | 2 | 2 | 0.5 | 5 |
 | Cost (up to $ 30,000) | $ 4,000 | $ 11,500 | $ 11,500 | $ 3,000 | $ 30,000 |
