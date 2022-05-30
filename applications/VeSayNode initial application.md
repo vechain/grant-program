@@ -13,24 +13,25 @@
 We would like to provide a solution for VeChain similar to what Infura has already developed for Ethereum. SayNode Operations has already launched several projects on VeChain and has used Truffle for deployment. Currently, Truffle is still the most widely used suite and provides a world-class development environment, alongside a testing framework and an asset pipeline for projects using the Ethereum Virtual Machine (EVM).
 Paired with Ganache, a personal blockchain, and Drizzle, a front-end dApp development kit, the full Truffle suite of tools promises to be an end-to-end dApp development platform.
 
-The SayNode Operations team has also used Truffle for their already implemented projects on VeChain. Unfortunately, the integration of VeChain is sometimes cumbersome with Web3-gear and a hurdle for developers to overcome. With this project we want to remove this obstacle by providing a similar solution as Infura for VeChain. For this we will host our own node and web3-gear will be managed by our system. We will create a website with dashboards and all the necessary tools (similar to infura) where developers can sign up and we will generate a link for them. With this link the users will be able to seamlessly integrate VeChain and directly use Truffle. We will then take care of the request and response. That way we provide a smooth and easy solution for developers to combine Truffle and VeChain.  
+The SayNode Operations team has also used Truffle for their already implemented projects on VeChain. Unfortunately, the integration of VeChain is sometimes cumbersome with Web3-gear and a hurdle for developers to overcome. With this project we want to remove this obstacle by providing a similar solution as Infura for VeChain. For this we will host our own node and web3-gear will be managed by our system. We will create a website with dashboards and all the necessary tools (similar to Infura) where developers can sign and generate a link to use VeChain the same way they would use Ethereum. With this link the users will be able to seamlessly integrate VeChain and directly use Truffle. We will then take care of the request and response without the need for the user to install web3-gear or configure his setup any further. That way we provide a smooth and easy solution for developers to combine Truffle and VeChain.  
 
-The overaching goal of this project is to build a solution that developers are used to and eliminate the existing hurdle.
+The overaching goal of this project is to build a solution that developers are used to and eliminate the existing hurdles.
 
 
 ### Project Details
 
-We have divided the project into three sub-steps. 
+We have divided the project into four sub-steps. 
 
 Receive requests and transform them (RPC to RESTful conversion)
 Backend user management, issuing API keys
 Frontend (website, keys, dashboard, statistics page, etc)
+Deployment of beta Version
 
-The individual milestones and their duration can be viewed in detail below. 
+The individual milestones and their duration can be viewed in detail below. We apply with a second grant as well to cover additional functionality in a V2 of the service.
 
 ### Ecosystem Fit
 
-Developers who want to interact with VeChain need most likely to use Web3-gear, which means an additional effort in order to use VeChain compared to other EVM based chains. We want to eliminate this barrier and give developers an easy way to program for VeChain through a solution they most likely already know from other projects. We are taking on a role similar to what Infura is doing for Ethereum and hope to provide a solution to developers with the new capabilities that will ultimately grow the entire VeChain ecosystem. 
+Developers who want to interact with VeChain the way they would on Ethereum need to use Web3-gear, which means an additional effort in order to use VeChain compared to other EVM based chains. We want to eliminate this barrier and give developers an easy way to program for VeChain through a solution they most likely already know from other projects. We are taking on a role similar to what Infura is doing for Ethereum and hope to provide a solution to developers with the new capabilities that will ultimately grow the entire VeChain ecosystem. 
 
 
 ## Team 
@@ -78,7 +79,7 @@ Simon Heer has worked several years in B2B Sales for RedHat and VmWare as well a
 
 - https://www.linkedin.com/in/renato-sch%C3%A4r-8a9a19a5/
 - https://www.linkedin.com/in/werner-liechti-568b19213/
-- https://www.linkedin.com/in/paula-raseni/
+- https://www.linkedin.com/in/paula-amstutz/
 - https://www.linkedin.com/in/joaogmorais/
 - https://www.linkedin.com/in/francesco-romeo-2867083b/
 - https://www.linkedin.com/in/riccardo-mazzucchelli/
@@ -91,11 +92,11 @@ Simon Heer has worked several years in B2B Sales for RedHat and VmWare as well a
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Milestone 3 | Total |
+|  | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 | Total |
 | - | - | - | - | - |
-| Estimated Duration | 15 d | 45 d | 45 d | 105 d |
-| Full-time equivalent (FTE) | 0.5 | 2 | 2 | 4.5 |
-| Cost (up to $ 30,000) | $ 4,000 | $ 13,000 | $ 13,000 | $ 30,000 |
+| Estimated Duration | 15 d | 40 d | 40 d | 10 d | 105 d |
+| Full-time equivalent (FTE) | 0.5 | 2 | 2 | 0.5 | 5 |
+| Cost (up to $ 30,000) | $ 4,000 | $ 11,500 | $ 11,500 | $ 3,000 | $ 30,000 |
 
 #### Milestone 1 — RPC integration
 
@@ -107,7 +108,7 @@ Simon Heer has worked several years in B2B Sales for RedHat and VmWare as well a
 | 2 | Hosting of the Web3Gear | Providing access to Web3-Gear and quick access to the VeChain Blockchain via RPC. |
 
 
-#### Milestone 2  —  Backend, Key generation and Node setup
+#### Milestone 2  —  Backend, key generation and node setup
 
 | Number | Deliverable | Specification |
 |-|-|-|
@@ -130,16 +131,27 @@ Simon Heer has worked several years in B2B Sales for RedHat and VmWare as well a
 | 2 | Payment integration | We will integrate our service with different payment providers. |
 | 3 | Documentation | We will document the way the products work and provide guides and tutorials on how to use them. |
 
+#### Milestone 4 — Deployment of beta version
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 0a.| License | GNU Lesser General Public License v3.0 |
+| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial. |
+
+| 1 | Releasing VeSayNode online | We will release the product to be tested by users and to have their feedback for further improvements. |
+| 2 | Updating the product | We will add or change features based on the feedback. |
 
 #### Community engagement
 
-After the project is completed, an article will be created for Medium to inform developers and companies about the new possibilities. Also, SayNode Operations channels will be used to inform the community. Specifically, a blog post will be written on the website and a post will be made on LinkedIn. Also a documentation will be created that gives information about the handling and functionalities. 
+After the project is completed, an article will be created on Medium to inform developers and companies about the new possibilities. Also, SayNode Operations channels will be used to inform the community. Specifically, a blog post will be written on the website and a post will be made on LinkedIn. Also a documentation will be created that gives information about the handling and functionalities. 
 
 For the final product, SayNode Operations will either create the projects own website or integrate it with its own subpage in the already existing SayNode Operations website. 
 
+Since this is the first part of the final application please find more information in the second grant commit where we also provide more information about the pricing structure and marketing efforts. 
+
 ## Future Plans
 
-We will be able to create a first solution with this grant application. We will expand this in a second step and plan to host it globally in the V2 of it. A second grant application will be created to cover operating costs in the starting phase of the project and in order to improve upon its functionalities.
+We will be able to create a first solution with this grant application. We will expand this in a second step and plan to expand the functionality and market it to a wider audience in the V2 of it. A second grant application will be created to cover operating costs in the starting phase of the project and in order to improve upon its functionalities.
 
 ## Additional Information 
 
@@ -148,7 +160,6 @@ We will be able to create a first solution with this grant application. We will 
 The planning of the project is mostly done and many of the subcomponents in order to build it already exist. The missing part for a succesful launch is the integration of the different systems in a user friendly way. 
 
 - Are there any teams who have already contributed (financially) to the project?
-
 The project has not received any direct investment from other resources and is managed solely by SayNode Operations. 
 
 - Have you applied for other grants so far?
