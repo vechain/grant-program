@@ -87,7 +87,7 @@ The website https://verocket.com is our best demo of experience.
 |  Name   |    M1     |   M1.1    |    M1.2    |    M2     |            M2.1             |    M3     |
 | ------- | --------- | --------- | ---------- | --------- | --------------------------- | --------- |
 | Cost    | 3,000 USD | 1,200 USD | 12,000 USD | 1,200 USD | 100,000 VTHO (about 600USD) | 4,000 USD |
-| Status  | Done      | Done      | Waiting    | Progress  | Progress                    | Progress  |
+| Status  | Done      | Done      | Done       | Done      | Done                        | Done      |
 | Man-Day | 12        |           |            | 5         |                             | 16        |
 
 *Deliverables are too long to be described in the table so we describe them in the details below*
