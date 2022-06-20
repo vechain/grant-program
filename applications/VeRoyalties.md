@@ -40,7 +40,7 @@ Centralized without the blockchain aspect it exists afterwards in web3 most prob
 
 ### Team's experience
 
-Certain has been in the real estate business since he was a child, we have a real network of real estate entrepreneurs and investors, many of whom make their living from this sector today.
+Some have been in the real estate business since they were children, we have a real network of real estate entrepreneurs and investors, many of whom make their living from this sector today.
 
 Others have more technological and web3 expertise, which is what defines our legitimacy today to create this project.
 
@@ -66,9 +66,13 @@ Soon
 | - | - |- | - |
 | Estimated Duration | 30 d | 30 d | 60 d |
 | Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
+| Cost (up to $ 30,000) | $ 15,000 | $ 15,000 | $ 30,000|
 
 #### Milestone 1 — Smart Contract & Backend
+
+Soon
+
+#### Milestone 2 — Smart Contract & Backend
 
 Soon
 
