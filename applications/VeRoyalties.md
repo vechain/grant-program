@@ -16,15 +16,33 @@ Whether you are an established real estate investor or not, VeRoyalties offers e
 
 Moreover there are competitive advantages like low gas fees, fee delegation technology, faster transaction confirmation times, green blockchain.
 
-- Soon
+- VeRoyalties will integrate public VeChain Thor tools such as Thorify, Sync2 and will leverage the VeChain VIP library;
+
+- Technology stack used:
+- Connex
+- Sync2
+- IPFS for provenance ;
+- VIP180 & VIP181
 
 ### Project Details
 
-Soon
+The images for our website interface are coming, we are currently working on the UX/UI aspect for our MVP.
+
+Front End:
+
+- NextJS (React + Styled Components)
+
+Back End:
+
+- NestJS (NodeJS + Express)
+- Redis for queue management with Bull Queue
+- PostgreSQL as DBMS
+- Architecture managed with AWS with EC2, RDS, ElasticCache and Load Balancers
+- IPFS File Storage
 
 ### Ecosystem Fit
 
-Centralized without the blockchain aspect it exists afterwards in web3 most probably, to say no would be pretentious on the other hand I don't personally know of any project doing the same (Access by NFTs at the price of 10€ for full accessibility with sound and sustainable values and ambitions).
+It exists in a Centralized way, on the other hand decentralized or using the blockchain it probably exists as well, but I don't personally know of any that do what we do (accessibility from 10€ on a green blockchain...)
 
 ## Team 
 
@@ -55,8 +73,9 @@ Others have more technological and web3 expertise, which is what defines our leg
 
 ## Development Roadmap 
 
-Soon
+We will constantly seek to improve the user experience and the technical interface that we have, this will obviously involve upstream recruitment but the funds will mainly be there to allow an opening node and generate cash flow allowing flexibility of movement.
 
+See also the roadmap in our whitepaper.
 
 ### Example Roadmap for a dApp Application
 
@@ -65,16 +84,20 @@ Soon
 |  | Milestone 1 | Milestone 2 | Total |
 | - | - |- | - |
 | Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
 | Cost (up to $ 30,000) | $ 15,000 | $ 15,000 | $ 30,000|
 
-#### Milestone 1 — Smart Contract & Backend
+#### Milestone 1 — Open NFT Smart-Contract to allow any wallet to mint.
 
-Soon
+Build a mechanism to allow any address to create a specific account in smart-contract;
+Link this account to a specific NFT Contract and allow those specific account to mint;
+All the mint of multiple edition and single edition;
+All the attached of metadata to newly minted token;
 
-#### Milestone 2 — Smart Contract & Backend
+#### Milestone 2 — Sales Contract & Backend V1.
 
-Soon
+Build up the smart-contract in order to be able to sale and trade NFTs;
+Build up the backend service to handle all the logs and events from multiples smart-contracts;
+Build up the backend handling fee delegation;
 
 #### Community engagement
 
