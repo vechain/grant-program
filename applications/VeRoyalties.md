@@ -98,10 +98,10 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 #### Community engagement
 
-Discord: https://discord.gg/7nSF6DUkJA
-Twitter: https://twitter.com/VeRoyalties
-Website: https://www.veroyalties.com
-Whitepaper: https://veroyalties.gitbook.io/whitepaper/
+Discord: https://discord.gg/7nSF6DUkJA 
+Twitter: https://twitter.com/VeRoyalties 
+Website: https://www.veroyalties.com 
+Whitepaper: https://veroyalties.gitbook.io/whitepaper/ 
 
 ## Future Plans
 
