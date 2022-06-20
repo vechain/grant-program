@@ -110,7 +110,7 @@ Why not also exploit the crosschain solution to further expand the market.
 
 Currently we want this grant to carry out part of our business model through the opening of the node, and to have cash flow for possible future costs.
 
-You can find our pitch deck here: Link Soon
+You can find our pitch deck here: https://youtu.be/pPHGvmu3wVo
 
 We don't intend to apply for other grants, we think that this one makes sense and not another one, we don't intend to raise funds in the long run because we also think that this project can bootstrap very well and be self-financing through its business model.
 
