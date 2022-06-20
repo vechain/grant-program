@@ -29,32 +29,35 @@ Therefore, we ask the teams to submit (where relevant):
 - PoC/MVP or other relevant prior work or research on the topic
 
 ### Ecosystem Fit
-Are there any other projects similar to yours? If so, how is your project different?
+
+Centralized without the blockchain aspect it exists afterwards in web3 most probably, to say no would be pretentious on the other hand I don't personally know of any project doing the same (Access by NFTs at the price of 10€ for full accessibility with sound and sustainable values and ambitions).
 
 ## Team 
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Fabio
+- James
+- Saheed
 
 ### Team Website
 
-- https://<your_domain>
+- https://www.veroyalties.com
 
 ### Team's experience
 
-Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
+Certain has been in the real estate business since he was a child, we have a real network of real estate entrepreneurs and investors, many of whom make their living from this sector today.
+
+Others have more technological and web3 expertise, which is what defines our legitimacy today to create this project.
 
 ### Team Code Repos
 
-- https://github.com/<your_repo_1>
-- https://github.com/<your_repo_2>
+- https://github.com/Hexdee
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/fabiofrnds/
+- https://www.linkedin.com/in/lukmansaheed/
 
 ## Development Roadmap 
 
@@ -95,17 +98,22 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 #### Community engagement
 
-As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
+Discord: https://discord.gg/7nSF6DUkJA
+Twitter: https://twitter.com/VeRoyalties
+Website: https://www.veroyalties.com
+Whitepaper: https://veroyalties.gitbook.io/whitepaper/
 
 ## Future Plans
 
-Please include the team's long-term plans and intentions.
+For 2023, we want to reach a property management of 10M euros, in the longer term it would obviously be to exploit a wider geographical area (Europe...). 
+Why not also exploit the crosschain solution to further expand the market. 
 
 ## Additional Information 
 
-Any additional information that you think is relevant to this application that hasn't already been included.
+Currently we want this grant to carry out part of our business model through the opening of the node, and to have cash flow for possible future costs.
 
-Possible additional information to include:
-- What work has been done so far?
-- Are there any teams who have already contributed (financially) to the project?
-- Have you applied for other grants so far?
+You can find our pitch deck here: https://www.youtube.com/watch?v=NJdlZEVbFxk
+
+We don't intend to apply for other grants, we think that this one makes sense and not another one, we don't intend to raise funds in the long run because we also think that this project can bootstrap very well and be self-financing through its business model.
+
+For more information, do not hesitate to contact me privately.
