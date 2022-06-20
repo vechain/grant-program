@@ -83,16 +83,16 @@ See also the roadmap in our whitepaper.
 
 #### Milestone 1 — Open NFT Smart-Contract to allow any wallet to mint.
 
-1 Build a mechanism to allow any address to create a specific account in smart-contract;
-2 Link this account to a specific NFT Contract and allow those specific account to mint;
-3 All the mint of multiple edition and single edition;
-4 All the attached of metadata to newly minted token;
+1. Build a mechanism to allow any address to create a specific account in smart-contract
+2. Link this account to a specific NFT Contract and allow those specific account to mint
+3. All the mint of multiple edition and single edition
+4. All the attached of metadata to newly minted token
 
 #### Milestone 2 — Sales Contract & Backend V1.
 
-1 Build up the smart-contract in order to be able to sale and trade NFTs;
-2 Build up the backend service to handle all the logs and events from multiples smart-contracts;
-3 Build up the backend handling fee delegation;
+1. Build up the smart-contract in order to be able to sale and trade NFTs
+2. Build up the backend service to handle all the logs and events from multiples smart-contracts
+3. Build up the backend handling fee delegation
 
 #### Community engagement
 
