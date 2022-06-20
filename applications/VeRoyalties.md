@@ -16,17 +16,11 @@ Whether you are an established real estate investor or not, VeRoyalties offers e
 
 Moreover there are competitive advantages like low gas fees, fee delegation technology, faster transaction confirmation times, green blockchain.
 
-- If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
+- Soon
 
 ### Project Details
 
-We expect the teams to already have a solid idea about the project's expected final state.
-Therefore, we ask the teams to submit (where relevant):
-- Mockups/designs of any UI components
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
+Soon
 
 ### Ecosystem Fit
 
@@ -61,15 +55,7 @@ Others have more technological and web3 expertise, which is what defines our leg
 
 ## Development Roadmap 
 
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
-
-Below we provide an <b>example roadmap</b>. For each milestone:
-
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
+Soon
 
 
 ### Example Roadmap for a dApp Application
@@ -84,17 +70,7 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 #### Milestone 1 — Smart Contract & Backend
 
-| Number | Deliverable | Specification |
-|-|-|-|
-| 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) |
-| 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
-
-#### Milestone 2  —  Frontend
-
-...
+Soon
 
 #### Community engagement
 
