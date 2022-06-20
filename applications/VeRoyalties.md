@@ -1,18 +1,21 @@
-# VeChain General Grant Application Template
+# VeChain grant application
 
 ## Project Overview 
 
-- Project: The name of the project
-- Team Name: Legal name of your team 
-- Payment Address: USDT (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
-
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+- Project: VeRoyalties
+- Team Name: VeRoyalties
+- Payment Address: USDT (ERC 20) payment address. 0x66646b0d409c2f91f571ae91140a2da74e7f32c1
 
 ### Overview
 
-Please provide the following:
-- A brief description of the project.
-- An indication of why your team is interested in creating this project within the VeChain Ecosystem.
+- VeRoyalties is a project aiming to democratise real estate investment and allow anyone in the world to access the biggest market on the planet while having the utmost transparency, security and sustainability. VeRoyalties is the first NFT/Real Estate project built on the VeChain blockchain.
+
+Whether you are an established real estate investor or not, VeRoyalties offers everyone the opportunity to buy and sell NFTs allowing access to real estate royalties in a secure, transparent and environmentally friendly way.
+
+- We love the VeChain community being retail investors ourselves for a long time, we totally share the values you convey (Transparency, sustainability, security, trust) and it makes sense for us to build here.
+
+Moreover there are competitive advantages like low gas fees, fee delegation technology, faster transaction confirmation times, green blockchain.
+
 - If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
 
 ### Project Details
