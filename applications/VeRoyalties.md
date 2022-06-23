@@ -23,6 +23,12 @@ Technology stack used, connex, sync2, PFS for provenance, VIP180 & VIP181.
 
 The images for our website interface are coming, we are currently working on the UX/UI aspect for our MVP.
 
+Example of our MVP on the website part: 
+![HP](https://user-images.githubusercontent.com/95186040/175256400-7366d92f-220b-4373-a20b-86bc1f2702c9.png)
+![MP](https://user-images.githubusercontent.com/95186040/175256413-79569d17-ff36-48fb-be7b-eb99ac22bb00.png)
+
+Once the first sale has taken place we will be recruiting to improve the user experience and the interface so that it is always more optimal and efficient.
+
 Front End:
 
 - NextJS (React + Styled Components)
@@ -47,7 +53,7 @@ It exists in a Centralized way, on the other hand decentralized or using the blo
 - James
 - Saheed
 
-### Team Website
+### Website
 
 - https://www.veroyalties.com
 
@@ -110,7 +116,7 @@ Why not also exploit the crosschain solution to further expand the market.
 
 Currently we want this grant to carry out part of our business model through the opening of the node, and to have cash flow for possible future costs.
 
-You can find our pitch deck here: https://youtu.be/pPHGvmu3wVo
+You can find our pitch deck here: https://www.youtube.com/watch?v=pPHGvmu3wVo
 
 We don't intend to apply for other grants, we think that this one makes sense and not another one, we don't intend to raise funds in the long run because we also think that this project can bootstrap very well and be self-financing through its business model.
 
