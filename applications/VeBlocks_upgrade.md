@@ -76,8 +76,8 @@ The team consists of:
 |  | Milestone 1 | Milestone 2 | Milestone 3 |Total |
 | - | - | - | - | - |
 | Estimated Duration | 30 d | 365 d | 365 d | 760 d |
-| Full-time equivalent (FTE) | 3 | 1,5 | 1,5 | 7 |
-| Cost (up to $ 30,000) | $ 2,340 | $ 5,730 | $ 5,730 | $13,800 |
+| Full-time equivalent (FTE) | 3 | 1,5 | 1,75 | 6,25 |
+| Cost (up to $ 30,000) | $ 2,340 | $ 5,730 | $ 6,520 | $14,590 |
 
 <br/>
 <br/>
@@ -105,8 +105,11 @@ The team consists of:
 <br/>
 <br/>
 
-#### Milestone 3 — Uptime, maintenance and improvements for an additional months
+#### Milestone 3 — Uptime, maintenance and improvements for an additional 12 months
 
 | Number | Deliverable | Specification |
 |-|-|-|
 | 0| monthly cost | This includes all human resources and data-center facilities for an additional 12 months |
+
+Caused by higher data-center facilitiy cost and more users needing support, the 3rd milestone had to be slightly adjusted (as shown in the overview table above).
+
