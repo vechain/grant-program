@@ -22,10 +22,9 @@ We have an idea to release gifting options by secret link generation. Users can 
 - Mockups/designs https://www.figma.com/proto/882kzjuN5y4Up5X9kGu2n7/cruzo-%E2%80%94-marketplace-(design)?page-id=95%3A33&node-id=686%3A10016&viewport=54%2C509%2C0.02&scaling=min-zoom
 
 ++++++++++
-- API specifications of the core functionality
+
 - An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
+
 ++++++++++
 
 ### Ecosystem Fit
