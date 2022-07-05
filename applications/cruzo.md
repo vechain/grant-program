@@ -63,8 +63,8 @@ Person D: Nikita Korshunov, Full-stack developer. Here is a link to his GitHub h
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/in/denthai/ <Person A>
-- https://www.linkedin.com/in/jane-makey-a9ab05bb/ <Person C>
+- https://www.linkedin.com/in/denthai/ - Person A
+- https://www.linkedin.com/in/jane-makey-a9ab05bb/ - Person C
 
 
 ## Development Roadmap 
