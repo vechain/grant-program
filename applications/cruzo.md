@@ -10,7 +10,7 @@
 
 The first NFT greeting card & crypto gifts multi-chain Web3 platform. Bringing a billion-dollar industry to Blockchain. Our mission is to advance the mass adaptation of NFTs through a revolutionary greeting cards and gifts marketplace
 
-Greetings, gifts and party goods a billion-dollar market requiring millions of on-chain transactions. We need a sustainable blockchain partner with low gas fees to run our platform. 
+Greetings, gifts and party goods a billion-dollar market requiring millions of on-chain transactions. We need a sustainable blockchain partner with low gas fees to run our platform.
 
 We believe having our project will benefit to VeChain Ecosystem. Digital greetings, gifts, and party goods have a huge commercial potential, especially in terms of on-chain transaction quantity. VeChain is a fast-growing network with huge potential. Being a part of VeChain Ecosystem and having partnership relations with VeChain will boost our development and awareness.
 
