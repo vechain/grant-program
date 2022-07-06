@@ -21,11 +21,23 @@ We have an idea to release gifting options by secret link generation. Users can 
 
 - Mockups/designs https://www.figma.com/proto/882kzjuN5y4Up5X9kGu2n7/cruzo-%E2%80%94-marketplace-(design)?page-id=95%3A33&node-id=686%3A10016&viewport=54%2C509%2C0.02&scaling=min-zoom
 
-++++++++++
+- Technology stack
+Frontend:
+React
+ethers.js
+web3-react
 
-- An overview of the technology stack to be used
+Backend:
+Nest.js (REST API)
+ethers.js
+Postgres
+Pinata (IPFS)
 
-++++++++++
+Blockchain (smart contracts):
+Solidity - контракты: Cruzo1155 + CruzoMarket
+
+Indexer (WIP)
+
 
 ### Ecosystem Fit
 Web2: American Greetings, Hallmark, Moonpig, Evite, Paperlesspost. American Greetings have a very strong position on the market, but they do not provide NFT for their customers.  
