@@ -92,7 +92,7 @@ Person D: Nikita Korshunov, Full-stack developer. Here is a link to his GitHub h
 | Number | Deliverable | Specification |
 |-|-|-|
 | 0 | Smart Contracts | We will add Timed Auction feature to our smart contracts. |
-| 1 | Indexers | TBD |
+| 1 | Indexers | We will update indexers to provide more information to other services (backend app), including new Timed Auction specific events. |
 | 2 | Backend | We will update our backend service to support Timed Auctions and new catalog (filtering, sorting options) and greeting card (metadata extension, categorization, multiple view options) details page functionality. |
 | 3 | Frontend | We will add Timed Auction feature as well as implement new catalog (filtering, sorting options) and greeting card (metadata extension, categorization, multiple view options) details page functionality. The design will be updated in order to improve user experience. |
 
