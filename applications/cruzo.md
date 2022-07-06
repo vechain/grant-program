@@ -14,7 +14,7 @@ Greetings, gifts and party goods a billion-dollar market requiring millions of o
 
 We believe having our project will benefit to VeChain Ecosystem. Digital greetings, gifts, and party goods have a huge commercial potential, especially in terms of on-chain transaction quantity. VeChain is a fast-growing network with huge potential. Being a part of VeChain Ecosystem and having partnership relations with VeChain will boost our development and awareness.
 
-We have an idea to release gifting options by secret link generation. Users can share this link with NFT with the recipient. Your Controllable Transaction Lifecycle could be an option in case the secret link is expired. We also considering using Multi-task Transaction (MTT) in the case when the user gifts an NFT card + Cryptocurrency in one transaction. We are also interested in realizing Fee Delegation and Transaction Dependency on our platform. All these technologies are very actual for the service we provide to the users.
+We considering using Multi-task Transaction (MTT) in the case when the user gifts an NFT card + Cryptocurrency in one transaction. We are also interested in realizing Fee Delegation and Transaction Dependency on our platform. All these technologies are very actual for the service we provide to the users.
 
 
 ### Project Details
