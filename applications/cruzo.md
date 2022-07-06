@@ -157,7 +157,7 @@ Milestones:
 - UX/UI product design - https://www.figma.com/proto/882kzjuN5y4Up5X9kGu2n7/cruzo-%E2%80%94-marketplace-(design)?page-id=95%3A33&node-id=686%3A10016&viewport=54%2C509%2C0.02&scaling=min-zoom
 - Project website - https://cruzo.io
 - Band book - https://cruzo.io/docs/CRUZO-Brandbook-ENG.pdf
-- Stageing envoriment - https://front.alpha.cruzo.cards/ 
+- Staging environment - https://front.alpha.cruzo.cards/ 
 - Twitter - https://twitter.com/CruzoCards
 
   
