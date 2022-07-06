@@ -110,7 +110,7 @@ The article will be published in official project blog https://cruzo.medium.com
 
 ## Future Plans
 
-2022 - Starting with the basics. Users - 50-100k, Revenue - $300-500k
+#### 2022 - Starting with the basics. Users - 50-100k, Revenue - $300-500k
 
 Milestones:
 - Web DApp
@@ -119,7 +119,7 @@ Milestones:
 - Crypto Gift
 - IDO
 
-2023 - Market innovations. Users - 500k-1m, Revenue - $3-5m
+#### 2023 - Market innovations. Users - 500k-1m, Revenue - $3-5m
 
 Milestones:
 - Mobile DApp
@@ -127,7 +127,7 @@ Milestones:
 - XURY Wallet
 - DAO
 
-2024 - Becoming market leader. Users - 3-5m, Revenue - $100-150m
+#### 2024 - Becoming market leader. Users - 3-5m, Revenue - $100-150m
 
 Milestones:
 - B2B Accounts
@@ -135,7 +135,7 @@ Milestones:
 - Smart-event planer
 - META connect
 
-2025 - Global Web3 platform. Users - 10-20m, Revenue - $200-300m
+#### 2025 - Global Web3 platform. Users - 10-20m, Revenue - $200-300m
 
 Milestones: 
 - All countries 
@@ -157,7 +157,7 @@ Milestones:
 
   
   
-We are winners of 2 Hackathons  
+#### We are winners of 2 Hackathons  
 
 - Moonriver Hackathon (2nd place) - https://twitter.com/CruzoCards/status/1541336115424428032?s=20&t=WHEbF91ypu1IAs8giMWT_A
 - Cronos Hackathon (2nd place) - https://twitter.com/NewsCronos/status/1483710839857336323?s=20&t=WHEbF91ypu1IAs8giMWT_A
