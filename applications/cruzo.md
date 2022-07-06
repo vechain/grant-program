@@ -141,7 +141,7 @@ Milestones:
 - All countries 
 - All languages
 
-2026 Cruzo succeeds as unicorn Blockchain startup and pushes the market to full Web3 future.
+#### 2026 Cruzo succeeds as unicorn Blockchain startup and pushes the market to full Web3 future.
 
 
 ## Additional Information 
