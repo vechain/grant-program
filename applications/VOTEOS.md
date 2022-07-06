@@ -67,24 +67,24 @@ sequenceDiagram
     actor Organizer
     participant Organization
     participant Election
-    participant Voter Registry
+    participant Voter registry
     actor Voter
-    Note over Organizer,Organization : Setup new Organization
+    Note over Organizer,Organization : Setup new organization
     Organizer->>Organizer: Sign Up
-    Organizer->>Organization: create Organization
-    Organization-->>Organizer: invite more Managers
-    Note over Organization,Voter Registry: Setup new Election
-    Organization->>Election: create Election
-    Election-->Voter Registry: link Voter Registry
-    loop configuration
-      Voter Registry-->Voter Registry: manage Voters
-      Election-->Election: manage Polls
+    Organizer->>Organization: Create organization
+    Organization-->>Organizer: Invite more managers
+    Note over Organization,Voter registry: Setup new election
+    Organization->>Election: Create election
+    Election-->Voter registry: Link voter registry
+    loop Configuration
+      Voter registry-->Voter registry: Manage voters
+      Election-->Election: Manage polls
     end
-    Organizer->>Voter Registry: mint Votes for each Voter
-    Voter Registry-->>Voter: provide Votes
+    Organizer->>Voter registry: Mint votes for each voter
+    Voter registry-->>Voter: Provide votes
    
     Note over Organization,Voter: Election
-    Voter-->>Election: Vote on Polls
+    Voter-->>Election: Vote on polls
     Election-->>Organization: Provide results
 ```
 
@@ -96,66 +96,66 @@ sequenceDiagram
     actor Organizer
     actor Voter
     participant Election
-    participant Voter Registry
-    Note over Organizer : prepare
-    Organizer->>Voter Registry: Manages
-    Organizer->>Election: connect Registry
-    Organizer->>Organizer: generate Wallets 
-    Organizer->>Election: generate Votes
+    participant Voter registry
+    Note over Organizer : Prepare
+    Organizer->>Voter registry: Manages
+    Organizer->>Election: Connect registry
+    Organizer->>Organizer: Generate wallets 
+    Organizer->>Election: Generate votes
     Election->>Organizer: Votes
-    Organizer->>Voter: send Vote to Individual Voter
-    Note over Voter,Election: participate
-    Voter->>Election: Vote on Polls
-    Election-->>Voter: provide results
-    Election-->>Organizer: provide results
+    Organizer->>Voter: Send vote to individual voter
+    Note over Voter,Election: Participate
+    Voter->>Election: Vote on polls
+    Election-->>Voter: Provide results
+    Election-->>Organizer: Provide results
 ```
 
 
 #### Application Screens
 
-**Admin Dashboard to organize Votes**   
+**Admin dashboard to organize votes**   
 
-* ![VOTEOS_Dashboard](https://chat.hpm.agency/files/p8o65qrgkbrr3rdcecest8x67r/public?h=ekkMvTVx3VI1XoI15b8zbUeywpA7c1L4FQv8n4dcolI)
+* ![VOTEOS_Dashboard](https://voteos.com/images/Dashboard.png)
   
-**Create a Question**
+**Create a question**
 
-* ![Create_Polls](https://chat.hpm.agency/files/k1ik4h88sig4defbq1bdicxiky/public?h=t3N2-zdtssw4xXWCklq22MDaEKOb884t93L5E_APrU4)
+* ![Create_Polls](https://voteos.com/images/Create_Polls.png)
   
-**Manage the Agenda**
+**Manage the agenda**
 
-* ![Create_Agendas](https://chat.hpm.agency/files/d3risxeq3fdb3ynfxtrhehwi9e/public?h=fOlIdWqIW_pp2nyphLpwAcIP5C67rHG6XzS3Wq7NHgw)
+* ![Create_Agendas](https://voteos.com/images/Create_Agendas.png)
   
-**Add Voters**
+**Add voters**
 
-* ![Create_a_Voter_Registry](https://chat.hpm.agency/files/6pxx86ojpt8p5m4q69x9hzrkaa/public?h=SssBqH2_ELKyS_UXy5WOJFitRYrgv7vdu2a1-pJAatk)
+* ![Create_a_Voter_Registry](https://voteos.com/images/Create_Voter_Registry.png)
   
-**Create Votes**
+**Create votes**
 
-* ![Create_Votes](https://chat.hpm.agency/files/8cx4mfjrbpd47k83yrfo7mhjsc/public?h=73BriF2_z-agD8GTZKABLnmqY-U0Q9HVUNFalcB5JYI)
+* ![Create_Votes](https://voteos.com/images/Create_Votes.png)
   
-**Election Moderation**
+**Election moderation**
 
-* ![Navigate_through_live_events](https://chat.hpm.agency/files/1f1f4hujitf8jnyipk37ghzmew/public?h=KJwGa9xtqv0VL4I9wlooujRe2XNj8_fUUcHw8SJfeW8)
+* ![Navigate_through_live_events](https://voteos.com/images/Navigate_Live_Events.png)
   
-**Join Election on Mobile**
+**Join election on mobile**
 
-* ![Ballots_Count](https://chat.hpm.agency/files/k3fy1f1b7ibxmffmsrrugdioho/public?h=bnJbdd7L3hjCOP27KuAQiV_hA-mwCdp3IZGWWAerWeQ)
+* ![Ballots_Count](https://voteos.com/images/Ballots_Count.png)
 
-**Vote on Mobile**
+**Vote on mobile**
 
-* ![Vote](https://chat.hpm.agency/files/gngwuxyomj8u78b9697x1thpcy/public?h=Q_q0dO6fDo26gXA4_ZFTaHbfXen9bTBW0n_3UlNQ7yc)
+* ![Vote](https://voteos.com/images/Vote.png)
 
-**Results on Mobile**
+**Results on mobile**
 
-![Mobile_Results](https://chat.hpm.agency/files/6ej3dps8qidn9ndktn9raundxr/public?h=WKpeO6mvbkJwnJr-M38mXrw5BGh-1raej9LeC1hlNHs)
+![Mobile_Results](https://voteos.com/images/Mobile_Results.png)
 
-**Presentation View**
+**Presentation view**
 
-* ![View_for_Presentation](https://chat.hpm.agency/files/3k5ki9174bd6my9sta4uwszyyc/public?h=Vnp6ktTKeGyL4cxNGDAh27NvOQX_zNlgPoYZsAxgesg)
+* ![View_for_Presentation](https://voteos.com/images/Presentation_View.png)
 
 #### Tech-stack
 
-The UI is built using React, Backend-Services to provide encrypted IPFS data are built using NodeJS. Pinata is used to support storage on IPFS.
+The UI is built using React. Backend-Services to provide encrypted IPFS data are built using NodeJS. Pinata is used to support storage on IPFS.
 
 * Frontends
    * Admin, Voter and Presentation
@@ -177,9 +177,9 @@ The UI is built using React, Backend-Services to provide encrypted IPFS data are
 flowchart
   subgraph Frontends[Frontends]
     direction TB
-    AdminFrontend[Admin Frontend]
-    VotingFrontend[Voting Frontend]
-    PresentationFrontend[Presentation Frontend]
+    AdminFrontend[Admin frontend]
+    VotingFrontend[Voting frontend]
+    PresentationFrontend[Presentation frontend]
   end
 
   subgraph Blockchain
@@ -195,7 +195,7 @@ flowchart
   subgraph Backend
     direction TB
     IPFSProxy["IPFSProxy"]
-    voterRegistry["Voter Registry"]
+    voterRegistry["Voter registry"]
   end
 
   Frontends --- Backend
@@ -214,27 +214,27 @@ sequenceDiagram
     participant Backend
     participant Contract
 
-    note over User, Backend: Initialize Session
-    User->>Backend: request session
-    Backend-->>Backend: create JWT Session
-    Backend-->>User: respond with session JWT
+    note over User, Backend: Initialize session
+    User->>Backend: Request session
+    Backend-->>Backend: Create JWT session
+    Backend-->>User: Respond with session JWT
 
-    User-->>User: sign JWT with private Key
+    User-->>User: Sign JWT with private key
 
-    note over Backend, Contract: Session Validation
-    User->>Backend: send JWT + Signature + Contract Address + Data
-    alt is valid Signature for valid JWT
+    note over Backend, Contract: Session validation
+    User->>Backend: Send JWT + signature + contract address + data
+    alt is valid signature for valid JWT
 
-       Backend->>Contract: read user role
-       Contract-->>Backend: user role
+       Backend->>Contract: Read user role
+       Contract-->>Backend: User role
 
-       alt is Allowed
-           Backend-->>User: respond with data
-       else is Unknown
+       alt Is allowed
+           Backend-->>User: Respond with data
+       else Is unknown
            Backend-->>User: Error
        end
 
-    else is invalid Signature
+    else Is invalid signature
         Backend-->>User: Error
     end
 ```
@@ -263,8 +263,8 @@ Our whole team is currently 15 members strong and is building enterprise applica
 
 ### Team Code Repos
 
-- No public Code Repositories available
-- Access to private Repositories and more detailed documentation can be granted under NDA
+- No public code repositories available
+- Access to private repositories and more detailed documentation can be granted under NDA
 
 ## Development Roadmap 
 #### Overview
@@ -279,66 +279,75 @@ Based on a $440 / daily rate. $1200 is the normal rate which is covered by HPM.
 
 #### Milestone 1 Auth-Workflow & Setup
 
-| Number | Deliverable       | Specification                                                                                      |
-|--------|-------------------|----------------------------------------------------------------------------------------------------|
-| 1      | Auth-Workflow     | Sign Up/-In with web3auth for hosted wallets |
-| 1.1    | Integrate service | Web3auth toruslabs/openlogin for passwordless login                                               |
-| 1.2    | Session Micro-Service | Create micro-service for session handling and access protection                                                         |
+| Number | Deliverable                                    | Specification                                                                          |
+|--------|------------------------------------------------|----------------------------------------------------------------------------------------|
+| 1      | Redirect to admin frontend after Login         | Auth-Workflow: sign up/-in with web3auth for hosted wallets                            |
+| 1.1    | Wallet can be used to interact with blockchain | Integrate service: Web3auth toruslabs/openlogin for passwordless login                 |
+| 1.2    | Unit tests proving JWKS functionality          | Session Micro-Service: create micro-service for session handling and access protection |
 
+- The deliverables will be proven by unit tests, screenshots and a link to a website
 
 #### Milestone 2 Election Administration
 
-| Number | Deliverable             | Specification                                                           |
-|--------|-------------------------|-------------------------------------------------------------------------|
-| 2      | Election Administration | -                                                                       |
-| 2.1    | Organization Management | Create and edit Organizations in admin frontend                         |
-| 2.1.1  | Membership management                  | Manage Organization Members, Member invite & join                       |
-| 2.1.2  | Audit Log               | Organization audit log using Blockchain events                          |
-| 2.2    | Election Management     | Create and manage elections in admin frontend, including live execution |
-| 2.2.1  | Attachment handling     | Allow adding file attachments hosted in IPFS                            |
-| 2.3    | Poll Management         | Create and manage questions                                             |
-| 2.3.1  | Answer Management       | Create and manage answers                              |
+| Number | Deliverable                                      | Specification                                                                                |
+|--------|--------------------------------------------------|----------------------------------------------------------------------------------------------|
+| 2      | Functional admin frontend                        | Election administration                                                                      |
+| 2.1    | Organization contract deployment and interaction | Organization management: create and edit organizations in admin frontend                     |
+| 2.1.1  | Organization contract rights management          | Membership management: manage organization members, member invite & join                     |
+| 2.1.2  | Visualization of blockchain events               | Audit log: organization audit log using blockchain events                                    |
+| 2.2    | Election contract deployment and interaction     | Election management: create and manage elections in admin frontend, including live execution |
+| 2.2.1  | Attachments can be added to election and persist | Attachment handling: allow adding file attachments hosted in IPFS                            |
+| 2.3    | Frontend interaction with election contract      | Poll management: create and manage questions                                                 |
+| 2.3.1  | Frontend interaction with election contract      | Answer management: create and manage answers                                                 |
 
+- The deliverables will be proven by unit tests and screenshots
 
 #### Milestone 3 Voter Administration & Vote Distribution
 
-| Number | Deliverable                              | Specification                                                                                        |
-|--------|------------------------------------------|------------------------------------------------------------------------------------------------------|
-| 3      | Voter Administration & Vote Distribution | -                                                                                                    |
-| 3.1    | Voter Registry                           | Create Voter Registry for potential voter with encrypted data only accessible to organization members |
-| 3.2    | Vote-Distribution                        | ERC-721 NFT Vote minting and distribution, CSV download of created votes                             |    
+| Number | Deliverable                                  | Specification                                                                                                         |
+|--------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 3      | Administration frontend                      | Voter administration & Vote distribution                                                                              |
+| 3.1    | Voter registry encryption backend            | Voter registry: create voter registry for potential voter with encrypted data only accessible to organization members |
+| 3.2    | NFT minting by election contract interaction | Vote distribution: ERC-721 NFT vote minting and distribution, CSV download of created votes                           |
+
+- The deliverables will be proven by hardhat jest unit tests results and screenshots.
 
 #### Milestone 4 Voting & Results
 
-| Number | Deliverable         | Specification                                                                                           |
-|--------|---------------------|---------------------------------------------------------------------------------------------------------|
-| 4      | Voting & Results    |                                                                                                         |
-| 4.1    | Join Event and vote | Voting frontend, join an election by link, vote on active polls                                         |
-| 4.1.1  | Private data        | Access private data with an ipfs proxy that encrypts/decrypts on the fly with access validation for the smart contract organization members |
-| 4.1.2  | Vote Sharing        | Ability to share votes (Tokens) and cast (multiple) votes for other users |
-| 4.2    | Results             | Display results to all parties                                                                          |
-| 4.3    | Presentation view   | Read only presentation view for broadcasting (optimized for crowd viewing)                                                                             |
+| Number | Deliverable                                    | Specification                                                                                                                                             |
+|--------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 4      | Functional voting Frontend                     | Voting & Results                                                                                                                                          |
+| 4.1    | NFT owners can vote on election contract poll  | Join event and vote: voting frontend, join an election by link, vote on active polls                                                                      |
+| 4.1.1  | Frontend interaction with encrypted ipfs data  | Private data: access private data with an ipfs proxy that encrypts/decrypts on the fly with access validation for the smart contract organization members |
+| 4.1.2  | Token ownership transfer and multi token vote  | Vote sharing: ability to share votes (tokens) and cast (multiple) votes for other users                                                                   |
+| 4.2    | Live result display in frontends               | Results: display results to all parties                                                                                                                   |
+| 4.3    | Dedicated result presentation frontend         | Presentation view: read only presentation view for broadcasting (optimized for crowd viewing)                                                             |
 
+- The deliverables will be proven by unit tests, screenshots and a link to a website
 
 #### Milestone 5 Payment
 
-| Number | Deliverable         | Specification                       |
-|--------|---------------------|-------------------------------------|
-| 5      | Payment             | -                                   |
-| 5.1    | Service Integration | Stripe payment provider integration |
-| 5.2    | History             | Organisation purchase history       |
-| 5.3    | Refund              | Ballot refund administration        |
+| Number | Deliverable                                                      | Specification                                            |
+|--------|------------------------------------------------------------------|----------------------------------------------------------|
+| 5      | Functional payment service integration                           | Payment                                                  |
+| 5.1    | Successful payment adds ballots to organization                  | Service integration: implement Stripe as payment provider|
+| 5.2    | Payment history is saved and accessible in organization contract | History: organization purchase history                   |
+| 5.3    | Organization contract ballotBalance can be changed by admin role | Refund: ballot refund administration                     |
 
-## Community engagement and marketing
+- The deliverables will be proven by unit tests and screenshots.
+
+#### Community engagement and marketing
 
 Our main marketing statement consists of creating and running audit-proof elections in a simple and uncomplicated workflow - _"as easy as sending a text message"_.   
-In order to brand awareness for VOTEOS and VeChain we are planning to run marketing campaigns on social media and business networks.   
+In order to create brand awareness for VOTEOS and VeChain we are planning to run marketing campaigns on social media and business networks.   
 Additionally articles on the conduct of various types of elections will be published to digital platforms like [Medium.com](https://medium.com/).   
 By giving away free packages of votes, we can lower the entry barrier to our service.  
-Our initial sales strategy will be to acquire users through direct marketing in the founder's personal business network of entrepreneurs and employees in management positions.
+Our initial sales strategy will be to acquire users through direct marketing in the founder's personal business network of entrepreneurs and employees in management positions.  
+A _Runs on VeChain_ Link will be included in the footer of our web applications.
 
 ## Future Plans
-Our goal is to create a digital voting solution for associations and companies. Our premise is to allow anyone to simply create and conduct audit proof elections at reasonable cost. We will keep on developing features and optimizations to establish blockchain voting in the target group.
+Our goal is to create a digital voting solution for associations and companies. Our premise is to allow anyone to simply create and conduct audit proof elections at a reasonable cost. 
+We will keep on developing features and optimizations to establish blockchain voting in the target group.
 
 ### Planned features include
 - Voting weights
@@ -363,6 +372,7 @@ Billing is based on the "pay per use" principle. Each ballot costs a certain amo
 ## Additional Information 
 
 * To this day we have already managed to carry out a prototype election together with the `Initiative Deutsche Zahlungssysteme`
+* We do not intend to open source our code
 * HPM GmbH funds the development out of its own resources right now
 * We have not applied to any other grants
   
