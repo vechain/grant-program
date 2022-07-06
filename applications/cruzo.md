@@ -88,23 +88,26 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 |  | Milestone 1 | Milestone 2 | Total |
 | - | - |- | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
+| Estimated Duration | 60 d | 45 d | 105 d |
+| Full-time equivalent (FTE) | 4 | 3 | 7 |
+| Cost | $ 16,000 | $ 12,000 | $ 28,000|
 
-#### Milestone 1 — Smart Contract & Backend
+#### Milestone 1 — MVP of the Product
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) |
-| 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
+| 0 | Smart Contracts | We will develop the following smart contracts: ERC1155 token which represents a greeting card collectible, Marketplace contract to enable users with opening and closing trades, ERC1155 token factory to allow users to create their own collections. |
+| 1 | Indexers | We will launch indexers to propagate information from our smart contracts to the other services, e.g. backend app. |
+| 2 | Backend | "We will create a backend service that will provide API to handle frontend requests and will be integrated with our indexers to retreive information from our smart contracts." |
+| 3 | Frontend | "We will bring up a frontend part of the product that will provide basic NFT marketplace functionality: user account, minting process, catalog, item page, buying and gifting processes." |
 
-#### Milestone 2  —  Frontend
-
-...
+#### Milestone 2  —  Marketplace features extension
+| Number | Deliverable | Specification |
+|-|-|-|
+| 0 | Smart Contracts | TBD |
+| 1 | Indexers | TBD |
+| 2 | Backend | TBD |
+| 3 | Frontend | TBD |
 
 #### Community engagement
 
