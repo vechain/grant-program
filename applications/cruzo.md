@@ -19,13 +19,15 @@ We considering using Multi-task Transaction (MTT) in the case when the user gift
 
 ### Project Details
 
-Mockups/designs https://www.figma.com/proto/882kzjuN5y4Up5X9kGu2n7/cruzo-%E2%80%94-marketplace-(design)?page-id=95%3A33&node-id=686%3A10016&viewport=54%2C509%2C0.02&scaling=min-zoom
+#### Mockups/designs https://www.figma.com/proto/882kzjuN5y4Up5X9kGu2n7/cruzo-%E2%80%94-marketplace-(design)?page-id=95%3A33&node-id=686%3A10016&viewport=54%2C509%2C0.02&scaling=min-zoom
 
-Technology stack
+#### Technology stack
 - Frontend: React, ethers.js, web3-react
 - Backend: Nest.js (REST API), ethers.js, Postgres, Pinata (IPFS)
 - Blockchain (smart contracts): Solidity
 - Indexer (WIP)
+
+#### Stageing envoriment - https://front.alpha.cruzo.cards/ 
 
 
 ### Ecosystem Fit
