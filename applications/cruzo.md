@@ -110,7 +110,7 @@ The article will be published in official project blog https://cruzo.medium.com
 
 ## Future Plans
 
-- 2022 - Starting with the basics. Users - 50-100k, Revenue - $300-500k
+2022 - Starting with the basics. Users - 50-100k, Revenue - $300-500k
 
 Milestones:
 - Web DApp
@@ -119,7 +119,7 @@ Milestones:
 - Crypto Gift
 - IDO
 
-- 2023 - Market innovations. Users - 500k-1m, Revenue - $3-5m
+2023 - Market innovations. Users - 500k-1m, Revenue - $3-5m
 
 Milestones:
 - Mobile DApp
@@ -127,7 +127,7 @@ Milestones:
 - XURY Wallet
 - DAO
 
-- 2024 - Becoming market leader. Users - 3-5m, Revenue - $100-150m
+2024 - Becoming market leader. Users - 3-5m, Revenue - $100-150m
 
 Milestones:
 - B2B Accounts
@@ -135,13 +135,13 @@ Milestones:
 - Smart-event planer
 - META connect
 
-- 2025 - Global Web3 platform. Users - 10-20m, Revenue - $200-300m
+2025 - Global Web3 platform. Users - 10-20m, Revenue - $200-300m
 
 Milestones: 
 - All countries 
 - All languages
 
-- 2026 Cruzo succeeds as unicorn Blockchain startup and pushes the market to full Web3 future.
+2026 Cruzo succeeds as unicorn Blockchain startup and pushes the market to full Web3 future.
 
 
 ## Additional Information 
