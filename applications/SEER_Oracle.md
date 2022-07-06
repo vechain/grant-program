@@ -31,12 +31,16 @@ Our key emphasis is on stability and protection for users against extreme price 
 #### _1.2.1 Introduction_
 
 SEER v1.0 will have the following UI:
-
-![](</static/assets/ETH.png>)
-![](</static/assets/BTC.png>)
-![](</static/assets/VTHO.png>)
-![](</static/assets/BVEUSD.png>)
-![](</static/assets/SeerOracleDiagram.png>)
+<img alt="Vebank" align="center" src="https://github.com/phamanhtai0410/test_readme/blob/main/static/assets/ETH.png?raw=true" width="100%" height="75%" >
+<p></p>
+<img alt="Vebank" align="center" src="https://github.com/phamanhtai0410/test_readme/blob/main/static/assets/BTC.png?raw=true" width="100%" height="75%" >
+<p></p>
+<img alt="Vebank" align="center" src="https://github.com/phamanhtai0410/test_readme/blob/main/static/assets/VTHO.png?raw=true" width="100%" height="75%" >
+<p></p>
+<img alt="Vebank" align="center" src="https://github.com/phamanhtai0410/test_readme/blob/main/static/assets/VEUSD.png?raw=true" width="100%" height="75%" >
+<p></p>
+<img alt="Vebank" align="center" src="https://github.com/phamanhtai0410/test_readme/blob/main/static/assets/SeerOracleDiagram.jpg?raw=true" width="100%" height="75%" >
+<p></p>
 
 #### 1.2.2 Calculate node logic
 
@@ -74,7 +78,9 @@ Datasource will come from from exchanges:
     - Freshness Period: FRESHNESS\_PERIOD = 3600 (means each 1 hour, historic data used for the algorithm will be reset)
     - Flow chart:
 
-    ![](</static/assets/CalculatingNodeDiagram.png>)
+    <!-- ![](</static/assets/CalculatingNodeDiagram.png>) -->
+    <img alt="Vebank" align="center" src="https://github.com/phamanhtai0410/test_readme/blob/main/static/assets/CalculatingNodeDiagram.png?raw=true" width="100%" height="75%" >
+<p></p>
 
 For reference:
 
