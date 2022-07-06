@@ -110,55 +110,54 @@ The article will be published in official project blog https://cruzo.medium.com
 
 ## Future Plans
 
-2022 - Starting with the basics
-Users: 50-100k Revenue: $300-500k
+- 2022 - Starting with the basics. Users - 50-100k, Revenue - $300-500k
 
 Milestones:
-Web DApp
-XURY Token
-Community
-Crypto Gift
-IDO
+- Web DApp
+- XURY Token
+- Community
+- Crypto Gift
+- IDO
 
-2023 - Market innovations
-Users: 500k-1m Revenue: $3-5m
-
-Milestones:
-Mobile DApp
-Generative NFTs
-Wallet
-DAO
-
-2024 - Becoming market leader
-Users: 10-20m Revenue: $100-150m
+- 2023 - Market innovations. Users - 500k-1m, Revenue - $3-5m
 
 Milestones:
-B2B Accounts
-Launchpad
-Smart-event planer
-META connect
+- Mobile DApp
+- Generative NFTs
+- XURY Wallet
+- DAO
 
-2025 - Global web3 platform
-Users: 30-50m Revenue: $200-300m
+- 2024 - Becoming market leader. Users - 3-5m, Revenue - $100-150m
 
-Milestones: All countries All languages
+Milestones:
+- B2B Accounts
+- Launchpad
+- Smart-event planer
+- META connect
 
-2026 Cruzo succeeds as unicorn Blockchain startup and pushes the market to full web3 future
+- 2025 - Global Web3 platform. Users - 10-20m, Revenue - $200-300m
+
+Milestones: 
+- All countries 
+- All languages
+
+- 2026 Cruzo succeeds as unicorn Blockchain startup and pushes the market to full Web3 future.
 
 
 ## Additional Information 
 
-We did a lot
-- Market & Competitor's research and analyses
-- Defined product development roadmap with key features and milestones
+
+- Pitch Desk - https://cruzo.io/docs/CRUZO-Startup-Pitch-Deck.pdf
+- Product development roadmap with key features and milestones - https://docs.google.com/spreadsheets/d/1OMTDHNIXpK58EkI-i-rYw1jMq7sWNobTZluxumfij70/edit?usp=sharing
 - UX/UI product design - https://www.figma.com/proto/882kzjuN5y4Up5X9kGu2n7/cruzo-%E2%80%94-marketplace-(design)?page-id=95%3A33&node-id=686%3A10016&viewport=54%2C509%2C0.02&scaling=min-zoom
-- Project website - cruzo.io
-- Band book - https://drive.google.com/drive/folders/1a71uJIjfGPQ498KgNI7m36rGZ3_-ZPgW?usp=sharing
-- Stageing envoriment - https://front.alpha.cruzo.cards/ (beta is 60% ready)
+- Project website - https://cruzo.io
+- Band book - https://cruzo.io/docs/CRUZO-Brandbook-ENG.pdf
+- Stageing envoriment - https://front.alpha.cruzo.cards/ 
+- Twitter - https://twitter.com/CruzoCards
 
   
   
-We winners of 2 Hackathons  
+We are winners of 2 Hackathons  
 
-- Moonriver Hackathon 2nd place - https://twitter.com/CruzoCards/status/1541336115424428032?s=20&t=WHEbF91ypu1IAs8giMWT_A
-- Cronos Hackathon 2nd place - https://twitter.com/NewsCronos/status/1483710839857336323?s=20&t=WHEbF91ypu1IAs8giMWT_A
+- Moonriver Hackathon (2nd place) - https://twitter.com/CruzoCards/status/1541336115424428032?s=20&t=WHEbF91ypu1IAs8giMWT_A
+- Cronos Hackathon (2nd place) - https://twitter.com/NewsCronos/status/1483710839857336323?s=20&t=WHEbF91ypu1IAs8giMWT_A
