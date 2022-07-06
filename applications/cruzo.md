@@ -85,13 +85,13 @@ Person D: Nikita Korshunov, Full-stack developer. Here is a link to his GitHub h
 |-|-|-|
 | 0 | Smart Contracts | We will develop the following smart contracts: ERC1155 token which represents a greeting card collectible, Marketplace contract to enable users with opening and closing trades, ERC1155 token factory to allow users to create their own collections. |
 | 1 | Indexers | We will launch indexers to propagate information from our smart contracts to the other services, e.g. backend app. |
-| 2 | Backend | "We will create a backend service that will provide API to handle frontend requests and will be integrated with our indexers to retreive information from our smart contracts." |
-| 3 | Frontend | "We will bring up a frontend part of the product that will provide basic NFT marketplace functionality: user account, minting process, catalog, item page, buying and gifting processes." |
+| 2 | Backend | We will create a backend service that will provide API to handle frontend requests and will be integrated with our indexers to retreive information from our smart contracts. |
+| 3 | Frontend | We will bring up a frontend part of the product that will provide basic NFT marketplace functionality: user account, minting process, catalog, item page, buying and gifting processes. |
 
 #### Milestone 2  —  Marketplace features extension
 | Number | Deliverable | Specification |
 |-|-|-|
-| 0 | Smart Contracts | TBD |
+| 0 | Smart Contracts | We will add Timed Auction feature to our smart contracts. |
 | 1 | Indexers | TBD |
 | 2 | Backend | TBD |
 | 3 | Frontend | TBD |
