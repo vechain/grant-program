@@ -235,7 +235,7 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 | ---| --- | --- | --- | --- |
 | Estimated Duration | 4 months | 2 months | 2 months | 8 months |
 | Full-time equivalent<br> (FTE) | 9 developers | 9 developers | 9 developers | |             
-| Cost | $80,000 development<br> cost | $40,000 development<br> cost | $40,000 development cost<br> $30,000 audit fees | $190,000 |             
+| Cost | Development cost: $15,000<br>(Smart contracts: $4,000<br>Backend: $4,000<br>Frontend: $3,000<br>Designer: $3,000<br>Server: $1,000) | Development cost: $8,000<br>(Smart contracts: $2,000<br>Backend: $2,000<br>Frontend: $2,000<br>Designer: $1,000<br>Server: $1,000) | Development cost: $7,000<br>(Smart contracts: $2,000<br>Backend: $1,000<br>Frontend: $2,000<br>Designer: $1,000<br>Server: $1,000) | $30,000 |
 
 ## 
 <br>
