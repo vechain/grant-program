@@ -29,10 +29,21 @@ Example of a bridge that we will use for VeChain:
 
 - [Bridge](https://nftmoon.space/en/bridge/)
 
+![Скриншот 19 07 22_10 02 53](https://user-images.githubusercontent.com/93310987/179687207-1b1c272d-3907-4d60-b920-bc348f79a86f.jpg)
+
+
+
 ### Project Details
 
-We expect the teams to already have a solid idea about the project's expected final state.
-Therefore, we ask the teams to submit (where relevant):
+We have been developing NFT Moon Metaverse for a year now . During this time, we have a large audience, as well as buyers of land, id cards, avatars. Currently, work is underway on the alpha version and the addition of new blockchains to the NFT Moon Metaverse.
+
+#### Mockups/Designs of any UI components
+
+3D map of the NFT Moon Metaverse, which contains six zones. Each zone corresponds to a category of plots.
+
+[![Watch the video](https://user-images.githubusercontent.com/93310987/179691149-65e6bd6e-51a0-4cdc-8b75-1f8b5d5928d6.jpg)](https://youtu.be/CxGjpD95gO8)
+
+
 - Mockups/designs of any UI components
 - API specifications of the core functionality
 - An overview of the technology stack to be used
