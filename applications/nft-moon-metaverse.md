@@ -56,18 +56,19 @@ An example of how assets are displayed in the user's account.
 ![Скриншот 19 07 22_10 39 10](https://user-images.githubusercontent.com/93310987/179694557-a155651a-0296-4c29-be02-5467c6c93943.jpg)
 
 An example of one of the first test locations.
+<img width="1439" alt="Screenshot at Mar 08 12-15-25-min" src="https://user-images.githubusercontent.com/93310987/179696422-d3c3bb4e-78f4-4c5c-98fe-e9c34e40f64c.png">
+<img width="1439" alt="Screenshot at Mar 08 12-14-28-min" src="https://user-images.githubusercontent.com/93310987/179696447-5bd4eba5-be2a-4bf5-949e-c4ad51a4df05.png">
+<img width="1439" alt="Screenshot at Mar 08 12-17-40-min" src="https://user-images.githubusercontent.com/93310987/179696462-22196f7b-7cad-4fd5-95b6-4e47c773ec7d.png">
 
-<img width="1439" alt="Screenshot at Mar 08 12-15-25" src="https://user-images.githubusercontent.com/93310987/179695592-3c0d6325-a5c8-495a-a661-5a453264d4c4.png">
-<img width="1439" alt="Screenshot at Mar 08 12-14-28" src="https://user-images.githubusercontent.com/93310987/179695609-5bf09a49-897e-4447-9edd-0f3d60125f36.png">
-<img width="1439" alt="Screenshot at Mar 08 12-17-40" src="https://user-images.githubusercontent.com/93310987/179695658-90da76bf-193e-428c-bb3e-abf427150ce8.png">
+#### API specifications of the core functionality
+
+Example of Solution Architecture/Server infrastructure.
+![Скриншот 19 07 22_11 03 42](https://user-images.githubusercontent.com/93310987/179699811-ef4af95c-8dd0-4800-bdb4-9bdd8d9b9ef9.jpg)
+![Скриншот 19 07 22_11 08 22](https://user-images.githubusercontent.com/93310987/179700746-21f1b8fd-d7f1-4df0-89f0-9026e88776b0.jpg)
 
 
 
 
-
-
-- Mockups/designs of any UI components
-- API specifications of the core functionality
 - An overview of the technology stack to be used
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
