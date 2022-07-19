@@ -2,17 +2,32 @@
 
 ## Project Overview 
 
-- Project: The name of the project
-- Team Name: Legal name of your team 
-- Payment Address: USDT (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
+- Project: NFT Moon Metaverse
+- Team Name: NFT Moon Metaverse
+- Payment Address: 0x197727Ad2EC7326952843Fbd83A0d57B907afbdF (ERC 20 USDT / USDC / BUSD) payment address
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 ### Overview
 
-Please provide the following:
-- A brief description of the project.
-- An indication of why your team is interested in creating this project within the VeChain Ecosystem.
-- If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
+ NFT Moon Metaverse is the futuristic Create2Earn multi blockchain universe. It will be inhabited by self-driven and creative people craving for boundless opportunities. NFT Moon is a metaverse in which a person can build a new life. The main task of the player is to make the planet alive. To do this, convenient constructors are given, where a person builds avatars, houses, objects, cities, countries. All interaction is based on Play2Earn and Create2Earn. The entire metaverse is built on plots of land. Plots can already be bought . The plot gives the following opportunities: to divide the land, to rent, to receive income from the metaverse, access to advanced designer features, access to rare avatars.
+ID Cards grants the entrance to the Metaverse where each person can build a personalized reality and experience. Besides networking with other MoonWalkers , one has access to a variety of Metaverse assets: land plots, objects, avatars, advanced designer features. There are over 10 beneficial opportunities in NFT Moon Metaverse — from renting land to creating businesses and events.
+
+We are interested in expanding the blockchains that will be used in the metaverse. Now we use four main blockchains: Polygon, Ethereum, Binance Smart Chain, Avalanche.
+Thanks to the bridge between blockchains, we will implement a bridge for the VeChain blockchain. This will make it possible to move assets of the metaverse (land, ID card, avatars) from other blockchains to the VeChain network and in the opposite direction.
+It will also enable holders of land, id cards, avatars to trade them on marketplaces that support VeChain:
+
+ - [World of V](https://marketplace.worldofv.art/)
+  - [VeSea](https://vesea.io/)
+  - [VPunks](https://vpunks.com/#/)
+  - [VimWorld](https://www.vimworld.com/vimmarket)
+  - [NFT Paper Project](https://nftpaperproject.com/market)
+  - [BlackVeMarket](https://blackvemarket.com/)
+
+
+Thus, we will create a trading path between different blockchains for NFT Moon Metaverse. 
+Example of a bridge that we will use for VeChain:
+
+- [Bridge](https://nftmoon.space/en/bridge/)
 
 ### Project Details
 
