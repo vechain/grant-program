@@ -39,9 +39,31 @@ We have been developing NFT Moon Metaverse for a year now . During this time, we
 
 #### Mockups/Designs of any UI components
 
-3D map of the NFT Moon Metaverse, which contains six zones. Each zone corresponds to a category of plots.
+[3D map of the NFT Moon Metaverse](https://moonmeta.world/), which contains six zones. Each zone corresponds to a category of plots. 
 
 [![Watch the video](https://user-images.githubusercontent.com/93310987/179691149-65e6bd6e-51a0-4cdc-8b75-1f8b5d5928d6.jpg)](https://youtu.be/CxGjpD95gO8)
+
+An example of the primary avatar constructor when logging into your personal account.
+
+![Скриншот 19 07 22_10 32 25](https://user-images.githubusercontent.com/93310987/179693287-41957181-ba5a-4741-810f-116f275ddc96.jpg)
+
+Example of choosing the option to enter the metaverse.
+
+![Скриншот 19 07 22_10 36 06](https://user-images.githubusercontent.com/93310987/179693811-0b868274-4b11-4358-8722-60f0fecc3216.jpg)
+
+An example of how assets are displayed in the user's account.
+
+![Скриншот 19 07 22_10 39 10](https://user-images.githubusercontent.com/93310987/179694557-a155651a-0296-4c29-be02-5467c6c93943.jpg)
+
+An example of one of the first test locations.
+
+<img width="1439" alt="Screenshot at Mar 08 12-15-25" src="https://user-images.githubusercontent.com/93310987/179695592-3c0d6325-a5c8-495a-a661-5a453264d4c4.png">
+<img width="1439" alt="Screenshot at Mar 08 12-14-28" src="https://user-images.githubusercontent.com/93310987/179695609-5bf09a49-897e-4447-9edd-0f3d60125f36.png">
+<img width="1439" alt="Screenshot at Mar 08 12-17-40" src="https://user-images.githubusercontent.com/93310987/179695658-90da76bf-193e-428c-bb3e-abf427150ce8.png">
+
+
+
+
 
 
 - Mockups/designs of any UI components
