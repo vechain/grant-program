@@ -46,26 +46,16 @@ Are there any other projects similar to yours? If so, how is your project differ
 Advantages
 
 0 JOINING CHARGE
-We don't charge any money as 
-joining fees for our platform 
-unlike our competitors charging 
-b/w $100 to $500
+We don't charge any money as joining fees for our platform unlike our competitors charging b/w $100 to $500
 VENN WALLET
-We will have an inbuilt 
-Wallet service for our users 
-so that they won't need 
-third-party wallet like 
+We will have an inbuilt Wallet service for our users so that they won't need third-party wallet like 
 metamask
-NO TRANSACTION FEES
-We pay all the transaction fees on 
-our platform making it more easy 
-and cheap to use us & FREE NFT 
+NO TRANSACTION FEES 
+We pay all the transaction fees on our platform making it more easy and cheap to use us & FREE NFT 
 minting
 MONETIZATION & 
 TIPS
-We provide our users to 
-monetize their content and 
-alo earn through tips
+We provide our users to monetize their content and alo earn through tips
 ## Team 
 
 ### Team members
@@ -132,7 +122,7 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 | - | - | - | - | - |
 | Estimated Duration | 30 d | 30 d | 30 d | 90 d |
 | Full-time equivalent (FTE) | 1.5 | 1.5 | 1.5 | 4.5 |
-| Cost (up to $ 30,000) | $ 8,000 | $ 8,000 | $ 8,000| $ 24,000|
+| Cost (up to $ 30,000) | $ 15,000 | $ 8,000 | $ 3,500| $ 3,500| $ 30,000|
 
 #### Milestone 1 — Smart Contract & Backend
 
