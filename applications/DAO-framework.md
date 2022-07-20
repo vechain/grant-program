@@ -9,7 +9,13 @@
 
 ### Overview
 
-We would like to provide a solution for creating a Decentralized Autonomous Organization (DAO) on VeChain in a simpler way. SayNode Operations is creating a DAO using the VeChain network and we would like to create a simpler way for other future projects and other developers working on VeChain to launch a DAO. We intend to create a library with all the functions needed for the DAO development. This library will allow developers to not spend hours on developing each functionality themselves but doing it in a shorter and easier way by using the DAO library created by us.
+We would like to provide an open source solution for creating a Decentralized Autonomous Organization (DAO) on VeChain in a simpler way. DAOs have proven to be one of the most important aspects of the web3 space. 
+
+Although their adoption has grown, the complexity of the contracts can deter a lot of developers from trying to implement them. SayNode Operations is creating a DAO using the VeChain network and we would like to create a simpler way for other future projects and other developers working on VeChain to launch a DAO, this way bringing more developers to the Vechain space. 
+
+We intend to create an open source library with all the functions needed for the DAO development. Although there is much use for websites who simplify this type of creations, libraries are essential to the space as they allow for the manipulation and discovery of new aspects of the DAO governance.
+
+VeChain is also a perfect place to create a DAO governance due to the low fees and speed it offers.
 
 The main goal of this project is to build a solution to simplify the developers work and eliminate the existing hurdles. 
 
@@ -17,19 +23,22 @@ The main goal of this project is to build a solution to simplify the developers 
 ### Project Details
 
 We have divided the project into 5 sub-steps. 
-Create a library which will be able to:
+Create an open source library which will be able to:
 - import wallets and connect to a VeChain node.
 - handle proposals, voting and queue/execute functions of the DAO.
 - grant and revoke governance roles (for example give proposer roles to everybody, executer role to the governance contract address and revoke the TimeLock admin role from the contract deployer).
 - wrap and unwrap the VIP180 token of the DAO (in case it was not made with the standard ERC20Votes extension).
 - doing all this making use of the OpenZeppelin standard DAO smart contracts, allowing for the creation of safe and tested DAOs.
+- Further information about the library (such as an example of how a DAO creation script would look like, an overview of the technology stack to be used and some documentation of core components, protocols, architecture, etc. to be deployed) can be found here: https://github.com/SayNode/DAO-VeChain
 
 
 The individual milestones and their duration can be viewed in detail below. 
 
 ### Ecosystem Fit
 
-Developers who want to create a DAO on VeChain will need to add additional support to make all the connections to VeChain wallets, to grant and revoke roles, handle proposals and wrap the token the moment you vote, and unwrap after (to take snapshots before each vote). In order to simplify this process we will create this library which will have all these functionalities ready to use for the developers. DAOs are booming on other chains but sadly there are not many DAOs on VeChain. We aim to make it easier to create a DAO on VeChain.
+Developers who want to create a DAO on VeChain will need to add additional support to make all the connections to VeChain wallets, to grant and revoke roles, handle proposals and wrap the token the moment you vote, and unwrap after (to take snapshots before each vote). In order to simplify this process we will create this library which will have all these functionalities ready to use for the developers. 
+The library will be organized in classes and it will make use of different python libraries, being the most relevant the thor_requests and web3 libraries.
+DAOs are booming on other chains but sadly there are not many DAOs on VeChain. We aim to make it easier to create a DAO on VeChain.
 
 
 ## Team 
@@ -66,6 +75,7 @@ Simon Heer has worked several years in B2B Sales for RedHat and VmWare as well a
 
 ### Team Code Repos
 
+- https://github.com/SayNode/DAO-VeChain (examples and further documentation of the DAO framework)
 - https://github.com/SayNode  A few repositories are private because of confidentiality agreements
 - https://github.com/RsTs23
 - https://github.com/wernerliechti
@@ -118,7 +128,6 @@ Simon Heer has worked several years in B2B Sales for RedHat and VmWare as well a
 | 3 | Roles.py | It will be possible to grant propose role to everybody, executor role to the governance contract address and revokes the TimeLock admin role from the contract deployer (so that he no longer controls the DAO in any way). |
 
 
-
 #### Milestone 3  —  Deployment and running tests
 
 | Number | Deliverable | Specification |
@@ -127,18 +136,20 @@ Simon Heer has worked several years in B2B Sales for RedHat and VmWare as well a
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial. |
 | 1 | Deployment | The contracts will be deployed on VeChain Network. |
 | 2 | Test | The library will be tested to make sure its functionalities are all running. |
+| 3 | Mainnet launch | Deploy and run the library on VeChain Mainnet. |
+| 4 | DAO website |  Create a DAO website to use the framework. |
 
 
 
 
 #### Community engagement
 
-After the project is completed, an article will be created for Medium to inform developers and companies about the new possibilities. Also, SayNode Operations channels will be used to inform the community. Specifically, a blog post will be written on the website and a post will be made on LinkedIn. Also a documentation will be created that gives information about the handling and functionalities. 
- 
+After the project is completed, an article will be created for Medium to inform developers and companies about the new possibilities. Also, SayNode Operations channels will be used to inform the community. Specifically, a blog post will be written on the website and a post will be made on LinkedIn and Twitter. On top of that, documentation will be created that gives information about the handling and functionalities. Developers will be able to reach us out using our website if they have any questions regarding the procedure.
+
 
 ## Future Plans
 
-We will be able to create a DAO using this library and then use it every time we will be asked to create a DAO. In the future we might want to create an even easier interface that allows users to create DAOs with minimal to no coding experience based on this library. 
+We will be able to create a DAO using this library and then use it every time we will be asked to create a DAO. In the future we might want to create an even easier interface that allows users to create DAOs on VeChain with minimal to no coding experience based on this library. 
 
 ## Additional Information 
 
@@ -151,4 +162,5 @@ The planning of the project is all done, smart contracts integration and DAO.py,
 The project has not received any direct investment from other resources and is managed solely by SayNode Operations. 
 
 - Have you applied for other grants so far?
+
 No grant has yet been requested for this specific project. A grant has already been approved for a VeChain project with a different use case as mentioned above, see https://github.com/VeChain/grant-program/pull/51
