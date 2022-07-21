@@ -18,7 +18,6 @@ It will also enable holders of land, id cards, avatars to trade them on marketpl
 
  - [World of V](https://marketplace.worldofv.art/)
   - [VeSea](https://vesea.io/)
-  - [VPunks](https://vpunks.com/#/)
   - [VimWorld](https://www.vimworld.com/vimmarket)
   - [NFT Paper Project](https://nftpaperproject.com/market)
   - [BlackVeMarket](https://blackvemarket.com/)
@@ -99,7 +98,7 @@ Blockchains:
 - Ethereum
 - BSC
 - Avalanche
-- ViChaine
+- VeChain
 - TON
 - Solana
 - Cardano
@@ -212,35 +211,49 @@ In this part, only the details that relate to the integration of the VeChain bri
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
+|  | Milestone 1 | Total |
+| - | - | - |
+| Estimated Duration | 16 d | 16 d |
+| Full-time equivalent (FTE) | 30 | 30 |
+| Cost (up to $ 30,000) | $ 30,000 | $ 30,000|
 
-#### Milestone 1 — Smart Contract & Backend
+#### Milestone 1 — Smart Contract & Creating collections on NFT marketplaces
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) |
-| 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
+| 1 | Smart Contracts | We will develop smart contracts that will:<br>1. Support ERC-721<br>2. Support ERC-1155<br>3. Freeze/Unfreeze Native NFTs<br>4. Mint/Burn wrapped NFTs<br>5. Pay the TX fees on the target chain in native tokens<br>6. Send / Receive NFTs in batches |
+| 2 | Validators | 1. Setting up the VeChain Node for listening to the events<br>2. Adding the logic to the validators |
+| 3 | Backend | Integration of VeChain in the:<br>1. NFT Index<br>2. TX Fee Estimator<br>3. Crypto-currency converter |
+| 4 | Frontend | Integration of VeChain in the:<br>1. User Interface<br> 2. Wallets (Metamask, TrustWallet, WalletConnect) <br> 3. Placing the bridge on the main website |
+| 3 | NFT marketplaces | Creating a collection for NFT Moon Metaverse lands and ID card on marketplaces supporting VeChain |
 
-#### Milestone 2  —  Frontend
-
-...
 
 #### Community engagement
 
-As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
+As part of the Program, we will prepare and publish articles describing the capabilities of the Zichain blockchain, as well as tell the audience of our social networks about how you can now sell your NFT lands, ID cards on marketplaces:
+  - [World of V](https://marketplace.worldofv.art/)
+  - [VeSea](https://vesea.io/)
+  - [VimWorld](https://www.vimworld.com/vimmarket)
+  - [NFT Paper Project](https://nftpaperproject.com/market)
+  - [BlackVeMarket](https://blackvemarket.com/)
 
 ## Future Plans
 
-Please include the team's long-term plans and intentions.
+What we intend to do in the near future and what are our intentions:
+
+- To release an alpha version, where owners of plots, avatars, id cards from different blockchains will be able to stay and develop inside the NFT Moon Metaverse.
+- Launching the NFT wrapping and splitting mechanism inside the metaverse.
+- Launching an internal marketplace.
+- The start of the first season in NFT Moon Metaverse.
+- Launching the NFT farmig.
+- 
+
+
 
 ## Additional Information 
+
+All the work done can be checked on [GitBook](https://moon-metaverse.gitbook.io/link-nft-moon-metaverse/).
+
 
 Any additional information that you think is relevant to this application that hasn't already been included.
 
