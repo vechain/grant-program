@@ -116,6 +116,26 @@ Blockchains:
 NFT Moon Metaverse it is an implementation of an online gaming web service based on three.js and blockchain, as well as distributed IOT infrastructure. The service provides users with access to the functionality as a result of authorization using a crypto wallet. Within the framework of the service, the user can use the functionality of systems designed for the processes of creating and editing content, market processes of exchange, purchase and sale and others, financial processes, management processes, learning processes, communication processes and game and non-game interaction of users with each other, as well as with the surrounding virtual world and objects of the surrounding virtual world.
 The main mechanics of user-product interaction are create-to-earn and play-to-earn.
 
+Multi-blockchain bridge:
+
+Multi-blockchain bridging is one of the most active areas of blockchain development at the moment, but few projects focus on NFT bridges. Even those that do support only a limited number of chains. The bridge in the NFT Moon Metaverse has the following advantages:
+
+- The first bridge designed exclusively for NFTs, tackling every aspect of asset transition and compatibility across multiple protocols;
+- A much wider range of supported blockchains: any chain can be connected to the bridge;
+- Linking EVM to a range of non-EVM chains with fundamentally different tech stacks, such as Elrond, Solana, Cardano, Algorand, etc.
+- A simple and seamless UI for minting, transfering, and exploring NFTs;
+- Attractively low transaction fees, payable in the currency of the origin blockchain (ETH, BNB, SOL etc.);
+- Highly scalable: the capacity of the bridge is limited only by the TPS of the bridged chains;
+- Possibility to mint NFTs on multiple chains from an easy-to-use UI;
+- Superior security and reliability: a multilayer security system capable of preventing all common types of attacks, with no single points of failure;
+- A more versatile technological stack, and provide the same level of security and reliability;
+- Possibility to integrate the bridge with any NFT dApp, allowing users to trade and exchange NFTs the way they are used to, while the bridge operates behind the scenes;
+- Possibility of transferring NFTs in Batches;
+- Possibility of transferring NFT smart contract logic;
+- Option of choosing the smart contract to mint wrapped NFTs with on the target chain.
+
+
+
 
 
 ## Team 
