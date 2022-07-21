@@ -231,7 +231,7 @@ In this part, only the details that relate to the integration of the VeChain bri
 
 #### Community engagement
 
-As part of the Program, we will prepare and publish articles describing the capabilities of the Zichain blockchain, as well as tell the audience of our social networks about how you can now sell your NFT lands, ID cards on marketplaces:
+As part of the Program, we will prepare and publish articles describing the capabilities of the VeChain blockchain, as well as tell the audience of our social networks about how you can now sell your NFT lands, ID cards on marketplaces:
   - [World of V](https://marketplace.worldofv.art/)
   - [VeSea](https://vesea.io/)
   - [VimWorld](https://www.vimworld.com/vimmarket)
