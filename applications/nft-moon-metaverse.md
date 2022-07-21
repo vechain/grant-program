@@ -139,8 +139,9 @@ Multi-blockchain bridging is one of the most active areas of blockchain developm
 
 [NFT Moon Metaverse Team](https://moon-metaverse.gitbook.io/untitled/)
 
-- Name of team leader
-- Names of team members
+- [JAN LUKASHIN](https://github.com/YanLukashin) Blockchain Developer
+- [AKASH MAHER](https://github.com/akashmaher)Blockchain Developer
+- YURI SLATIN  VR/AR development
 
 ### Team Website
 
@@ -246,24 +247,9 @@ What we intend to do in the near future and what are our intentions:
 - Launching an internal marketplace.
 - The start of the first season in NFT Moon Metaverse.
 - Launching the NFT farmig.
-- 
-
 
 
 ## Additional Information 
 
 All the work done can be checked on [GitBook](https://moon-metaverse.gitbook.io/link-nft-moon-metaverse/).
-
-
-Any additional information that you think is relevant to this application that hasn't already been included.
-
-Possible additional information to include:
-- What work has been done so far?
-- Are there any teams who have already contributed (financially) to the project?
-- Have you applied for other grants so far?
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
+To date, we have not attracted investments from foundations and other projects through grants. All this time we are developing at the expense of our own money and money raised from the sale of plots, id cards, avatars. Only now have we started the process of communicating with foundations and grants.
