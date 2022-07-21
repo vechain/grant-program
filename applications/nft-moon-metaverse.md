@@ -184,13 +184,15 @@ Our team consists of 40 professionals with scientific background and experience 
 
 ### Team Code Repos
 
-- https://github.com/<your_repo_1>
-- https://github.com/<your_repo_2>
+- [NFT Moon Metaverse GitHub repository](https://github.com/nftmoonmetaverse) 
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- [Alexsei Zhukevich](https://www.linkedin.com/in/aleksei-zhukevich-5a24324a/)
+- [Sergei Shcheretskii](https://www.linkedin.com/in/sergei-shcheretskii-6a6125217/)
+- [Jan Lukashin](https://www.linkedin.com/in/yan-lukashin/)
+- [Yuriy Slatin](https://www.linkedin.com/in/yuriy-slatin-92600976/)
+- [Yuriy Slatin](https://www.linkedin.com/in/yuriy-slatin-92600976/)
 
 ## Development Roadmap 
 
