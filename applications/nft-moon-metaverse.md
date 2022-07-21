@@ -66,7 +66,29 @@ Example of Solution Architecture/Server infrastructure.
 ![Скриншот 19 07 22_11 03 42](https://user-images.githubusercontent.com/93310987/179699811-ef4af95c-8dd0-4800-bdb4-9bdd8d9b9ef9.jpg)
 ![Скриншот 19 07 22_11 08 22](https://user-images.githubusercontent.com/93310987/179700746-21f1b8fd-d7f1-4df0-89f0-9026e88776b0.jpg)
 
-#### Tech Stack:
+#### Tech Stack
+
+Development:
+
+- Java/Go
+- three.js
+- Python
+- HTML5
+- Solidity
+- 
+DevOps:
+
+- Postgres
+- Elastic search
+- Nginx
+- OpenShift container platform
+- GitLab
+
+Blockchains:
+
+- 
+
+
 
 
 
