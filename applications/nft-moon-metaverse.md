@@ -94,14 +94,26 @@ Services/technologies/protocols:
 - RTMP/HTTPS protocol
 
 Blockchains:
-- 
 
+- Polygon
+- Ethereum
+- BSC
+- Avalanche
+- ViChaine
+- TON
+- Solana
+- Cardano
+- Tron
+- Elrond
+- Tezos
+- Aurora
+- GateChain
+- Harmony
+![Скриншот 21 07 22_09 21 04](https://user-images.githubusercontent.com/93310987/180143385-c32d0d6e-0bd5-40bc-b3eb-3904ec78cfc1.jpg)
 
+It is an implementation of an online gaming web service based on three.js and blockchain, as well as distributed IOT infrastructure. The service provides users with access to the functionality as a result of authorization using a crypto wallet. Within the framework of the service, the user can use the functionality of systems designed for the processes of creating and editing content, market processes of exchange, purchase and sale and others, financial processes, management processes, learning processes, communication processes and game and non-game interaction of users with each other, as well as with the surrounding virtual world and objects of the surrounding virtual world.
+The main mechanics of user-product interaction are create-to-earn and play-to-earn.
 
-
-
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
 
 ### Ecosystem Fit
 Are there any other projects similar to yours? If so, how is your project different?
