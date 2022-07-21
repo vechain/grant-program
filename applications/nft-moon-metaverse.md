@@ -178,6 +178,10 @@ Our team consists of 40 professionals with scientific background and experience 
   - https://youtu.be/36diKCS_AxE
   - https://youtu.be/h1qgVReV64I
 
+- JAN LUKASHIN/CTO. Leader of the [blockchain development](https://blockchaindev.ru/) team. Heads a team of 6 blockchain developers. One of the founders of the [CultDAO project](https://culd.org/).
+- OXSANA SHERR/PR/Marketing. Worked at Yandex as Head of International communications and PR, then joined TikTok (ByteDance) Eastern Europe Marketing team. PR and marketing advisor of crypto and blockchain project since 2020.
+- DENIS NOVIKOV/Advisor. Working with partners and an affiliate program. Heads the team of the marketing platform TO THE MOON (Sale of plots, id cards, avatars).
+
 ### Team Code Repos
 
 - https://github.com/<your_repo_1>
