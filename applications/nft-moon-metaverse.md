@@ -158,25 +158,25 @@ Our team consists of 40 professionals with scientific background and experience 
 - ALEKSEI ZHUKEVICH/CEO/Сo-Founder : 14 years of experience in it.4 years of experience in blockchain and cryptocurrencies. In 2017 , he was the founder of Kriptokurs.ru . During this period there were more than 800,000 visitors per month. In 2013, he created and sold a customer service for a Swiss financial company.
 - SERGEY SHCHERETSKIY/CMO/Co-Founder/9 years of experience in business activities and business baking/mentorship/ Marketing.
 - YURI SLATIN/VR/AR development. Founder and CEO of [LikeVR](https://likevr.ru/vse-projecty/). 120 completed projects for large companies (Mercedes, IBM). Lead the game dev development team (more than 20 people).
-- - https://nianticlabs.com/blog/ardkdemochallenge/?hl=en
-- - https://youtu.be/FeAvPInM1eo
-- - https://youtu.be/XYWtEFWZRBk
-- - https://youtu.be/Qjg-32rfbdM
-- - https://youtu.be/6W0IwQ5eIIs
-- - https://youtu.be/_R6ZJ4jm1l0
-- - https://youtu.be/ITK2Sg7QHr4
-- - https://youtu.be/Xxl1NIC1XII
-- - https://youtu.be/qRMF0l29vyU
-- - https://youtu.be/UZ6csRSLQuE
-- - https://youtu.be/6SM9FPZuK2A
-- - https://youtu.be/hTVFQccd8ok
-- - https://youtu.be/jihQ6Zf3N2U
-- - https://youtu.be/EkUMmjqIOuU
-- - https://youtu.be/syOz_h5aH18
-- - https://youtu.be/DKsYo4sYjfA
-- - https://youtu.be/YaEpdx93LFA
-- - https://youtu.be/36diKCS_AxE
-- - https://youtu.be/h1qgVReV64I
+  - https://nianticlabs.com/blog/ardkdemochallenge/?hl=en
+  - https://youtu.be/FeAvPInM1eo
+  - https://youtu.be/XYWtEFWZRBk
+  - https://youtu.be/Qjg-32rfbdM
+  - https://youtu.be/6W0IwQ5eIIs
+  - https://youtu.be/_R6ZJ4jm1l0
+  - https://youtu.be/ITK2Sg7QHr4
+  - https://youtu.be/Xxl1NIC1XII
+  - https://youtu.be/qRMF0l29vyU
+  - https://youtu.be/UZ6csRSLQuE
+  - https://youtu.be/6SM9FPZuK2A
+  - https://youtu.be/hTVFQccd8ok
+  - https://youtu.be/jihQ6Zf3N2U
+  - https://youtu.be/EkUMmjqIOuU
+  - https://youtu.be/syOz_h5aH18
+  - https://youtu.be/DKsYo4sYjfA
+  - https://youtu.be/YaEpdx93LFA
+  - https://youtu.be/36diKCS_AxE
+  - https://youtu.be/h1qgVReV64I
 
 ### Team Code Repos
 
