@@ -84,8 +84,16 @@ DevOps:
 - OpenShift container platform
 - GitLab
 
-Blockchains:
+Services/technologies/protocols:
 
+- Open Shift balancier
+- NAT gateway
+- OCP auto scaling group (shards)
+- AUTH service
+- Web sockets protocol
+- RTMP/HTTPS protocol
+
+Blockchains:
 - 
 
 
