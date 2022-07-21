@@ -192,6 +192,8 @@ Our team consists of 40 professionals with scientific background and experience 
 - [Sergei Shcheretskii](https://www.linkedin.com/in/sergei-shcheretskii-6a6125217/)
 - [Jan Lukashin](https://www.linkedin.com/in/yan-lukashin/)
 - [Yuriy Slatin](https://www.linkedin.com/in/yuriy-slatin-92600976/)
+- [Oxy Sherr](https://www.linkedin.com/in/oxy-sherr-21569879/)
+
 
 ## Development Roadmap 
 
