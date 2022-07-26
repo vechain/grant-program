@@ -58,13 +58,17 @@ Datasource will come from from exchanges:
 
 | **ID** | **Datasource** |
 | --- | --- |
-| 1 | Binance |
-| 2 | CoinBase |
-| 3 | Kraken |
-| 4 | Gemini |
-| 5 | Poloniex |
-| 6 | Kraken Crypto Watch |
-| 7 | Vexchange |
+| 1 | Kucoin |
+| 2 | Houbi Crypto Watch|
+| 3 | BitMart |
+| 4 | OceanEx |
+| 5 | Binance |
+| 6 | CoinBase |
+| 7 | Kraken |
+| 8 | Gemini |
+| 9 | Poloniex |
+| 10 | Kraken Crypto Watch |
+| 11 | Vexchange |
 
 2. Calculating Node will implement a function for choosing &quot;price&quot; at that moment: median, median\_low, median\_high,... This function is controlled by a Redis hash key stored in Redis Cluster. Now we got choosing\_price
 
@@ -105,10 +109,11 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 ### 2.1 Team members
 |||
 | --- | --- |
-| Team leaders: | Mr. Truong Phan (CEO) |
+| Team leaders: | Mr. Thong Nguyen (CEO) |
 || Mr. Tram Vo (CTO) |
 | Team members: | Mr. Phat Nguyen (DevOps Team Lead) |
 || Mr. Hanh Nguyen (Frontend Team Lead)|
+|| Mr. Truong Phan (Head Of Blockchain)|
 ||+ 1 system engineer<br>+ 1 blockchain engineer<br>+ 1 backend engineer<br> + 1 designer<br>|
 
 ### 2.2 Team Website
@@ -132,42 +137,59 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 
 | **Name** | **Linked in Profile** |
 | --- | --- |
-| Mr. Truong Phan | https://www.linkedin.com/in/buckphan/ |
+| Mr. Thong Nguyen | https://www.linkedin.com/mwlite/in/thong-nguyen-92223734 |
 | Mr. Tram Vo | https://www.linkedin.com/in/tram-vo-a72309199/ |
 | Mr. Phat Nguyen | https://www.linkedin.com/in/phat-nguyen-kim-715481233/ |
 | Mr. Hanh Nguyen | https://www.linkedin.com/in/hanh-nguyen-21839923a/ |
+| Mr. Truong Phan | https://www.linkedin.com/in/buckphan/ |
+
 
 ##
 
 
 ## 3 Development Roadmap
 
-### 3.1 Example Roadmap for a dApp Application
+### 3.1 Roadmap
+
+- May 2022
+
+    - Implement Smart contracts.
+    - Implement Crawler to crawl assets price from top exchanges.
+    - Implement Logic node, Calculating node.
 
 - July 2022
 
-    - Deploy SEER v1.0 oracle on VeChain testnet.
+    - Deploy SEER oracle v1.0 on VeChain testnet.
+    - Deploy website for testnet.
     - Supports price data feed for BTC, ETH, VET, VTHO, VeUSD.
+    - Upgrade Crawler to get assets price for more exchanges.
 
 - August - September 2022
 
-    - Deploy SEER v1.0 oracle on VeChain mainnet.
+    - Deploy SEER oracle v1.0 on VeChain mainnet.
+    - Deploy official website for SEER oracle on mainnet.
+
+- October 2022
+
+    - Allow to feed customize data to blockchain via an url.
 
 ### 3.2. Overview
 
-|| Milestone 1 | Milestone 2 | Total |
-| --- | --- | --- | --- |
-| Estimated Duration | 2 month | 2 month | 4 months |
-| Full-time equivalent (FTE) | 4 full-time engineers| 4 full-time engineers||
-| Cost (up to $ 30,000) | Development cost: $10,000<br>(Backend: $3,000<br>Crawler: $3,000<br>Frontend: $1,000<br>Smart contracts: $3,000)| Development cost: $10,000<br>(Backend: $1,000<br>Crawler: $1,000<br>Frontend: $1,000<br>Smart contracts: $1,000<br>Server: $6,000 for 12 months)<br>Gas fee to keep the oracle running:$10,000 in $VTHO | $30,000 |
+|| Milestone 1 | Milestone 2 | Milestone 3 | Total |
+| --- | --- | --- | --- | --- |
+| Estimated Duration | 2 months | 1.5 months | 1.5 months |  5 months |
+| Full-time equivalent (FTE) | 4 full-time engineers| 4 full-time engineers | 4 full-time engineers||
+| Cost (up to $ 30,000) | Development cost: $6,000<br>(Backend: $1,500<br>Crawler: $1,500<br>Frontend: $1,000<br>Smart contracts: $2,000)| Development cost: $10,000<br>(Backend: $1,000<br>Crawler: $1,000<br>Frontend: $1,000<br>Smart contracts: $1,000<br>Server: $6,000 for 12 months)<br><br> <strong>Gas fee to keep the oracle running:$10,000 in $VTHO for at least 12 months</strong> | Development cost: $4,000<br>(Backend: $1,500<br>Crawler: $1,000<br>Smart contracts: $1,500) | $30,000 |
 
 #### 3.2.1 Milestone 1 — Deploy SEER v1.0 on testnet
  
 - Smart contracts for BTC, ETH, VET, VTHO, VeUSD data price on testnet.
-- Website testnet on https://oracle-stag.vebank.io/home.
+- Implement Crawler module to get assets price from top exchanges (listing above).
+- Implement the logic for Calculating node.
+- Implement and deploy the website on testnet at https://oracle-stag.vebank.io/home.
 - Some smart contracts on testnet in currently:
     - SeerOracleVETUSD: `0x3212feD5581DEFbb2d7Ea21d7F22f657cD3da97E`
-    - SeerOracleVETHOUSD: `0x5E7A52743575FE6F8cD8937C0415640338eBdd29`
+    - SeerOracleVTHOUSD: `0x5E7A52743575FE6F8cD8937C0415640338eBdd29`
     - SeerOracleVBUSD: `0xDf925feC9932A1De0d2b4404cCfac09166624F94`
     - SeerOracleVEUSDUSD: `0xA2B0d7b38dc13a58A7B4c0E8E2400d650dad46EC`
     - SeerOracleBTCUSD: `0x18A2fEAae2fA06B3452fd094Ba802C93FF0dA972`
@@ -176,7 +198,16 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 #### 3.2.2 Milestone 2 — Deploy SEER v1.0 on mainnet
 
 - Deploy smart contract for BTC, ETH, VET, VTHO, VeUSD data price on mainnet.
-- Deploy official SEER website.
+- Deploy official SEER website on separate domain.
+- Server to host the Seer oracle node.
+- Update Crawler for more exchanges as community recommended.
+
+#### 3.2.3 Milestone 3 — Deploy SEER v1.1 on testnet
+
+- Deploy smart contract that allow builders can feed customize data from an url by a JSON format.
+- Implement Crawler module to get customize data from an url.
+- Implement the logic for Calculating node to feed customize data from url to blockchain.
+- Feed more data as builders recommended.
 
 ##
 
@@ -207,4 +238,4 @@ About other grants
 Financial contributions
 
 - Our team has self-financed this project from the beginning.
-- Total budget that we have spent till date is about $20,000.
+- Total budget that we have spent till date is about $10,000.
