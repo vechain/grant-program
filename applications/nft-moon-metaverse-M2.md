@@ -237,6 +237,10 @@ In this part, only the details that relate to the integration of the VeChain bri
 
 #### Tangible result
 
+How can I check if the VeChain bridge is implemented. To do this, go to the official website of [NFT Moon Metaverse](https://nftmoon.space/en/bridge/) and you can easily transfer the plot, id card and other assets of the metaverse across the bridge. To do this, select the destination network VeChain.
+
+![54454](https://user-images.githubusercontent.com/93310987/181768956-1e69dd89-ef85-4eb4-9a78-5857811569ed.jpg)
+
 
 
 #### Community engagement
