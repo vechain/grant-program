@@ -214,7 +214,7 @@ In this part, only the details that relate to the integration of the VeChain bri
 
 |  | Milestone 1 | Milestone 1 |Total |
 | - | - | - | - |
-| Estimated Duration | 16 d | 12 d |16 d |
+| Estimated Duration | 16 d | 12 d |28 d |
 | Full-time equivalent (FTE) | 30 | 24 |54 |
 | Cost (up to $ 30,000) | $ 25,000 | $ 5,000|$ 30,000|
 
@@ -231,8 +231,12 @@ In this part, only the details that relate to the integration of the VeChain bri
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 4 | Frontend | Integration of VeChain in the:<br>1.[User Interface](https://github.com/nftmoonmetaverse/bridge-interface) <br> 2. Wallets (Metamask, TrustWallet, WalletConnect) for networks that support work with ERC721 and ERC1155 <br> 3. Placing the bridge on [the main website](https://nftmoon.space/en/bridge/) |
-| 5 | NFT marketplaces | Creating a collection for NFT Moon Metaverse lands and ID card on marketplaces supporting VeChain |
+| 4 | JS API | Using the XP Network [JS API Library](https://github.com/nftmoonmetaverse/bridje-js). |
+| 5 | Frontend | Integration of VeChain in the:<br>1.[User Interface](https://github.com/nftmoonmetaverse/bridge-interface) <br> 2. Wallets (Metamask, TrustWallet, WalletConnect) for networks that support work with ERC721 and ERC1155 <br> 3. Placing the bridge on [the main website](https://nftmoon.space/en/bridge/) <br> 4. VeChain Wallet Integration ([Sync2](https://github.com/nftmoonmetaverse/vechain-sync2)) |
+| 6 | NFT marketplaces | Creating a collection for NFT Moon Metaverse lands and ID card on marketplaces supporting VeChain |
+
+#### Tangible result
+
 
 
 #### Community engagement
