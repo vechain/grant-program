@@ -241,7 +241,9 @@ How can I check if the VeChain bridge is implemented. To do this, go to the offi
 
 ![54454](https://user-images.githubusercontent.com/93310987/181768956-1e69dd89-ef85-4eb4-9a78-5857811569ed.jpg)
 
-
+As a result of two stages of work, we will implement a bridge for the official NFT Moon Metaverse website. The bridge is needed to move metaverse assets from the Ethereum and Polygon networks to other networks, including VeChain. And also in the opposite direction. 
+Important! 
+The development of the Alpha version is now in progress. After we test the Alpha version with the main Polygon network, we will add integration with other networks, including VeChain. Also connecting wallets , including VeChain Sync2 . Up to this point, we are introducing the ability to buy and transfer metaverse assets between networks right now, even before the launch of the alpha version using Bridges.
 
 #### Community engagement
 
