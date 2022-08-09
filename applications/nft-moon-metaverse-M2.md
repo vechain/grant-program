@@ -243,6 +243,7 @@ Note: This roadmap will be implemented together with the . [XP Network team](htt
 | 4 | JS API | Using the XP Network [JS API Library](https://github.com/nftmoonmetaverse/bridje-js). |
 | 5 | Frontend | Integration of VeChain in the:<br>1.[User Interface](https://github.com/nftmoonmetaverse/bridge-interface) <br> 2. Wallets (Metamask, TrustWallet, WalletConnect) for networks that support work with ERC721 and ERC1155 <br> 3. Placing the bridge on [the main website](https://nftmoon.space/en/bridge/) <br> 4. VeChain Wallet Integration ([Sync2](https://github.com/nftmoonmetaverse/vechain-sync2)) |
 | 6 | NFT marketplaces | Creating a collection for NFT Moon Metaverse lands and ID card on marketplaces supporting VeChain |
+| 7 | Demonstration | A separate page will be created with a video demonstration of [the bridge and instructions](https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/bridge/bridge-vechain) , as well as links to the bridge and collections in marketplaces |
 
 #### Tangible result
 
