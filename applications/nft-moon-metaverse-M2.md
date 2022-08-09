@@ -215,7 +215,7 @@ In this part, only the details that relate to the integration of the VeChain bri
 - Integrating VeChain in the fee conversion tool
 - Adding VeChain to the bridge relay validators scope
 - Integrating VeChain in the Bridge's UI
-
+Note: This roadmap will be implemented together with the . [XP Network team](https://github.com/xp-network/)
 
 ### Example Roadmap for a dApp Application
 
