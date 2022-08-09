@@ -36,6 +36,13 @@ Example of a bridge that we will use for VeChain:
 
 We have been developing NFT Moon Metaverse for a year now . During this time, we have a large audience, as well as buyers of land, id cards, avatars. Currently, work is underway on the alpha version and the addition of new blockchains to the NFT Moon Metaverse.
 
+#### What will be done for the development of VeChain
+
+1. A Smart Contract For VeChain will be created (the bridge will do this)
+2. Creating 15-25% of all types of NFT on VeChain (via bridge)
+3. Updating the Smart contract for the needs of the Metaverse
+4. Launching a Metaverse on the VeChain blockchain (after alpha is released)
+
 #### Mockups/Designs of any UI components
 
 [3D map of the NFT Moon Metaverse](https://moonmeta.world/), which contains six zones. Each zone corresponds to a category of plots. 
