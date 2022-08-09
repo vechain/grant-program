@@ -223,8 +223,8 @@ Note: This roadmap will be implemented together with the . [XP Network team](htt
 
 |  | Milestone 1 | Milestone 1 |Total |
 | - | - | - | - |
-| Estimated Duration | 16 d | 12 d |28 d |
-| Full-time equivalent (FTE) | 30 | 24 |54 |
+| Estimated Duration | 16 d | 4 d |20 d |
+| Full-time equivalent (FTE) | 30 | 6 |36 |
 | Cost (up to $ 30,000) | $ 25,000 | $ 5,000|$ 30,000|
 
 #### Milestone 1 — Smart Contract & Creating collections on NFT marketplaces
