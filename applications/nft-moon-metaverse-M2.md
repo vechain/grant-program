@@ -39,9 +39,11 @@ We have been developing NFT Moon Metaverse for a year now . During this time, we
 #### What will be done for the development of VeChain
 
 1. A Smart Contract For VeChain will be created (the bridge will do this)
-2. Creating 15-25% of all types of NFT on VeChain (via bridge)
+2. Creating 15-25% of all types of NFT on VeChain (via bridge. This is our assumption, since users decide for themselves which network they use)
 3. Updating the Smart contract for the needs of the Metaverse
 4. Launching a Metaverse on the VeChain blockchain (after alpha is released)
+
+This will give a new influx of users to VeChain. After launching the metaverse, users will move between networks. Example: A user has a plot of land in the Polygon network, he transfers the plot to the VeChain network via a bridge, the sale takes place on the marketplace with the participation of VeChain, then the user decides which network he will use next.
 
 #### Mockups/Designs of any UI components
 
