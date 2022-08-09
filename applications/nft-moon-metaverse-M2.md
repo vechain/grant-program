@@ -232,7 +232,7 @@ Note: This roadmap will be implemented together with the . [XP Network team](htt
 | Number | Deliverable | Specification |
 |-|-|-|
 | 1 | Smart Contracts | We will develop smart contracts that will:<br>1. Support ERC-721<br>2. Support ERC-1155<br>3. Freeze/Unfreeze Native NFTs<br>4. Mint/Burn wrapped NFTs<br>5. Pay the TX fees on the target chain in native tokens<br>6. Send / Receive NFTs in batches |
-| 2 | Validators | 1. Setting up the VeChain Node for listening to the events<br>2. Adding the logic to the validators |
+| 2 | Validators | 1. Setting up the VeChain Node for listening to the events<br>2. Adding the logic to the validators. Working with validators executes [XP Network team](https://github.com/xp-network/)|
 | 3 | Backend | Integration of VeChain in the:<br>1. NFT Index<br>2. TX Fee Estimator<br>3. Crypto-currency converter |
 
 
