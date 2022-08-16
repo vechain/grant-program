@@ -12,7 +12,7 @@
 
     - Ethereum: 0xF4B57a2749Fa8FBFA9644a186e0730c2C64DcB90
     
-    - Binance Smart Chain (preferred): 0xF4B57a2749Fa8FBFA9644a186e0730c2C64DcB90
+    - Binance Smart Chain: 0xF4B57a2749Fa8FBFA9644a186e0730c2C64DcB90
 
 ### 1.1 Overview
 
@@ -113,7 +113,6 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 || Mr. Tram Vo (CTO) |
 | Team members: | Mr. Phat Nguyen (DevOps Team Lead) |
 || Mr. Hanh Nguyen (Frontend Team Lead)|
-|| Mr. Truong Phan (Head Of Blockchain)|
 ||+ 1 system engineer<br>+ 1 blockchain engineer<br>+ 1 backend engineer<br> + 1 designer<br>|
 
 ### 2.2 Team Website
@@ -122,10 +121,10 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 
 | Name | <p align="center">Experience<p> | <p align="center">Previous project/skill<p> |
 | --- | --- | --- |
-| Truong Phan | <ul><li>Senior Project Manager at Stably, Seattle-based stablecoin company.<li>6 years of experience leading product development for traditional finance and blockchain technology. | <ul><li>Stably various stablecoin projects: VeUSD on VeChain, USDS on Harmony, Chia, ICON,...<li> Gohub.vn - tech startup in e-SIM and telecom services |
-| Tram Vo | <ul><li> Over 8-year experience in Software development<li> Deep experience in software development for large-scale systems, with over 25 million users and 2 million CCU at the 2018 AFC U-23 Championship.<li> Profound understanding of many subjects in software development such as requirement analysis, implementation, code review, testing, deployment process, alert and monitoring system.<li>Technical leader for 2 blockchain projects | <ul><li> Language: Python, Java, Solidity, Javascript, C/C++.<li> Database: MongoDB, MySQL, Redis, Firebase.<li> Tech: Docker, Redis, Micro-services architecture.<li> Cloud: GCP, AWS.<li> OS: Linux, Windows.<li> Blockchain: EVM, Truffle, Remix, Ganache.<li> Management: Agile, Jira. |
+| Thong Nguyen | <ul><li> 16 years of experience as a financial analyst.<li> Over 3 years of blockchain market research.<li> 6 years of experience as a banking manager. ||
+| Tram Vo | <ul><li> Over 8-year experience in Software development<li> Deep experience in software development for large-scale systems, with over 25 million users and 2 million CCU at the 2018 AFC U-23 Championship.<li> Profound understanding of many subjects in software development such as requirement analysis, implementation, code review, testing, deployment process, alert and monitoring system.<li>Technical leader for 2 blockchain projects | <ul><li> Language: Python, Java, Solidity, Javascript, C/C++.<li> Database: MongoDB, MySQL, Redis, Firebase.<li> Tech: Docker, Redis, Micro-services architecture.<li> Cloud: GCP, AWS.<li> OS: Linux, Windows.<li> Blockchain: VeChain, BNB Chain, Truffle, Remix, Ganache.<li> Management: Agile, Jira. |
 | Phat Nguyen | <ul><li> 7+ years of experience as a Senior DevOps Engineer with different server systems, especially streaming systems.<li> Experience in handling a large number of users (over 25 millions) | <ul><li> Media Streaming: Wowza, Nimble, Evostream, Nginx-rtmp.<li> Continuous Integration and Continuous Delivery: Jenkins, Ansible, Gitlab ci/cd.<li> Build Microservices architecture: Docker Swarm, Kubernetes.<li> Has experience with Cloud base systems (AWS / Azure / GCP).<li> Monitor system: Prometheus, netdata, zabbix, Grafana.<li> Log central: ELK, GrayLog.<li> Scripting languages: bash shell, python, Lua.<li> CDN: Nginx, Cloudflare.<li> Storage: Cephfs, Lizardfs, minio.<li> Mail server: Zimbra, ses aws. |
-| Hanh Nguyen | <ul><li>Over 7 years in software development. | <ul><li> Database: MySQL, PostgreSQL, MongoDB.<li> Backend: PHP Node JS, Redis, rabbit MQTT , web service (RESTful APIs/SOAP).<li> Front end: Javascript/Typescript React , Web3, SASS/SCSS. |
+| Hanh Nguyen | <ul><li>Over 7 years in software development. | <ul><li> Database: MySQL, PostgreSQL, MongoDB.<li> Backend: PHP Node JS, Redis, rabbit MQTT , web service (RESTful APIs/SOAP).<li> Front end: Javascript/Typescript React , Web3, SASS/SCSS.<li> dApp: VeChain, BNB Chain, MetaMask |
 
 #### 2.2.3 Team Code Repos
 
@@ -141,7 +140,6 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 | Mr. Tram Vo | https://www.linkedin.com/in/tram-vo-a72309199/ |
 | Mr. Phat Nguyen | https://www.linkedin.com/in/phat-nguyen-kim-715481233/ |
 | Mr. Hanh Nguyen | https://www.linkedin.com/in/hanh-nguyen-21839923a/ |
-| Mr. Truong Phan | https://www.linkedin.com/in/buckphan/ |
 
 
 ##
@@ -181,7 +179,7 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 | Full-time equivalent (FTE) | 4 full-time engineers| 4 full-time engineers | 4 full-time engineers||
 | Cost (up to $ 30,000) | Development cost: $6,000<br>(Backend: $1,500<br>Crawler: $1,500<br>Frontend: $1,000<br>Smart contracts: $2,000)| Development cost: $10,000<br>(Backend: $1,000<br>Crawler: $1,000<br>Frontend: $1,000<br>Smart contracts: $1,000<br>Server: $6,000 for 12 months)<br><br> <strong>Gas fee to keep the oracle running:$10,000 in $VTHO for at least 12 months</strong> | Development cost: $4,000<br>(Backend: $1,500<br>Crawler: $1,000<br>Smart contracts: $1,500) | $30,000 |
 
-#### 3.2.1 Milestone 1 — Deploy SEER v1.0 on testnet
+#### 3.2.1 Milestone 1 — Deploy SEER v1.0 on testnet (DONE)
  
 - Smart contracts for BTC, ETH, VET, VTHO, VeUSD data price on testnet.
 - Implement Crawler module to get assets price from top exchanges (listing above).
