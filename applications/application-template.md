@@ -5,6 +5,7 @@
 - Project: MemeFlate $MFLATE Ltd
 - Team Name: $MFlateables ($MFLATE-A-Bulls)
 - Payment Address: : 0xb3df15802d09f26488a564b3dbb836edeac38505
+- 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ### Overview
@@ -78,13 +79,13 @@ MemeFlate was created by a creative mind and small business owner so this can be
 
 ## Examples of some of the above
 
-(Community Centre)
+## (Community Centre)
 ![div26](https://user-images.githubusercontent.com/93653525/185701891-ea1f4757-1628-4301-87fc-d4df4c1a2ca9.png)
 
-($MFlateable Merch Store)
+## ($MFlateable Merch Store)
 ![div27](https://user-images.githubusercontent.com/93653525/185702376-3aafe903-b0a0-4d24-8cf7-178f0582f995.png)
 
-(example of a local service - personal trainer from the U.K)
+## (Example of a local service - personal trainer from the U.K)
 ![div28](https://user-images.githubusercontent.com/93653525/185703115-a007e624-3028-4d39-b1c6-9cda19e6cfb3.png)
 
 
