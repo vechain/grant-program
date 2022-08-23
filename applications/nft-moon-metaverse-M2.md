@@ -217,17 +217,18 @@ In this part, only the details that relate to the integration of the VeChain bri
 - Integrating VeChain in the Bridge's UI
 Note: This roadmap will be implemented together with the . [XP Network team](https://github.com/xp-network/)
 
+
 ### Example Roadmap for a dApp Application
 
 #### Overview
 
-|  | Milestone 1 | Milestone 1 |Total |
-| - | - | - | - |
-| Estimated Duration | 16 d | 4 d |20 d |
-| Full-time equivalent (FTE) | 30 | 6 |36 |
-| Cost (up to $ 30,000) | $ 25,000 | $ 5,000|$ 30,000|
+| | Milestone 1 | Milestone 2 |Milestone 3 |Milestone 4 | Total |
+| - | - | - | - | - | - |
+| Estimated Duration | 10 d | 6 d |4 d | 0 |20 d |
+| Full-time equivalent (FTE) | 22 | 11 | 6 | 0 | 39 |
+| Cost (up to $ 30,000) | $ 15,000 | $ 10,000|$ 5,000|$ 0|$ 30,000|
 
-#### Milestone 1 — Smart Contract & Creating collections on NFT marketplaces
+#### Milestone 1 — Smart Contract 
 
 | Number | Deliverable | Specification |
 |-|-|-|
@@ -235,15 +236,27 @@ Note: This roadmap will be implemented together with the . [XP Network team](htt
 | 2 | Validators | 1. Setting up the VeChain Node for listening to the events<br>2. Adding the logic to the validators. Working with validators executes [XP Network team](https://github.com/xp-network/)|
 | 3 | Backend | Integration of VeChain in the:<br>1. NFT Index<br>2. TX Fee Estimator<br>3. Crypto-currency converter |
 
-
 #### Milestone 2 — API and frontend
 
 | Number | Deliverable | Specification |
 |-|-|-|
 | 4 | JS API | Using the XP Network [JS API Library](https://github.com/nftmoonmetaverse/bridje-js). |
 | 5 | Frontend | Integration of VeChain in the:<br>1.[User Interface](https://github.com/nftmoonmetaverse/bridge-interface) <br> 2. Wallets (Metamask, TrustWallet, WalletConnect) for networks that support work with ERC721 and ERC1155 <br> 3. Placing the bridge on [the main website](https://nftmoon.space/en/bridge/) <br> 4. VeChain Wallet Integration ([Sync2](https://github.com/nftmoonmetaverse/vechain-sync2)) |
-| 6 | NFT marketplaces | Creating a collection for NFT Moon Metaverse lands and ID card on marketplaces supporting VeChain |
-| 7 | Demonstration | A separate page will be created with a video demonstration of [the bridge and instructions](https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/bridge/bridge-vechain) , as well as links to the bridge and collections in marketplaces |
+| 6 | Upload the smart contract ABI | Upload the smart contract ABI to [B32](https://github.com/vechain/b32) for the reviewers to review |
+
+#### Milestone 3 —  Creating collections on NFT marketplaces
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 7 | NFT marketplaces | Creating a collection for NFT Moon Metaverse lands and ID card on marketplaces supporting VeChain |
+| 8 | Demonstration | A separate page will be created with a video demonstration of [the bridge and instructions](https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/bridge/bridge-vechain) , as well as links to the bridge and collections in marketplaces |
+
+#### Milestone 4 —  Implementation of VeChain in the Alpha version
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 9 | Alpha version |  1. Creating 15-25% of all types of NFT on VeChain via bridge (This is our assumption, since users decide for themselves which network they use).<br> 2. Updating the Smart contract for the needs of the Metaverse.<br> 3. Launching a Metaverse on the VeChain blockchain (after alpha is released). <br> A note. The milestone indicates the estimated duration of "0" and the cost of "0" since work on the Alpha version is ongoing even before the VeChain grant. |
+
 
 #### Tangible result
 
