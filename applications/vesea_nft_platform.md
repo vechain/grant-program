@@ -110,7 +110,7 @@ Provided via PM, if desired
 
 |  | Milestone 1 | Milestone 2 | Milestone 3 | 
 | - | - |- | - |
-| Estimated Duration | Done | 30 d | 60 d |
+| Estimated Duration | Done | Done | 60 d |
 | Full-time equivalent (FTE) | 2 | 2 | 2 |
 | Cost    | 10,000 USD | 10,000 USD | 10,000 USD  |
 
@@ -126,30 +126,30 @@ Provided via PM, if desired
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | Smart Contracts | Implement:<br>1. On-chain profiles (sensitive info local)<br>2. Multi-wallet method access for assisted NFT launches<br>3. Modular burn event for VIP-181 contracts<br>4. Consolidated marketplace contract|
-| 2 | Backend | 1. Implementation of indexer<br>2. Design, build of fee delegation infrastructure|
-| 3 | Frontend | Implementation of:<br>1. Profiles <br> 2. VeSea Arcade for multi-collection, game-like mechanics|
+| 1 | Smart Contracts | Implement:<br>1. On-chain profiles (sensitive info local)<br>2. Multi-wallet method access for assisted NFT launches<br>3. Modular burn event for VIP-181 contracts<br>4. Consolidated marketplace contract<br>5. Implement leveraged collection-wide offers for single VIP-181 contracts|
+| 2 | Backend | 1. Design, build of indexer<br>2. Implementation of fee delegation infrastructure|
+| 3 | Frontend | Implementation of:<br>1. User Profiles <br> 2. On-Chain Messenger <br> 3. VeSea Arcade for multi-collection, game-like mechanics|
 
 #### `Milestone 3` — Smartcontracts, Backend & UI v2
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | Smart Contracts | We will develop smart contracts that will:<br>1. Leverage VIP-180 tokens<br>2. Allow for NFTs to "battle"<br>3. Perform escrowed trading|
-| 2 | Backend | Implementation of:<br>1. Indexer<br>2. Fee delegation infrastructure|
-| 3 | Frontend | Migration to redesigned frontend|
+| 1 | Smart Contracts | We will develop smart contracts that will:<br>1. Leverage VIP-180 tokens<br>2. Allow for NFTs to "battle"<br>3. Allow for VIP-181 staking to earn VIP-180 tokens<br>4. Allow for dynamic fee calculations based on NFT holdings|
+| 2 | Backend | Implementation of:<br>1. Indexer<br>2. Open API for ecosystem builders|
+| 3 | Frontend | Implementation of:<br>1. VIP-180 Transfers<br> 2. On-Chain Messenger<br> 3. Create dashboards to reflect on-chain information for sales, staking and general transactions|
 
 ## `Community engagement`    
 
-We have already established ourselves as a trusted platform within the VeChain ecosystem, working to partner with individual collections to either launch or become their secondary market alongside integrations with various other VeChain dApps such as VeChainStats (block explorer) and NFT launches for Hacken (Ukraine Relief) and VeRocket (Utility NFT launch).
+We have already established ourselves as a trusted platform within the VeChain ecosystem, working to partner with individual collections to either launch or become their secondary market alongside integrations with various other VeChain dApps such as VeChainStats (block explorer), VeChain.Energy (fee delegation) and NFT launches for both Hacken (Ukraine Relief) and VeRocket (Utility NFT launch).
 
-Along with project collaborations, we've also had a strong presence on Twitter, in Twitter Spaces and have been feature on VeChain Thorsdays as a leader in the space.
+Along with project collaborations, we've also had a strong presence on Twitter, in Twitter Spaces, have 2 VeChain Brand Ambassadors within the team and have been feature on VeChain Thorsdays and on the Sunny's Community Hangout as a leader in the space.
 
 #### Socials
 - Twitter: https://twitter.com/VeSeaOfficial
 - Medium: https://medium.com/@VeSea
-- Discord: https://discord.gg/vekingsnft
+- Discord: https://discord.gg/vesea
 
 ## `Future Plans` 
 
 [VeSea: Marketplace, Launchpad, Utility Platform](https://medium.com/@VeSea/vesea-marketplace-launchpad-utility-platform-62803313808c)
-
+[$VSEA: VeChain's NFT Utility Era](https://medium.com/@VeSea/vsea-vechains-nft-utility-era-c26537d8fa8f)
