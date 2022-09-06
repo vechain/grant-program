@@ -54,12 +54,15 @@ _Can be viewed on our site_ ([VeSea](https://vesea.io/))
   * User Settings
     ![User Settings](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Profile_Management.png)
    
- ### Functions
+ ### Features
   * VIP-180 Management
     ![VIP-180 Management](https://s3.us-east-2.amazonaws.com/vesea.io/grant/VIP180_Transfers.png)
 
   * On-Chain Messenger
     ![Messenger](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Messenger.png)
+ 
+   * Fee Delegation
+    ![Fee Delegation](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Fee_Delegation.png)
 
 ## `Tech Stack` 
 | Bridge Component | Stack |
