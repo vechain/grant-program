@@ -26,32 +26,40 @@ As we all know, NFTs have become a prominent vehicle for elevating the web3 disc
 ## `Designs of UI Components` 
 _Can be viewed on our site_ ([VeSea](https://vesea.io/))
 
- ### Landing Page ![Landing](https://vesea.mypinata.cloud/ipfs/QmYqqkaAFbCnSED9fkugWXKrVvqW7zjSnJnDJqGrbPrMzS/landing_page.png)
+ ### Landing Page ![Landing](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Homepage.png)
     
  ### Collection Pages
   * Collections
-    ![Collections](https://vesea.mypinata.cloud/ipfs/QmYqqkaAFbCnSED9fkugWXKrVvqW7zjSnJnDJqGrbPrMzS/collections.png)
+    ![Collections](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Collections.png)
   
   * Collections Market
-    ![Collection Market](https://vesea.mypinata.cloud/ipfs/QmYqqkaAFbCnSED9fkugWXKrVvqW7zjSnJnDJqGrbPrMzS/collections_market.png)
+    ![Collection Market](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Collection_Page.png)
  
   * Collections Mint
-    ![Collection Mint](https://vesea.mypinata.cloud/ipfs/QmYqqkaAFbCnSED9fkugWXKrVvqW7zjSnJnDJqGrbPrMzS/mint.png)
+    ![Collection Mint](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Launchpad.png)
     
   * NFT Modal
- 
-    ![NFT Modal](https://vesea.mypinata.cloud/ipfs/QmYqqkaAFbCnSED9fkugWXKrVvqW7zjSnJnDJqGrbPrMzS/nft_modal.png)
+    ![NFT Modal](https://s3.us-east-2.amazonaws.com/vesea.io/grant/NFT_Modal.png)
     
   * Launchpad
-    ![Launchpad](https://vesea.mypinata.cloud/ipfs/QmWSnk5nFH18Lo8G5EFm3pBVWZ3uSQZCv6EjJu28LDHC5C/Launchpad.png)
+    ![Launchpad](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Launchpad.png)
     
  ### Profile Pages
-  * User Watchlist
-    ![User Watchlist](https://vesea.mypinata.cloud/ipfs/QmYqqkaAFbCnSED9fkugWXKrVvqW7zjSnJnDJqGrbPrMzS/user_watch.png)
+  * Profile Creation
+    ![User Creation](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Profile_Creation.png)
+
+  * User Notifications
+    ![User Notifications](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Notifications.png)
 
   * User Settings
-    ![User Settings](https://vesea.mypinata.cloud/ipfs/QmYqqkaAFbCnSED9fkugWXKrVvqW7zjSnJnDJqGrbPrMzS/user_settings.png)
+    ![User Settings](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Profile_Management.png)
+   
+ ### Functions
+  * VIP-180 Management
+    ![VIP-180 Management](https://s3.us-east-2.amazonaws.com/vesea.io/grant/VIP180_Transfers.png)
 
+  * On-Chain Messenger
+    ![Messenger](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Messenger.png)
 
 ## `Tech Stack` 
 | Bridge Component | Stack |
