@@ -8,16 +8,18 @@
 
 ## `Overview`
 **Description**
-VeSea NFT Marketplace and Launchpad is a platform created to enable the creation, discovery and transacting of VIP-181 tokens within the VeChainThor ecosystem and to then enable those creators and their NFT holders with day-1 utility of those same tokens via modular, composable smartcontracts.   
+VeSea NFT Marketplace, Launchpad and utility platform is being created to enable the creation, discovery and transacting of VIP-181 tokens within the VeChainThor ecosystem, and to then empower those creators and their NFT holders with day-1 utility of those same tokens via modular, composable smartcontracts.   
 
 **Reasoning**
-As we all know, NFTs have become a prominent vehicle for elevating the web3 discussion and general activity across all of blockchain. Our team saw that growth happening across all major chains while our most-invested ecosystem remained stagnant for retail/community. This is when and why we sought to bring that energy, those conversations, all of the engagement and creativity (both artistic and builder) to VeChain.
+As we all know, NFTs have become a prominent vehicle for elevating the web3 discussion and general activity across all of blockchain. Our team saw that growth happening across all major chains while our most-invested ecosystem remained stagnant for retail/community participants. Seeing that stagnation on VeChainThor's user-facing interactions was when and why we sought to bring that energy, those conversations, all of the engagement and creativity (both artistic and builder) to VeChain.
 
 **Features and Enhancement**
 - Full wallet support
 - Connex
 - MTT
-- Fee delegation (*coming*)
+- VIP-180 management
+- VIP-181 management
+- Fee delegation
 - Forcible Transaction Dependency (*coming*)
 - Transaction Lifecycle Control (*coming*)
 
@@ -54,9 +56,8 @@ _Can be viewed on our site_ ([VeSea](https://vesea.io/))
 ## `Tech Stack` 
 | Bridge Component | Stack |
 | :-: | :-: |
-| Storage | IPFS |
+| Storage | IPFS, Arweave |
 | Smart Contracts | Solidity |
-| Validators | TypeScript |
 | Backend | TypeScript |
 | Frontend | React (JSX, TypeScript) |
 | Architecture | AWS |
@@ -65,12 +66,16 @@ _Can be viewed on our site_ ([VeSea](https://vesea.io/))
 ## `Ecosystem Fit` 
 Are there any other projects similar to yours? If so, how is your project different?
 Yes, we are one of three multi-collection NFT markets, but have emerged as the leader in transacted volume YTD by an order of magnitude due to our community engagement, launchpad program and the open implementation of our setup enabling other ecosystem builder and tools. 
-- NFT Marketplaces and transacted YTD:
-  - [VeSea](https://vesea.io/) - 40M VET
-  - [World of V](https://marketplace.worldofv.art/) - 6M VET
-  - [BlackVeMarket](https://blackvemarket.com/) - <1M VET
+- NFT Marketplaces:
+  - [VeSea](https://vesea.io/)
+  - [World of V](https://marketplace.worldofv.art/)
+  - [BlackVeMarket](https://blackvemarket.com/)
 
-We aim to continue with an approach of a curated platform to maintain trust within the ecosystems as project growth expands and to then create an ecosystem for those vetted projects to deliver functionality more readily using our multi-collection utility contracts. We detailed our plans going forward recently on [Medium](https://medium.com/@VeSea/vesea-marketplace-launchpad-utility-platform-62803313808c).
+- [Recent Stats](https://www.vesea.io/resources/stats)
+
+We aim to continue with an approach of a curated platform to maintain trust within the ecosystem, and as project growth expands to then create an ecosystem for those vetted projects to deliver functionality more readily using our multi-collection utility contracts. We've detailed our plans going forward recently on Medium, discussing our platform direction [here](https://medium.com/@VeSea/vesea-marketplace-launchpad-utility-platform-62803313808c) and the lifeblood of that ecosystem ($VSEA) [here](https://medium.com/@VeSea/vsea-vechains-nft-utility-era-c26537d8fa8f).
+
+Long-term, the hope is to make VeChain a destination for NFT projects across all of blockchain by leveraging XP Network's NFT Bridge, a superior chain-interaction experience and instant NFT utility.
 
 ## `Team` 
 
