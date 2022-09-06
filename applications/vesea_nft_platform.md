@@ -52,7 +52,7 @@ _Can be viewed on our site_ ([VeSea](https://vesea.io/))
     ![User Notifications](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Notifications.png)
 
   * User Settings
-    ![User Settings](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Profile_ManagementXX.png)
+    ![User Settings](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Profile_Management.png)
    
  ### Features
   * VIP-180 Management
