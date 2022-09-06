@@ -39,7 +39,7 @@ _Can be viewed on our site_ ([VeSea](https://vesea.io/))
     ![Collection Mint](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Launchpad.png)
     
   * NFT Modal
-    ![NFT Modal](https://s3.us-east-2.amazonaws.com/vesea.io/grant/NFT_Modal.png)
+    ![NFT Modal](https://s3.us-east-2.amazonaws.com/vesea.io/grant/NFT_ModalXX.png)
     
   * Launchpad
     ![Launchpad](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Launchpad.png)
@@ -59,7 +59,7 @@ _Can be viewed on our site_ ([VeSea](https://vesea.io/))
     ![VIP-180 Management](https://s3.us-east-2.amazonaws.com/vesea.io/grant/VIP180_Transfers.png)
 
   * On-Chain Messenger
-    ![Messenger](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Messenger.png)
+    ![Messenger](https://s3.us-east-2.amazonaws.com/vesea.io/grant/MessengerXX.png)
  
    * Fee Delegation
     ![Fee Delegation](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Fee_Delegation.png)
@@ -131,7 +131,7 @@ Estimates are based on the part-time participation of 4 separate developers (~4h
 | Number | Deliverable | Specification |
 |-|-|-|
 | 0a.| License | Apache 2.0 |
-| 0b,c. | Documentation, Testing | A github with our contracts and unit tests will be provided on request |
+| 0b,c. | Documentation, Testing | A github with our contracts and unit tests will be provided on request. All deployed contracts have also had their ABIs added to b32 with the prefix vesea_* |
 
 #### `Milestone 1` — Smartcontracts, Backend & UI
 
