@@ -128,8 +128,7 @@ Estimates are based on the part-time participation of 4 separate developers (~4h
 | Number | Deliverable | Specification |
 |-|-|-|
 | 0a.| License | Apache 2.0 |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
+| 0b,c. | Documentation, Testing | A github with our contracts and unit tests will be provided on request |
 
 #### `Milestone 1` — Smartcontracts, Backend & UI
 
