@@ -39,7 +39,7 @@ _Can be viewed on our site_ ([VeSea](https://vesea.io/))
     ![Collection Mint](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Launchpad.png)
     
   * NFT Modal
-    ![NFT Modal](https://s3.us-east-2.amazonaws.com/vesea.io/grant/NFT_ModalXX.png)
+    ![NFT Modal](https://s3.us-east-2.amazonaws.com/vesea.io/grant/NFT_Modal.png)
     
   * Launchpad
     ![Launchpad](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Launchpad.png)
@@ -52,14 +52,14 @@ _Can be viewed on our site_ ([VeSea](https://vesea.io/))
     ![User Notifications](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Notifications.png)
 
   * User Settings
-    ![User Settings](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Profile_Management.png)
+    ![User Settings](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Profile_ManagementXX.png)
    
  ### Features
   * VIP-180 Management
     ![VIP-180 Management](https://s3.us-east-2.amazonaws.com/vesea.io/grant/VIP180_Transfers.png)
 
   * On-Chain Messenger
-    ![Messenger](https://s3.us-east-2.amazonaws.com/vesea.io/grant/MessengerXX.png)
+    ![Messenger](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Messenger.png)
  
    * Fee Delegation
     ![Fee Delegation](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Fee_Delegation.png)
