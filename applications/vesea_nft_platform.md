@@ -114,6 +114,15 @@ Provided via PM, if desired
 | Full-time equivalent (FTE) | 2 | 2 | 2 |
 | Cost    | 10,000 USD | 10,000 USD | 10,000 USD  |
 
+Estimates are based on the part-time participation of 4 separate developers (~4hr/d/person, x6d/w) plus platform infrastructure and management costs over the span of the 10 months we've been in operation (launch Oct 8th, 2021).
+
+#### `Mandatory` — License, Documentation and Unit Tests
+| Number | Deliverable | Specification |
+|-|-|-|
+| 0a.| License | Apache 2.0 |
+| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
+| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
+
 #### `Milestone 1` — Smartcontracts, Backend & UI
 
 | Number | Deliverable | Specification |
