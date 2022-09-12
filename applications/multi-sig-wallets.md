@@ -64,7 +64,7 @@ It is an important security functionality that is widely used but currently miss
 
 |  | Contract | Backend | Total |
 | - | -: | -: | -: |
-| Estimated Duration | 8d | 20d | 21d |
+| Estimated Duration | 8d | 20d | 28d |
 | Full-time equivalent (FTE) | 1 | 1 | 1 |
 | Cost (up to $ 30,000) | $6,400 | $16,000 | $22,400 |
 
