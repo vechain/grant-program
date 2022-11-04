@@ -83,20 +83,24 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 | 0a.| License | Apache 2.0 / MIT / Unlicense |
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
 | 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) |
+| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) . We will open source the smart contract and upload the ABI to [B32](https://github.com/vechain/b32). |
 | 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
 
 #### Milestone 2  —  Frontend
-
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1 | User Guide | We will provide a user guide or a demo video to show what features have been done.  |
 ...
 
 #### Community engagement
 
-As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
+As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant. 
+
+We recommended you provide social medium, like Twitter, Telegram group, or Reddit, on your website. When the developers/users need assistance, they could get in touch with you and get help.
 
 ## Future Plans
 
-Please include the team's long-term plans and intentions.
+Please include the team's long-term project plans, operation plans and intentions.
 
 ## Additional Information 
 
