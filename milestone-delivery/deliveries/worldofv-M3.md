@@ -12,17 +12,9 @@ The fully fledge marketplace is running in production.
 
 | FEATURE | TUTORIAL / VIDEO
 | ------------- | ------------- 
-| NFT - Batch Minting | https://drive.google.com/file/d/1fZwNjTSKVfP8S1OJ9jkWa2Yrsx6Lfve6/view?usp=sharing
 | $VET- $vVET inbuilt Swap" | https://drive.google.com/file/d/1tym6-ORM2DvdzEohBYkHSoE0CzYDeyAD/view?usp=sharing
 | Batch offers | https://drive.google.com/file/d/1tym6-ORM2DvdzEohBYkHSoE0CzYDeyAD/view?usp=sharing
-| Offers to collection | https://drive.google.com/file/d/1_zf38ZADaAs5BO0btnI5rVRidjFRZHhM/view?usp=sharing 
 | Global offer ( to all editions of multiple editions NFT) | https://drive.google.com/file/d/1aoAvzv8aAeGeKz9ICfy4bvnm8I9_2ky7/view?usp=sharing
-| Auctions implementation  | https://drive.google.com/file/d/1vHbc8QHhQKjxgtVeJAMzRjH539oMLjvi/view?usp=sharing
-| Auction email notifications | https://drive.google.com/file/d/11-eXgwymV-ses-0Dh9qBw9AzpUAld5Ad/view?usp=sharing
-| "Multi currency Feature ($VET, $WoV, $VTHO, $VeUSD, $SHA)" | https://drive.google.com/file/d/1nEUMRqIts76tKv3-P6EfsNKA05zUKDcM/view?usp=sharing
-| Multi currency batch buy | https://drive.google.com/file/d/1TpX3e8wr1Yq98EJjVPUGTweyrLV4Pm-k/view?usp=sharing
-| Batch Cancel + batch select all | https://drive.google.com/file/d/18c09L7IQR-kDWw1-BTBME6G1BFADoTSn/view?usp=sharing
-| Batch Cancel offers | https://drive.google.com/file/d/1NXVSZXyP38ZfshZ53T8lAZsxwc7vlE6q/view?usp=sharing
 | NFT Staking | https://drive.google.com/file/d/1Qt0k-fkqeWl4oddsga2Evl9kp-oGAscB/view?usp=sharing
 | Profile Activity | https://drive.google.com/file/d/1RpCwAHBaxdU9i6-KzVPAVS6AMOanf3yb/view?usp=sharing
 | NFT/Token History | https://drive.google.com/file/d/1zzuS_eZr1Gi8nWmRzY1DWRdSBFI4BcMH/view?usp=sharing
