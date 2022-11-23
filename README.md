@@ -33,12 +33,12 @@ We choose to teach our students the fundamentals of deploying projects on VeChai
 
 ### Ecosystem Fit
 Our competitors are Web2 educational projects. The fight is for the brightest minds.
-[https://codecademy.com]
-[https://pluralsight.com]
-[https://datacamp.com]
-[https://udacity.com]
-[https://coursera.org]
-And other.
+#https://codecademy.com
+#https://pluralsight.com
+#https://datacamp.com
+#https://udacity.com
+#https://coursera.org
+#And other.
 
 Learn-to-earn projects and other:
 Buildspace - [https://buildspace.so] - introduces users to ecosystem tools and rewards them with NFTs.
