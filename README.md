@@ -14,11 +14,11 @@
 Web3Campus is an online educational platform for learning Web3 skills and professions. Our goal is to supply the Web3 market with professionals capable to build and grow projects through cutting-edge solutions.
 2. We started to form the idea in Q1 2022. The idea is a logical sequel to my media background and my interest in supplying people with the best and most up-to-date knowledge about Web3. Our goal is to teach developers, product managers, and other specialists how Web3 works. To be able to proudly recommend our alumni to friends and partners because we are confident in the quality of our education. We put together all the required ‘pieces of the puzzle’ for a successful EdTech company that has the potential to become a unicorn.
 
-1. Vlad — CEO with strong technical background (as developer and CTO), who is responsible for the design and how it actually works after the development cycle.
-2. Me — vision, business development, and Web3 market expertise:
-3. Artem — CCO/CMO at one of the biggest EdTech holdings ($185 mln revenue in ‘21)
-4. Leo — CBDO  with passion, unlimited energy, and a large network.
-5. Cointelegraph — a strong and valuable strategic partner that provides brand, network, and quick go-to-market.
+- Vlad — CEO with strong technical background (as developer and CTO), who is responsible for the design and how it actually works after the development cycle.
+- Me — vision, business development, and Web3 market expertise:
+- Artem — CCO/CMO at one of the biggest EdTech holdings ($185 mln revenue in ‘21)
+- Leo — CBDO  with passion, unlimited energy, and a large network.
+- Cointelegraph — a strong and valuable strategic partner that provides brand, network, and quick go-to-market.
 
 We choose to teach our students the fundamentals of deploying projects on VeChain as it is an essential layer-1 blockchain. With efficient learning methodology and Web3 mechanics, we will accelerate the adoption of the VeChain ecosystem for Web2 developers. The result of our partnership will be 1K new builders and creators for VeChain.
 
@@ -74,11 +74,11 @@ Head Of Growth Marketing & Expansion at Blockchain.com. Previously held senior l
 N/A
 
 ### Team LinkedIn Profiles
-1. https://www.linkedin.com/in/vladislav-baimurzin/ <Vlad Baimurzin>
-2. https://www.linkedin.com/in/danielseman/ <Daniel Seman>
-3. https://www.linkedin.com/in/akazakov-executive-coach/ <Artem Kazakov>
-4. https://www.linkedin.com/in/leoglazow/ <Leo Glazõw>
-5. https://www.linkedin.com/in/teigilee/ <Teigi Lee>
+1. https://www.linkedin.com/in/vladislav-baimurzin/ <Vlad_Baimurzin>
+2. https://www.linkedin.com/in/danielseman/ <Daniel_Seman>
+3. https://www.linkedin.com/in/akazakov-executive-coach/ <Artem_Kazakov>
+4. https://www.linkedin.com/in/leoglazow/ <Leo_Glazõw>
+5. https://www.linkedin.com/in/teigilee/ <Teigi_Lee>
 
 ## Development Roadmap 
 
