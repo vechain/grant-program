@@ -1,119 +1,112 @@
-# VeChain General Grant Program <!-- omit in toc -->
+# VeChain General Grant Application Template
 
-## Table of contents
+## Project Overview 
 
-- [Introduction](#introduction)
-- [Guidelines](#guidelines)
-- [Application Process](#application-process)
-- [Grant Committee](#grant-committee)
-- [Grant Evaluators](#grant-evaluators)
-- [Operation Team](#operation-team)
-- [More Info](#more-info)
+- Project: The name of the project
+- Team Name: Legal name of your team 
+- Payment Address: USDT (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
 
-## Introduction
+> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
-The general grant program is designed to fund projects covering a wide range of topics, including, but not limited to,
+### Overview
 
- - Decentralized applications (e.g., gaming, DeFi, NFT, etc)
- - Tools/libs for testing
- - Tools/libs for frontend development
- - Infrastructures (e.g., explorer, status dashboard, node service, etc)
- - Interoperability
- - Wallet integration
- - Enterprise applications
- - Research projects (e.g., tokenomics, governance, privacy, etc).
+Please provide the following:
+- A brief description of the project.
+- An indication of why your team is interested in creating this project within the VeChain Ecosystem.
+- If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
 
-Each application can be funded up to **$30,000**. All Applications will be tracked on GitHub and disbursed in USDT.
+### Project Details
 
-**For Economic X Nodes holders, VeChain Foundation will provide 50% additional funds as bonus if their applications are approved. Successful applicants will have to send an email([`applications/email-template.md`](applications/email-template.md)) to grant@vechain.org to claim the additional grant.**
+We expect the teams to already have a solid idea about the project's expected final state.
+Therefore, we ask the teams to submit (where relevant):
+- Mockups/designs of any UI components
+- API specifications of the core functionality
+- An overview of the technology stack to be used
+- Documentation of core components, protocols, architecture, etc. to be deployed
+- PoC/MVP or other relevant prior work or research on the topic
 
+### Ecosystem Fit
+Are there any other projects similar to yours? If so, how is your project different?
 
-## Guidelines
+## Team 
 
-In general, your project will have better chances to get accepted if:
+### Team members
 
-- The subject has been **well-studied**, proven by a well-presented intro, including background, prior works, and relevant technical bases.
-- Your team has **proven experience** with a relevant and solid technical/research background. For development projects, you should provide the GitHub profiles of your team members as part of your application. A list of your previously done projects will be highly recommended and beneficial. For research projects, CVs of all applicants should be attached.
-- Your application is **rich in technical details** and well-defined.
-- For development projects, you can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
-- You should point out how your project stands out among competitors (e.g., it implements some technology that does not exist in the ecosystem yet).
-- A direct contribution to VeChain's technology and/or ecosystem is a plus.
+- Name of team leader
+- Names of team members
 
-Additionally, it must fulfill the following requirements:
+### Team Website
 
-- We do not award grants for projects that have been the object of a successful token sale. However, we do not limit the project's option to do token sales in the future.
-- Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
+- https://<your_domain>
 
-Note that your project will have to follow [Grant Milestone Delivery](/milestone-delivery) to deliver milestones. In particular, we require your team to generate sufficient documentation about each delivery in order to unlock further funding if relevant. Examples, tutorials or videos can be very helpful for us to understand your work and therefore accelerate our evaluation process.
+### Team's experience
 
-## Application Process
+Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
 
-1. **Application Preparation and Submission**
-   1. [Fork](https://github.com/vechain/Grant-program) this repository.
-   2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)) or the research template([`applications/research-template.md`](applications/research-template.md)). Make sure you **do not modify the template file directly**.
-   3. Name the new file after your project: `project_name.md`.
-   4. Fill out the template with the details of your project. The more information you provide, the faster its review process will be.
-   5. Once you're done, create a pull request. The pull request should only contain _one new file_, that is the Markdown file you created from the template.
-   6. Please read the [disclaimer](disclaimer.md) carefully before applying for VeChain General Grant.
+### Team Code Repos
 
-2. **Preliminary Review**
+- https://github.com/<your_repo_1>
+- https://github.com/<your_repo_2>
 
-   After its submission, an application enters the preliminary review stage where an evaluator will be designated to check whether it is formatted correctly and includes all the requested information. The [evaluator](#grant-evaluators) will label the pull request as "ready for committee review" if the application passes the preliminary review.
-   
-3. **Committee Review**
+### Team LinkedIn Profiles
 
-   A five-member grant committee will evaluate and make decisions on all the applications passing the preliminary review. The commitee may conditionally accept an application with further requirements for clarifications and amendments. The applicant(s) must _address all the requirements_ via a new pull request. The application will then be accepted once the pull request is approved by one committee member. Final decisions made by the committee will be put on the website to notify applicants and the community. 
- 
-4. **Milestone Delivery and Payment**
+- https://www.linkedin.com/<person_1>
+- https://www.linkedin.com/<person_2>
 
-   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#milestone-delivery-process). **Once the application is accepted, the payment for the first milestone will be immediately disbursed to fund the project. The payments of the rest milestones will be disbursed once their previous milestones are delivered and reviewed.**
+## Development Roadmap 
 
-   The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
+This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
 
-## Grant Committee
+Below we provide an <b>example roadmap</b>. For each milestone:
 
-For the fund to be best utilized, the grant committee is designed to be as versatile as possible to represent different stakeholders in the VeChain ecosystem. Following this principle, the committee is made of a committee chair, a member of Board of the Steering Committee, a member of the VeChain Core Dev, a community project leader and a collective community member consisting of outstanding community contributors.
-
-The community project leader and collective community member will be chosen by our community for each funding round starting from the second round. We will announce the detailed rules and timeline of the whole election process in advance.
-
-The current committee members are:
- - **Committee Co-Chairs:**<br/>
-[Peter Zhou](https://twitter.com/PeterZh47977516) - Chief Scientist of VeChain <br/>
-[Dimitris Neocleous](https://twitter.com/im_dimneo/) - UK and EU Ecosystem Manager of VeChain 
-   
- - **Member of VeChain Core Dev team:**<br/>
-[Bin Qian](https://twitter.com/cola_tin) - Lead Dev of Core Dev team
-   
- - **VeChain Ecosystem Project Representatives:** <br/>
-[Dyma Budorin](https://twitter.com/buda_kyiv) - CEO of Hacken Foundation<br/>
-[Jürgen Schouppe](https://twitter.com/jurgenschouppe) - Founding Director, CEO & CTO of Safe Haven
+- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
+- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
+- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
+- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
+- Please commit to providing dockerfiles for the delivery of your project.
 
 
-## Grant Evaluators
+### Example Roadmap for a dApp Application
 
-Evaluators are individuals who check whether the application is formatted correctly and includes all the requested information in the preliminary review stage. The following is the current list of evaluators:
+#### Overview
 
-- [Tony Li](https://github.com/libotony)
-- [Jack Wu](https://github.com/XJWX89)
-- [Tofu Chu](https://github.com/laalaguer)
-- [Mog Lu](https://github.com/mongelly)
-- [Asbert Ma](http://github.com/asbertMa/)
+|  | Milestone 1 | Milestone 2 | Total |
+| - | - |- | - |
+| Estimated Duration | 30 d | 30 d | 60 d |
+| Full-time equivalent (FTE) | 2 | 1 | 3 |
+| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
 
-## Operation Team
+#### Milestone 1 — Smart Contract & Backend
 
-The operation team takes care of fund distribution.
+| Number | Deliverable | Specification |
+|-|-|-|
+| 0a.| License | Apache 2.0 / MIT / Unlicense |
+| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
+| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
+| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) . We will open source the smart contract and upload the ABI to [B32](https://github.com/vechain/b32). |
+| 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
 
-- [Sherry Li](https://github.com/NecoSherry)
+#### Milestone 2  —  Frontend
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1 | User Guide | We will provide a user guide or a demo video to show what features have been done.  |
+...
 
-## More Info
-- [VeChain Dev Community Telegram](https://t.me/VeChainDevCommunity)
-- [VeChain Foundation Website](https://vechain.org)
-- [VeChain Foundation Twitter](https://twitter.com/vechainofficial)
-- [VeChain Foundation Medium Channel](https://vechainofficial.medium.com/)
-- [VeChainThor Mainnet Bug Bounty](https://github.com/vechain/thor/issues)
-- [VeChainThor Wallet Bug Bounty](https://vechain.typeform.com/to/c8xfxr)
+#### Community engagement
 
+As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant. 
 
-## License <!-- omit in toc -->
+We recommended you provide social medium, like Twitter, Telegram group, or Reddit, on your website. When the developers/users need assistance, they could get in touch with you and get help.
 
-[GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html).
+## Future Plans
+
+Please include the team's long-term project plans, operation plans and intentions.
+
+## Additional Information 
+
+Any additional information that you think is relevant to this application that hasn't already been included.
+
+Possible additional information to include:
+- What work has been done so far?
+- Are there any teams who have already contributed (financially) to the project?
+- Have you applied for other grants so far?
