@@ -2,9 +2,9 @@
 
 ## Project Overview 
 
-- Project: Web3Campus powered by Cointelegraph
-- Team Name: Web3Campus powered by Cointelegraph
-- Payment Address: 0xa80351bcac20e9682df35bf52855b7de4201842e
+⦁ Project: Web3Campus powered by Cointelegraph
+⦁ Team Name: Web3Campus powered by Cointelegraph
+⦁ Payment Address: 0xa80351bcac20e9682df35bf52855b7de4201842e
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -12,14 +12,13 @@
 
 1. Please consider the link to our deck: [https://docsend.com/view/23596kdwsw27nufd](https://docsend.com/view/23596kdwsw27nufd)
 Web3Campus is an online educational platform for learning Web3 skills and professions. Our goal is to supply the Web3 market with professionals capable to build and grow projects through cutting-edge solutions.
-2. 
-We started to form the idea in Q1 2022. The idea is a logical sequel to my media background and my interest in supplying people with the best and most up-to-date knowledge about Web3. Our goal is to teach developers, product managers, and other specialists how Web3 works. To be able to proudly recommend our alumni to friends and partners because we are confident in the quality of our education. We put together all the required ‘pieces of the puzzle’ for a successful EdTech company that has the potential to become a unicorn.
+2. We started to form the idea in Q1 2022. The idea is a logical sequel to my media background and my interest in supplying people with the best and most up-to-date knowledge about Web3. Our goal is to teach developers, product managers, and other specialists how Web3 works. To be able to proudly recommend our alumni to friends and partners because we are confident in the quality of our education. We put together all the required ‘pieces of the puzzle’ for a successful EdTech company that has the potential to become a unicorn.
 
-Vlad — CEO with strong technical background (as developer and CTO), who is responsible for the design and how it actually works after the development cycle.
-Me — vision, business development, and Web3 market expertise:
-Artem — CCO/CMO at one of the biggest EdTech holdings ($185 mln revenue in ‘21)
-Leo — CBDO  with passion, unlimited energy, and a large network.
-Cointelegraph — a strong and valuable strategic partner that provides brand, network, and quick go-to-market.
+⦁ Vlad — CEO with strong technical background (as developer and CTO), who is responsible for the design and how it actually works after the development cycle.
+⦁ Me — vision, business development, and Web3 market expertise:
+⦁ Artem — CCO/CMO at one of the biggest EdTech holdings ($185 mln revenue in ‘21)
+⦁ Leo — CBDO  with passion, unlimited energy, and a large network.
+⦁ Cointelegraph — a strong and valuable strategic partner that provides brand, network, and quick go-to-market.
 
 We choose to teach our students the fundamentals of deploying projects on VeChain as it is an essential layer-1 blockchain. With efficient learning methodology and Web3 mechanics, we will accelerate the adoption of the VeChain ecosystem for Web2 developers. The result of our partnership will be 1K new builders and creators for VeChain.
 
@@ -33,18 +32,18 @@ We choose to teach our students the fundamentals of deploying projects on VeChai
 
 ### Ecosystem Fit
 Our competitors are Web2 educational projects. The fight is for the brightest minds.
-#https://codecademy.com
-#https://pluralsight.com
-#https://datacamp.com
-#https://udacity.com
-#https://coursera.org
-#And other.
+⦁ https://codecademy.com
+⦁ https://pluralsight.com
+⦁ https://datacamp.com
+⦁ https://udacity.com
+⦁ https://coursera.org
+And other.
 
 Learn-to-earn projects and other:
-Buildspace - [https://buildspace.so] - introduces users to ecosystem tools and rewards them with NFTs.
-Rabbithole  - [https://rabbithole.gg] - this service proved that mini-courses and quests are a good instrument for student adoption. Raised $21.6m on seed stage in ‘22.
-BitDegree - [https://bitdegree.org]- their project started from paid crypto-related courses. Now they are launching “Learnoverse” with Learn-to-Earn.
-LetMeSpeak - [https://letmespeak.org] - motivates students to complete tasks and quizes by rewarding them with tokens.
+⦁ Buildspace - https://buildspace.so - introduces users to ecosystem tools and rewards them with NFTs.
+⦁ Rabbithole  - https://rabbithole.gg - this service proved that mini-courses and quests are a good instrument for student adoption. Raised $21.6m on seed stage in ‘22.
+⦁ BitDegree - https://bitdegree.org - their project started from paid crypto-related courses. Now they are launching “Learnoverse” with Learn-to-Earn.
+⦁ LetMeSpeak - https://letmespeak.org - motivates students to complete tasks and quizes by rewarding them with tokens.
 
 Why is our product different? We have a strong vision on how to build high-quality Web3 education and enhance it with working Web3 concepts - from decentralized identity to metaverse. Current competitors have just one of that… or none of that.
 
@@ -75,27 +74,24 @@ Head Of Growth Marketing & Expansion at Blockchain.com. Previously held senior l
 N/A
 
 ### Team LinkedIn Profiles
-https://www.linkedin.com/in/vladislav-baimurzin/ <Vlad Baimurzin>
-https://www.linkedin.com/in/danielseman/ <Daniel Seman>
-https://www.linkedin.com/in/akazakov-executive-coach/ <Artem Kazakov>
-https://www.linkedin.com/in/leoglazow/ <Leo Glazõw>
-https://www.linkedin.com/in/teigilee/ <Teigi Lee>
+⦁ https://www.linkedin.com/in/vladislav-baimurzin/ <Vlad Baimurzin>
+⦁ https://www.linkedin.com/in/danielseman/ <Daniel Seman>
+⦁ https://www.linkedin.com/in/akazakov-executive-coach/ <Artem Kazakov>
+⦁ https://www.linkedin.com/in/leoglazow/ <Leo Glazõw>
+⦁ https://www.linkedin.com/in/teigilee/ <Teigi Lee>
 
 ## Development Roadmap 
 
-Courses and Quests  - 40,000$ - VeChain-related educational materials: How to build DeFi projects course; two mini-courses and two quests. -Dec’ 22 - Jan’ 23 - Feb’ 23 
-Marketing of VeChain Courses only - $30,000 - The sum will be spent on performance and content marketing, community growth, influencers, and webinars. 
+⦁ Courses and Quests  - 40,000$ - VeChain-related educational materials: How to build DeFi projects course; two mini-courses and two quests. -Dec’ 22 - Jan’ 23 - Feb’ 23 
+⦁ Marketing of VeChain Courses only - $30,000 - The sum will be spent on performance and content marketing, community growth, influencers, and webinars. 
 
 ## Future Plans
 
 LONG-TERM GOALS:
 
 ⦁ Launching on the LATAM market
-
 ⦁ 3 more courses launched, with self-sufficient mini-courses and quests
-
 ⦁ Breaking into the Philippines and Indonesia markets
-
 ⦁ Start of B2B sales
 
 ## Additional Information 
