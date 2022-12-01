@@ -12,6 +12,9 @@ Monezo is a revolutionary platform that connects traditional real world assets &
 
 ### Project Details
 
+![photo_2022-11-30_12-42-44](https://user-images.githubusercontent.com/116592208/205175213-1df6d487-7d5a-4321-acaa-39b7ef4efb64.jpg)
+![photo_2022-11-30_12-42-45](https://user-images.githubusercontent.com/116592208/205175222-f7977c6d-ad1e-4a10-b645-0749782c4129.jpg)
+
 Monezo is striving to solve  the current market issue which is related to the lack of stable & safe investment opportunities which can offer considerable return of funds in order to handle the hyperinflation rate, degree of risk, and volatility presented in the crypto market.
 Therefore, Monezo provides stable, crypto market neutral, high-yield investment opportunities for NFT investors.
 
