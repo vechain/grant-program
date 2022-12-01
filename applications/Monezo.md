@@ -65,13 +65,7 @@ https://monezo.xyz/
 
 Monezo deck website (pitch deck & litepaper): https://deck.monezo.xyz/JDJEZ39EfbAuDLez
 
-We are going to attract partners and founds through this grant to accomplish the following points:
-Q4 2022 - our marketplace and platform MVP developing and pass through audit;
-Q1 2023 - Community building (at least 15 000 active community members) and ambassador program creation;
-Q2 2023 - Platform & Marketplace launch (at least 1 000 active users); Launch of 2 Yieldful NFT pools;
-Q3 2023 - Launch of Monezo Incubator - onboard the first third party business on platform and issue new investment pool (NFT collection)
-
-We have the detailed roadmap with milestones assigned to each quarter. We use scrum methodology and have KPIs for each milestone so we plan to report in each quarter on progress made or we can adapt to your schedule and do it monthly.
+![Monezo_Roadmap](https://user-images.githubusercontent.com/116592208/205174730-e0fc2b45-979e-41a8-a6a3-052d743b645a.png)
 
 #### Community engagement
 
