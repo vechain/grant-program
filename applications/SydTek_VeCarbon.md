@@ -1,15 +1,40 @@
-# VeChain grant research proposal template
+# VeChain grant research proposal
 
-## Title
+## Title 
+Increasing Transparency for Sustainable Supply Chains: An Industry Survey of Applications for VeChain's VeCarbon Solution 
 
 ## Applicants
 
-Please include here information about all (co-)applicants, with names, affiliations, scientific background, and any information related to the merits of the applicants for the research. In case there are multiple applicants, it should be clearly stated that who is the corresponding applicant. The corresponding applicant will take primary responsibility for the project, e.g., managing the progress of the project, communicating with VeChain foundation, and in charge of the budget distribution.
+Dr. Justin Goldston - Justin Goldston is a Professor at Penn State University, as well as a Visiting Professor and Graduate Advisory Board Member at Georgetown University and the University of Southern California. His research is focused on blockchain, social impact, supply chain management, and is a five-time TEDx speaker on blockchain. Goldston is the corresponding applicant and will take primary responsibility for the project.
 
-CVs of the applicants should also be included, either in the end of this proposal or in a separate file.
+Dr. Anoop V.S. - Dr. Anoop is a Professor and Senior Scientist in India where his focus is on blockchain and artificial intelligence. As the author and co-author of many highly-cited academic journal articles focused on emerging technologies, his research experience is invaluable to the team and this project. 
+
+Tomer Jordi Chaffer - Jordi is a graduate researcher at McGill University in Canada, and is also the co-author of The Metaverse as the Digital Leviathan: A Case Study of Bit.Country. As an international speaker on blockchain, Jordi’s research is focused on blockchain within the healthcare sector.
+
+CVs
+
+Justin Goldston, PhD - https://drive.google.com/file/d/1qIS2Z3ANUJ9I_U3Aayb4zJGJM1dMAcrJ/view?usp=sharing
+Anoop V.S., PhD - https://drive.google.com/file/d/17b2FqXq7DtchxDOYjBKkRtvRDvA2TzWp/view?usp=sharing
+Tomer Jordi Chaffer - https://drive.google.com/file/d/1jQFqowGFqCKTW3gegft3EYQPCbQRdUcc/view?usp=sharing 
+
+Please see a few notable articles below the applicants published centered around blockchain and Web3.
+
+This is the first peer-reviewed academic case study on the metaverse written by Goldston and Chaffer. https://bit.ly/3wZaHt4
+
+This is the first peer-reviewed academic case study on hybrid finance (HyFi) written by Goldston and Anoop V.S. https://bit.ly/3D55XGh
+
+This will be one of the first academic peer-reviewed journal articles on soulbound tokens by Chaffer and Goldston. https://articlegateway.com/index.php/JSIS/article/view/5637/5349 
+
+This is the Google Scholar profile for Justin Goldston https://scholar.google.com/citations?user=trlWfAQAAAAJ&hl=en&oi=ao
+
+This is the Google Scholar profile of Jordi Chaffer. https://scholar.google.com/citations?user=ztttWoYAAAAJ&hl=en&oi=ao
+
+This is the Google Scholar profile for Anoop V.S. https://scholar.google.com/citations?user=66ddfXYAAAAJ&hl=en&oi=sra 
+
+This is the link to Goldston and Anoop’s forthcoming book published by Taylor and Francis entitled "Blockchain for Industry 4.0: Emergence, Challenges and Opportunities" https://www.taylorfrancis.com/books/edit/10.1201/9781003282914/blockchain-industry-4-0-anoop-asharaf-justin-goldston-samson-williams
 
 ## Payment Address
-A USDT (ERC 20) payment address should be provided. We don't accept payments for the program in other currencies at this stage. 
+0xDB47B39e2fe61bA6a0f82aBf07daa38D358134c5 - Ethereum
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -19,21 +44,11 @@ It is recommended that the summary be less than 300 words.
 
 ### Main field of research
 
-Select the research field out of the 9 fields listed below or state &quot;others&quot;.
-
-1. Blockchain consensus mechanisms
-2. Cryptography
-3. Economical models / Incentive mechanisms / Governance
-4. Blockchain security / privacy
-5. Empirical studies / real-world measurements / performance analysis &amp; comparison
-6. DeFi
-7. Smart contracts
-8. Blockchain interoperability / Oracle
-9. Blockchain applications
+Empirical studies / real-world measurements / performance analysis &amp; comparison
 
 ### Keywords
 
-List no more than five keywords that are closely related to the research.
+Sustainability; Supply Chain; Blockchain; Carbon emissions; Environmental, social, and corporate governance (ESG)
 
 ## Research proposal (main body)
 
