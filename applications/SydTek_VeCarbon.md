@@ -42,7 +42,19 @@ This is the link to Goldston and Anoop’s forthcoming book published by Taylor 
 
 ## Summary
 
-It is recommended that the summary be less than 300 words.
+Climate change is widely acknowledged to be one of the most pressing global issues facing society today. As it has been noted that organizations’ supply chain networks are major contributors to this environmental impact, companies are taking steps to reduce their carbon footprint. Although attempts have been made by supply chain leaders to track carbon emissions, current state solutions do not provide real-time reporting and are often inaccurate (Chen et al., 2022; Fang et al., 2018). In March 2020, the Securities and Exchange Commission (SEC) in the United States issued a proposal that would require public companies to disclose climate-related information in their SEC filings. As organizations will look to their supply chain leaders to provide this information, these leaders will need tools to provide transparency across their supply chain networks.
+
+As researchers have voiced concerns regarding proof-of-work blockchain protocols such as Bitcoin due to high electricity consumption, protocols such as VeChain could have a positive impact on the environment. VeChain is an enterprise-focused solution that is focused on providing a secure, reliable, and scalable platform for enterprise applications, namely within the supply chain industry (Schahczenski & Schahczenski, 2020). To address the emerging issue of sustainable practices across the supply chain industry, the organization has developed a blockchain-based platform called VeCarbon. VeCarbon provides a transparent and traceable system for companies to track their carbon emissions and carbon credits, enabling them to reduce their carbon footprint and gain social recognition for their sustainability efforts. 
+
+The purpose of this qualitative modified Delphi study is to identify a consensus among a panel of supply chain executives as to the desirability and feasibility of a platform to track carbon emissions. From a sustainability perspective, we also look to gain insights as to whether they would use this tool due to regulation or for positive environmental impact. 
+
+References 
+
+Chen, K., Yang, M., Zhou, X., Liu, Z., Li, P., Tang, J., & Peng, C. (2022). Recent advances in carbon footprint studies of urban ecosystems: Overview, application, and future challenges. Environmental Reviews, 30(2), 342-356.
+
+Fang, Y., Ng, S. T., Ma, Z., & Li, H. (2018). Quota-based carbon tracing model for construction processes in China. Journal of Cleaner Production, 200, 657-666.
+
+Schahczenski, J., & Schahczenski, C. (2020). Blockchain and the resurrection of consumer sovereignty in a sustainable food economy. Journal of Agriculture, Food Systems, and Community Development, 9(3), 79-84.
 
 ### Main field of research
 
