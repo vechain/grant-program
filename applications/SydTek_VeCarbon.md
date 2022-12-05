@@ -48,13 +48,6 @@ As researchers have voiced concerns regarding proof-of-work blockchain protocols
 
 The purpose of this qualitative modified Delphi study is to identify a consensus among a panel of supply chain executives as to the desirability and feasibility of a platform to track carbon emissions. From a sustainability perspective, we also look to gain insights as to whether they would use this tool due to regulation or for positive environmental impact. 
 
-References 
-
-Chen, K., Yang, M., Zhou, X., Liu, Z., Li, P., Tang, J., & Peng, C. (2022). Recent advances in carbon footprint studies of urban ecosystems: Overview, application, and future challenges. Environmental Reviews, 30(2), 342-356.
-
-Fang, Y., Ng, S. T., Ma, Z., & Li, H. (2018). Quota-based carbon tracing model for construction processes in China. Journal of Cleaner Production, 200, 657-666.
-
-Schahczenski, J., & Schahczenski, C. (2020). Blockchain and the resurrection of consumer sovereignty in a sustainable food economy. Journal of Agriculture, Food Systems, and Community Development, 9(3), 79-84.
 
 ### Main field of research
 
@@ -74,15 +67,53 @@ The applicants should clearly describe the research problem to be tackled and wh
 
 ### Contributions
 
+After a review of the existing academic research on VeChain, the team will research and include the following studies for the Literature Review section of the study:
+
+Chern, B. T. P., & Aun, T. B. (2021). Blockchain adoption among Malaysian SMEs: A critical review on the supply chain implications. Journal of Education and Social Sciences, 17(1), 48-55.
+
+Chiacchio, F., D’Urso, D., Oliveri, L. M., Spitaleri, A., Spampinato, C., & Giordano, D. (2022). A non-fungible token solution for the track and trace of pharmaceutical supply chain. Applied Sciences, 12(8), 1-23.
+
+Hellani, H., Sliman, L., Samhat, A. E., & Exposito, E. (2021). On blockchain integration with supply chain: Overview on data transparency. Logistics, 5(3), 1-23.
+
+Erokhin, A., Koshechkin, K., & Ryabkov, I. (2020). The distributed ledger technology as a measure to minimize risks of poor-quality pharmaceuticals circulation. PeerJ Computer Science, 6, e292.
+
+Knutsen, K. E., Liang, Q., Karandikar, N., Ibrahim, I. H. B., Tong, X. G. T., & Tam, J. J. H. (2022, July). Containerized immutable maritime data sharing utilizing Distributed Ledger Technologies. In Journal of Physics: Conference Series (Vol. 2311, No. 1, p. 012006). IOP Publishing.
+
+Liu, A., Liu, T., Mou, J., & Wang, R. (2020). A supplier evaluation model based on customer demand in blockchain tracing anti-counterfeiting platform project management. Journal of Management Science and Engineering, 5(3), 172-194.
+
+Manolache, M. A., Manolache, S., & Tapus, N. (2022). Decision making using the blockchain proof of authority consensus. Procedia Computer Science, 199, 580-588.
+
+Meghla, T. I., Rahman, M. M., Biswas, A. A., Hossain, J. T., & Khatun, T. (2021, July). Supply Chain Management with Demand Forecasting of Covid-19 Vaccine using Blockchain and Machine Learning. In 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT) (pp. 01-07). IEEE.
+
+Meraviglia, L. (2018). Technology and counterfeiting in the fashion industry: Friends or foes?. Business Horizons, 61(3), 467-475.
+
+Pieroni, A., Scarpato, N., & Felli, L. (2020). Blockchain and IoT convergence—a systematic survey on technologies, protocols and security. Applied Sciences, 10(19), 1-23.
+
+Raj, P. (2021). Industrial use cases at the cusp of the IoT and blockchain paradigms. In Advances in Computers (Vol. 121, pp. 355-385). Elsevier.
+
+Shcherbakov, V., & Silkina, G. (2021). Supply chain management open innovation: Virtual integration in the network logistics system. Journal of Open Innovation: Technology, Market, and Complexity, 7(1), 1-21.
+
+Schahczenski, J., & Schahczenski, C. (2020). Blockchain and the resurrection of consumer sovereignty in a sustainable food economy. Journal of Agriculture, Food Systems, and Community Development, 9(3), 79-84.
+
+She, Z. (2022). VeChain: A renovation of supply chain management--a look into its organisation, current acitivity, and prospect. 2022 International Conference on Educational Informatization, E-commerce and Information System. 292-297.
+
+Teodorescu, M., & Korchagina, E. (2021). Applying blockchain in the modern supply chain management: Its implication on open innovation. Journal of Open Innovation: Technology, Market, and Complexity, 7(1), 1-18.
+
+Teoh, B. P. C. (2022). Navigating the blockchain trilemma: A supply chain dilemma. In Advanced Maritime Technologies and Applications (pp. 291-300). Springer, Cham.
+
+Thanasi-Boçe, M., AL-Issa, N., & Ali, O. (2022). Combating luxury counterfeiting through blockchain technology. In Blockchain Technologies in the Textile and Fashion Industry (pp. 1-16). Springer, Singapore.
+
+Vieira, E., Ferreira, J., & Bartolomeu, P. C. (2020, September). Blockchain technologies for IoT applications: Use-cases and limitations. In 2020 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA) (Vol. 1, pp. 1560-1567). IEEE.
+
 ### Background
 
 ### Approach
 
-The approach to conduct the research, also reasoning about the viability of this approach, e.g., the applicants have conducted similar research or used similar approaches before.
+A modified qualitative Delphi approach was selected because Justin Goldston used this approach for a study to identify a consensus among a panel of ERP manufacturing consultants as to the desirability and feasibility of critical success factors in ERP implementations in the United States. In using supply chain executives as the panel of experts in this study, not only will we hopefully gain insights as to the needs of the user base for VeChain's VeCarbon solution, but we may also gain additional user insights for VeChain's base solution.
 
 ### Risks
 
-Discussion about the possible risks during the research process and their consequences.
+The potential risk to this project could be the lack of responses among the panel of experts. As Justin Goldston is a part of many blockchain-related supply chain groups on LinkedIn, this risk could be considered a small risk.
 
 ## Milestones
 
@@ -93,3 +124,9 @@ The applicants should define multiple milestones together with the budget and th
 A detailed budget should be provided to justify the requested fund. Please note that funding for each research project will be capped at 30,000 USD. 
 
 ## References
+
+Chen, K., Yang, M., Zhou, X., Liu, Z., Li, P., Tang, J., & Peng, C. (2022). Recent advances in carbon footprint studies of urban ecosystems: Overview, application, and future challenges. Environmental Reviews, 30(2), 342-356.
+
+Fang, Y., Ng, S. T., Ma, Z., & Li, H. (2018). Quota-based carbon tracing model for construction processes in China. Journal of Cleaner Production, 200, 657-666.
+
+Schahczenski, J., & Schahczenski, C. (2020). Blockchain and the resurrection of consumer sovereignty in a sustainable food economy. Journal of Agriculture, Food Systems, and Community Development, 9(3), 79-84.
