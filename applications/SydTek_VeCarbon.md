@@ -14,7 +14,9 @@ Tomer Jordi Chaffer - Jordi is a graduate researcher at McGill University in Can
 CVs
 
 Justin Goldston, PhD - https://drive.google.com/file/d/1qIS2Z3ANUJ9I_U3Aayb4zJGJM1dMAcrJ/view?usp=sharing
+
 Anoop V.S., PhD - https://drive.google.com/file/d/17b2FqXq7DtchxDOYjBKkRtvRDvA2TzWp/view?usp=sharing
+
 Tomer Jordi Chaffer - https://drive.google.com/file/d/1jQFqowGFqCKTW3gegft3EYQPCbQRdUcc/view?usp=sharing 
 
 Please see a few notable articles below the applicants published centered around blockchain and Web3.
