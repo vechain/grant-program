@@ -57,13 +57,69 @@ Empirical studies / real-world measurements / performance analysis &amp; compari
 
 Sustainability; Supply Chain; Blockchain; Carbon emissions; Environmental, social, and corporate governance (ESG)
 
-## Research proposal (main body)
+### Approach
 
-The applicants may use any preferred structure to state this part as clear as possible. It is recommended for the applicant to include the following parts.
+A modified qualitative Delphi approach was selected because Justin Goldston used this approach for a study to identify a consensus among a panel of ERP manufacturing consultants as to the desirability and feasibility of critical success factors in ERP implementations in the United States. In using supply chain executives as the panel of experts in this study, not only will we hopefully gain insights as to the needs of the user base for VeChain's VeCarbon solution, but we may also gain additional user insights for VeChain's base solution.
 
-### Problem Statement
+### Risks
 
-The applicants should clearly describe the research problem to be tackled and why the problem is significant for VeChain and its ecosystem.
+The potential risk to this project could be the lack of responses among the panel of experts. As Justin Goldston is a part of many blockchain-related supply chain groups on LinkedIn, this risk could be considered a small risk.
+
+## Milestones
+
+The applicants should define multiple milestones together with the budget and the expected outcome of each milestone. The outcome may, for instance, be a prototype system, proof-of-concept, scientific paper, technical report, etc. Note that the grant will be disbursed step-by-step according to the budget of each milestone as explained in the [Application Process](https://github.com/vechain/grant-program#application-process).
+
+### Overview
+
+- **Total Estimated Duration:** 4 months
+- **Full-Time Equivalent (FTE):**  5FTE, the listed members would contribute to different deliverables based on their skill-set.
+- **Total Costs:** 29,600 USDC 
+
+### Milestone 1 — Literature Review of VeChain and VeCarbon in the Supply Chain Industry
+
+- **Estimated duration:** 1 month
+- **FTE:**  5
+- **Costs:** 15,600 USDC - link to budget details outlined in the Additional Information Section
+
+| Number | Deliverable       | Specification                                                                                                                                                                                                                                                                                                                  |
+| ------: | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|      0. | Rights            | All developed materials and raw data will be publicly accessible and public domain via a GitHub repository. Milestone 1 is research oriented and as such there is no code to test.                                                                                                                                                                                                                                                         |
+|  **1.** | Overview of the VeChain and VeCarbon Ecosystems | We will provide a literature review of the current usage of VeChain and VeCarbon within the industry. We will also collaborate with users within the ecosystem to conduct interviews that will be published on the SydTek DAO YouTube page.|
+| **1a.** | Literature Review Distribution | At the conclusion of the research and interviews, a draft document of the Literature Review section of the study will be distributed across a number of LinkedIn Groups. Once feedback is gathered, we will then develop a survey to distribute to individuals within the respective LinkedIn groups as to the desirability and feasibility of a platform to track carbon emissions. Based on the feedback within the LinkedIn groups, additional questions will be added to the survey. All information and the development of the survey will be outlined in the study. |
+
+### Milestone 2 — Data Collection from Milestone 1 Surveys and Completion of Study
+
+- **Estimated Duration:** 1 month
+- **FTE:**  5
+- **Costs:** 14,000 USDC - link to budget details outlined in the Additional Information Section
+
+| Number | Deliverable       | Specification                                                                                                                                                                                                                                                                                                                  |
+| ------: | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|      0. | Rights            | All developed materials and raw data will be publicly accessible and public domain via a GitHub repository. Milestone 2 is research oriented and as such there is no code to test.                                                                                                                                                                                                                                                          |
+|  **1.** | Data Collection and Analysis | The SydTek team will collect the data from the study to analyze to report the results in the study.|
+| **1a.** | Specific Coverage | The results of the study as to the desirability and feasibility of a platform to track carbon emissions will be completed for submission to a peer-reviewed academic journal.
+
+### Milestone 3 — Peer Reviewed Academic Journal Article Publication
+
+- **Estimated Duration:** 2 months
+- **FTE:**  3
+- **Costs:** 1,150 USDC - link to budget details outlined in the Additional Information Section
+
+| Number | Deliverable       | Specification                                                                                                                                                                                                                                                                                                                  |
+| ------: | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|      0. | Rights            | All developed materials and raw data will be publicly accessible and public domain via a GitHub repository. Milestone 3 is research oriented and as such there is no code to test.                                                                                                                                                                                                                                                          |
+|  **1.** | Submit to OA journal | The SydTek team submit the completed journal article for publication in a peer-reviewed open access journal to ensure the research is available for everyone.|
+| **1a.** | Specific Coverage | The team will hold virtual sessions for univerisities such as Georgetown University in Washington, DC in the United States, McGill University in Montreal, Canada, and at the Kings College School of Law in London, UK to share the findings of the study. These events will also be recorded and held in the metaverse.
+
+## Budget
+
+$29,600
+
+The details of the budget can be found at the link below. The budget will cover the costs for a Principal investigator, three researchers, a project
+manager, and the cost to cover publishing in an academic journal. 
+
+
+https://docs.google.com/spreadsheets/d/1SsSur7eCkrC-XLy96tiC4a4C_yooJD1i/edit?usp=sharing&ouid=100912578517062621282&rtpof=true&sd=true
 
 ### Contributions
 
@@ -105,29 +161,6 @@ Thanasi-Boçe, M., AL-Issa, N., & Ali, O. (2022). Combating luxury counterfeitin
 
 Vieira, E., Ferreira, J., & Bartolomeu, P. C. (2020, September). Blockchain technologies for IoT applications: Use-cases and limitations. In 2020 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA) (Vol. 1, pp. 1560-1567). IEEE.
 
-### Background
-
-### Approach
-
-A modified qualitative Delphi approach was selected because Justin Goldston used this approach for a study to identify a consensus among a panel of ERP manufacturing consultants as to the desirability and feasibility of critical success factors in ERP implementations in the United States. In using supply chain executives as the panel of experts in this study, not only will we hopefully gain insights as to the needs of the user base for VeChain's VeCarbon solution, but we may also gain additional user insights for VeChain's base solution.
-
-### Risks
-
-The potential risk to this project could be the lack of responses among the panel of experts. As Justin Goldston is a part of many blockchain-related supply chain groups on LinkedIn, this risk could be considered a small risk.
-
-## Milestones
-
-The applicants should define multiple milestones together with the budget and the expected outcome of each milestone. The outcome may, for instance, be a prototype system, proof-of-concept, scientific paper, technical report, etc. Note that the grant will be disbursed step-by-step according to the budget of each milestone as explained in the [Application Process](https://github.com/vechain/grant-program#application-process).
-
-## Budget
-
-$29,600
-
-The details of the budget can be found at the link below. The budget will cover the costs for a Principal investigator, three researchers, a project
-manager, and the cost to cover publishing in an academic journal. 
-
-
-https://docs.google.com/spreadsheets/d/1SsSur7eCkrC-XLy96tiC4a4C_yooJD1i/edit?usp=sharing&ouid=100912578517062621282&rtpof=true&sd=true
 
 ## References
 
