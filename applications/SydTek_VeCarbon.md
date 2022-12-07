@@ -121,7 +121,13 @@ The applicants should define multiple milestones together with the budget and th
 
 ## Budget
 
-A detailed budget should be provided to justify the requested fund. Please note that funding for each research project will be capped at 30,000 USD. 
+$29,600
+
+The details of the budget can be found at the link below. The budget will cover the costs for a Principal investigator, three researchers, a project
+manager, and the cost to cover publishing in an academic journal. 
+
+
+https://docs.google.com/spreadsheets/d/1SsSur7eCkrC-XLy96tiC4a4C_yooJD1i/edit?usp=sharing&ouid=100912578517062621282&rtpof=true&sd=true
 
 ## References
 
