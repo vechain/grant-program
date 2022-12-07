@@ -59,7 +59,7 @@ Sustainability; Supply Chain; Blockchain; Carbon emissions; Environmental, socia
 
 ### Approach
 
-A modified qualitative Delphi approach was selected because Justin Goldston used this approach for a study to identify a consensus among a panel of ERP manufacturing consultants as to the desirability and feasibility of critical success factors in ERP implementations in the United States. In using supply chain executives as the panel of experts in this study, not only will we hopefully gain insights as to the needs of the user base for VeChain's VeCarbon solution, but we may also gain additional user insights for VeChain's base solution.
+A modified qualitative Delphi approach was selected because Justin Goldston used this approach in the past for a study to identify a consensus among a panel of ERP manufacturing consultants as to the desirability and feasibility of critical success factors in ERP implementations in the United States. In using supply chain executives as the panel of experts in this study, not only will we hopefully gain insights as to the needs of the user base for VeChain's VeCarbon solution, but we may also gain additional user insights for VeChain's base solution.
 
 ### Risks
 
