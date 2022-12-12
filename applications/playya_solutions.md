@@ -10,11 +10,11 @@
 
 **Digital Media Creation** is undergoing a major disruption. Gaming and Animation studios are merging tools, processes and pipelines and are looking at new ways of **engaging with their audience** and **monetizing their IPs**. We think that what we call today NFTs will ultimately become the preferred vehicle for digital artists & consumers to engage, trade and collaborate. We believe in **p-2-p on-chain automation** and verification to create virtuous commercial interactions between professional creators & their audience and level the playing field between creators, big and small.
 
-We are designing Playya to be a curated web3 platform and a strategic partner, enabling **animation & gaming studios** and **indie creators** to 
+We are designing **Playya** to be a **curated web3 platform** and a **strategic partner** for **animation & gaming studios** and **indie creators**. The platform will provide **"No code" solutions** for taking advantages of **Web3 & NFTs technologies**. In particular: 
 
-  1. Publish and trade **digital assets as NFTs** on our proprietary store, backed by **cost-efficient blockchain and wallet**
-  2. Use **Smart contracts** to grant **in-game benefits** to players owners of their **IP related NFTs**
-  3. Engage **collaboratively** with other creators and studios
+  1. Publishing and trading **digital assets as NFTs** on Playya's proprietary store, backed by **cost-efficient blockchain and wallet**
+  2. Using **Smart contracts** to grant **in-game benefits** to players owners of their **IP related NFTs**,
+  3. Engaging **collaboratively** with other creators and studios
   
 To power Playya at the desired scale, we aim to pick a **sustainable and cost-efficient blockchain** with a solid track record in digital intellectual property services. By all accounts, we think that VeChain would be an optimal technology partner to help us create the conditions to make Playya thrive. 
 
