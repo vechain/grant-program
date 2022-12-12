@@ -25,7 +25,7 @@ The marketplace supports **on-chain NFT minting** using EVM compatible wallets, 
 
 Playya's next milestone will be **Playya Lab**, a toolset for collaborating studios, including an innovative **smart contract editor**. Playya Lab will allow studios **creating smart contracts easily**, in order to **grant in-game bonuses and advantages** to NFTs owners playing their games and metaverses. The smart contract editor intends using **VeChain blockchain** for **smart contracts deployment**.
 
-Another milestone consists in publishing a plugin for **NFT minting using VeChain (VET) wallet** for [Bubble.io](https://bubble.io/) apps. Allowing VET owners to mint, buy and sell NFTs using such as upcoming **VeWorld** wallet is an important milestone. Thanks to **VeChain blockchain platform**, Playya intends disrupting the current NFT market with **lower minting cost**, hence contributing directly to **VeChain technology ecosystem** and developing the NFT market across the world.
+Another milestone consists in publishing a plugin for **NFT minting using VeChain (VET) wallet** for [Bubble.io](https://bubble.io/) apps. Allowing VET owners to mint, buy and sell NFTs using wallets such as **Sync2** and/or upcoming new **VeChain (VET) Wallet**  is an important milestone. Thanks to **VeChain blockchain platform**, Playya intends disrupting the current NFT market with **lower minting cost**, hence contributing directly to **VeChain technology ecosystem** and developing the NFT market across the world.
 
 _Screenshots of **Playya Market MVP**:_
  
@@ -41,7 +41,7 @@ _Screenshots of **Playya Market MVP**:_
  
  
  
-_Playya Market MVP when upcoming VeWorld wallet (VET) is supported:_
+_Playya Market MVP when Sync2 or upcoming VET wallet is supported:_
  
 ![202929595-3c7915bc-07b1-418b-bf81-b17a732b4038](https://user-images.githubusercontent.com/3075947/205761531-a99380b0-deba-4ea1-8707-f4921cb993cf.png)
  
@@ -49,7 +49,7 @@ _Playya Market MVP when upcoming VeWorld wallet (VET) is supported:_
 Source: https://market.playya.io/
 
 **Tech stack:**
-- JavaScript & SCSS, Node.js, Pinata IPFS Manager (Storage), Solidity, VeChain, VeWorld wallet, Sync2, Web3 & Metamask, Web3 Backend, WalletConnect, Web3Auth, Plugins for Bubble.io, EVM, Polygon
+- JavaScript & SCSS, Node.js, Pinata IPFS Manager, Solidity, VeChain, Sync2, Web3 & Metamask, Web3 Backend, WalletConnect, Web3Auth, Plugins for Bubble.io, EVM, Polygon
 
 - Playya Market MVP is available here: https://market.playya.io/
 
@@ -100,11 +100,11 @@ _**October 2022**_ :	Definition of Playya Market MVP requirements.  Playya.io la
 
 **MILESTONE 2** -> _**December-February 2023 :**_ Smart contract editor MVP is released: In a few clicks, Playya's gaming studios partners can create smart contracts granting NFT owners in-game benefits. Example: Candy Crush editor publishes Candy Crush related NFTs on Playya Market. Playya helps Candy Crush defining and setting up a smart contract granting bonus points to players owning Candy Crush NFTs.
 
- **MILESTONE 3** -> _**March 2023 :**_ Playya Market supports on chain minting using **VeChain (VET) wallet** such as VeWorld
+ **MILESTONE 3** -> _**March 2023 :**_ Playya Market supports on chain minting using **VeChain (VET) wallet** (Sync2 and/or upcoming VET wallet)
 
 **MILESTONE 4** -> _**April-May 2023 :**_	Smart contract editor is released, empowering gaming studios to easily incentivize players with NFTs in a few clicks, with none to minimal interventions from Playya's team. The Smart contract editor uses **Solidity** and **VeChain blockchain** for smart contract deployments. 
 
-**MILESTONE 5** -> _**June 2023 :**_	Release of Playya's first plugin for bubble.io apps: **NFT minting using VeChain (VET) wallet (VeWorld)**
+**MILESTONE 5** -> _**June 2023 :**_	Release of Playya's first plugin for bubble.io apps: **NFT minting using VeChain (VET) wallet (Sync2 and/or upcoming VET wallet)**
 
 **MILESTONE 6** -> _**September 2023 :**_ NFT Marketing tool is released to easily promote studios NFTs collections
 
@@ -128,14 +128,14 @@ _- Milestone duration, workload in terms of full-time equivalent (FTE) and cost:
 
 Selected gaming studios partners can easily create smart contracts and grant NFT owners with in-game benefits (Solidity based)
 
-#### Milestone 3 — Playya Market supports on chain minting using VeWorld, the upcoming VeChain (VET) wallet.
+#### Milestone 3 — Playya Market supports on chain minting using Sync2 and/or upcoming VeChain (VET) wallet.
 
 #### Milestone 4 — Smart contract editor released
 
 Every gaming studios can use Playya Lab's Smart contract editor in order to grant in-game benefits such as bonuses, points, lives to NFT owners.
 The Smart contract editor will be available in a streamlined easy-to-use workflow.
 
-#### Milestone 5 — Plugin for "NFT minting using VeChain (VET) wallet (VeWorld)" is published on bubble.io plugin apps 
+#### Milestone 5 — Plugin for "NFT minting using VeChain (VET) wallet (Sync2 and/or upcoming new wallet)" is published on Bubble.io plugin library 
 
 Thanks to this plugin, developers of Bubble.io apps will be able to support VET based payments and minting.
 
