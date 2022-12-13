@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-- Project: **Playya Platform**, the partner for animation & gaming studios bridging the gap to Web3 and NFTs with no code solutions
+- Project: **Playya Platform**, bridging the gap to **Web3 and NFTs** with **no code solutions** for **animation & gaming studios** 
 - Team Name: Playya 
 - Payment Address: 
 
