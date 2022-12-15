@@ -14,7 +14,7 @@ We are designing **Playya** to be a **curated web3 platform** and a **strategic 
 
   1. Publishing and trading **digital assets as NFTs** on Playya's proprietary store, backed by **cost-efficient blockchain and wallet**
   2. Using **Smart contracts** to grant **in-game benefits** to players owners of their **IP related NFTs**,
-  3. Engaging **collaboratively** with other creators and studios
+  3. Engaging **collaboratively** with other creators and studios with innovative features such as **fee delegation**
   
 To power Playya at the desired scale, we aim to pick a **sustainable and cost-efficient blockchain** with a solid track record in digital intellectual property services. By all accounts, we think that VeChain would be an optimal technology partner to help us create the conditions to make Playya thrive. 
 
@@ -23,7 +23,7 @@ To power Playya at the desired scale, we aim to pick a **sustainable and cost-ef
 Playya's first milestone, **Playya Market** (released in November 2022), is a curated marketplace designed for studios and creators to **trade digital assets**, **collaborate** and **complete their productions quickly**. Playya Market allows digital assets creators and IP owners **minting their creations into NFTs**, and selling them to studios.
 The marketplace supports **on-chain NFT minting** using EVM compatible wallets, relying on Ethereum blockchain and Polygon. Playya Market also supports **off-chain minting**, allowing digital creators to launch new asset collections at no cost.
 
-Playya's next milestone will be **Playya Lab**, a toolset for collaborating studios, including an innovative **smart contract editor**. Playya Lab will allow studios **creating smart contracts with no code**, in order to **grant in-game bonuses and advantages** to NFTs owners playing their games and metaverses. The smart contract editor intends using **VeChain blockchain** for **smart contracts deployment**.
+Playya's next milestone will be **Playya Lab**, a toolset for collaborating studios, including an innovative **smart contract editor**. Playya Lab will allow studios **creating smart contracts with no code**, in order to **grant in-game bonuses and advantages** to NFTs owners playing their games and metaverses. The smart contract editor intends using **VeChain blockchain** for **smart contracts deployment** and **fee delegation**.
 
 Another milestone consists in publishing a plugin for **NFT minting using VeChain (VET) wallet** for [Bubble.io](https://bubble.io/) apps. Allowing VET owners to mint, buy and sell NFTs using wallets such as **Sync2** and/or upcoming new **VeChain (VET) Wallet**  is an important milestone. Thanks to **VeChain blockchain platform**, Playya intends disrupting the current NFT market with **lower minting cost**, hence contributing directly to **VeChain technology ecosystem** and developing the NFT market across the world.
 
@@ -102,7 +102,7 @@ _**October 2022**_ :	Definition of Playya Market MVP requirements.  Playya.io la
 
  **MILESTONE 3** -> _**March 2023 :**_ Playya Market supports on chain minting using **VeChain (VET) wallet** (Sync2 and/or upcoming VET wallet)
 
-**MILESTONE 4** -> _**April-May 2023 :**_	Smart contract editor is released, empowering gaming studios to easily incentivize players with NFTs in a few clicks i.e. using "no code" solutions. The Smart contract editor uses **Solidity** and **VeChain blockchain** for smart contract deployments. 
+**MILESTONE 4** -> _**April-May 2023 :**_	Smart contract editor is released, empowering gaming studios to easily incentivize players with NFTs in a few clicks i.e. using "no code" solutions. The Smart contract editor uses **Solidity** and **VeChain blockchain** for **smart contract deployments** and **fee delegation**. 
 
 **MILESTONE 5** -> _**June 2023 :**_	Release of Playya's first plugin for bubble.io apps: **NFT minting using VeChain (VET) wallet (Sync2 and/or upcoming VET wallet)**
 
