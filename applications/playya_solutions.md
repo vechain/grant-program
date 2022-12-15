@@ -14,7 +14,7 @@ We are designing **Playya** to be a **curated web3 platform** and a **strategic 
 
   1. Publishing and trading **digital assets as NFTs** on Playya's proprietary store, backed by **cost-efficient blockchain and wallet**
   2. Using **Smart contracts** to grant **in-game benefits** to players owners of their **IP related NFTs**,
-  3. Engaging **collaboratively** with other creators and studios with innovative features such as **fee delegation**
+  3. Engaging **collaboratively** with other creators and studios with innovative features such as **fee delegation** in order to remove complexity regarding token management.
   
 To power Playya at the desired scale, we aim to pick a **sustainable and cost-efficient blockchain** with a solid track record in digital intellectual property services. By all accounts, we think that VeChain would be an optimal technology partner to help us create the conditions to make Playya thrive. 
 
