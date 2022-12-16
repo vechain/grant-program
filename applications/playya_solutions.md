@@ -96,15 +96,15 @@ _**September 2022**_ :	Survey with gaming and animations studios about a Web3 co
 
 _**October 2022**_ :	Definition of Playya Market MVP requirements.  Playya.io landing page is published -> **DONE** 
 
-**MILESTONE 1** -> _**November 2022 :**_ Playya Market MVP, support for off-chain and on-chain NFT minting and trading (EVM based) -> **DONE** 
+**MILESTONE 1** -> _**December 2022 :**_ Playya Market MVP, support for off-chain and on-chain NFT minting and trading (EVM based) -> **DONE** 
 
-**MILESTONE 2** -> _**December-February 2023 :**_ Smart contract editor MVP is released: In a few clicks, Playya's gaming studios partners can create smart contracts granting NFT owners in-game benefits. Example: Candy Crush editor publishes Candy Crush related NFTs on Playya Market. Playya helps Candy Crush defining and setting up a smart contract granting bonus points to players owning Candy Crush NFTs.
+**MILESTONE 2** -> _**December-March 2023 :**_ Smart contract editor MVP is released: In a few clicks, Playya's gaming studios partners can create smart contracts granting NFT owners in-game benefits. Example: Candy Crush editor publishes Candy Crush related NFTs on Playya Market. Playya helps Candy Crush defining and setting up a smart contract granting bonus points to players owning Candy Crush NFTs.
 
- **MILESTONE 3** -> _**March 2023 :**_ Playya Market supports on chain minting using **VeChain (VET) wallet** (Sync2 and/or upcoming VET wallet)
+ **MILESTONE 3** -> _**April 2023 :**_ Playya Market supports on chain minting using **VeChain (VET) wallet** (Sync2 and/or upcoming VET wallet)
 
-**MILESTONE 4** -> _**April-May 2023 :**_	Smart contract editor is released, empowering gaming studios to easily incentivize players with NFTs in a few clicks i.e. using "no code" solutions. The Smart contract editor uses **Solidity** and **VeChain blockchain** for **smart contract deployments** and **fee delegation**. 
+**MILESTONE 4** -> _**May-June 2023 :**_	Smart contract editor is released, empowering gaming studios to easily incentivize players with NFTs in a few clicks i.e. using "no code" solutions. The Smart contract editor uses **Solidity** and **VeChain blockchain** for **smart contract deployments** and **fee delegation**. 
 
-**MILESTONE 5** -> _**June 2023 :**_	Release of Playya's first plugin for bubble.io apps: **NFT minting using VeChain (VET) wallet (Sync2 and/or upcoming VET wallet)**
+**MILESTONE 5** -> _**July 2023 :**_	Release of Playya's first plugin for bubble.io apps: **NFT minting using VeChain (VET) wallet (Sync2 and/or upcoming VET wallet)**
 
 **MILESTONE 6** -> _**September 2023 :**_ NFT Marketing tool is released to easily promote studios NFTs collections
 
