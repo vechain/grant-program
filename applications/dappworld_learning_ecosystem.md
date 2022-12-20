@@ -1,112 +1,163 @@
-# VeChain General Grant Application Template
+# Project Name - DApp World
 
-## Project Overview 
 
-- Project: The name of the project
-- Team Name: Legal name of your team 
-- Payment Address: USDT (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
+### Website - https://dapp-world.com
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+Payment Address : 0x2d4d99aDCA64FB74A3e95e97F171CB0aF55f6149 : USDT (ERC 20) payment address.
 
-### Overview
 
-Please provide the following:
-- A brief description of the project.
-- An indication of why your team is interested in creating this project within the VeChain Ecosystem.
-- If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
 
-### Project Details
+## Project Overview
 
-We expect the teams to already have a solid idea about the project's expected final state.
-Therefore, we ask the teams to submit (where relevant):
-- Mockups/designs of any UI components
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
+### Project Brief
+DApp World is a learning ecosystem for Blockchain technology.
+We at core want to provide exceptional educational content favoring fun and interactive learning experience for developers who want to learn and get into Blockchain Space.
 
-### Ecosystem Fit
-Are there any other projects similar to yours? If so, how is your project different?
+We aim to bring millions of developers and help them excel in Blockchain Domain.
 
-## Team 
+Every developer uses various resources for learning which include Video Courses, Practical Courses, Articles, Tutorials, Labs, Competitions, etc.
+We provide all that on a single platform with quality curation to favor a fun and interactive experience while learning.
 
-### Team members
+### Contributing to VeChain Ecosystem
 
-- Name of team leader
-- Names of team members
+Currently, there are very less resources and the present resources are all clouded, unorganized, and dispersed which developers find really hard to learn from.
 
-### Team Website
+Even though there are good communities with thousands of members but there is clearly a lack of high-quality resources to help developers learn easily.
 
-- https://<your_domain>
+With DApp World’s contribution, VeChain will have high-quality courses to serve the community to educate and upskill them about building on VeChain in a very fun and interactive way helping developers at every stage of building.
 
-### Team's experience
+If we provide quality resources, it helps developers to learn easily and will also help the VeChain community by reducing the number of queries from developers while developing dapps.
 
-Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
+These wide amounts of resources of different types, produced over time, covering many areas will fulfill the requirements of any developer from a beginner to an expert.
 
-### Team Code Repos
+By creating these promised resources focused on VeChain, these can be spread across the different communities including the ones we are building alongside, primarily across India, which over time will accelerate the pace at which developers jumping into the VeChain ecosystem.
 
-- https://github.com/<your_repo_1>
-- https://github.com/<your_repo_2>
+
+## Team
+
+### Team Members
+- Aniket Savji
+- Ganesh Deshpande
+
+We have been working in the Blockchain space for more than 4 years building different projects like DeFi, Games, NFTs, Utility etc and creating educational content for developers.
+
 
 ### Team LinkedIn Profiles
-
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
-
-## Development Roadmap 
-
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
-
-Below we provide an <b>example roadmap</b>. For each milestone:
-
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
+- Aniket Savji : https://www.linkedin.com/in/aniket-savji
+- Ganesh Deshpande : https://www.linkedin.com/in/ganesh-deshpande-3477b9169
 
 
-### Example Roadmap for a dApp Application
+## Development Roadmap
 
-#### Overview
+DApp World will build multiple resources creating a Learning Ecosystem for VeChain, this way we can help developer at every stage of their learning and building.
+These resources contain Courses, Guides, Exams, Labs, Articles, etc.
+Our aim will be to cover all the necessary topics needed from non-technical to beginner to intermediate to expert. Then more Project oriented resources to help developers build different applications on VeChain.
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
+### Milestone are as follows
 
-#### Milestone 1 — Smart Contract & Backend
 
-| Number | Deliverable | Specification |
-|-|-|-|
-| 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) . We will open source the smart contract and upload the ABI to [B32](https://github.com/vechain/b32). |
-| 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
+|    	- 	| Duration | Cost   |
+|----------|:-------------:|------:|
+|   Milestone 1   | 20 Days | $ 2200 |
+|   Milestone 2   | 20 Days | $ 3000 |
+|   Milestone 3   | 30 Days | $ 4800 |
 
-#### Milestone 2  —  Frontend
-| Number | Deliverable | Specification |
-|-|-|-|
-| 1 | User Guide | We will provide a user guide or a demo video to show what features have been done.  |
-...
 
-#### Community engagement
+## Milestone 1 - Introduction & DApp Development on VeChain
 
-As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant. 
+### Description
+Objective of this milestone will be creating beginner-level of resources to help anyone learn about VeChain and enter the VeChain ecosystem. This way any developer will also get quality and useful resources for building dapps on VeChain and it will also clear all the basic queries of the developers developing on VeChain.
+ 
 
-We recommended you provide social medium, like Twitter, Telegram group, or Reddit, on your website. When the developers/users need assistance, they could get in touch with you and get help.
+### Deliverables
+
+Content Types - Videos, Blogs, Tutorials (*in course + Individual), Labs, Certification by VeChain, etc.
+
+**Content Count**
+- Course -  14+ Topics + Labs and Certification
+- Articles -  5+ Articles targeting VeChain Blockchain
+- Tutorials -  5+ Developer-oriented tutorials to assist in development
+- Quizzes - 2
+
+**Timeline: 20 Days**
+
+**Fund Ask : 2200 $**
+
+**Goal**
+- Detailed Introductory course to get started with VeChain
+- Articles focusing on VeChain to spread more awareness
+- Tutorials focusing on VeChain to assist developers
+
+
+
+
+## Milestone 2 - VeChain Tokenomics
+
+### Description
+Objective of this milestone will be covering all the topics related to Tokenomics such as Tokens, NFTs, advanced NFTs and building a project using those to get better understanding and opening up doors for developers for experimentation and building amazing dapps.
+ 
+### Deliverables
+
+Content Types - Videos, Blogs, Tutorials (*in course + Individual), Labs, Certification by VeChain, etc.
+
+**Content Count**
+- Course -  18+ Topics + Labs and Certification
+- Articles -  5+ Articles targeting VeChain Blockchain
+- Tutorials -  5+ Developer-oriented tutorials to assist in development
+- Quizzes - 2
+
+**Timeline: 20 Days**
+
+**Fund Ask : 3000 $**
+
+**Goal**
+- Helping developers with Tokenomics which is very important for building numerous creative applications
+
+
+## Milestone 3 - Building Projects on VeChain
+
+### Description
+Building more advanced applications from any of these like Defi, Dex, Marketplace, Games etc. to help developers get more deep into application building on VeChain, with this developers will get more understanding of building production level dapps and will assist them tremendously while building on VeChain.
+
+### Deliverables
+
+Content Types - Videos, Blogs, Tutorials (*in course + Individual), Labs, Certification by VeChain, etc.
+
+**Content Count**
+- Course -  22+ Topics + Labs and Certification
+- Articles -  5+ Articles targeting VeChain Blockchain
+- Tutorials -  5+ Developer-oriented tutorials to assist in development
+- Quizzes - 2
+
+**Timeline: 20 Days**
+
+**Fund Ask : 4800 $**
+
+Goal
+- Getting more deep into VeChain blockchain
+- Advanced courses on VeChain focused on Building High-end dapps
+- Helping developers build advanced dapps
+
+
+### Social
+
+DApp World Social  -> [ LinkedIn ](https://twitter.com/dappworld100) | [ Twitter ](https://twitter.com/dappworld100) | [ Discord ](https://discord.gg/jUQwyKQt2V)
+
+
+
+## Additional Information
+
+What work has been done so far?
+
+-> Complete platform is built with version 3, where users can access Interactive Courses, Quizzes, Assessments, Articles and Tutorials 6+ interactive courses, 25+ quizzes, 13+ assessments, 80+ articles, 175+ Tutorials, 1200+ profiles built 
+
+
+Have you applied for other grants so far?
+
+-> No, haven't applied yet
+
 
 ## Future Plans
 
-Please include the team's long-term project plans, operation plans and intentions.
+Building DApp World as educational hub for Blockchain where we can fulfill every developer's upskilling needs.
 
-## Additional Information 
-
-Any additional information that you think is relevant to this application that hasn't already been included.
-
-Possible additional information to include:
-- What work has been done so far?
-- Are there any teams who have already contributed (financially) to the project?
-- Have you applied for other grants so far?
