@@ -100,6 +100,17 @@ I am seeking a grant of $26,648 to achieve the following roadmap.
 | 1.2 | Node #2 | Link to MainNet Node in USA
 | 1.3 | Route 53 | Link to DNS Entry that does Geolocation-Weighting for node #1 and #2
 
+This milestone includes all actions related to setting up the dedicated servers:
+
+- Order & Setup of the Operating System
+- Installation of VeChainThor-Nodes
+- Synchronization of the Blockchain and testing the setup
+- Configuration and testing of the Webserver
+- Configuration and testing of AWS Route 53
+
+The duration of this process for two servers is estimated to roughly a weeks work (40hrs).  
+The deliverables will be the final availability of the two resulting nodes the geo-weighted DNS.
+
 #### Node Rotation
 
 | Number | Deliverable | Specification |
@@ -108,6 +119,11 @@ I am seeking a grant of $26,648 to achieve the following roadmap.
 | 2.1 | TestNet | Link to TestNet Endpoint that acts as a node proxying all requests to a list of TestNet Nodes |
 | 2.2 | MainNet | Link to MainNet Endpoint that acts as a node proxying all requests to a list of MainNet Nodes |
 
+This milestone includes the development, testing and deployment of the functionality.  
+Deployed working endpoints will serve as deliverable for both networks and unit tests that display how it works.  
+The duration of the development, deployment and testing is estimated to be one week of work.
+
+
 ### Maintenance for 24 Months
 
 | Number | Deliverable | Specification |
@@ -115,6 +131,10 @@ I am seeking a grant of $26,648 to achieve the following roadmap.
 | 3.1 | Dedicated Nodes | 24 months of 3 hours maintenance
 | 3.2 | Virtual Node | 24 months of 2 hours maintenance
 | 3.3 | Status-Page | Status-Page with historical performance for each endpoint
+
+Maintenance is an average number of hours to make sure software is kept up-to-date, manage potential problems, provide support if something happens or mitigate potential attacks.
+From past experience it is estimate that at an average of about an hour weekly can manage all four setups (2x dedicated + 2x virtual). While some weeks might have zero required work, a single event can require up to a days work resulting in an average of one hour per week.
+
 
 ### Additional costs
 
