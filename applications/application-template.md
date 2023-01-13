@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-- Project: The name of the 
+- Project: The name of the project
 - Team Name: Legal name of your team 
 - Payment Address: USDT (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
 
