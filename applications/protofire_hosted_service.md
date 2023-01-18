@@ -85,8 +85,8 @@ Protofire is one of the oldest and biggest indexers on The Graph Network. We acc
 
 ### Team Code Repos
 
-- https://github.com/<your_repo_1>
-- https://github.com/<your_repo_2>
+- https://github.com/llopez
+- https://github.com/protofire
 
 ### Team LinkedIn Profiles
 
