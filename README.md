@@ -1,119 +1,99 @@
-# VeChain General Grant Program <!-- omit in toc -->
+# VeChain-CryptoSlam
+Project: Integrate VeChain blockchain on CryptoSlam platform
 
-## Table of contents
-
-- [Introduction](#introduction)
-- [Guidelines](#guidelines)
-- [Application Process](#application-process)
-- [Grant Committee](#grant-committee)
-- [Grant Evaluators](#grant-evaluators)
-- [Operation Team](#operation-team)
-- [More Info](#more-info)
-
-## Introduction
-
-The general grant program is designed to fund projects covering a wide range of topics, including, but not limited to,
-
- - Decentralized applications (e.g., gaming, DeFi, NFT, etc)
- - Tools/libs for testing
- - Tools/libs for frontend development
- - Infrastructures (e.g., explorer, status dashboard, node service, etc)
- - Interoperability
- - Wallet integration
- - Enterprise applications
- - Research projects (e.g., tokenomics, governance, privacy, etc).
-
-Each application can be funded up to **$30,000**. All Applications will be tracked on GitHub and disbursed in USDT.
-
-**For Economic X Nodes holders, VeChain Foundation will provide 50% additional funds as bonus if their applications are approved. Successful applicants will have to send an email([`applications/email-template.md`](applications/email-template.md)) to grant@vechain.org to claim the additional grant.**
+Payment Address: 0x5aE970dcb37067Aed6F9578b64482dF9D91622B3
 
 
-## Guidelines
+# Overview
+- CryptoSlam is a data aggregator tool for the NFTs that connect Collectibles, Art and Game communities enables NFT data for over 20 high-volume blockchain:
+    - Ethereum
+    - Solana
+    - Cardano
+    - Flow
+    - Polygon
+    - BNB
+    - ImmutableX
+    - Panini
+    - WAX
+    - Tezos
+    - Avalanche
+    - Ronin
+    - Arbitrum
+    - Algorand
+    - Palm
+    - Cronos
+    - Fantom
+    - Waves
+    - OEC
+    - Zilliqa
 
-In general, your project will have better chances to get accepted if:
+We continue growing our user base and onboarded chains month over month. 
 
-- The subject has been **well-studied**, proven by a well-presented intro, including background, prior works, and relevant technical bases.
-- Your team has **proven experience** with a relevant and solid technical/research background. For development projects, you should provide the GitHub profiles of your team members as part of your application. A list of your previously done projects will be highly recommended and beneficial. For research projects, CVs of all applicants should be attached.
-- Your application is **rich in technical details** and well-defined.
-- For development projects, you can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
-- You should point out how your project stands out among competitors (e.g., it implements some technology that does not exist in the ecosystem yet).
-- A direct contribution to VeChain's technology and/or ecosystem is a plus.
+Our core strengths are custom calculations, onboarding speed and data evaluation process. For all onboarded chains we cover 100% of the collectiolns and constantly enable APIs to support the onboarding of the new projects. 
 
-Additionally, it must fulfill the following requirements:
+CryptoSlam offers accurate NFT numbers, community and data maintnance to make Vechain get more traction, acquire new projects and build a stronger community.
 
-- We do not award grants for projects that have been the object of a successful token sale. However, we do not limit the project's option to do token sales in the future.
-- Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
+# Project Details 
+- Onboarding
+    - Connect with all Ve chain Marketplaces
+        - World of V
+        - VeSea
+        - VPunks
+        - VimWorld
+        - NFR Paper Project
+        - BlackVeMarket
+    - Backfill all collections on CS
+    
+    ![Screen Shot 2022-12-06 at 1 13 40 PM](https://user-images.githubusercontent.com/121036746/208442943-15b2c530-fc2c-4d66-b031-e1213bd4302f.png)
 
-Note that your project will have to follow [Grant Milestone Delivery](/milestone-delivery) to deliver milestones. In particular, we require your team to generate sufficient documentation about each delivery in order to unlock further funding if relevant. Examples, tutorials or videos can be very helpful for us to understand your work and therefore accelerate our evaluation process.
-
-## Application Process
-
-1. **Application Preparation and Submission**
-   1. [Fork](https://github.com/vechain/Grant-program) this repository.
-   2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)) or the research template([`applications/research-template.md`](applications/research-template.md)). Make sure you **do not modify the template file directly**.
-   3. Name the new file after your project: `project_name.md`.
-   4. Fill out the template with the details of your project. The more information you provide, the faster its review process will be.
-   5. Once you're done, create a pull request. The pull request should only contain _one new file_, that is the Markdown file you created from the template.
-   6. Please read the [disclaimer](disclaimer.md) carefully before applying for VeChain General Grant.
-
-2. **Preliminary Review**
-
-   After its submission, an application enters the preliminary review stage where an evaluator will be designated to check whether it is formatted correctly and includes all the requested information. The [evaluator](#grant-evaluators) will label the pull request as "ready for committee review" if the application passes the preliminary review.
-   
-3. **Committee Review**
-
-   A five-member grant committee will evaluate and make decisions on all the applications passing the preliminary review. The commitee may conditionally accept an application with further requirements for clarifications and amendments. The applicant(s) must _address all the requirements_ via a new pull request. The application will then be accepted once the pull request is approved by one committee member. Final decisions made by the committee will be put on the website to notify applicants and the community. 
- 
-4. **Milestone Delivery and Payment**
-
-   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#milestone-delivery-process). **Once the application is accepted, the payment for the first milestone will be immediately disbursed to fund the project. The payments of the rest milestones will be disbursed once their previous milestones are delivered and reviewed.**
-
-   The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
-
-## Grant Committee
-
-For the fund to be best utilized, the grant committee is designed to be as versatile as possible to represent different stakeholders in the VeChain ecosystem. Following this principle, the committee is made of a committee chair, a member of Board of the Steering Committee, a member of the VeChain Core Dev, a community project leader and a collective community member consisting of outstanding community contributors.
-
-The community project leader and collective community member will be chosen by our community for each funding round starting from the second round. We will announce the detailed rules and timeline of the whole election process in advance.
-
-The current committee members are:
- - **Committee Co-Chairs:**<br/>
-[Peter Zhou](https://twitter.com/PeterZh47977516) - Chief Scientist of VeChain <br/>
-[Dimitris Neocleous](https://twitter.com/im_dimneo/) - UK and EU Ecosystem Manager of VeChain 
-   
- - **Member of VeChain Core Dev team:**<br/>
-[Bin Qian](https://twitter.com/cola_tin) - Lead Dev of Core Dev team
-   
- - **VeChain Ecosystem Project Representatives:** <br/>
-[Dyma Budorin](https://twitter.com/buda_kyiv) - CEO of Hacken Foundation<br/>
-[Jürgen Schouppe](https://twitter.com/jurgenschouppe) - Founding Director, CEO & CTO of Safe Haven
+- VeChain explorer
+    - Sales Volume
+    - Collection Rankings
+    - Data Viz - Charts
+    - Top Sales
+    
+    ![Screen Shot 2022-12-06 at 1 14 58 PM](https://user-images.githubusercontent.com/121036746/208443477-6345461f-7e64-451d-a042-f2aca9bcd578.png)
 
 
-## Grant Evaluators
+# Technical Roadmap for Onboarding VeChain
 
-Evaluators are individuals who check whether the application is formatted correctly and includes all the requested information in the preliminary review stage. The following is the current list of evaluators:
+NFT tracking will be implemented by reading clauses in every transaction for each block and decoding the inputs and events of the clauses.
 
-- [Tony Li](https://github.com/libotony)
-- [Jack Wu](https://github.com/XJWX89)
-- [Tofu Chu](https://github.com/laalaguer)
-- [Mog Lu](https://github.com/mongelly)
-- [Asbert Ma](http://github.com/asbertMa/)
+We start with the transfer events including mints. Then we move to the sales which are usually not standardized, so we would have to parse the events and find all the transfers of the NFTs and corresponding payments that happened within the same clause. Last piece is getting the metadata for NFTs by using their tokenURI.
 
-## Operation Team
+As soon as everything is implemented for tracking we are making a test period of live tracking to verify the accuracy, fixing the bugs if any and enabling historical crawl of the blockchain to have all the NFTs being tracked and setup on the platform.
 
-The operation team takes care of fund distribution.
+To have the required accuracy and reliability we will have to setup a node/api or find a source to use.
 
-- [Sherry Li](https://github.com/NecoSherry)
+## Overview
+|  | Milestone #1 | Milestone #2 | Total |
+| --- | --- | --- | --- |
+| Estimated duration | 2.5 months  | 1 week | 3 months |
+| Full-time equivalent (FTE) | 1 | 1 |  |
+| Cost  | $28,000 | $2,000 | $30, 000 |
 
-## More Info
-- [VeChain Dev Community Telegram](https://t.me/VeChainDevCommunity)
-- [VeChain Foundation Website](https://vechain.org)
-- [VeChain Foundation Twitter](https://twitter.com/vechainofficial)
-- [VeChain Foundation Medium Channel](https://vechainofficial.medium.com/)
-- [VeChainThor Mainnet Bug Bounty](https://github.com/vechain/thor/issues)
-- [VeChainThor Wallet Bug Bounty](https://vechain.typeform.com/to/c8xfxr)
+## Milestone #1
+| Number | Deliverable | Specifications |
+| --- | --- | --- |
+| 1 | Investigate nodes | Investigate and setup best way for getting data out of a blockchain, check external providers |
+| 1.1 | Organize transaction types/events from the blockchain | Identify possible transaction types, events, structures, setup tracking and storing of those transactions |
+| 1.2 | Get tokens metadata | Get all NFTs metadata from blockchain |
+| 1.3 | Onboarding | Setup automation to pick up any new collections being created on the blockchain |
+
+## Milestone #2
+| Number | Deliverable | Specifications |
+| --- | --- | --- |
+| 1 | Sales summary  | Include all historical data and data visualization  |
+| 1.1 | NFT Collections | All VeChain collections with the rankings  (Sales, transaction,  Seller/Buyer wallets, Owners count) |
+| 1.2 | Top Sales | Price (Crypto, USD), Seller/Buyer wallets |
+
+## Team
+| Team | Contact Person|
+| --- | --- |
+| Engineering Lead  | Artem Kharlov |
+| Marketing | Yohann Calpu |
+| Community  | Yehudah Petscher |
+| Product | Pasquin Rahming |
 
 
-## License <!-- omit in toc -->
-
-[GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html).
+    
