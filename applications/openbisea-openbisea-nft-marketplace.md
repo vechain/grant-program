@@ -26,27 +26,46 @@ full UI integration inside https://app.openbisea.com plus smart contracts full f
 
 ### Project Details
 
-We expect the teams to already have a solid idea about the project's expected final state.
-Therefore, we ask the teams to submit (where relevant):
 - Mockups/designs of any UI components
 
 https://app.openbisea.com
 
 - API specifications of the core functionality
+
+we don't have API
+
 - An overview of the technology stack to be used
 
-flutter
+flutter, solidity, node.js, rust
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
+
+1. NFT contract for free mint
+2. $OBS token contract
+3. auctions and money flow contract
+
 - PoC/MVP or other relevant prior work or research on the topic
 
 https://app.openbisea.com
 
 
 ### Ecosystem Fit
-Are there any other projects similar to yours? If so, how is your project different?
 
-presentation https://shorturl.at/sLMU6 
+Deploy smart contracts for:
+NFT marketplace
+Free NFT mint
+$OBS token
+
+Integration all smart contracts to:
+https://app.openbisea.com
+https://t.me/openbisea_bot 
+
+Announces and marketing in social channels:
+https://twitter.com/openbisea
+https://t.me/openbisea_en
+https://discord.gg/tFKMdSB8Ad
+
+Post integration campaign, add liquidity, farm OBS, sell/buy NFT
 
 ## Team 
 
@@ -82,10 +101,10 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 - Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
 - Please commit to providing dockerfiles for the delivery of your project.
 
-4 weeks Smart contracts deploy
-4 week UI (web, android app, bot) update
-2 week Tests 
-1 month farm OBS campaign 
+4 weeks Smart contracts deploy (testnet and mainnet) - $30k
+4 week UI (web, android app, bot) update - $15k
+2 week Tests - $5k
+1 month farm OBS campaign - $20k (Liquidity OBS)
 
 https://app.openbisea.io - dev tests
 
@@ -110,17 +129,12 @@ Post integration campaign, farm OBS, sell/buy NFT
 
 ## Future Plans
 
-Please include the team's long-term project plans, operation plans and intentions.
-
 presentation https://shorturl.at/sLMU6 
 
 ## Additional Information 
 
-Any additional information that you think is relevant to this application that hasn't already been included.
-
-Possible additional information to include:
-- What work has been done so far?
-- Are there any teams who have already contributed (financially) to the project?
-- Have you applied for other grants so far?
 
 We received grants from NEAR, Aurora, Polygon, kava, metis  and three more ahead for integration to app.openbisea.com and t.me/openbisea_bot new blockchains.
+
+presentation https://shorturl.at/sLMU6 
+grant application draft - https://docs.google.com/document/d/1oVVm7VD1rXjqii_nc519EDt6m07DLN630WjGYNSoHnI/
