@@ -127,7 +127,7 @@ The applicants should define multiple milestones together with the budget and th
 | ------: | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |      0. | Rights            | All developed materials and raw data will be publicly accessible and public domain via a GitHub repository. Milestone 3 is research oriented and as such there is no code to test.                                                                                                                                                                                                                                                          |
 |  **1.** | Submit to OA journal | The SydTek team submit the completed journal article for publication in a peer-reviewed open access journal to ensure the research is available for everyone.|
-| **1a.** | Specific Coverage | The team will hold virtual sessions for univerisities such as Georgetown University in Washington, DC in the United States and at McGill University in Montreal, Canada to share the findings of the study. These events will also be recorded and held in the metaverse.
+| **1a.** | Specific Coverage | The team will hold virtual sessions for universities such as Georgetown University in Washington, DC in the United States and at McGill University in Montreal, Canada to share the findings of the study. These events will also be recorded and held in the metaverse.
 
 ## Budget
 
