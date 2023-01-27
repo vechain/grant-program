@@ -1,7 +1,7 @@
 # VeChain grant research proposal
 
 ## Title 
-Increasing Transparency for Sustainable Supply Chains: An Industry Survey of Applications for VeChain's VeCarbon Solution 
+Increasing Transparency for Sustainable Supply Chains: An Industry Survey of Applications for Blockchain
 
 ## Applicants
 
@@ -44,7 +44,7 @@ This is the link to Goldston and Anoop’s forthcoming book published by Taylor 
 
 Climate change is widely acknowledged to be one of the most pressing global issues facing society today. As it has been noted that organizations’ supply chain networks are major contributors to this environmental impact, companies are taking steps to reduce their carbon footprint. Although attempts have been made by supply chain leaders to track carbon emissions, current state solutions do not provide real-time reporting and are often inaccurate (Chen et al., 2022; Fang et al., 2018). In March 2020, the Securities and Exchange Commission (SEC) in the United States issued a proposal that would require public companies to disclose climate-related information in their SEC filings. As organizations will look to their supply chain leaders to provide this information, these leaders will need tools to provide transparency across their supply chain networks.
 
-As researchers have voiced concerns regarding proof-of-work blockchain protocols such as Bitcoin due to high electricity consumption, protocols such as VeChain could have a positive impact on the environment. VeChain is an enterprise-focused solution that is focused on providing a secure, reliable, and scalable platform for enterprise applications, namely within the supply chain industry (Schahczenski & Schahczenski, 2020). To address the emerging issue of sustainable practices across the supply chain industry, the organization has developed a blockchain-based platform called VeCarbon. VeCarbon provides a transparent and traceable system for companies to track their carbon emissions and carbon credits, enabling them to reduce their carbon footprint and gain social recognition for their sustainability efforts. 
+As researchers have voiced concerns regarding proof-of-work blockchain protocols such as Bitcoin due to high electricity consumption, protocols such as VeChain could have a positive impact on the environment. VeChain is an enterprise-focused solution that is focused on providing a secure, reliable, and scalable platform for enterprise applications, namely within the supply chain industry (Schahczenski & Schahczenski, 2020). Additionally, in a recent Bankless interview (https://youtu.be/9FZq-9Oe5Hc), Paul Brody, the Global Blockchain Leader for Ernst & Young, mentioned a number of use cases EY is working on to increase transparency across supply chain networks. With the current work being done in both the Web2 and Web3 spaces in integrating blockchain and supply chain, the team is looking to develop a future-state framework.
 
 The purpose of this qualitative modified Delphi study is to identify a consensus among a panel of supply chain executives as to the desirability and feasibility of a platform to track carbon emissions. From a sustainability perspective, we also look to gain insights as to whether they would use this tool due to regulation or for positive environmental impact. 
 
@@ -59,7 +59,18 @@ Sustainability; Supply Chain; Blockchain; Carbon emissions; Environmental, socia
 
 ### Approach
 
-A modified qualitative Delphi approach was selected because Justin Goldston used this approach in the past for a study to identify a consensus among a panel of ERP manufacturing consultants as to the desirability and feasibility of critical success factors in ERP implementations in the United States. In using supply chain executives as the panel of experts in this study, not only will we hopefully gain insights as to the needs of the user base for VeChain's VeCarbon solution, but we may also gain additional user insights for VeChain's base solution.
+A modified qualitative Delphi approach was selected because Justin Goldston used this approach in the past for a study to identify a consensus among a panel of ERP manufacturing consultants as to the desirability and feasibility of critical success factors in ERP implementations in the United States. In using supply chain executives as the panel of experts in this study, not only will we hopefully gain insights as to the needs of the user base for a blockchain-based carbon solution.
+
+In this study, the team will look to answer the following research questions:
+
+RQ1. What are the current challenges facing the supply chain industry in terms of carbon emissions and how can blockchain address these challenges?
+Justification: In order to develop a solution leaders will use, we must solve an industry problem. Interviews with individuals such as Paul Brody of EY and Sheri Hinish, Global Consulting Lead for Sustainability Services at IBM,
+RQ2. What are the potential benefits and limitations of a blockchain-based carbon solution for the supply chain industry?
+
+RQ3. How can a blockchain-based carbon solution be implemented in the supply chain industry?
+
+RQ4. What are the implications of a blockchain-based carbon solution for the supply chain industry in terms of cost, efficiency, and environmental impact?
+
 
 ### Risks
 
@@ -123,7 +134,7 @@ https://docs.google.com/spreadsheets/d/1SsSur7eCkrC-XLy96tiC4a4C_yooJD1i/edit?us
 
 ### Contributions
 
-After a review of the existing academic research on VeChain, the team will research and include the following studies for the Literature Review section of the study:
+After a review of the existing academic research on VeChain and other blockchain solutions, the team will research and include the following studies for the Literature Review section of the study:
 
 Chern, B. T. P., & Aun, T. B. (2021). Blockchain adoption among Malaysian SMEs: A critical review on the supply chain implications. Journal of Education and Social Sciences, 17(1), 48-55.
 
