@@ -93,7 +93,7 @@ The applicants should define multiple milestones together with the budget and th
 - **Full-Time Equivalent (FTE):**  5FTE, the listed members would contribute to different deliverables based on their skill-set.
 - **Total Costs:** 29,600 USDC 
 
-### Milestone 1 — Literature Review of VeChain and VeCarbon in the Supply Chain Industry
+### Milestone 1 — Literature Review of Blockchain Use Cases in the Supply Chain Industry
 
 - **Estimated duration:** 1 month
 - **FTE:**  5
