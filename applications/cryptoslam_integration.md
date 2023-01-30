@@ -54,23 +54,6 @@ CryptoSlam offers accurate NFT numbers, community and data maintnance to make Ve
     
     ![Screen Shot 2022-12-06 at 1 14 58 PM](https://user-images.githubusercontent.com/121036746/208443477-6345461f-7e64-451d-a042-f2aca9bcd578.png)
 
-- Setting up the Ads on the CS Platform
-    - Home Page:
-        - SLN
-            - Promote Collections
-            - Promote Games
-            - Promote Arts
-            - Announce partnership/ recent releases
-            ![Screen Shot 2022-12-06 at 1 15 54 PM](https://user-images.githubusercontent.com/121036746/208443571-17f3f283-22b2-403e-8669-0baceeb7a8e7.png)
-            
-- Podcast
-    - Participate in CS podcast to engage with your community
-![Screen Shot 2022-12-06 at 1 16 57 PM](https://user-images.githubusercontent.com/121036746/208443698-0a0fbcef-72bb-4835-a33f-bae3053183b7.png)
-
-- Category Promo
-    - Selecta category to promote VeChain
-![Screen Shot 2022-12-06 at 1 16 13 PM](https://user-images.githubusercontent.com/121036746/208443784-335f5025-b873-4658-ba8f-5258d1dc139f.png)
-
 
 # Technical Roadmap for Onboarding VeChain
 
@@ -82,25 +65,27 @@ As soon as everything is implemented for tracking we are making a test period of
 
 To have the required accuracy and reliability we will have to setup a node/api or find a source to use.
 
-| Task | Duration |
-| --- | --- |
-| Investigate node/api setup | 1 week |
-| Parse block, transactions, clauses and events | 2 weeks |
-| Track transfers | 1 week |
-| Track sales | 2 weeks |
-| Get NFT metadata | 1 week |
-| Historical crawling | 4-6 weeks |
+## Overview
+|  | Milestone #1 | Milestone #2 | Total |
+| --- | --- | --- | --- |
+| Estimated duration | 2.5 months  | 1 week | 3 months |
+| Full-time equivalent (FTE) | 1 | 1 |  |
+| Cost  | $28,000 | $2,000 | $30, 000 |
 
-# Full Project Roadmap
-## Duration and Milestones
-| Task | Duration | Months |
+## Milestone #1
+| Number | Deliverable | Specifications |
 | --- | --- | --- |
-| Onboarding | 3 months | January 2023-March 2023 |
-| Blockchain Page | 1 week | March 2023 |
-| Ads/ Promo | To be discussed  | Dates are flexible. Depend on the ads schedule |
-| Podcast  | 1 week | One time Podcast release with VeChain reps. This initiative included to the original proposal.  |
-| Other Marketing/Social Activity | To be discussed  | Dates are flexible. Depend on the ads schedule |
-| Monthly data support | MoM | Support data accuracy on the CryptoSlam platform |
+| 1 | Investigate nodes | Investigate and setup best way for getting data out of a blockchain, check external providers |
+| 1.1 | Organize transaction types/events from the blockchain | Identify possible transaction types, events, structures, setup tracking and storing of those transactions |
+| 1.2 | Get tokens metadata | Get all NFTs metadata from blockchain |
+| 1.3 | Onboarding | Setup automation to pick up any new collections being created on the blockchain |
+
+## Milestone #2
+| Number | Deliverable | Specifications |
+| --- | --- | --- |
+| 1 | Sales summary  | Include all historical data and data visualization  |
+| 1.1 | NFT Collections | All VeChain collections with the rankings  (Sales, transaction,  Seller/Buyer wallets, Owners count) |
+| 1.2 | Top Sales | Price (Crypto, USD), Seller/Buyer wallets |
 
 ## Team
 | Team | Contact Person|
@@ -110,12 +95,5 @@ To have the required accuracy and reliability we will have to setup a node/api o
 | Community  | Yehudah Petscher |
 | Product | Pasquin Rahming |
 
-## Quote
-| Work | Price|
-| --- | --- |
-| Onboarding/Blockchain integration | $30k |
-| Blockchain explorer page | $3.5k |
-| Data accuracy. Dedicated team support | $6k MoM |
-| Marketing/Community support | TBD |
 
     
