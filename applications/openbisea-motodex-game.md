@@ -71,29 +71,41 @@ https://www.linkedin.com/in/oleksiivinogradov/
 
 ## Development Roadmap 
 
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
 
-Below we provide an <b>example roadmap</b>. For each milestone:
+#### Overview
 
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
+|  | Smart contracts | Frontend | Tests | Total |
+| - | - |- | - |- | 
+| Estimated Duration | 30 d | 30 d | 15 d | 65 d |
+| Full-time equivalent (FTE) | 2 | 2 | 1 | 4 |
+| Cost  | $ 10,000 | $ 15,000 | $ 5,000| $ 30,000|
 
-4 weeks Smart contracts deploy
-4 week UI (web, android app) update
-2 week Tests 
+#### Milestone 1 — Smart contracts
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 0a.| Unlicense |
+| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
+| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
+| 1 | Smart Contracts | We will develop smart contracts that will buy motoDEX NFT, add to game contract, set game sessions/health, sync epoch with results We will open source the smart contract and upload the ABI to [B32](https://github.com/vechain/b32). |
+
+
+#### Milestone 2  —  Frontend
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1 | User Guide | We will provide a user guide or a demo video to show what features have been done.  |
+
+#### Milestone 3  —  tests
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1 | full hand an scripts tests | We will provide a scripts to test all flow and hand tests  |
+
  
 
 https://motodex.openbisea.com/ - dev tests
 
 
 #### Community engagement
-
-As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant. 
-
-We recommended you provide social medium, like Twitter, Telegram group, or Reddit, on your website. When the developers/users need assistance, they could get in touch with you and get help.
 
 Integration to:
 https://motodex.openbisea.com/
