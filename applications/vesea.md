@@ -152,7 +152,7 @@ Estimates are based on the part-time participation of 4 separate developers (~4h
 | Number | Deliverable | Specification |
 |-|-|-|
 | 0a.| License | Apache 2.0 |
-| 0b,c. | Documentation, Testing | A github with our contracts and unit tests will be provided on request. All deployed contracts have also had their ABIs added to b32 with the prefix vesea_* |
+| 0b,c. | Documentation, Testing | A github with our contracts and unit tests will be provided on request for each milestone. All deployed contracts will also have their ABIs added to b32 with the prefix vesea_* |
 
 #### `Milestone 1` — Smartcontracts, Backend & UI
 
