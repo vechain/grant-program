@@ -158,15 +158,15 @@ Estimates are based on the part-time participation of 4 separate developers (~4h
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | Smart Contracts | We will develop VIP-181-supporting smart contracts that will allow for:<br>1. Listing/purchasing<br>2. Bidding <br>3. Sending/Receiving<br>4. Escrowing<br>5. Setting of minimum offers<br> |
+| 1 | Smart Contracts | We will develop both VIP-180 and VIP-181-supporting smart contracts that will allow for:<br>1. Listing/purchasing<br>2. Bidding <br>3. Sending/Receiving<br>4. VET<->VIP-180 swaps<br>5. Setting of minimum offers<br> |
 | 2 | Frontend | We will create a dApp that:<br>1. Displays all supported NFTs of a user<br> 2. Supports all foundation wallets |
-| 3 | Backend | Implement local database to aggregate:<br>1. On-chain data<br>2. IPFS metadata<br>3. Local information |
+| 3 | Backend | Implement local database to aggregate:<br>1. On-chain data<br>2. IPFS/Arweave metadata<br>3. Local information |
 
 #### `Milestone 2` — Features
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | Smart Contracts | Implement:<br>1. On-chain profiles (sensitive info local)<br>2. Multi-wallet method access for assisted NFT launches<br>3. Modular burn event for VIP-181 contracts<br>4. Consolidated marketplace contract<br>5. Implement leveraged collection-wide offers for single VIP-181 contracts|
+| 1 | Smart Contracts | Implement:<br>1. On-chain profiles (sensitive info local)<br>2. Multi-wallet method access for assisted NFT launches<br>3. Modular burn event for VIP-181 contracts<br>4. Non-escrow listings<br>5. Implement leveraged collection-wide offers for single VIP-181 contracts|
 | 2 | Backend | 1. Design, build of indexer<br>2. Implementation of fee delegation infrastructure|
 | 3 | Frontend | Implementation of:<br>1. User Profiles <br> 2. On-Chain Messenger <br> 3. VeSea Arcade for multi-collection, game-like mechanics|
 
@@ -174,13 +174,13 @@ Estimates are based on the part-time participation of 4 separate developers (~4h
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | Smart Contracts | We will develop smart contracts that will:<br>1. Leverage VIP-180 tokens<br>2. Allow for NFTs to "battle"<br>3. Allow for VIP-181 staking to earn VIP-180 tokens<br>4. Allow for dynamic fee calculations based on NFT holdings|
+| 1 | Smart Contracts | We will develop smart contracts that will:<br>1. Leverage VIP-180 tokens<br>2. Expand NFT functionality in an agnostic manner<br>3. Allow for VIP-181 staking to earn VIP-180 tokens<br>4. Allow for dynamic fee calculations based on NFT holdings<br>5. Allow for on-chain account messaging|
 | 2 | Backend | Implementation of:<br>1. Indexer<br>2. Open API for ecosystem builders|
 | 3 | Frontend | Implementation of:<br>1. VIP-180 Transfers<br> 2. On-Chain Messenger<br> 3. Create dashboards to reflect on-chain information for sales, staking and general transactions|
 
 ## `Community engagement`    
 
-We have already established ourselves as a trusted platform within the VeChain ecosystem, working to partner with individual collections to either launch or become their secondary market alongside integrations with various other VeChain dApps such as VeChainStats (block explorer), VeChain.Energy (fee delegation) and NFT launches for both Hacken (Ukraine Relief) and VeRocket (Utility NFT launch).
+We have already established ourselves as a trusted platform within the VeChain ecosystem, working to partner with individual collections to either launch or become their secondary market alongside integrations with other varied VeChain dApps such as VeChainStats (block explorer), VeChain.Energy (fee delegation) and NFT launches for both Hacken (Ukraine Relief) and VeRocket (Utility NFT launch).
 
 Along with project collaborations, we've also had a strong presence on Twitter, in Twitter Spaces, have 2 VeChain Brand Ambassadors within the team and have been feature on VeChain Thorsdays and on the Sunny's Community Hangout as a leader in the space.
 
