@@ -26,43 +26,43 @@ As we all know, NFTs have become a prominent vehicle for elevating the web3 disc
 ## `Designs of UI Components` 
 _Can be viewed on our site_ ([VeSea](https://vesea.io/))
 
- ### Landing Page ![Landing](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Homepage.png)
+ ### Landing Page ![Landing](https://vesea-grant.s3.us-east-2.amazonaws.com/Homepage.png)
     
  ### Collection Pages
   * Collections
-    ![Collections](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Collections.png)
+    ![Collections](https://vesea-grant.s3.us-east-2.amazonaws.com/Collections.png)
   
   * Collections Market
-    ![Collection Market](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Collection_Page.png)
+    ![Collection Market](https://vesea-grant.s3.us-east-2.amazonaws.com/Collection_Page.png)
  
   * Collections Mint
-    ![Collection Mint](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Launchpad.png)
+    ![Collection Mint](https://vesea-grant.s3.us-east-2.amazonaws.com/Launchpad.png)
     
   * NFT Modal
-    ![NFT Modal](https://s3.us-east-2.amazonaws.com/vesea.io/grant/NFT_Modal2.png)
+    ![NFT Modal](https://vesea-grant.s3.us-east-2.amazonaws.com/NFT_Modal2.png)
     
   * Launchpad
-    ![Launchpad](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Launchpad.png)
+    ![Launchpad](https://vesea-grant.s3.us-east-2.amazonaws.com/Launchpad.png)
     
  ### Profile Pages
   * Profile Creation
-    ![User Creation](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Profile_Creation.png)
+    ![User Creation](https://vesea-grant.s3.us-east-2.amazonaws.com/Profile_Creation.png)
 
   * User Notifications
-    ![User Notifications](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Notifications.png)
+    ![User Notifications](https://vesea-grant.s3.us-east-2.amazonaws.com/Notifications.png)
 
   * User Settings
-    ![User Settings](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Profile_Management2.png)
+    ![User Settings](https://vesea-grant.s3.us-east-2.amazonaws.com/Profile_Management2.png)
    
  ### Features
   * VIP-180 Management
-    ![VIP-180 Management](https://s3.us-east-2.amazonaws.com/vesea.io/grant/VIP180_Transfers.png)
+    ![VIP-180 Management](https://vesea-grant.s3.us-east-2.amazonaws.com/VIP180_Transfers.png)
 
   * On-Chain Messenger
-    ![Messenger](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Messenger2.png)
+    ![Messenger](https://vesea-grant.s3.us-east-2.amazonaws.com/Messenger.png)
  
    * Fee Delegation
-    ![Fee Delegation](https://s3.us-east-2.amazonaws.com/vesea.io/grant/Fee_Delegation.png)
+    ![Fee Delegation](https://vesea-grant.s3.us-east-2.amazonaws.com/Fee_Delegation.png)
 
 ## `Tech Stack` 
 | Bridge Component | Stack |
