@@ -38,16 +38,17 @@ _Can be viewed on our site_ ([VeSea](https://vesea.io/))
   * Collections Mint
     ![Collection Mint](https://vesea-grant.s3.us-east-2.amazonaws.com/Launchpad.png)
     
-  * NFT Modal
-    ![NFT Modal](https://vesea-grant.s3.us-east-2.amazonaws.com/NFT_Modal2.png)
+  * NFT Page
+    ![NFT Modal](https://vesea-grant.s3.us-east-2.amazonaws.com/NFT_Page.png)
     
-  * Launchpad
-    ![Launchpad](https://vesea-grant.s3.us-east-2.amazonaws.com/Launchpad.png)
     
  ### Profile Pages
   * Profile Creation
     ![User Creation](https://vesea-grant.s3.us-east-2.amazonaws.com/Profile_Creation.png)
-
+    
+  * Profile Search
+    ![Profile Search](https://vesea-grant.s3.us-east-2.amazonaws.com/Profiles_Search.png)
+    
   * User Notifications
     ![User Notifications](https://vesea-grant.s3.us-east-2.amazonaws.com/Notifications.png)
 
@@ -64,6 +65,26 @@ _Can be viewed on our site_ ([VeSea](https://vesea.io/))
    * Fee Delegation
     ![Fee Delegation](https://vesea-grant.s3.us-east-2.amazonaws.com/Fee_Delegation.png)
 
+   * NFT Staking
+    ![Dashboard](https://vesea-grant.s3.us-east-2.amazonaws.com/Staking_Dashboard.png)
+
+   * NFT Arcade (Burn)
+    ![Burn Event](https://vesea-grant.s3.us-east-2.amazonaws.com/Burn_Events.png)
+
+   * NFT Arcade (Recycler)
+    ![Recycler](https://vesea-grant.s3.us-east-2.amazonaws.com/NFT_Recycler.png)
+    
+   * NFT Stats
+    ![NFT Stats](https://vesea-grant.s3.us-east-2.amazonaws.com/NFT_Stats.png)
+
+   * Market Stats
+    ![Market Stats](https://vesea-grant.s3.us-east-2.amazonaws.com/Market_Stats.png)
+
+ ### Other
+  * Contract Disclosures
+    ![Contracts](https://vesea-grant.s3.us-east-2.amazonaws.com/VeSea_Contracts.png)
+
+    
 ## `Tech Stack` 
 | Bridge Component | Stack |
 | :-: | :-: |
