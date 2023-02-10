@@ -131,7 +131,7 @@ The applicants should define multiple milestones together with the budget and th
 
 ## Budget
 
-$29,600
+$30,000
 
 The details of the budget can be found at the link below. The budget will cover the costs for a Principal investigator, three researchers, a project
 manager, and the cost to cover publishing in an academic journal. 
