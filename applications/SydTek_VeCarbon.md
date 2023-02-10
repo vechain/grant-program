@@ -91,13 +91,13 @@ The applicants should define multiple milestones together with the budget and th
 
 - **Total Estimated Duration:** 4 months
 - **Full-Time Equivalent (FTE):**  5FTE, the listed members would contribute to different deliverables based on their skill-set.
-- **Total Costs:** 29,600 USDC 
+- **Total Costs:** 30,000 USDT 
 
 ### Milestone 1 — Literature Review of Blockchain Use Cases in the Supply Chain Industry
 
 - **Estimated duration:** 1 month
 - **FTE:**  5
-- **Costs:** 15,600 USDC - link to budget details outlined in the Additional Information Section
+- **Costs:** 15,600 USDT - link to budget details outlined in the Additional Information Section
 
 | Number | Deliverable       | Specification                                                                                                                                                                                                                                                                                                                  |
 | ------: | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -109,7 +109,7 @@ The applicants should define multiple milestones together with the budget and th
 
 - **Estimated Duration:** 1 month
 - **FTE:**  5
-- **Costs:** 14,000 USDC - link to budget details outlined in the Additional Information Section
+- **Costs:** 13,000 USDT - link to budget details outlined in the Additional Information Section
 
 | Number | Deliverable       | Specification                                                                                                                                                                                                                                                                                                                  |
 | ------: | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -121,7 +121,7 @@ The applicants should define multiple milestones together with the budget and th
 
 - **Estimated Duration:** 2 months
 - **FTE:**  3
-- **Costs:** 1,150 USDC - link to budget details outlined in the Additional Information Section
+- **Costs:** 1,400 USDC - link to budget details outlined in the Additional Information Section
 
 | Number | Deliverable       | Specification                                                                                                                                                                                                                                                                                                                  |
 | ------: | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
