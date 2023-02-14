@@ -9,7 +9,7 @@
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ### Project Overview:
-We’re building the infrastructure for the manage carbon Credit So we will create wallet to support the EST utility token.
+We’re building the infrastructure for the manage carbon Credit So we will create wallet to support the earth so good Token (ESGT)  utility token.
 
 ### Project Deliverables:
 In this project there are 3 entities are involved:
@@ -138,5 +138,5 @@ Sr No | Payment Detail                           | Payment %     | Total Payment
 
 
 ### future development
-we will involved ESGT being used for purchase of NFT already in place and purchase of carbon credits for carbon offset
+we will involved earth so good token (ESGT) being used for purchase of NFT already in place and purchase of carbon credits for carbon offset
 
