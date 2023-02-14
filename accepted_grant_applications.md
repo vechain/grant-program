@@ -9,7 +9,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | Project | Category | Link | Funds | First Delivery | Completed |
 | --- | --- | --- | --- | --- | --- |
 | [DApp world](https://github.com/vechain/grant-program/blob/master/applications/dappworld_learning_ecosystem.md) | Tutorials | [Website](https://dapp-world.com/) | $10,000 |  <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
-|[Increasing Transparency for Sustainable Supply Chains: An Industry Survey of Applications for Blockchain](https://github.com/vechain/grant-program/blob/afe5e7b843afd3460f3ff2a85928a0b03bf42c7b/applications/SydTek_VeCarbon.md)| Research | [Application](https://github.com/vechain/grant-program/blob/afe5e7b843afd3460f3ff2a85928a0b03bf42c7b/applications/SydTek_VeCarbon.md) | $30,000 | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+|[Increasing Transparency for Sustainable Supply Chains: An Industry Survey of Applications for Blockchain](https://github.com/vechain/grant-program/blob/master/applications/SydTek_VeCarbon.md)| Research | [Application](https://github.com/vechain/grant-program/blob/master/applications/SydTek_VeCarbon.md) | $30,000 | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
 
 
