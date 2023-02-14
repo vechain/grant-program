@@ -28,6 +28,10 @@ Each application can be funded up to **$30,000**. All Applications will be track
 **For Economic X Nodes holders, VeChain Foundation will provide 50% additional funds as bonus if their applications are approved. Successful applicants will have to send an email([`applications/email-template.md`](applications/email-template.md)) to grant@vechain.org to claim the additional grant.**
 
 
+> **Note**
+>  :loudspeaker: Please note that the additional funds bonus for Economic X Nodes holders will be discontinued from Q2 2023. However, all applications submitted before the end of March will still be eligible for this bonus. 
+
+
 ## Guidelines
 
 In general, your project will have better chances to get accepted if:
