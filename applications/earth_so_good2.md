@@ -9,7 +9,7 @@
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ### Project Overview:
-We’re building the infrastructure for the open-internet. A resilient and credibly neutral network open to anyone without privilege or prejudice.
+We’re building the infrastructure for the manage carbon Credit So we will create wallet to support the EST utility token.
 
 ### Project Deliverables:
 In this project there are 3 entities are involved:
@@ -17,6 +17,7 @@ Member Panel
 Admin Panel
 We will cover the entire requirement into 3 Phases Below is the brief description of all the 3 phases with User and Admin features:
 
+###Development Module
 
 ### Phase 1 
 In this phase we will cover following point:
@@ -39,7 +40,6 @@ Rejection
 All Email Template
 
 ### Phase 2 
-
 In this phase we will cover the following points:
 Multi Signature Wallet Management: 
 For Wallet Management we will use the API of VeChain:
@@ -127,6 +127,7 @@ By Bank Transfer
 
 
 
+
 ### Payment Milestone for ESGT
 Sr No | Payment Detail                           | Payment %     | Total Payment
 1     | Advance 1st Month Payment                | 25            | $7500  USD
@@ -136,29 +137,6 @@ Sr No | Payment Detail                           | Payment %     | Total Payment
 5     | Live with full testing and Signoff       | 15            | $4500  USD
 
 
-### ACCEPTANCE OF PROPOSAL
-
-I have gone through the proposal for the project “ ESG BlockChain Development ”, valued at $30k USD / 70 working Days, and confirmed the proposal.
-
-Further acknowledged that the Scope of Work under the Project is wider than what is mentioned under broader heading/Project Requirement/Modules & will be discussed/taken care of during the project timelines.
-
-In case of any dispute, the sole opinion of the Client will be final & binding.
-
-	
-Accepted By:
-
-Signature			____________________
-
-Name				____________________
-
-Address			____________________
-
-____________________
-
-Telephone			____________________
-
-Fax				____________________
-
-IM ids				___________________
-
+### future development
+we will involved ESGT being used for purchase of NFT already in place and purchase of carbon credits for carbon offset
 
