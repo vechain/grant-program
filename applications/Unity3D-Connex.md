@@ -132,7 +132,7 @@ www.linkedin.com/in/geoffrey-hendrikx
 
 
 | 2. | Query and reflect VeChain NFT token IDs in Unity | Unity will communicate with the data storage systems and reflect in-game assets to the NFT tokens in the users VeChain wallet. 
-We will preview this by using GUI to represent NFTs from the users VeChain wallet in the Unity3D Engine game.|
+We will preview this by using GUI to represent NFTs from the users VeChain wallet in the Unity3D Engine game.
 
 ![Screenshot](https://stats.boneraffle.com/images/screenshot.png) 
 
