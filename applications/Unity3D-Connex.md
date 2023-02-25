@@ -113,7 +113,7 @@ www.linkedin.com/in/geoffrey-hendrikx
 
 ## Development Roadmap 
 
-
+![Flow Chart](https://stats.boneraffle.com/images/Flow_Chart.png)
 
 
 #### Overview
@@ -124,6 +124,8 @@ www.linkedin.com/in/geoffrey-hendrikx
 | Full-time equivalent (FTE) | 4 | 8 | 12 |
 | Cost | $10,000 | $20,000 | $30,000 |
 
+![Milestone 1](https://stats.boneraffle.com/images/milestone_1.png)
+
 | 1. | Unity3D Engine x Sync/Connex | Create a simple game that allows a user to connect their VeChain wallet to a Unity3D game using the code we create. Unity3D and VeChain will be able to verify a user's VeChain ID. The Unity3D game will display a verified “green button” to showcase wallet connectivity and will display an unverified “red button” to showcase non-connectivity. |
 
 | 1b. | Documentation | We will provide open source documentation for the code along with a basic tutorial. Developers will be able to build their Unity3D games using our VeChain tools. |
@@ -133,38 +135,16 @@ www.linkedin.com/in/geoffrey-hendrikx
 
 
 
-
-
-
-
-
-
+![Milestone 2](https://stats.boneraffle.com/images/milestone_2.png)
 
 
 
 | 2. | Query and reflect VeChain NFT token IDs in Unity | Unity will communicate with the data storage systems and reflect in-game assets to the NFT tokens in the users VeChain wallet. 
 We will preview this by using GUI to represent NFTs from the users VeChain wallet in the Unity3D Engine game.|
 
-| 2b | Read Meta Data in Unity | NFT meta data:
-{
-	id: 0x292018,
-type: Shape,
-	name: VeCube,
-	Rarity: Legendary	
-}
+![Screenshot](https://stats.boneraffle.com/images/screenshot.png) 
 
-Game asset data would be referenced in the database.
 
-Unity gets the NFT meta data from the database and adds or modifies needed values as follows:
-{
-	type: Shape,
-	name: VeCube,
-	Health: 69,
-	AP: 69,
-	Repair: 69,
-	Rarity: Legendary
-}
- |
 | 2b. | Documentation | We will provide open source documentation for the code along with a basic tutorial. Developers and users will be able to read their TokenIDs from their connected VeChain wallet. |
 
 | 2c. | Backend | We will create a database for the Game Assets. These assets will be reflections of the NFTs in the user's connected VeChain wallet. |
