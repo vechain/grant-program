@@ -16,6 +16,8 @@ Why VeChain? - Virtual Flame Studios operates an NFT company on VeChain. We love
 
 Sync2/Connex + Virtual Flame Studios will utilize blockchain information to reflect assets of a user’s VeChain wallet and in-game assets using Sync2/Connex to authenticate the user and their game profile. We will use VeChain Energy to leverage fee delegation protocols so that user’s don’t have to concern themselves with paying gas fees. Virtual Flame Studios will utilize MTT to mint NFTs, and Sync2/Connex to verify and authenticate ownership. 
 
+![Flow Chart](https://stats.boneraffle.com/images/Flow_Chart.png)
+
 ### Project Details
 
 We expect the teams to already have a solid idea about the project's expected final state.
@@ -71,14 +73,6 @@ Exoworlds is a gaming NFT collection built on Unreal Engine and VeChain. They re
 Under construction vfstudios.io
 
 
-
-
-
-
-
-
-
-
 ### Team's experience
 
 
@@ -113,7 +107,6 @@ www.linkedin.com/in/geoffrey-hendrikx
 
 ## Development Roadmap 
 
-![Flow Chart](https://stats.boneraffle.com/images/Flow_Chart.png)
 
 
 #### Overview
@@ -124,7 +117,7 @@ www.linkedin.com/in/geoffrey-hendrikx
 | Full-time equivalent (FTE) | 4 | 8 | 12 |
 | Cost | $10,000 | $20,000 | $30,000 |
 
-![Milestone 1](https://stats.boneraffle.com/images/milestone_1.png)
+
 
 | 1. | Unity3D Engine x Sync/Connex | Create a simple game that allows a user to connect their VeChain wallet to a Unity3D game using the code we create. Unity3D and VeChain will be able to verify a user's VeChain ID. The Unity3D game will display a verified “green button” to showcase wallet connectivity and will display an unverified “red button” to showcase non-connectivity. |
 
@@ -133,9 +126,8 @@ www.linkedin.com/in/geoffrey-hendrikx
 | 1c. | Backend | We will create a backend service that will allow developers to implement VeChain wallet recognition services through Unity3D and Sync2/Connex/VeChain. |
 
 
+![Milestone 1](https://stats.boneraffle.com/images/milestone_1.png)
 
-
-![Milestone 2](https://stats.boneraffle.com/images/milestone_2.png)
 
 
 
@@ -152,6 +144,7 @@ We will preview this by using GUI to represent NFTs from the users VeChain walle
 
 
 
+![Milestone 2](https://stats.boneraffle.com/images/milestone_2.png)
 
 
 
