@@ -45,17 +45,18 @@ Subsequent stages of the project will include the onboarding of other carbon sav
 ![walkthroughs-06](https://user-images.githubusercontent.com/11577319/227469085-9ef67687-92ec-49c1-a2ce-43fae0edd361.png)
 ![walkthroughs-07](https://user-images.githubusercontent.com/11577319/227469106-beffcf72-bd54-4e5b-9aa5-bb0e64d7dfe0.png)
 
-#### Api specifications
+#### API functionality
 
 ![api](https://user-images.githubusercontent.com/11577319/227528211-52683b79-4235-4acb-972f-55f9e7829715.png)
 
-We expect the teams to already have a solid idea about the project's expected final state.
-Therefore, we ask the teams to submit (where relevant):
-- Mockups/designs of any UI components
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
+#### Overview of technology stack
+
+##### Tech stack
+
+- Node.Js
+- Rest API
+- MySQL
+- C++
 
 ### Ecosystem Fit
 Are there any other projects similar to yours? If so, how is your project different?
