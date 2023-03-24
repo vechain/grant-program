@@ -2,20 +2,52 @@
 
 ## Project Overview 
 
-- Project: The name of the project
-- Team Name: Legal name of your team 
-- Payment Address: USDT (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
-
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+- Project: miden
+- Team Name: N.A.U. MIDEN LTD
+- Payment Address: 0x17FFd4654E1d506B3D449efAFf827b22f2DaF796
 
 ### Overview
 
-Please provide the following:
-- A brief description of the project.
-- An indication of why your team is interested in creating this project within the VeChain Ecosystem.
-- If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
+N.A.U. MIDEN LTD is a true zero first Company focusing on sustainability and carbon neutrality through global innovation and use of blockchain technology. Our vision is to reconnect humanity with nature by embracing technology that paves the road towards greener societies.
+
+miden aims in building a platform that will establish the real value of nature preservation and care. Our objectives of creating a sense of responsibility, educating the public and giving the tools to act immediately towards the establishment of greener societies generate a positive feedback loop in improving the sustainability of our actions. 
+
+The first stage of the project will involve the issuance of unique NFT Certificates for trees planted through the platform, acting as proof of activity for individuals and businesses. Each NFT will include information such as the plantation date, tree Geolocation, the type of tree etc. This will serve in establishing a personal connection between the sponsor and the tree through gamification features as well as assisting the collection of data for accademic researches and studies. 
+
+At the core of our platform,  will be our blockchain token acting as a representation of positive environmental behaviour. Each token will be pegged against one kilogram of greenhouse gas absorbed or saved through the actions of the platform and its stakeholder, essentially serving as a CO2 credit for individuals and businesses.
+
+Subsequent stages of the project will include the onboarding of other carbon saving projects and activities and will reward individuals and business with CO2 credit tokens accordingly.
+
+#### Why Vechain?
+
+- Alignment with sustainability goals of the project. 
+- Vechain’s recently launched carbon calculator enhances the scope of the project through potential synergies that can be achieved.
+- Vechain has the ability to be integrated with IoT products making it ideal for phygital projects like miden.
+- Vechain’s flexibility allows it to comply with changing regulation. 
+- Vechain operates at the intersection between transparency, security and operational efficiency 
+- Fee deligation features allowing for seamless integration.
+- Potential collaboration with Vechain Toolchain projects and features. 
 
 ### Project Details
+
+#### Litepaper - Introducing miden
+
+![Lite paper-01](https://user-images.githubusercontent.com/11577319/227214980-8d0060d0-e84c-4a4a-bfdc-dafc9648a87d.png)
+![Lite paper-02](https://user-images.githubusercontent.com/11577319/227214999-02179d56-2201-4ac0-9911-ba85b54c6e96.png)
+![Lite paper-03](https://user-images.githubusercontent.com/11577319/227215016-c17caee4-3fbd-41a9-b13e-53f6e44939ec.png)
+
+#### Mockups - Mobile application
+![walkthroughs-01](https://user-images.githubusercontent.com/11577319/227468906-71b4bf86-c895-4fc9-becf-890007fdf91a.png)
+![walkthroughs-02](https://user-images.githubusercontent.com/11577319/227468943-26d8c5b3-2ee2-4d9c-9c06-67f5664ac35a.png)
+![walkthroughs-03](https://user-images.githubusercontent.com/11577319/227468970-def3be2d-5158-4b02-9059-94ca421aa695.png)
+![walkthroughs-04](https://user-images.githubusercontent.com/11577319/227469021-c03f85eb-bfbf-4d9c-95bf-936c008c229c.png)
+![walkthroughs-05](https://user-images.githubusercontent.com/11577319/227469063-4bb993a2-f157-4387-ba21-c3781badef20.png)
+![walkthroughs-06](https://user-images.githubusercontent.com/11577319/227469085-9ef67687-92ec-49c1-a2ce-43fae0edd361.png)
+![walkthroughs-07](https://user-images.githubusercontent.com/11577319/227469106-beffcf72-bd54-4e5b-9aa5-bb0e64d7dfe0.png)
+
+#### Api specifications
+
+![api](https://user-images.githubusercontent.com/11577319/227528211-52683b79-4235-4acb-972f-55f9e7829715.png)
 
 We expect the teams to already have a solid idea about the project's expected final state.
 Therefore, we ask the teams to submit (where relevant):
@@ -31,27 +63,19 @@ Are there any other projects similar to yours? If so, how is your project differ
 ## Team 
 
 ### Team members
-
-- Name of team leader
-- Names of team members
+![Team](https://user-images.githubusercontent.com/11577319/227207758-0e37b9b3-8f2a-4219-97e4-d29e4d787bd1.png)
 
 ### Team Website
 
-- https://<your_domain>
-
-### Team's experience
-
-Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
-
-### Team Code Repos
-
-- https://github.com/<your_repo_1>
-- https://github.com/<your_repo_2>
+- https://gomiden.com/
+- https://uqualify.co/
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/nikolas-stratis-03bb79113/
+- https://www.linkedin.com/in/alexandrosvacanas/
+- https://www.linkedin.com/company/gomiden/
+- https://www.linkedin.com/company/uqualifyco/mycompany/
 
 ## Development Roadmap 
 
