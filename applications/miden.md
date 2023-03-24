@@ -59,7 +59,42 @@ Subsequent stages of the project will include the onboarding of other carbon sav
 - C++
 
 ### Ecosystem Fit
-Are there any other projects similar to yours? If so, how is your project different?
+
+#### Market analysis
+
+This section provides a brief overview of the market based on market analysis performed by the team. According to various resources the Carbon dioxide market is expanding at rates 30%-40% CAGR. The main drivers for the expansion of the market are;
+
+- Targets set by the European Union for FIT55 and governmental sponsorships and incentives
+- Environmental Social Governance reporting standards for companies
+- Environmental social awarness 
+
+![Market data-09](https://user-images.githubusercontent.com/11577319/227616514-404083da-0772-4dde-a5cc-74a04c4b7e69.png)
+
+##### References
+
+- Fortune business insights: https://www.fortunebusinessinsights.com/carbon-dioxide-market-102866
+- S&P Global commodity insights: https://www.spglobal.com/commodityinsights/en/ci/products/carbon-dioxide-chemical-economics-handbook.html
+- Polaris market research: https://www.polarismarketresearch.com/industry-analysis/carbon-dioxide-market
+
+#### Competition
+
+Other environmental and sustainability projects have been deployed on various blockchains in the past. Some of them aim in having a positive environmental impact whereas others are targeting the expanding and lucrative CO2 markets. This section analyses two projects as to establish miden's competitve advantage and unique selling points.
+
+- Project 1: https://www.nftreehaus.com/
+
+NFTree Haus is a Polygon based project aiming in gamefying certain features and steps of the plantation process.
+
+- Project 2: https://www.klimadao.finance/
+
+KlimaDAO is a project focusing on green economy. It is built Polygon network, and uses a stack of technologies to reduce market fragmentation and accelerate the delivery of climate finance to sustainability projects globally.
+
+#### miden competitive advantage
+
+Although similar projects have been deployed in the past on other networks, miden has a unique position in the market as it is much broader in scope than the other projects. More specifically, miden aims in creating a possitive feedback loop in reinforcing the connection of people with nature through the encourangement of sustainable behaviour, education and reward mechanisms.
+
+![circularity-08](https://user-images.githubusercontent.com/11577319/227622327-faa1fb90-2b7d-4864-8e42-4ae3d38d7aa6.png)
+
+#### Synergies with Vechain
 
 ## Team 
 
