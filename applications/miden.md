@@ -162,6 +162,12 @@ Estimations are based on quotations received from third parties. The calculation
 
 #### Milestone 3 - API
 
+| Number | Deliverable | Specification |
+|-|-|-|
+| 3.0 | User registration | Profile creation of the users followed by wallet linking  |
+| 2.1 | API wallet managment | Verify requests against contracts |
+| 2.2 | Log Access | Blockchain queries that will allow access to structured data |
+
 #### Community engagement
 
 As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant. 
