@@ -90,11 +90,16 @@ KlimaDAO is a project focusing on green economy. It is built Polygon network, an
 
 #### miden competitive advantage
 
-Although similar projects have been deployed in the past on other networks, miden has a unique position in the market as it is much broader in scope than the other projects. More specifically, miden aims in creating a possitive feedback loop in reinforcing the connection of people with nature through the encourangement of sustainable behaviour, education and reward mechanisms.
+Although similar projects have been deployed in the past on other networks, miden has a unique position in the market as it is much broader in scope than the other projects. More specifically, miden aims in creating a possitive feedback loop in reinforcing the connection of people with nature through the encourangement of sustainable behaviour, education and reward mechanisms. 
 
 ![circularity-08](https://user-images.githubusercontent.com/11577319/227622327-faa1fb90-2b7d-4864-8e42-4ae3d38d7aa6.png)
 
+This holistic approach alloes miden to target new markets and gain competitve advantage. In addition, miden can utilise fee deligation features of Vechain which will allow it to increase its appeal to market participants that are not familiar with blockchain. To our knowledge no similar projects exist on Vechain blockchain.
+
 #### Synergies with Vechain
+
+- Allignment of scope between Vechain and miden in creating a sustainable new world through blockchain innovation.
+- Synergies can arise between miden and other carbon initiaves that are already built or which will be deployed on Vechain further expanding the scope and capabilities of miden. Examples can include the carbon calculator, recently launched by Vechain.
 
 ## Team 
 
@@ -130,27 +135,32 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
+|  | Smart contract | Website | API | Application MVP | Marketing |  Total |
+| - | - |- | - | - | - | - |
+| Estimated Duration | 30 d | 7 d | 20 d | 30 d| 20d | 107 d|
+| Full-time equivalent (FTE) | 6 | 1 | 5 | 6 | 1 | 19 | 
+| Cost | $ 8,000 | $ 3,000 | $ 8,000 | $8,000 | $3,000 | $30,000 |
+
+Estimations are based on quotations received from third parties. The calculations above do not include utilisation of internal resources, offerred by the team members as contribution to the Company. 
 
 #### Milestone 1 — Smart Contract & Backend
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) . We will open source the smart contract and upload the ABI to [B32](https://github.com/vechain/b32). |
-| 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
+| 1.0| Setup | Setup project on TestNet and ManNet |
+| 1.1 | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
+| 1.2 | NFT contracts | Create sponsorships as NFT with full ERC/VIP support |
+| 1.3 | Token configuration| Configure signing parameters |
 
-#### Milestone 2  —  Frontend
+
+#### Milestone 2  —  Website
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | User Guide | We will provide a user guide or a demo video to show what features have been done.  |
-...
+| 2.0 | UX Website design | Enhance features and functionality in accordance with our branding  |
+| 2.1 | UX audit | Survey assessing UI experience of the users |
+| 2.2 | Maintenace | UX corrections and subsequent maintenance |
+
+#### Milestone 3 - API
 
 #### Community engagement
 
