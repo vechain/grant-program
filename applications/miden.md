@@ -106,6 +106,16 @@ This holistic approach alloes miden to target new markets and gain competitve ad
 ### Team members
 ![Team](https://user-images.githubusercontent.com/11577319/227207758-0e37b9b3-8f2a-4219-97e4-d29e4d787bd1.png)
 
+### Team development experience
+
+Our team leverages technology resources and expertise from uQualify. uQualify is a FinTech Company with 5 years of experience in the development of financial and non-financial products and features. 
+
+The technology team consists of 1 CTO, 5 full stack developers and 1 UI/UX developer with a combined experience in the development of technology products and features of 40+ years.
+
+uQualify engages in the development of an innovative business platform aiming to improve the operational efficiency of small medium sized entities. The platform includes a number of features facilitating transactions and day to day activity of companies and individuals. 
+
+Link to uQualify's BoS system: https://my.uqualify.co.uk/login
+
 ### Team Website
 
 - https://gomiden.com/
@@ -167,6 +177,14 @@ Estimations are based on quotations received from third parties. The calculation
 | 3.0 | User registration | Profile creation of the users followed by wallet linking  |
 | 2.1 | API wallet managment | Verify requests against contracts |
 | 2.2 | Log Access | Blockchain queries that will allow access to structured data |
+
+#### Milestone 4 - Application MVP
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 4.0 | Dashboard | UI for dashboard  |
+| 4.1 | Pull requests from API | Transfer of data to UI environment |
+| 4.2 | MVP features | Features development as per mock-ups |
 
 #### Community engagement
 
