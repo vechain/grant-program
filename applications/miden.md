@@ -130,16 +130,6 @@ Link to uQualify's BoS system: https://my.uqualify.co.uk/login
 
 ## Development Roadmap 
 
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
-
-Below we provide an <b>example roadmap</b>. For each milestone:
-
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
-
 
 ### Example Roadmap for a dApp Application
 
@@ -186,21 +176,36 @@ Estimations are based on quotations received from third parties. The calculation
 | 4.1 | Pull requests from API | Transfer of data to UI environment |
 | 4.2 | MVP features | Features development as per mock-ups |
 
+#### Milestone 5 - Marketing
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 5.0 | Marketing packs | Development of marketing and branding packs  |
+
 #### Community engagement
 
-As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant. 
-
-We recommended you provide social medium, like Twitter, Telegram group, or Reddit, on your website. When the developers/users need assistance, they could get in touch with you and get help.
+- Weekly articles publications through our social media platforms (linkedin, twitter, instagram)
+- Participation in events and conferences
+- Articles publication in reputable business platforms
+- A Discord-Server will be setup for developer support and generic development discussion
 
 ## Future Plans
 
-Please include the team's long-term project plans, operation plans and intentions.
+miden aims in creating a sustainable platform that will reinforce the bonds of humanity with nature through possitive reinforcement. As part of the future plans and in line with the vision and objectives of the initiative, the platform will engage in the following activities:
+
+- Development of an education app that will include gamification blockchain features (eg hide and seek, hidden treasures phygital games etc)
+- Integration of applications with other emerging technologies such as IoT, AI and ML. This will enhance the scope of the project by allowing research institutions to gain access on timely and relevant blockchain stored data.
+- Expansion of nature preservation and C02 offsetting activities by engaging in renewable energy projects and by promoting and rewarding positive environmental behavior (eg purchase of electric vehicles).
+- Apply for GoldStandard as to enhance the reliability of the platform.
+- Develop Environmental Social Governance features for companies and individuals in anticipation of increased regulation and requirements in the area under Fit for 55.
+- Achieve synergies with other Vechain projects to assist with the token liquidity (eg Vexchange), promote the activities of the platform (eg World of V) and expand the scope of the initiative (eg Vechain's carbon calculator) 
 
 ## Additional Information 
 
-Any additional information that you think is relevant to this application that hasn't already been included.
 
-Possible additional information to include:
-- What work has been done so far?
-- Are there any teams who have already contributed (financially) to the project?
-- Have you applied for other grants so far?
+- Q: What work has been done so far?
+- A: Development of the business plan, initiation and planning of tech development
+- Q: Are there any teams who have already contributed (financially) to the project?
+- A: uQualify commited in the allocation of resources valued at EUR50.000
+- Q: Have you applied for other grants so far?
+- A: No
