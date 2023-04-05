@@ -188,6 +188,12 @@ Estimations are based on quotations received from third parties. The calculation
 - Participation in events and conferences
 - Articles publication in reputable business platforms
 - A Discord-Server will be setup for developer support and generic development discussion
+- Educational workshops: Organize educational workshops to educate the community about the environmental issue that the project is addressing and how the blockchain technology will be used to solve it. The workshops can be held in community centers, schools, and other public places.
+- Social media campaigns: Use social media platforms to launch awareness campaigns and to engage with the community. The campaign can include infographics, short videos, and other interactive content to create awareness about the project's objectives and how the community can participate.
+- Community forum: Establish a community forum where people can share their thoughts, ideas, and concerns about the project. This forum can also serve as a platform for project updates, news, and discussions.
+- Environmental organizations: Partner with local environmental organizations to create a network of environmental enthusiasts who can help spread the word about the project. This can also help the project access local resources and expertise to help implement and scale the project.
+Implement a rewards program: Implement a rewards program that incentivizes community members to participate in the project. This can be done through token rewards or other incentives that encourage active participation in the project.
+- Community clean-up events: Organize community clean-up events to bring people together and create awareness about environmental sustainability. These events can be organized in partnership with local environmental organizations or community groups.
 
 ## Future Plans
 
@@ -195,7 +201,7 @@ miden aims in creating a sustainable platform that will reinforce the bonds of h
 
 - Development of an education app that will include gamification blockchain features (eg hide and seek, hidden treasures phygital games etc)
 - Integration of applications with other emerging technologies such as IoT, AI and ML. This will enhance the scope of the project by allowing research institutions to gain access on timely and relevant blockchain stored data.
-- Expansion of nature preservation and C02 offsetting activities by engaging in renewable energy projects and by promoting and rewarding positive environmental behavior (eg purchase of electric vehicles).
+- Expansion of nature preservation and CO2 offsetting activities by engaging in renewable energy projects and by promoting and rewarding positive environmental behavior (eg purchase of electric vehicles).
 - Apply for GoldStandard as to enhance the reliability of the platform.
 - Develop Environmental Social Governance features for companies and individuals in anticipation of increased regulation and requirements in the area under Fit for 55.
 - Achieve synergies with other Vechain projects to assist with the token liquidity (eg Vexchange), promote the activities of the platform (eg World of V) and expand the scope of the initiative (eg Vechain's carbon calculator) 
