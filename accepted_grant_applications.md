@@ -8,7 +8,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 
 | Project | Category | Link | Funds | First Delivery | Completed |
 | --- | --- | --- | --- | --- | --- |
-| [DApp world](https://github.com/vechain/grant-program/blob/master/applications/dappworld_learning_ecosystem.md) | Tutorials | [Website](https://dapp-world.com/) | $10,000 |  <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+| [DApp world](https://github.com/vechain/grant-program/blob/master/applications/dappworld_learning_ecosystem.md) | Tutorials | [Website](https://dapp-world.com/) | $10,000 |  <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> |
 |[Increasing Transparency for Sustainable Supply Chains: An Industry Survey of Applications for Blockchain](https://github.com/vechain/grant-program/blob/master/applications/SydTek_VeCarbon.md)| Research | [Application](https://github.com/vechain/grant-program/blob/master/applications/SydTek_VeCarbon.md) | $30,000 | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
 
 
@@ -21,7 +21,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | [Documentation Internationalization and Translation to Portuguese](https://github.com/vechain/grant-program/blob/master/applications/docs-internationalization.md) | Docs |  [Website](https://docs.vechain.org/pt/) | $1,800 | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> |
 | [VeRocket (formerly ZumoSwap)](https://github.com/vechain/grant-program/blob/master/applications/veRocket.md) | DEX |  [Website](https://verocket.com/), [GitHub](https://github.com/verocket/) | $22,000 | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
 | [The Economics of VeChain](https://github.com/vechain/grant-program/blob/master/applications/the_economics_of_vechain.md) | Research | [Application](https://github.com/vechain/grant-program/blob/master/applications/the_economics_of_vechain.md) | $30,000 | <ul><li>[x] </li></ul> | <ul><li>[ ] </li></ul> |
-|  [WorldOfV](https://github.com/vechain/grant-program/blob/master/applications/worldofv.md) | NFT Marketplace | [Website](https://worldofv.art) | $30,000 | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> |
+|  [WorldOfV](https://github.com/vechain/grant-program/blob/master/applications/worldofv.md) | NFT Marketplace | [Website](https://worldofv.art) | $30,000 | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
 | [vechain.energy](https://github.com/vechain/grant-program/blob/master/applications/vechain.energy.md) | Service | [Mainnet](https://vechain.energy/), [Testnet](https://testnet.vechain.energy/)  | $29,850 | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
 | [thor-devkit.dart](https://github.com/vechain/grant-program/blob/master/applications/thor-devkit-dart.md) | Tools | [Application](https://github.com/vechain/grant-program/blob/master/applications/thor-devkit-dart.md) | $24,000 | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
 | [Multi-Signature-Contract and Administration](https://github.com/vechain/grant-program/blob/master/applications/multi-sig-wallets.md) | Tools | [Application](https://github.com/vechain/grant-program/blob/master/applications/multi-sig-wallets.md) | $22,400 | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
