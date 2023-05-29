@@ -10,6 +10,9 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | --- | :-: | :-: | :-: | :-: | :-: |
 | [DApp world](https://github.com/vechain/grant-program/blob/master/applications/dappworld_learning_ecosystem.md) | Tutorials | [Website](https://dapp-world.com/course/vechain-dapp-development-UpGw) | $10,000 | <center>✅</center> |  |
 |[Increasing Transparency for Sustainable Supply Chains: An Industry Survey of Applications for Blockchain](https://github.com/vechain/grant-program/blob/master/applications/SydTek_VeCarbon.md)| Research | [Application](https://github.com/vechain/grant-program/blob/master/applications/SydTek_VeCarbon.md) | $30,000 |   |   |
+| [thor-devkit.rs](https://github.com/vechain/grant-program/blob/master/applications/thor-devkit-rs.md) | Tools | [Application](https://github.com/vechain/grant-program/blob/master/applications/thor-devkit-rs.md) | $25,000 |  |  |
+| [node.vechain.energy](https://github.com/vechain/grant-program/blob/master/applications/node.vechain.energy.md) | Tools | [Website](https://vechain.energy/) | $26,648 | <center>✅</center> | <center>✅</center>  |
+| [A mobile V3-Swap](https://github.com/vechain/grant-program/blob/master/applications/mobile-v3-swap.md) | DEX | [Application](https://github.com/vechain/grant-program/blob/master/applications/mobile-v3-swap.md) | $30,000 |   |    |
 
 
 
