@@ -23,13 +23,7 @@ The general grant program is designed to fund projects covering a wide range of 
  - Enterprise applications
  - Research projects (e.g., tokenomics, governance, privacy, etc).
 
-Each application can be funded up to **$30,000**. All Applications will be tracked on GitHub and disbursed in USDT.
-
-**For Economic X Nodes holders, VeChain Foundation will provide 50% additional funds as bonus if their applications are approved. Successful applicants will have to send an email([`applications/email-template.md`](applications/email-template.md)) to grant@vechain.org to claim the additional grant.**
-
-
-> **Note**
->  :loudspeaker: Please note that the additional funds bonus for Economic X Nodes holders will be discontinued from Q2 2023. However, all applications submitted before the end of March will still be eligible for this bonus. 
+Each application can be funded up to **$30,000**. All Applications will be tracked on GitHub and disbursed in USDC.
 
 
 ## Guidelines
@@ -74,6 +68,12 @@ Note that your project will have to follow [Grant Milestone Delivery](/milestone
 
    The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
+
+## Accepted Grant Applications 
+ - [Overview of the accepted grants](accepted_grant_applications.md)
+ - [Milestone deliveries of the accepted grants](./milestone-delivery/deliveries)
+
+
 ## Grant Committee
 
 For the fund to be best utilized, the grant committee is designed to be as versatile as possible to represent different stakeholders in the VeChain ecosystem. Following this principle, the committee is made of a committee chair, a member of Board of the Steering Committee, a member of the VeChain Core Dev, a community project leader and a collective community member consisting of outstanding community contributors.
@@ -91,7 +91,6 @@ The current committee members are:
  - **VeChain Ecosystem Project Representatives:** <br/>
 [Dyma Budorin](https://twitter.com/buda_kyiv) - CEO of Hacken Foundation<br/>
 [Jürgen Schouppe](https://twitter.com/jurgenschouppe) - Founding Director, CEO & CTO of Safe Haven
-
 
 ## Grant Evaluators
 

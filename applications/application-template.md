@@ -4,7 +4,7 @@
 
 - Project: The name of the project
 - Team Name: Legal name of your team 
-- Payment Address: USDT (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
+- Payment Address: USDC (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
