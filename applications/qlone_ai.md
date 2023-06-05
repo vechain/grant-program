@@ -1,8 +1,6 @@
-# VeChain General Grant Application Template
-
+# Qlone AI
 
 ## Project Overview
-
 
 - Project: Qlone.AI
 - Team Name: Studio Meta Ltd
@@ -23,18 +21,43 @@ VeChain is one of the best blockchains for our team due to its high level of sec
 We expect the teams to already have a solid idea about the project's expected final state.
 Therefore, we ask the teams to submit (where relevant):
 - Mockups/designs of any UI components
+https://docsend.com/view/8qrh7ugx864p2pi3
+
 - API specifications of the core functionality
+
+Backend created using Python programming language and Django framework. For database we used Postgresql. And for communication we use Representational State Transfer (REST) standart. Authentification based on bearer tokens. For the frontend we use react native framework and JavaScript language and provide both android and iOS applications.
+
+For image to image model training we use modified version of open source stable diffusion automatic1111. First user in application frontend uploads one example image or selects from offered options. Also selects preferred style. Then submits info data will be sent to backend and then text info passed to GPT-4 trained AI model which generated full extended prompt for nft generator. After this step prompt are tokenized by a CLIP tokenizer, created by Open AI to produce text description. Finally all info is being processed to Depth-to-image and a new images are produced with additional conditioning using a depth map. After this we have nfts images and some predefined meta data for these images. Next all this info are passed to smart contract which are Deployed on Kusama chain. And finally all info about successful nft mint are passed to user.
+
 - An overview of the technology stack to be used
+
+  Adversarial Networks (GANs) 
+  Variational Autoencoders (VAEs)
+  Large Language Models (LoRA)
+  Recurrent Neural Networks (RNNs)
+  GPT-4 natural language AI model
+  Machine learning
+  JavaScript
+  Python
+  PolkaDot SDKs
+  PolkaDot PDKs
+  Rust
+
 - Documentation of core components, protocols, architecture, etc. to be deployed
+
+https://github.com/QLONEAI
+
 - PoC/MVP or other relevant prior work or research on the topic
 
+We have a functional app prototype, and multiple AI models and blockchain integrations are already available.
+The development team managed to generate our own GAN, RNN AI model prototypes which will be more cost-effective for future sales.
 
 ### Ecosystem Fit
 Are there any other projects similar to yours? If so, how is your project different?
 
+AI NFT generator is really demanding tool for any blockchain. Vechain ecosystem could be one of the first blockchain to integrate AI into WEB3 with the help of our team. AI cloning tolls, and generators are useful tools for many businesses and people, we have multiple AI models prepared to merge. Our application will be the first one to offer many AI features that are not available on mobile. In add, our AI models will be available in one infrastructure which will give seamless access to users with no need to transfer through other platforms. 
 
 ## Team
-
 
 ### Team members
 - Rysard Gvozdovic - Leader
