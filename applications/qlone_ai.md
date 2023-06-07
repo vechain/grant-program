@@ -39,8 +39,6 @@ For image to image model training we use modified version of open source stable 
   Machine learning
   JavaScript
   Python
-  PolkaDot SDKs
-  PolkaDot PDKs
   Rust
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
@@ -115,26 +113,30 @@ Costs - $ 30,000
 
 
 #### Milestone 1 — AI NFT Generator on Vechain ecosystem (1,5 month)
-1. Vechain protocol analysis:
-Two blockchain/back-end developers 
-2. AI NFT Generator (WEB platform) preparation on Vechain ecosystem:
-Two AI/back-end developers 
-3. Vechain NFT smart contract preparation with AI generator
-Two blockchain/back-end developers 
-4. Web application development and UX/UI
-UX/UI designer, Front-end developer
+
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | License | MIT |
+| 2. | Documentation | We will provide both Qlone.ai application techincal documentation of the code in https://github.com/QLONEAI/ repo readme.md file and a basic user manual with detailed instruction how to use AI NFT generator on Vechain ecosystem for unique NFTs collections. |
+| 3. | Testing Guide | All available application functionalities will be live tested and also sandbox tested in Vechain Testnet. test.md will cover detailed instruction how to use AI NFT generator |
+| 1. | Research documentation | Research of Vechain ecosystem adoption for AI (artificial intelligence) NFT generator tool to integrate in Vechain chain. |
+| 2. | UI/UX Design | UI and UX development for user to be able use AI NFT generator tool for NFT collections. |
+| 3. | NFT Generator Mobile App | AI (artificial intelligence) based NFT Generator development for NFTs collection on WEB platform with preparation to synchronise functionality with Vechain ecosystem. | 
+| 4. | Wallet integration on Mobile App | Integration of wallet in aplication to be able to interact with NFTs. Test contracts development on Vechain Testnet. |  
 
 
 #### Milestone 2  —  Qlone AI NFT smart contracts on Vechain ecosystem (1,5 month):
-1. Vechai nNFT smart contract development:
-Two blockchain/back-end developers 
-2. Vechain NFT smart contract implementation on AI NFT Generator:
-Two blockchain/back-end developers 
-3. AI NFT Generator back-end API development:
-Two blockchain/back-end developers 
-4. Vechain wallet integration and connection
 
 
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 1. | License | MIT |
+| 2. | Documentation | We will provide both Qlone.ai application techincal documentation of the code in https://github.com/QLONEAI/ repo readme.md file and a basic user manual with detailed instruction how to use AI NFT generator on Vechain Mainnet for unique NFTs collections. |
+| 3. | Testing Guide | All available application functionalities will be live tested and also sandbox tested. test.md will cover detailed instruction how to utilize AI NFT generator tools. |
+| 1. | NFT Generator Mobile app (Mainet) | Fix and update Vechain contracts for Vechain Mainnet chain |  
+| 2. | NFT Collections Generator Mobile app (Mainet) | Ability to generate NFT collections using Vechain ecosystem from various attributes and options |
+| 3. | Wallet integration on mobile app (Mainet) | Fully integration of Vechain ecosystem on to NFT generator to generate and synchronize collections NFTs minting in Vechain ecosystem |
 
 
 #### Community engagement
