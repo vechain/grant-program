@@ -64,20 +64,7 @@ I'm a CS degree holder with 7+ years of experience. I have been active in the bl
 - https://www.linkedin.com/in/magnus-ekstr%C3%B6m-46b993278/
 
 
-## Development Roadmap 
-
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
-
-Below we provide an <b>example roadmap</b>. For each milestone:
-
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
-
-
-### Example Roadmap for a dApp Application
+## Development Roadmap
 
 #### Overview
 
