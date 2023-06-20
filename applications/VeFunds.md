@@ -62,7 +62,7 @@ I have also deployed various projects which can be seen and accessed through my 
   Duration:1month
   Cost: $1,000
 
--Third Milestone(Platform full lunch and maintenance)
+- Third Milestone(Platform full lunch and maintenance)
  Duration:1month
  cost:$5,000
 
