@@ -70,28 +70,35 @@ I have also deployed various projects which can be seen and accessed through my 
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Total |
+|  | Milestone 1 | Milestone 2 | Milestone 3 | Total |
 | - | - |- | - |
 | Estimated Duration | 90 d | 30 d | 30 d |
 | Full-time equivalent (FTE) | 3 | 1 | 1 |
 | Cost ($ 15,000) | $ 9,000 | $ 1,000 | $ 5,000|
 
-#### Milestone 1 — Smart Contract & Backend
+#### Milestone 1 — Platform Deelopment
 
 | Number | Deliverable | Specification |
 |-|-|-|
 | 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts |We will develop a smart contract that will enable each user to create campaign and for community to fund each campaign and be able to vote for rlease of funds based on each milestones . We will open source the smart contract and upload the ABI to [B32](https://github.com/vechain/b32). |
-| 2 | Backend | "We will create a backend service that will handle user authentication, manage capigns, and perform several other offchain and onchain functionalities" |
+| 0b. | Ui/Ux designs and research | We will work on the UI/UX designs and various functionalities that needs to be included in the platform. |
+| 0c. | Smart contract development | We will develop the smart contract for the full crowdfunding platform functionality and make it more dynamic to modify with security consious and best practices. We will open source the smart contract and upload the ABI to [B32](https://github.com/vechain/b32)|
+| 0d. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
+| 1 | Backend Development |We will develop the backend for the crowdfunding platform to handle all the offchain processes which could include saving of user interactions and mamny other offchain processes . We will open source the smart contract and upload the ABI to [B32](https://github.com/vechain/b32). |
+| 2 | Front end | "We will create a frontend for the project and enable users to be able to fully use the platofmr and interact with the smart contract in a proper way. |
 
-#### Milestone 2  —  Frontend
+#### Milestone 2  —  Testings and various adjustments
 | Number | Deliverable | Specification |
 |-|-|-|
 | 1 | User Guide | We will provide a user guide or a demo video to show what features have been done.  |
-...
+| 2 | User Testing | The community will be able to test the platform out using the provided guild lines.  |
 
+#### Milestone 3  —  Platform full lunch and maintenance
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1 | Launch and maintenaince | Platform maintenance which include redesigning and addition of new pages and general functionality improvement.  |
+
+...
 ## Future Plans
 
 I plan to enlarge team for this project and through this project make known to the world about VeChain by making it easy for individuals and organisations to be able to create a funding campaigns and easily get funded.
