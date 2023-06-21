@@ -74,7 +74,7 @@ I have also deployed various projects which can be seen and accessed through my 
 | - | - |- | - |
 | Estimated Duration | 90 d | 30 d | 30 d |
 | Full-time equivalent (FTE) | 3 | 1 | 1 |
-| Cost ($ 15,000) | $ 9,000 | $ 1,000 | $ 5,000|
+| $ 9,000 | $ 1,000 | $ 5,000 | Cost ($ 15,000)|
 
 #### Milestone 1 — Platform Deelopment
 
@@ -98,7 +98,6 @@ I have also deployed various projects which can be seen and accessed through my 
 |-|-|-|
 | 1 | Launch and maintenaince | Platform maintenance which include redesigning and addition of new pages and general functionality improvement.  |
 
-...
 ## Future Plans
 
 I plan to enlarge team for this project and through this project make known to the world about VeChain by making it easy for individuals and organisations to be able to create a funding campaigns and easily get funded.
