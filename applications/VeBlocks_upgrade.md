@@ -4,7 +4,7 @@
 
 - Project: VeBlocks infrastructure upgrade 
 - Team Name: MiRei - I am happy to provide a detailed resumee via email but not happy to have it on github.
-- Payment Address: 0xb8284f68c71c06118dd152884e708e1096ba5c18 USDT (ERC 20)
+- Payment Address: 0xcb0c81cf6742c2ea97cec01f95c08d22045edbfc USDT (ERC 20)
 
 ### Overview
 
