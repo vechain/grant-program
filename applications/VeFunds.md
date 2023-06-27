@@ -74,7 +74,7 @@ I have also deployed various projects which can be seen and accessed through my 
 | - | - |- | - | - |
 | Estimated Duration | 90 d | 30 d | 30 d | 150d |
 | Full-time equivalent (FTE) | 3 | 1 | 1 | 5 |
-| Cost (up to $ 15,000)| $ 9,000 | $ 1,000 | $ 5,000 | $ 15,0000 |
+| Cost (up to $ 15,000)| $ 9,000 | $ 1,000 | $ 5,000 | $ 15,000 |
 
 #### Milestone 1 — Platform Deelopment
 
