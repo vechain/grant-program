@@ -38,13 +38,13 @@ VeChain Name Service (VNS) is a decentralized naming service similar to Ethereum
 
 ## Team 
 
-The VeChain Name Service (VNS) team is a small but highly skilled and experienced group of developers and business professionals. They have a deep understanding of the VeChainThor blockchain and are passionate about building innovative solutions that will help to grow the VeChain ecosystem. The VNS team is confident that they have the technical skills and experience needed to complete the task of building a decentralized name service for the VeChainThor blockchain. They are committed to providing a user-friendly and secure platform that will allow VeChain users to customize their wallet addresses and improve the usability of interactions within the blockchain.
+The VeChain Name Service (VNS) team is a small but highly skilled and experienced group of developers and business professionals. They have a deep understanding of the VeChainThor blockchain and are passionate about building innovative solutions to help grow the VeChain ecosystem. The VNS team is confident that they have the technical skills and experience needed to complete the task of building a decentralized name service for the VeChainThor blockchain. They are committed to providing a user-friendly and secure platform that will allow VeChain users to customize their wallet addresses and improve the usability of interactions within the blockchain.
 
 ### Team members
 
 Kerryn Pegram (Kiwi) - Founder
 
-Virgo - Writes code and but sometimes make art
+Virgo - Writes code but sometimes makes art
 
 idr0p - Business Dev. / Advisory
 
@@ -54,7 +54,7 @@ idr0p - Business Dev. / Advisory
 
 ### Team's experience
 
-Linkedin profiles can be provided upon request.
+The VNS team has decades of experience in business and software engineering, serving industries ranging from Insurance to IT.
 
 ### Team Code Repos
 
@@ -63,8 +63,7 @@ Linkedin profiles can be provided upon request.
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+Available upon request.
 
 ## Development Roadmap 
 
