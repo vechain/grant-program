@@ -33,6 +33,9 @@ VeChain Name Service (VNS) is a decentralized name service built on the VeChainT
 #### Current Landing Page
 Visit https://www.vns.domains/ to see the current VNS domains landing page with information around the process and pricing.
 
+#### Staging Dapp
+VNS Domains has a staging dapp to demonstrate the new features as they are developed. Access to this dapp is available upon request to qualified parties.
+
 #### Frontend Preview and Registration Flow Chart
 The figure below shows the process a VNS user will use on the VNS Dapp in order to register a new VNS domain.
 ![VNS Registration](https://storage.cloudconvert.com/tasks/182b426e-c373-47ed-940f-0b835421bd1a/domain_registration_flow_v3.png?AWSAccessKeyId=cloudconvert-production&Expires=1689354762&Signature=b7DNJp9bRfsFaguPL2DKgDuqLvA%3D&response-content-disposition=inline%3B%20filename%3D%22domain_registration_flow_v3.png%22&response-content-type=image%2Fpng)
