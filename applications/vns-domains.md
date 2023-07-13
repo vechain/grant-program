@@ -1,6 +1,7 @@
 # VeChain General Grant Application Template
 
 ## Project Overview 
+![VNS Logo](https://cdn.discordapp.com/attachments/862733316859363329/1129095905577013349/vnsdomains_logo.svg.svg)
 
 - Project: Vechain Name Service
 - Team Name: VNS
@@ -23,14 +24,17 @@ VeChain Name Service (VNS) is a decentralized name service built on the VeChainT
 - Namecheap - domain name service
 - Postman - API testing
 
-```We expect the teams to already have a solid idea about the project's expected final state.
-Therefore, we ask the teams to submit (where relevant):
-- Mockups/designs of any UI components
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-```
+#### Current Landing Page
+Visit https://www.vns.domains/ to see the current VNS domains landing page with information around the process and pricing.
+
+#### Frontend Preview and Registration Flow Chart
+The figure below shows the process a VNS user will use on the VNS Dapp in order to register a new VNS domain.
+![VNS Registration](https://cdn.discordapp.com/attachments/1085003565573099530/1122893061001850911/domain_registration_flow_v3.svg)
+
+#### Documentation
+VNS Domains has a provided documentation consisting of frequently asked questions, policies and terminology. This documentation will be regularly updated as needed.
+* https://www.vns.domains/#faq (FAQ)
+* https://docs.vns.domains/ (Documentation Site)
 
 ### Ecosystem Fit
 
