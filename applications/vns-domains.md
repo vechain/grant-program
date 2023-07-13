@@ -7,7 +7,7 @@
 - Team Name: VNS
 - Payment Address: USDC (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*.
 
 ### Overview
 
@@ -29,7 +29,7 @@ Visit https://www.vns.domains/ to see the current VNS domains landing page with 
 
 #### Frontend Preview and Registration Flow Chart
 The figure below shows the process a VNS user will use on the VNS Dapp in order to register a new VNS domain.
-![VNS Registration](https://cdn.discordapp.com/attachments/1085003565573099530/1122893061001850911/domain_registration_flow_v3.svg)
+![VNS Registration](https://storage.cloudconvert.com/tasks/182b426e-c373-47ed-940f-0b835421bd1a/domain_registration_flow_v3.png?AWSAccessKeyId=cloudconvert-production&Expires=1689354762&Signature=b7DNJp9bRfsFaguPL2DKgDuqLvA%3D&response-content-disposition=inline%3B%20filename%3D%22domain_registration_flow_v3.png%22&response-content-type=image%2Fpng)
 
 #### Documentation
 VNS Domains has a provided documentation consisting of frequently asked questions, policies and terminology. This documentation will be regularly updated as needed.
