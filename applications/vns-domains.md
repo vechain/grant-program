@@ -14,7 +14,7 @@ VeChain Name Service (VNS) is a decentralized name service built on the VeChainT
 ### Project Details
 
 ### Technology Stack
-![Next.js](https://a11ybadges.com/badge?logo=nextdotjs) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![Solidity](https://a11ybadges.com/badge?logo=solidity) ![Docker](https://a11ybadges.com/badge?logo=docker)  ![DigitalOcean](https://a11ybadges.com/badge?logo=digitalocean) ![Vercel](https://a11ybadges.com/badge?logo=vercel) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare) ![GitBook](https://a11ybadges.com/badge?logo=gitbook) ![GitHub](https://a11ybadges.com/badge?logo=github) ![Namecheap](https://a11ybadges.com/badge?logo=namecheap) ![Postman](https://a11ybadges.com/badge?logo=postman)
+![Next.js](https://a11ybadges.com/badge?logo=nextdotjs) ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss) ![Solidity](https://a11ybadges.com/badge?logo=solidity) ![Docker](https://a11ybadges.com/badge?logo=docker)  ![DigitalOcean](https://a11ybadges.com/badge?logo=digitalocean) ![Vercel](https://a11ybadges.com/badge?logo=vercel) ![npm](https://a11ybadges.com/badge?logo=npm) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare) ![GitBook](https://a11ybadges.com/badge?logo=gitbook) ![GitHub](https://a11ybadges.com/badge?logo=github) ![Namecheap](https://a11ybadges.com/badge?logo=namecheap) ![Postman](https://a11ybadges.com/badge?logo=postman)
 
 - Next.JS - web application
 - Tailwind - web application styling
@@ -22,6 +22,7 @@ VeChain Name Service (VNS) is a decentralized name service built on the VeChainT
 - Docker - application containerization
 - Digital Ocean - hosting and deployment of backend
 - Vercel - hosting and deployment of frontend and landing page
+- NPM - hosting VNS Domains js library for address translation
 - CloudFlare CDN - content delivery network (cdn)
 - Gitbook - public vns domains docs
 - GitHub - private repositories for frontend, backend, smart contracts
