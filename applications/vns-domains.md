@@ -1,8 +1,7 @@
 # VNS Domains Grant Application
-
-## Project Overview 
 ![VNS Logo](https://cdn.discordapp.com/attachments/862733316859363329/1129095905577013349/vnsdomains_logo.svg.svg)
 
+## Project Overview 
 - Project: Vechain Name Service
 - Team Name: VNSDomains Limited
 - Payment Address: USDC (ERC 20) payment address TBD
