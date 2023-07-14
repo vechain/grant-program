@@ -38,6 +38,18 @@ VNS Domains has a staging dapp to demonstrate the new features as they are devel
 The figure below shows the process a VNS user will use on the VNS Dapp in order to register a new VNS domain.
 ![VNS Registration](https://storage.cloudconvert.com/tasks/182b426e-c373-47ed-940f-0b835421bd1a/domain_registration_flow_v3.png?AWSAccessKeyId=cloudconvert-production&Expires=1689354762&Signature=b7DNJp9bRfsFaguPL2DKgDuqLvA%3D&response-content-disposition=inline%3B%20filename%3D%22domain_registration_flow_v3.png%22&response-content-type=image%2Fpng)
 
+#### Smart Contracts
+VNS Domains based its smart contracts off of the longstanding and well known [Ethereum Name Service](https://github.com/ensdomains/ens-contracts) with the following noteable features:
+- Use MerkleTree for whitelist
+- Store metadata on-chain
+- No oracle, uses a stablecoin called $VeUSD*
+- No exponential premium pricing, prices are static
+- Minimum registration for domain is 365 days (For ENS, it’s 28 days)
+- No DNS-related functionalities
+- Smart contracts deployment uses a Universal Upgradable Proxy Standard (UUPS) proxy pattern
+
+*Subject to change based on $VeUSD availability
+
 #### Documentation
 VNS Domains has a provided documentation consisting of frequently asked questions, policies and terminology. This documentation will be regularly updated as needed.
 * https://www.vns.domains/#faq (FAQ)
