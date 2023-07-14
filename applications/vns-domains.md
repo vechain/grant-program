@@ -4,10 +4,8 @@
 ![VNS Logo](https://cdn.discordapp.com/attachments/862733316859363329/1129095905577013349/vnsdomains_logo.svg.svg)
 
 - Project: Vechain Name Service
-- Team Name: VNS
-- Payment Address: USDC (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
-
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*.
+- Team Name: VNSDomains Limited
+- Payment Address: USDC (ERC 20) payment address TBD
 
 ### Overview
 
