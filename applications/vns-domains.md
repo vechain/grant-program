@@ -1,4 +1,4 @@
-# VeChain General Grant Application Template
+# VNS Domains Grant Application
 
 ## Project Overview 
 ![VNS Logo](https://cdn.discordapp.com/attachments/862733316859363329/1129095905577013349/vnsdomains_logo.svg.svg)
