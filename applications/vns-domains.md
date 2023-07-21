@@ -88,46 +88,59 @@ The VNS team has decades of experience in business and software engineering, ser
 
 Available upon request.
 
-## Development Roadmap 
-
-```
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
-
-Below we provide an <b>example roadmap</b>. For each milestone:
-
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
-
-
-### Example Roadmap for a dApp Application
+## VNS Development Roadmap 
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
+|  | Current Status| Milestone 1 | Milestone 2 | Milestone 3 |
+| - | - |- | - | - |
+| Estimated Duration | 0 d | 30 d | 30 d | 60 d |
+| Full-time equivalent (FTE) | 1 | 1 | 1 | 3 |
+| Cost (up to $ 30,000) |  $ 0  | $ 15,000 | $ 10,000 | $ 5,000|
 
-#### Milestone 1 — Smart Contract & Backend
+#### Current Status
+
+VNS Domains has successfully formed a legal business entity and has retained legal counsel to manage all policy and documentation related to the VeChain Name Service. From a development standpoint, the frontend design and user flow of the Dapp have been completed and are currently undergoing extensive testing. The smart contracts have been developed, inspired by the [Ethereum Name Service smart contracts](https://github.com/ensdomains/ens/tree/master/contracts), and are now in the testing phase on our Solo Node. Once the Solo Node and backend testing are completed, the VNS Team will proceed with deploying VNS to Testnet.
+
+###### Feature Current Status 
+
+| Feature     | Status | Description |
+|-------------|--------|-------------|
+| Business Formation |    ![status](https://badgen.net/static/Status/Complete/green)    | The legal business entity for VNS Domains has been successfully established. |
+| Legal and Policy |    ![status](https://badgen.net/static/Status/Complete/green)    | Policies and documentation related to the VeChain Name Service have been formulated and are being managed by legal counsel. |
+| Front End |   ![status](https://badgen.net/static/Status/Complete/green)     | The frontend design and user flow of the VNS Dapp have been completed and are currently undergoing testing. |
+| Backend   |  ![status](https://badgen.net/static/Status/In%20Progress/yellow)    | The backend development is currently in progress and will be completed in Milestone 1. |
+| VNS Domains npm Library   |  ![status](https://badgen.net/static/Status/In%20Progress/yellow)    | The js library for address translation is currently in progress and will be completed and published to npm in Milestone 2. |
+| Smart Contracts |    ![status](https://badgen.net/static/Status/Testing/blue)      | Smart contracts have been developed and are currently undergoing testing on our Solo Node. |
+| Solo Node Deployment |    ![status](https://badgen.net/static/Status/Testing/blue)     | The deployment of the VNS smart contracts on the Solo Node is currently in progress. |
+| Test Node Deployment |   ![status](https://badgen.net/static/Status/Coming%20Soon/orange)     | The deployment of VNS to Testnet will occur once testing on the Solo Node is successfully completed. |
+| Mainnet Node Deployment |    ![status](https://badgen.net/static/Status/Coming%20Soon/orange)     | The deployment of VNS on the VeChain mainnet will follow after successful testing on Testnet. |
+
+
+#### Milestone 1 — Testnet Node Smart Contract & Backend ALPHA Testing
+The grant funds will be allocated for the first milestone to complete the smart contract deployment and testing from the Solo Node to the Testnet. This milestone aims to make the VNS Domains Dapp available on Testnet, allowing partners and early developers to build integrations and provide valuable feedback.
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) . We will open source the smart contract and upload the ABI to [B32](https://github.com/vechain/b32). |
-| 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
+| 1 | Smart Contracts | We will develop and deploy smart contracts that offer the following functionalities: domain registration, domain transfer, domain resolution, and domain renewal. The ABI file will be open-sourced and uploaded to our repository on "B32". |
+| 2 | Backend | VNS Domains will create a backend service that integrates with the deployed smart contracts, allowing seamless interaction with the VNS Domains Dapp. This backend will handle domain-related transactions, verification processes, and retrieval of domain information. |
 
-#### Milestone 2  —  Frontend
+#### Milestone 2  —  Mainnet Deployment and Backend BETA Test
+During this milestone, VNS will deploy the VNS Dapp to the VeChain Mainnet for beta testing. Alpha Mainnet deployment will allow early-access users to secure their desired VNS domains while providing valuable feedback on the service's functionality, workflow, and bug reports. Additionally, VNS will collaborate closely with strategic partners to provide necessary resources for integrating VNS into their Dapps, such as Marketplaces and Wallets.
+
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | User Guide | We will provide a user guide or a demo video to show what features have been done.  |
-...
-```
+| 1 | Smart Contracts |  VNS Domains will deploy the smart contracts to the VeChain Mainnet.  |
+| 2 | Launch Beta and Integration Program | VNS Domains will launch a beta program for early-access users and provide resources for integrating VNS into other Dapps. This includes releasing the VNS Domains npm library and make it available to certain parties only. |
+
+#### Milestone 3  —  Infrastructure Scaling and Production Launch
+During this milestone, the focus will be on finalizing the application before the official launch. VNS will work closely with VeChain ecosystem partners and establish integrations with their systems. At this stage, VNS will initiate an extensive marketing campaign to raise awareness within the VeChain community about the benefits and capabilities of VNS Domains.
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1 | User Guide | VNS Domains will offer a comprehensive user guide or a demo video, detailing the range of features and functionalities available at launch. Users will gain a complete understanding of the VNS Domains platform and its potential use cases. |
+| 2 | Support Channels | VNS Domains will establish support channels via discord or website for users to get help with the platform. These channels may include a knowledge base, a help desk, or a live chat feature.|
+
 
 #### Community engagement
 
