@@ -68,11 +68,11 @@ I'm a CS degree holder with 7+ years of experience. I have been active in the bl
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
-| Estimated Duration | 15 d | 15 d | 45 d |
-| Full-time equivalent (FTE) | 1 | 1 | 1 |
-| Cost (up to $ 30,000) | $ 10,000 | $ 10,000 | $ 10,000|
+|  | Milestone 1 | Milestone 2 | Milestone 3 | Total |
+| - | - |- | - | - |
+| Estimated Duration | 15 d | 15 d | 45 d | 75 d |
+| Full-time equivalent (FTE) | 1 | 1 | 1 | 1 |
+| Cost (up to $ 30,000) | $ 10,000 | $ 10,000 | $ 10,000| $ 30,000 |
 
 #### Milestone 1 — Foundational Development & Compiler Integration
 
