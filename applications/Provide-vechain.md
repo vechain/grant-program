@@ -19,7 +19,7 @@ Axiom and Shuttle together make zero knowledge <i>composable</i>.
 
 Pictured below - a configured Provide Shuttle zk-workflow, along with a sample Axiom API call generating the zk-proof on-demand in Postman
 
-![ZK proof created based on Shuttle zk-workflow](examples/bpi-interop/scripts/bri-1/img/postman-sent-protocol-msg.PNG)
+![ZK proof created based on Shuttle zk-workflow](https://github.com/fleischr/baseline/blob/bpi-interop/create-bri1-msg-example/examples/bpi-interop/scripts/bri-1/img/postman-sent-protocol-msg.PNG)
 
 
 
