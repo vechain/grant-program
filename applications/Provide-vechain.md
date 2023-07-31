@@ -24,9 +24,11 @@ Other components of the Provide platform include these APIs as well
 [Privacy](https://docs.provide.services/privacy) - General purpose ZK api, used as a subcomponent to Axiom. Can be used on a standalone basis for zk proof creation and verificatoin.
 
 We are interested to participate in the VeChain ecosystem because we feel VeChain's core enterprise user group would take interest in our connectors to SAP and ServiceNow. 
-The Provide wallet-as-a-service offering with the Vault and Nchain APIs enable rapid blockchain integration that native embeds inside of enterprise apps.
+The Provide wallet-as-a-service offering with the Vault and Nchain APIs enable rapid blockchain integration that native embeds inside of enterprise apps - and we consider this a highly attractive for F500s and other SMB business users.
+
 The Axiom API also helps address many data privacy and precision problems that can occur either on or off chain. 
-The Axiom zk-proofs of certain business processes could also be considered oraclized data inputs for real world assets like ERP invoices and AR/AP balances.
+The Axiom zk-proofs of certain business processes could also be considered oraclized data inputs for real world assets like ERP invoices and AR/AP balances. 
+Axiom also broadens ZK from a blockchain privacy/scaling technique into a general purpose integration pattern - forging a new frontier in cross-company workflows in domains like suppy chain, ESG, finance, and more.
 
 These offerings altogether can help grow VeChain's ecosystem of enterprise users. Shuttle as a ZK low/no-code tool may also later prove a valuable complement to Vorj.app for enterprise developers.
 
@@ -34,15 +36,23 @@ Introducing the Provide platform to VeChain also leads the to possibility to lat
 
 We also highly value VeChain's commitment to engage with enterprises goals and duties in the sustainability domain. We share a similar vision on blockchain enables corporates to synchronize ESG data and help drive climate investments globally to where most urgently needed.
 
-Our overall goal with this grant is to lay the technical foundations to fully support VeChain throughout our entire API stack.
+Our overall goal with this grant is to lay the technical foundations to fully support VeChain throughout our entire API stack. 
+A secondary goal we have to is to share our VeChain integration with a business audience not ordinarily exposed to blockchain / digital assets - such as an event focused on SAP / ServiceNow / Corporate ESG users.
 
 ### Project Details
 
-We are currently prioritizing adaptation of the Connex and Thorify APIs to the Provide Nchain component. Because VeChain's JSON-RPC has some differences to other EVM-compatible networks, there will be some additional todos to achieve full interopability with the Provide Nchain component in particular.
+We'd like to add VeChain support throughout the Provide platform that other EVM networks benefit from (ex: Ethereum, Polygon, Celo) - prioritizing adaptation of the Connex / Thorify APIs to the Provide Nchain component. 
 
-However - once this is completed - a broad range of other very excitying apps immediately become interopable with VeChain. This includes Node.js and SAP ABAP projects we've prototyped that can send stablecoins/ERC-20s/CBDCs and mint NFTs.
+Because VeChain's APIs have some differences to other EVM-compatible networks' JSON-RPC, there will be some additional development to achieve full interopability with the Provide Nchain component.
+However - as both Provide Nchain and the VeChain APIs are written Golang, the adaptation should remain straightforward.
 
-This also enables us to more easily deploy ZK-based solidity contracts that are generated from Provide Shuttle, Axiom, and Privacy
+Once this is completed - a broad range of other very excitying apps immediately become interopable with VeChain. 
+
+This includes Node.js and SAP ABAP projects we've prototyped that can send stablecoins/ERC-20s/CBDCs and mint NFTs.
+
+
+
+This also enables us to more easily deploy ZK-based Solidity contracts that are generated from Provide Shuttle, Axiom, and Privacy to VeChain
 
 We expect the teams to already have a solid idea about the project's expected final state.
 Therefore, we ask the teams to submit (where relevant):
@@ -60,8 +70,8 @@ We're also highly differentiated with our approach to zero knowledge.
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Ryan Fleischmann
+- Kyle Thomas
 
 ### Team Website
 
@@ -78,8 +88,9 @@ Please describe the team's relevant experience. If the project involves developm
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+[Ryan](https://www.linkedin.com/in/ryan-fleischmann-3aa59712/)
+[Kyle](https://www.linkedin.com/in/kylebthomas/)
+
 
 ## Development Roadmap 
 
