@@ -76,8 +76,9 @@ We're also highly differentiated with our approach to zero knowledge.
 
 ### Team members
 
-- Ryan Fleischmann
-- Kyle Thomas
+- Ryan Fleischmann (Developer Relations, JS/SAP architect)
+- Kyle Thomas (CEO/CTO)
+- Benjamin Bukari (COO/Legal)
 
 ### Team Website
 
@@ -104,58 +105,39 @@ We offer nearly 40 repositories that collectively represent the entirity of the 
 
 ## Development Roadmap 
 
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
-
-Below we provide an <b>example roadmap</b>. For each milestone:
-
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
-
-
-### Example Roadmap for a dApp Application
-
 #### Overview
 
 Cost $30,000
 FTE equivalent 2
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
-| Estimated Duration | 30 d | 30 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost $30,000| $ 5,000 | $ 10,000 | $ 15,000|
+We anticipate to complete all 4 milestones in next 60 days
+To cover some operations cost of our stack and SAP dev environment - we're requesting  $10k of the grant to be awarded upfront, with $5k awarded upon each milestones completion.
 
-#### Milestone 1 — Integrate Provide Vault to VeChain Connex/Thorify API
+#### Milestone 1 — Integrate Provide Vault directly to VeChain Connex/Thorify API
 
 Provide Vault can already produce hashed, digitally signed data from secp256k1 keys that can be directly broadcast to the VeChain APIs.
 
-Our goal will be to create a test application that leverages the VeChain REST interface in this manner. This will likely be a fork of of the prior examples to transfer ERC-20s or mint NFTs using our [provide-js](https://github.com/provideplatform/provide-js) Javascript/Typescript SDK.
+Our goal will be to create test applications that leverages the VeChain REST interface in this manner leveraging our current sample repos that demonstrate the usage of the Provide APIs
 
 Current provide-js sample repos:
-- [Send an ERC-20 with provide-js]()
-- [Mint an NFT with provide-js]()
+- [Send an ERC-20 with provide-js](https://github.com/fleischr/transfer-erc20-providejs)
+- [Mint an NFT with provide-js](https://github.com/fleischr/mint-nft-provide-js)
 
-Upon successful integration with the provide-js SDK samples, we'd like to attempt to the the same with corresponding sample repos for provide-abap - our SDK for SAP S/4 HANA
+Upon successful integration with the provide-js SDK samples, we'd like to attempt to the the same with corresponding sample repos for [provide-abap](https://github.com/provideplatform/provide-abap) - our SDK for SAP S/4 HANA
 - [ABAP ERC-20](https://github.com/fleischr/abap-erc-20)
 - [ABAP NFT](https://github.com/fleischr/abap-nft)
 
+This establishes a MVP in terms Provide - VeChain integration going forward.
 
 | Number | Deliverable | Specification |
 |-|-|-|
-Integrate Provide Vault directly to VeChain Connex/Thorify
-
-| 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 1 | Smart Contracts | We will deploy a handful of smart contract types namely: an ERC-20 and a ERC-721 mint |
-| 2 | Apps ||
+| 1 | Fork provide.js apps with VeChain REST | Provide Nchain may not be immediately usable - but the signing/broadcasting should still work |
+| 2 | Fork provide-abap apps with VeChain REST | Provide Nchain may not be immediately usable - but the signing/broadcasting should still work |
 ...
 
 #### Milestone 2  —  Adapt the VeChain Connex/Thorify APIs to Provide Nchain, test existing apps
 
-To promote greater interoperability and general Provide platform developer user experience, we want to fully abstract the VeChain APIs into Provide Nchain. This will enable developers using the Provide platform for other Ethereum ecosystem blockchains to transition to integration on VeChain more easily.
+To promote greater interoperability and general Provide platform developer user experience, we want to fully abstract the VeChain APIs into Provide Nchain. This will enable developers using the Provide platform for other Ethereum ecosystem blockchains to transition to integration on VeChain more easily. This makes our long term maintenance and support of VeChain more straightforward.
 
 | Number | Deliverable | Specification |
 |-|-|-|
@@ -172,6 +154,8 @@ For milestone 3, we'd like to begin to demonstrate our POV on use of ZK in real 
 | 2 | App build | Build open source reference app that uses the Axiom zk-workflow in tokenization |
 | 3 | Non-technical user summary / blog | Explain the role of ZK in approachable business terms in how it helps notarize real world data inputs with data privacy and precision - and how this fits the ethos of the VeChain ecoysystem |
 ...
+
+At least 1 new github repository with the configuration instructions, Postman collection, and sample source code will be provided.
 
 #### Milestone 4 - Share the Provide platform capabilities on VeChain to business / IT audience 
 | Number | Deliverable | Specification |
@@ -204,4 +188,4 @@ We want to grow our network of customers using our commercial support of these A
 
 Possible additional information to include:
 - [Ryan Fleischmann](https://twitter.com/RyFleisch) of Provide is a recipient of the VeChain developer microgrant for the Carbon Emissions NFT
-- We have been supported by a network of investors. We also have a strategic partnership with KlimaDAO/Carbonmark
+- We have been supported by a network of investors. We also have an active strategic partnership with KlimaDAO/Carbonmark
