@@ -1,8 +1,8 @@
-# VeChain General Grant Application Template
+# Provide platform integration to VeChain
 
 ## Project Overview 
 
-- Project: PRVD Stack Interopability to VeChain
+- Project: Provide platform integration to VeChain
 - Team Name: Provide Technologies Inc
 - Payment Address: USDC (ERC 20) payment address. 0xE62A9086ac0536057FFA23Ea57a3038Fe601186D
 
@@ -10,17 +10,20 @@
 
 ### Overview
 
-The Provide platform enables enterprise apps like SAP and Service and other web2 applications in Node.js, .NET, Python to integrate to blockchains. 
+The Provide platform enables enterprise apps like SAP and Service and other web2 applications in Node.js, .NET, Python to integrate to blockchains such as VeChain.
 
 A key feature of the Provide platform is our implementation of the Baseline Protocol, known as the Provide Axiom API. 
 
 [Axiom](https://docs.provide.services/axiom) - together with our low code designer [Shuttle](https://shuttle.provide.services) enables developers and business analysts to easy create workflows based on zero knowledge proofs. 
-Axiom and Shuttle together make zero knowledge <i>composable</i>.
+Axiom and Shuttle together make zero knowledge <i>composable</i> - neutralizing the knowledge and skills barriers developers struggle with in adopting ZK.
 
-Pictured below - a configured Provide Shuttle zk-workflow, along with a sample Axiom API call generating the zk-proof on-demand in Postman
+Pictured below - a sample Axiom API call generating the zk-proof on-demand in Postman, and the corresponding workstep configuration
 
 ![ZK proof created based on Shuttle zk-workflow](https://github.com/fleischr/baseline/blob/bpi-interop/create-bri1-msg-example/examples/bpi-interop/scripts/bri-1/img/postman-sent-protocol-msg.PNG)
 
+![Provide Shuttle ZK-workflow designer](https://github.com/fleischr/baseline/blob/bpi-interop/create-bri1-msg-example/examples/bpi-interop/scripts/bri-1/img/shuttle-msg-review1.PNG)
+
+![ZK-workstep in Provide Shuttle. Simply define data schema input you need zk-proofed, what kind of circuit is need, who needs to participate in the zk-workflow, configure if Layer1 finality is required](https://github.com/fleischr/baseline/blob/bpi-interop/create-bri1-msg-example/examples/bpi-interop/scripts/bri-1/img/wf-workstepsave.PNG)
 
 
 Other components of the Provide platform include these APIs as well
@@ -58,7 +61,7 @@ However - as both Provide Nchain and the VeChain APIs are written Golang, the ad
 
 Once this is completed - a broad range of other very exciting apps immediately become interopable with VeChain. 
 
-This includes Node.js and SAP ABAP projects we've prototyped that can send stablecoins/ERC-20s/CBDCs and mint NFTs.
+This includes Node.js and SAP ABAP projects we've prototyped that can send stablecoins/ERC-20s/CBDCs and mint NFTs. Developers using the Provide APIs simply need to reference the VeChain 
 
 #### SAP Apps
 
