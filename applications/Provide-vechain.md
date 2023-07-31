@@ -17,22 +17,32 @@ A key feature of the Provide platform is our implementation of the Baseline Prot
 [Axiom](https://docs.provide.services/axiom) - together with our low code designer [Shuttle](https://shuttle.provide.services) enables developers and business analysts to easy create workflows based on zero knowledge proofs. 
 Axiom and Shuttle together make zero knowledge <i>composable</i>.
 
+Pictured below - a configured Provide Shuttle zk-workflow, along with a sample Axiom API call generating the zk-proof on-demand in Postman
+
+![ZK proof created based on Shuttle zk-workflow](examples/bpi-interop/scripts/bri-1/img/postman-sent-protocol-msg.PNG)
+
+
+
 Other components of the Provide platform include these APIs as well
+
 [Ident](https://docs.provide.services/ident) - microservice providing decentralized identity, authentication and authorization services
+
 [Vault](https://docs.provide.services/vault) - Digital wallet and cryptographic secrets management
+
 [Nchain](https:/docs.provide.serivces/nchain) - Smart contract middleware for multiple public and private networks
+
 [Privacy](https://docs.provide.services/privacy) - General purpose ZK api, used as a subcomponent to Axiom. Can be used on a standalone basis for zk proof creation and verificatoin.
 
-We are interested to participate in the VeChain ecosystem because we feel VeChain's core enterprise user group would take interest in our connectors to SAP and ServiceNow. 
+We are interested to participate in the VeChain ecosystem because we feel VeChain's core enterprise user group would take interest in our connectors to SAP and ServiceNow, zk capabilities, and wallet-as-a-service offering. 
 The Provide wallet-as-a-service offering with the Vault and Nchain APIs enable rapid blockchain integration that native embeds inside of enterprise apps - and we consider this a highly attractive for F500s and other SMB business users.
 
-The Axiom API also helps address many data privacy and precision problems that can occur either on or off chain. 
+Provide's zero knowledge capabiliities are led by Axiom, our implementation of the [Baseline Protocol standard](https://baseline-protocol.org). The Axiom API also helps address many data privacy and precision problems that can occur either on or off chain. 
 The Axiom zk-proofs of certain business processes could also be considered oraclized data inputs for real world assets like ERP invoices and AR/AP balances. 
-Axiom also broadens ZK from a blockchain privacy/scaling technique into a general purpose integration pattern - forging a new frontier in cross-company workflows in domains like suppy chain, ESG, finance, and more.
+Axiom also broadens ZK from a blockchain privacy/scaling technique into a general purpose integration pattern - forging a new frontier in cross-company workflows in domains like suppy chain, ESG, finance, CRM, and more.
 
 These offerings altogether can help grow VeChain's ecosystem of enterprise users. Shuttle as a ZK low/no-code tool may also later prove a valuable complement to Vorj.app for enterprise developers.
 
-Introducing the Provide platform to VeChain also leads the to possibility to later integrate our zk-rollup and zkEVM to VeChain, thereby introducing the possibility of launching a layer 2 upon VeChain.
+Introducing the Provide platform to VeChain also leads the to possibility to later integrate our zk-rollup and zkEVM to VeChain, thereby introducing the possibility for Provide to assist in launching a layer 2 upon VeChain in the future.
 
 We also highly value VeChain's commitment to engage with enterprises goals and duties in the sustainability domain. We share a similar vision on blockchain enables corporates to synchronize ESG data and help drive climate investments globally to where most urgently needed.
 
@@ -46,21 +56,18 @@ We'd like to add VeChain support throughout the Provide platform that other EVM 
 Because VeChain's APIs have some differences to other EVM-compatible networks' JSON-RPC, there will be some additional development to achieve full interopability with the Provide Nchain component.
 However - as both Provide Nchain and the VeChain APIs are written Golang, the adaptation should remain straightforward.
 
-Once this is completed - a broad range of other very excitying apps immediately become interopable with VeChain. 
+Once this is completed - a broad range of other very exciting apps immediately become interopable with VeChain. 
 
 This includes Node.js and SAP ABAP projects we've prototyped that can send stablecoins/ERC-20s/CBDCs and mint NFTs.
+
+#### SAP Apps
+
+#### Node.js apps
 
 
 
 This also enables us to more easily deploy ZK-based Solidity contracts that are generated from Provide Shuttle, Axiom, and Privacy to VeChain
 
-We expect the teams to already have a solid idea about the project's expected final state.
-Therefore, we ask the teams to submit (where relevant):
-- Mockups/designs of any UI components
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
 
 ### Ecosystem Fit
 There are several other startups building middleware between blockchains and enterprise systems. We stand apart from others because the core of our technology solution is open source. 
