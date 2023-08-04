@@ -1,5 +1,5 @@
 # VNS Domains Grant Application
-![VNS Logo](https://cdn.discordapp.com/attachments/862733316859363329/1129095905577013349/vnsdomains_logo.svg.svg)
+![VNS Logo](https://camo.githubusercontent.com/63290eee39d7bd24c88fecef63f055e2ccf08613684e653017c2d3e60335d0f8/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3836323733333331363835393336333332392f313132393039353930353537373031333334392f766e73646f6d61696e735f6c6f676f2e7376672e737667)
 
 ## Project Overview 
 - Project: Vechain Name Service
@@ -36,7 +36,7 @@ VNS Domains has a staging dapp to demonstrate the new features as they are devel
 
 #### Frontend Preview and Registration Flow Chart
 The figure below shows the process a VNS user will use on the VNS Dapp in order to register a new VNS domain.
-![VNS Registration](https://storage.cloudconvert.com/tasks/182b426e-c373-47ed-940f-0b835421bd1a/domain_registration_flow_v3.png?AWSAccessKeyId=cloudconvert-production&Expires=1689354762&Signature=b7DNJp9bRfsFaguPL2DKgDuqLvA%3D&response-content-disposition=inline%3B%20filename%3D%22domain_registration_flow_v3.png%22&response-content-type=image%2Fpng)
+![VNS Registration](https://camo.githubusercontent.com/746e647b1b8ca955b7caf613740975be37dc57018ef68d7d69430d363fac0fe2/68747470733a2f2f73746f726167652e636c6f7564636f6e766572742e636f6d2f7461736b732f31383262343236652d633337332d343765642d393430662d3062383335343231626431612f646f6d61696e5f726567697374726174696f6e5f666c6f775f76332e706e673f4157534163636573734b657949643d636c6f7564636f6e766572742d70726f64756374696f6e26457870697265733d31363839333534373632265369676e61747572653d6237444e4a70396252667346616775504c32444b674475714c764125334426726573706f6e73652d636f6e74656e742d646973706f736974696f6e3d696e6c696e6525334225323066696c656e616d65253344253232646f6d61696e5f726567697374726174696f6e5f666c6f775f76332e706e6725323226726573706f6e73652d636f6e74656e742d747970653d696d616765253246706e67)
 
 #### Smart Contracts
 VNS Domains based its smart contracts off of the longstanding and well known [Ethereum Name Service](https://github.com/ensdomains/ens-contracts) with the following noteable features:
