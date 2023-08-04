@@ -65,11 +65,11 @@ The VeChain Name Service (VNS) team is a small but highly skilled and experience
 
 ### Team members
 
-Kerryn Pegram (Kiwi) - Founder
+Kerryn Pegram (Kiwi) - Co-founder, CEO
 
-Virgo - Writes code but sometimes makes art
+Virgo - Co-founder, Writes code but sometimes makes art
 
-idr0p - Business Dev. / Advisory
+idr0p - Co-founder, Business Development
 
 ### Team Website
 
