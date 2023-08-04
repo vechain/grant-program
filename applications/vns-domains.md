@@ -81,8 +81,7 @@ The VNS team has decades of experience in business and software engineering, ser
 
 ### Team Code Repos
 
-- https://github.com/<your_repo_1>
-- https://github.com/<your_repo_2>
+- available upon request
 
 ### Team LinkedIn Profiles
 
