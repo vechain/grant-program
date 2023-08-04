@@ -4,7 +4,7 @@
 ## Project Overview 
 - Project: Vechain Name Service
 - Team Name: VNSDomains Limited
-- Payment Address: USDC (ERC 20) payment address TBD
+- Payment Address:  [0x719d8E2d70188270f109324aA9579418F3D57A01](https://etherscan.io/address/0x719d8E2d70188270f109324aA9579418F3D57A01) USDC (ERC 20) payment address managed by Kerryn Pegram (Kiwi)
 
 ### Overview
 
