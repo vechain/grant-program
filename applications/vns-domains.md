@@ -46,7 +46,6 @@ VNS Domains based its smart contracts off of the longstanding and well known [Et
 - No exponential premium pricing, prices are static
 - Minimum registration for domain is 365 days (For ENS, it’s 28 days)
 - No DNS-related functionalities
-- Smart contracts deployment uses a Universal Upgradable Proxy Standard (UUPS) proxy pattern
 
 *Subject to change based on $VeUSD availability
 
