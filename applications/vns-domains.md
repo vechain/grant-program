@@ -81,7 +81,7 @@ The VNS team has decades of experience in business and software engineering, ser
 
 ### Team Code Repos
 
-- available upon request
+Available upon request.
 
 ### Team LinkedIn Profiles
 
