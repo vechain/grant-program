@@ -83,7 +83,7 @@ Once the server identifies the right moment, it triggers the `swap` function on 
 
 **POC**
 
-We have a working POC of the product on testnet that can be shared upon request.
+We have a working POC of the product on testnet [https://main--symphonious-macaron-41163f.netlify.app/](https://main--symphonious-macaron-41163f.netlify.app/).
 
 ### Ecosystem Fit
 
