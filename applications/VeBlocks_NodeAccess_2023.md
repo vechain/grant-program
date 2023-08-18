@@ -79,7 +79,7 @@ The team consists of:
 <br/>
 <br/>
 
-#### Milestone 1 — VeBlocks backend upgrade
+#### Milestone 1 — Uptime, maintenance and improvements for 12 months
 
 | Number | Deliverable | Specification |
 |-|-|-|
