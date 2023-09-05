@@ -16,6 +16,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | [VeTools - VeChain VSCode Toolkit](https://github.com/vechain/grant-program/blob/master/applications/vetools_vscode.md) | Tools | [Application](https://github.com/vechain/grant-program/blob/master/applications/vetools_vscode.md) | $30,000 |   |    |
 |[miden](https://github.com/vechain/grant-program/blob/master/applications/miden.md)| Sustainability platform | [Application](https://github.com/vechain/grant-program/blob/master/applications/miden.md) | $30,000 |  |  |
 | [Forward Protocol](https://github.com/vechain/grant-program/blob/master/applications/Forward_VeChain.md) | Tools | [Website](https://forwardprotocol.io/), [GitHub](https://github.com/ForwardProtocol) | $25,000 | | |
+| [Thisismagma](https://github.com/vechain/grant-program/blob/master/applications/thisismagma.md) | Estate platform | [Website](https://thisismagma.com/)| $30,000 | | |
 
 
 
