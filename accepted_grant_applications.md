@@ -14,6 +14,9 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | [node.vechain.energy](https://github.com/vechain/grant-program/blob/master/applications/node.vechain.energy.md) | Tools | [Website](https://vechain.energy/) | $26,648 | ✅ | ✅ |
 | [A mobile V3-Swap](https://github.com/vechain/grant-program/blob/master/applications/mobile-v3-swap.md) | DEX | [Application](https://github.com/vechain/grant-program/blob/master/applications/mobile-v3-swap.md) | $30,000 |   |    |
 | [VeTools - VeChain VSCode Toolkit](https://github.com/vechain/grant-program/blob/master/applications/vetools_vscode.md) | Tools | [Application](https://github.com/vechain/grant-program/blob/master/applications/vetools_vscode.md) | $30,000 |   |    |
+|[miden](https://github.com/vechain/grant-program/blob/master/applications/miden.md)| Sustainability platform | [Application](https://github.com/vechain/grant-program/blob/master/applications/miden.md) | $30,000 |  |  |
+| [Forward Protocol](https://github.com/vechain/grant-program/blob/master/applications/Forward_VeChain.md) | Tools | [Website](https://forwardprotocol.io/), [GitHub](https://github.com/ForwardProtocol) | $25,000 | | |
+| [Thisismagma](https://github.com/vechain/grant-program/blob/master/applications/thisismagma.md) | Estate platform | [Website](https://thisismagma.com/)| $30,000 | | |
 
 
 
