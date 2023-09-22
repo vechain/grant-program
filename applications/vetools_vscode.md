@@ -4,7 +4,7 @@
 
 - Project: VeTools - VeChain VSCode Toolkit
 - Team Name: Magnus Ekström
-- Payment Address: 0xf7e009D8E3F012286415aE576Fcaa50c38bAFCb7
+- Payment Address: 0x36B4E70066cA49C257b91879E035C19A36513A20
 
 
 ### Overview
