@@ -4,7 +4,7 @@
 
 - Project: Thisismagma
 - Team Name: MAGMA SAS
-- Payment Address: USDT (ERC 20) 0x54E677901a1172BbB7C9b1184C8BfEAE06EBDE98
+- Payment Address: USDC (ERC 20) 0xa7b78cF97B504252ED8097b5754811b43Cce33cc 
 
 
 ### Overview
