@@ -63,7 +63,7 @@ Today, wallets act mainly as an interface, serving primarily as a transaction si
 
 As of today the Vechain ecosystem has very few wallet solutions and no desktop wallet one-stop super app! The wallet solutions that do exist today are not really built for mass adoption or use by less tech savvy users, they are more built with a focus on usage by the existing tech-savvy user base and generally provide low quality user interfaces, lack a curated in-wallet experience, lack many features/services that users require and overall provide a terrible UX.
 
-Infinity Wallet steps in to fill this need, as a one-stop hub for all payment, DeFi, NFT and Web3 activity. Providing a unique all-in-one wallet and first of its kind browser for Web3 solution with a full spectrum of in-platform services, features and protocols, focusing on delivering a premium platform and enhancing the user experience, while providing a user centric interface for a seamless decentralized user experience and new wallet options. Streamlining accessibility and lowering the barrier to entry, to allow for easy onboarding and adoption of DeFi, crypto payments & Web3.
+Infinity Wallet steps in to fill this need, as a one-stop hub for all payment, DeFi, NFT and Web3 activity. Providing a unique all-in-one wallet and first of its kind Web3 browser solution with a full spectrum of in-platform services, features and protocols, focusing on delivering a premium platform and enhancing the user experience, while providing a user centric interface for a seamless decentralized user experience and new wallet options. Streamlining accessibility and lowering the barrier to entry, to allow for easy onboarding and adoption of DeFi, crypto payments & Web3.
 
 
 ## Team 
