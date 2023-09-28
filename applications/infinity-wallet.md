@@ -25,7 +25,7 @@ Below are some of the key infrastructure and features/services that could benefi
 
 **![wallet send|690x360](https://i.gyazo.com/7ded287eb401ee9d6933a83a4b1b7ecc.jpg)**
 
-* First desktop Web3 Browser (One-click connect and transact with Web3 DApps, with utmost discoverability and use of a chains’ ecosystem) This removes the need for unfriendly and feature-lacking browser extensions to access Web3 and decentralized applications on desktop - **![web3 browser|690x360](https://i.gyazo.com/531ffe2563c4ea7b37d80e33dcfb2ee5.png)**
+* Desktop Web3 Browser (One-click connect and transact with Web3 DApps, with utmost discoverability and use of a chains’ ecosystem) This removes the need for unfriendly and feature-lacking browser extensions to access Web3 and decentralized applications on desktop, while providing a standalone browser for Web3! - **![web3 browser|690x360](https://i.gyazo.com/531ffe2563c4ea7b37d80e33dcfb2ee5.png)**
 
 * Web3 DApp Store (Enables easier DApp & ecosystem discoverability, adoption and usage) - 
 **![web3 dapp store|690x360](https://i.gyazo.com/f7c7bb506bafa0c770ebae251408c9fa.png)**
@@ -38,11 +38,15 @@ Below are some of the key infrastructure and features/services that could benefi
 
 **![nft individual|690x360](https://i.gyazo.com/e675a10ce96331c01d256cf347764c1f.jpg)**
 
-* Fiat on/off-ramp (enabling easy and direct onboarding into crypto and supported chains) - **![buy and sell crypto|690x360](https://i.gyazo.com/ab1f2770fc8dc4182c0a6ee76798ab2b.png)**
+* Fiat on/off-ramp (enabling easy and direct onboarding into crypto and supported chains) - **![buy and sell crypto|690x360](https://i.gyazo.com/ab1f2770fc8dc4182c0a6ee76798ab2b.png)** 
+**![buy and sell crypto options|690x360](https://i.gyazo.com/a032289e853ec8acfb7018ddcc64b32c.png)** 
+
 
 * Complete Transaction History for all transaction types with DApp linking and balance/performance tracking - **![advanced transaction history|690x360](https://i.gyazo.com/a30215224b45a5a8eea6aee5a7bef6b1.png)**
 
-* Custom Token Importing (Allowing any token to be imported on any supported chain) - **![custom token importing|690x360](https://i.gyazo.com/7233b8795e1786b00f537f6fca95a116.png)**
+* Custom Token Importing (Allowing any token that is not default supported to be imported) - **![custom token importing|690x360](https://i.gyazo.com/7233b8795e1786b00f537f6fca95a116.png)**
+
+* Desktop drag and scan QR Scanner (Drag to scan Desktop scanning for payment requests) - **![infinity qr scan|690x360](https://i.gyazo.com/393666c21910cc9ae371b7c94871a4ff.png)**
 
 * Live user and chain support, with a focus on delivering the best possible user experience to make onboarding for users as easy and seamless as possible
 
