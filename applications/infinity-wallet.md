@@ -4,7 +4,7 @@
 - Project: Infinity Wallet
 - Team Name: Infinity Wallet
 - Website: https://infinitywallet.io/
-- Payment Address: **POA**
+- Payment Address: 0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671
 
 ### Overview
 Infinity Wallet is a decentralized all-in-one non-custodial wallet ecosystem and Web3 browser, that provides a one-stop solution for all a user's decentralized needs (a Wallet and Web3 browser Super App). As not a browser extension, but a standalone application, enabling seamless onboarding and easy access and use of crypto, cross-border payments, DeFi, NFTs and Web3. All within a single unique platform on desktop since our launch in 2020, supporting around 48,000 MAU (with mobile version to launch later this year that aims to redefine the entire mobile experience).
