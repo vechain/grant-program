@@ -26,7 +26,7 @@ applications/application-template.md)). Make sure you **do not modify the templa
 
 3. **Milestone Delivery and Payment**
 
-   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-delivery) folder. You can find the delivery process [here](milestone-delivery#milestone-delivery-process). **Once the application is accepted, the payment for the first milestone will be immediately disbursed to fund the project. The payments of the rest milestones will be disbursed once their previous milestones are delivered and reviewed.**
+   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-delivery) folder. You can find the delivery process [here](#milestone-delivery-process). **Once the application is accepted, the payment for the first milestone will be immediately disbursed to fund the project. The payments of the rest milestones will be disbursed once their previous milestones are delivered and reviewed.**
 
    The grant application can be amended at any time. However, this necessitates a reevaluation. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
@@ -35,7 +35,7 @@ applications/application-template.md)). Make sure you **do not modify the templa
 The milestone delivery process is part of the [Vechain EasyA Hackathon Grant Track](https://github.com/vechain/grant-program/Vechain-EasyA-Hackathon-Boston-Oct-2023/). You can find the application process [here](https://github.com/vechain/grant-program/Vechain-EasyA-Hackathon-Boston-Oct-2023/#application-process).  
 
 1. **Milestone Delivery:**
-   1. In the fork that you used to submit the application, create a copy of the milestone delivery template ([`deliveries/milestone-delivery-template.md`](deliveries/milestone-delivery-template.md)). Make sure you **do not modify the template file directly**.
+   1. In the fork that you used to submit the application, create a copy of the milestone delivery template ([`milestone-deliveries/milestone-delivery-template.md`](milestone-deliveries/milestone-delivery-template.md)). Make sure you **do not modify the template file directly**.
    2. Name the file `project_name-milestone_number.md`.
    3. Fill out the template with the details of your milestone including a **link to the pull request** of your application.
    4. Once you're done, create a pull request.
