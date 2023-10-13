@@ -28,7 +28,6 @@ If you select "No," please provide:
 Please provide the following:
 - A brief description of the project.
 - An indication of why your team is interested in creating this project within the vechain Ecosystem.
-- An indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project.
 - Link to project’s one-pager template (provided by BCG at the Hackathon).
 - Link to pitch deck
 
