@@ -22,17 +22,16 @@ applications/application-template.md)). Make sure you **do not modify the templa
    6. Please read the [disclaimer](../disclaimer.md) carefully before applying for VeChain General Grant.
 
 2. **Review**
-   A special review panel will evaluate and make decisions on all the applications. The applicant(s) must _address all the requirements_ via a new pull request. Final decisions will be put on the website to notify applicants and the community.
+
+   A special [review panel](#review-panel) will evaluate and make decisions on all the applications. The applicant(s) must _address all the requirements_ via a pull request. Final decisions will be put on the website to notify applicants and the community.
 
 3. **Milestone Delivery and Payment**
 
-   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-delivery) folder. You can find the delivery process [here](#milestone-delivery-process). **Once the application is accepted, the payment for the first milestone will be immediately disbursed to fund the project. The payments of the rest milestones will be disbursed once their previous milestones are delivered and reviewed.**
+   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-deliveries) folder. You can find the delivery process [here](#milestone-delivery-process). **Once the application is accepted, the payment for the first milestone will be immediately disbursed to fund the project. The payments of the rest milestones will be disbursed once their previous milestones are delivered and reviewed.**
 
    The grant application can be amended at any time. However, this necessitates a reevaluation. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
 ## Milestone Delivery Process
-
-The milestone delivery process is part of the [Vechain EasyA Hackathon Grant Track](https://github.com/vechain/grant-program/Vechain-EasyA-Hackathon-Boston-Oct-2023/). You can find the application process [here](https://github.com/vechain/grant-program/Vechain-EasyA-Hackathon-Boston-Oct-2023/#application-process).  
 
 1. **Milestone Delivery:**
    1. In the fork that you used to submit the application, create a copy of the milestone delivery template ([`milestone-deliveries/milestone-delivery-template.md`](milestone-deliveries/milestone-delivery-template.md)). Make sure you **do not modify the template file directly**.
