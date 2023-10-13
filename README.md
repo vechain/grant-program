@@ -1,4 +1,13 @@
-# VeChain General Grant Program <!-- omit in toc -->
+# Vechain General Grant Program <!-- omit in toc -->
+
+## :loudspeaker::loudspeaker: Vechain -EasyA Hackathon Grant Track :confetti_ball: :sparkles: :tada:
+
+Under the Vechain general grant program, a special track has been created for the Vechain-EasyA hackathon attendees to support their follow-up project development. The track will make funds available for 10 projects on a first-come, first served basis. Each project can be funded up to 30,000 USD. 
+
+Visit [Vechain-EasyA-Hackathon-Boston-Oct-2023](./Vechain-EasyA-Hackathon-Boston-Oct-2023) to learn more about it.
+
+---
+
 
 ## Table of contents
 
@@ -35,7 +44,7 @@ In general, your project will have better chances to get accepted if:
 - Your application is **rich in technical details** and well-defined.
 - For development projects, you can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
 - You should point out how your project stands out among competitors (e.g., it implements some technology that does not exist in the ecosystem yet).
-- A direct contribution to VeChain's technology and/or ecosystem is a plus.
+- A direct contribution to Vechain's technology and/or ecosystem is a plus.
 
 Additionally, it must fulfill the following requirements:
 
@@ -52,7 +61,7 @@ Note that your project will have to follow [Grant Milestone Delivery](/milestone
    3. Name the new file after your project: `project_name.md`.
    4. Fill out the template with the details of your project. The more information you provide, the faster its review process will be.
    5. Once you're done, create a pull request. The pull request should only contain _one new file_, that is the Markdown file you created from the template.
-   6. Please read the [disclaimer](disclaimer.md) carefully before applying for VeChain General Grant.
+   6. Please read the [disclaimer](disclaimer.md) carefully before applying for Vechain General Grant.
 
 2. **Preliminary Review**
 
@@ -64,7 +73,7 @@ Note that your project will have to follow [Grant Milestone Delivery](/milestone
  
 4. **Milestone Delivery and Payment**
 
-   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-delivery) repository. You can find the delivery process [here](milestone-delivery#milestone-delivery-process). **Once the application is accepted, the payment for the first milestone will be immediately disbursed to fund the project. The payments of the rest milestones will be disbursed once their previous milestones are delivered and reviewed.**
+   Milestones are to be delivered on the [Grant Milestone Delivery](./milestone-delivery) folder. You can find the delivery process [here](milestone-delivery#milestone-delivery-process). **Once the application is accepted, the payment for the first milestone will be immediately disbursed to fund the project. The payments of the rest milestones will be disbursed once their previous milestones are delivered and reviewed.**
 
    The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
@@ -76,19 +85,19 @@ Note that your project will have to follow [Grant Milestone Delivery](/milestone
 
 ## Grant Committee
 
-For the fund to be best utilized, the grant committee is designed to be as versatile as possible to represent different stakeholders in the VeChain ecosystem. Following this principle, the committee is made of a committee chair, a member of Board of the Steering Committee, a member of the VeChain Core Dev, a community project leader and a collective community member consisting of outstanding community contributors.
+For the fund to be best utilized, the grant committee is designed to be as versatile as possible to represent different stakeholders in the vechain ecosystem. Following this principle, the committee is made of a committee chair, a member of Board of the Steering Committee, a member of the Vechain Core Dev, a community project leader and a collective community member consisting of outstanding community contributors.
 
 The community project leader and collective community member will be chosen by our community for each funding round starting from the second round. We will announce the detailed rules and timeline of the whole election process in advance.
 
 The current committee members are:
  - **Committee Co-Chairs:**<br/>
-[Peter Zhou](https://twitter.com/PeterZh47977516) - Chief Scientist of VeChain <br/>
-[Dimitris Neocleous](https://twitter.com/im_dimneo/) - UK and EU Ecosystem Manager of VeChain 
+[Peter Zhou](https://twitter.com/PeterZh47977516) - Chief Scientist of Vechain <br/>
+[Dimitris Neocleous](https://twitter.com/im_dimneo/) - UK and EU Ecosystem Manager of Vechain 
    
- - **Member of VeChain Core Dev team:**<br/>
+ - **Member of Vechain Core Dev team:**<br/>
 [Bin Qian](https://twitter.com/cola_tin) - Lead Dev of Core Dev team
    
- - **VeChain Ecosystem Project Representatives:** <br/>
+ - **Vechain Ecosystem Project Representatives:** <br/>
 [Dyma Budorin](https://twitter.com/buda_kyiv) - CEO of Hacken Foundation<br/>
 [Jürgen Schouppe](https://twitter.com/jurgenschouppe) - Founding Director, CEO & CTO of Safe Haven
 
@@ -109,12 +118,12 @@ The operation team takes care of fund distribution.
 - [Sherry Li](https://github.com/NecoSherry)
 
 ## More Info
-- [VeChain Dev Community Telegram](https://t.me/VeChainDevCommunity)
-- [VeChain Foundation Website](https://vechain.org)
-- [VeChain Foundation Twitter](https://twitter.com/vechainofficial)
-- [VeChain Foundation Medium Channel](https://vechainofficial.medium.com/)
-- [VeChainThor Mainnet Bug Bounty](https://github.com/vechain/thor/issues)
-- [VeChainThor Wallet Bug Bounty](https://vechain.typeform.com/to/c8xfxr)
+- [Vechain Dev Community Telegram](https://t.me/VechainDevCommunity)
+- [Vechain Foundation Website](https://vechain.org)
+- [Vechain Foundation Twitter](https://twitter.com/vechainofficial)
+- [Vechain Foundation Medium Channel](https://vechainofficial.medium.com/)
+- [VechainThor Mainnet Bug Bounty](https://github.com/vechain/thor/issues)
+- [VechainThor Wallet Bug Bounty](https://vechain.typeform.com/to/c8xfxr)
 
 
 ## License <!-- omit in toc -->
