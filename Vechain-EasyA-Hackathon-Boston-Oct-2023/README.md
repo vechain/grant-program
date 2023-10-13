@@ -55,4 +55,4 @@ The milestone delivery process is part of the [Vechain EasyA Hackathon Grant Tra
  
 ## Accepted Grant Applications 
  - [Overview of the accepted Vechain-EasyA Hackathon grants](accepted_vechain-easyA_hackathon_applications.md)
- - [Milestone deliveries of the accepted grants](./milestone-delivery/deliveries)
+ - [Milestone deliveries of the accepted grants](./milestone-deliveries)
