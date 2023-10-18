@@ -17,6 +17,8 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 |[miden](https://github.com/vechain/grant-program/blob/master/applications/miden.md)| Sustainability platform | [Application](https://github.com/vechain/grant-program/blob/master/applications/miden.md) | $30,000 |  |  |
 | [Forward Protocol](https://github.com/vechain/grant-program/blob/master/applications/Forward_VeChain.md) | Tools | [Website](https://forwardprotocol.io/), [GitHub](https://github.com/ForwardProtocol) | $25,000 | | |
 | [Thisismagma](https://github.com/vechain/grant-program/blob/master/applications/thisismagma.md) | Estate platform | [Website](https://thisismagma.com/)| $30,000 | | |
+| [VeBlocks NodeAccess 2023](https://github.com/vechain/grant-program/blob/master/applications/VeBlocks_NodeAccess_2023.md) | Infrustructure | [Website](https://www.veblocks.net/) | $13,040 | | |
+| [VeFarm](https://github.com/vechain/grant-program/blob/master/applications/veFarm.md) | DEX | [POC ](https://main--symphonious-macaron-41163f.netlify.app/) | $12,500 | | |
 
 
 
