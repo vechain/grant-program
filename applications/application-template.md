@@ -25,12 +25,25 @@ Therefore, we ask the teams to submit (where relevant):
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
 
+### Future Plans
+
+Please include the team's long-term project plans, operation plans and intentions.
+
+#### Long-term project Plans
+
+Please include information about any future development plans that the team has.
+
+#### Business / Operation Plans
+
+If you are applying with a dApp, infrastructure, or service, please provide details about your business / operational plans.
+
+
 ### Ecosystem Fit
 Are there any other projects similar to yours? If so, how is your project different?
 
 ## Team 
 
-### Team members
+### Team Members
 
 - Name of team leader
 - Names of team members
@@ -39,7 +52,7 @@ Are there any other projects similar to yours? If so, how is your project differ
 
 - https://<your_domain>
 
-### Team's experience
+### Team's Experience
 
 Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
 
@@ -70,11 +83,13 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
+|   |  Milestone 1 | Milestone 2 | Milestone 3 | Total |
+| - | - | - | - | - |
+| Estimated Duration | 30 d | 30 d | 30 d | 90 d |
+| Full-time equivalent (FTE) | 1 | 1 | 1 | 3 |
+| Cost (up to $ 30,000) | $ 5,000 | $ 5,000 | $ 5,000 | $ 15,000 |
+
+> *⚠️ Please note that milestone 1 funds cannot exceed 40% of the total amount you are applying for.*
 
 #### Milestone 1 — Smart Contract & Backend
 
@@ -92,15 +107,12 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 | 1 | User Guide | We will provide a user guide or a demo video to show what features have been done.  |
 ...
 
-#### Community engagement
+#### Community Engagement
 
 As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant. 
 
 We recommended you provide social medium, like Twitter, Telegram group, or Reddit, on your website. When the developers/users need assistance, they could get in touch with you and get help.
 
-## Future Plans
-
-Please include the team's long-term project plans, operation plans and intentions.
 
 ## Additional Information 
 
