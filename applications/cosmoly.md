@@ -87,10 +87,10 @@ For smaller tasks (marketing, smart contract audits, graphic design, UX/UI creat
 ## Development Roadmap
 
 |  | Milestone 1 | Milestone 2 | Total |
-| - | - | - | - | - |
-| Estimated Duration | 60 d | 30 d | 90 d
-| Full-time equivalent (FTE) | 3 | 2 | 5
-| Cost (up to $ 30,000) | $ 15,000 | $ 10,000 | $ 25,000
+| - | - | - | - |
+| Estimated Duration | 60 d | 30 d | 90 d |
+| Full-time equivalent (FTE) | 3 | 2 | 5 |
+| Cost (up to $ 30,000) | $ 15,000 | $ 10,000 | $ 25,000 |
 
 ### Milestone 1 — Smart Contract & Backend
 
