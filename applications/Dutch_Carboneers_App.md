@@ -89,6 +89,7 @@ SayNode has about 25 employees. The most relevant persons (e.g. team leaders) fo
 - Yann Marti, Senior Flutter Developer
 - Paula Amstutz, Senior Blockchain Developer
 - Rodrigo Dias, Flutter Developer
+- Ruthusanth Vijayakumar, Product Owner
 
 ### Team Website
 
@@ -134,6 +135,7 @@ SayNode:
 - https://www.linkedin.com/in/paula-amstutz/
 - https://www.linkedin.com/in/krfld/
 - https://www.linkedin.com/in/simon-heer-202866110/
+- https://www.linkedin.com/in/ruthusanth-vijayakumar-19a7b5189/
 
 
 ## Development Roadmap
