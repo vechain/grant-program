@@ -37,7 +37,7 @@ The app will share and store information onchain in a credible and transparent w
 
 #### Mockups/designs of any UI components
 
-![Alt text](https://drive.google.com/file/d/1nMmOfXipQPExZbtHq2sn34ZsNiqzJdqa/view?usp=drive_link) ![Alt text](https://drive.google.com/file/d/1XYs7iSYmZbSNLPWpvWZ14uCCiuht8pL_/view?usp=sharing)
+![Alt text](https://drive.google.com/uc?id=1nMmOfXipQPExZbtHq2sn34ZsNiqzJdqa) ![Alt text](https://drive.google.com/file/d/1XYs7iSYmZbSNLPWpvWZ14uCCiuht8pL_/view?usp=sharing)
 ![Alt text](<https://drive.google.com/file/d/1ApdrAFRPUsQV9N1qPvBeRgPxSoGe3Q_B/view?usp=sharing>) ![Alt text](<https://drive.google.com/file/d/1TGLNvle9Z_Brf7mSRi4cnaQ5jaTbw2mS/view?usp=sharing>)
 ![Alt text](<https://drive.google.com/file/d/12oB-UApI5qb25Cxdo0EqstEW1X27IOh_/view?usp=sharing>)
 
