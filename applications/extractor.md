@@ -149,7 +149,7 @@ We are committed to publish several artciles and udpdate on VeChain integration 
 
 Our roadmap includes a number of new integrated blockchains and how product capabilities can be extended by independent teams or members (like Auditors or White hackers).
 
-We are planning to provide SDK and capability to implement complex long range attack detection and correlation with off-chain events.
+We are planning to provide SDK and capability to implement complex long range attack detection and correlation with off-chain events in Attack Detector module with Automatic Actions (contract transactions).
 
 Roadmap includes monitoring and trigger of tokenomics changes (e.g. Circulation Supply) and other higher business metrics
 
