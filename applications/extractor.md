@@ -40,7 +40,7 @@ Examples of screens (access to Figma with Full design deck can be provided):
 
 __Brief Product Slidedeck__:
 
-[https://github.com/haas-labs/extractor/blob/main/doc/Extractor-VeChain.pdf](Extractor-VeChain.pdf)
+[Extractor-VeChain.pdf](https://github.com/haas-labs/extractor/blob/main/doc/Extractor-VeChain.pdf)
 
 
 ### Ecosystem Fit
@@ -97,11 +97,11 @@ The project is currently in private repositories. We will invite to repositories
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 | Total |
-| - | - |- | - | - | - |
-| Estimated Duration | 30 d | 30 d | 20 d |20 d |100 d |
-| Full-time equivalent (FTE) | 1 | 3 | 2 | 2 | 10 |
-| Cost  | $ 7,000 | $ 15,000 | $ 8,000| $ 20,000| $ 50,000|
+|  | Milestone 1 | Milestone 2 | Milestone 3 | Total |
+| - | - |- | - | - |
+| Estimated Duration | 30 d | 30 d | 20 d |80 d |
+| Full-time equivalent (FTE) | 1 | 3 | 2 | 6 |
+| Cost  | $ 7,000 | $ 15,000 | $ 8,000| $ 30,000|
 
 #### Milestone 1 - VeChain Ingestion Engine
 
@@ -128,16 +128,6 @@ The project is currently in private repositories. We will invite to repositories
 | 1.| ABI Database | Implementation of ABI Contract and Event logs signatures for Transaction and Receipts decoding. |
 | 2. | Function Calls Decoder | Implementation of Contract function call (parameters and types) decoder |
 | 3. | Function Call Interceptor | Implementation of failed transactions Trigger |
-
-#### Milestone 4 - Attack Detector and Action
-
-| Number | Deliverable | Specification |
-|-|-|-|
-| 1.| Contracts Ingest | Implementation and bulk ingest of Contracts (opcodes) for Attack Detection signatures. This includes.  |
-| 2. | Trace Call RPC decoder  | Implementation of internal calls interception fo attacking Contract detection |
-| 3. | Attack Detector Intergation | Integration into Attack Deterctor Engine |
-| 4. | Smart Contract Actions | Implement VeChain compatible Wallet for Smart Contract Actions (monitored Contract function transactional calls) |
-| 5. | Long Range Attack scenarios | Validation on attack scenarious and optimizing detection confidence threshold (true positives ratio) |
 
 
 #### Community engagement
