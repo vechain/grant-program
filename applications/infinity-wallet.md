@@ -78,18 +78,24 @@ Information on the core team members can be found at the following link: https:/
 
 #### Overview
 
-|  | Milestone 1 | Total |
+|  | Milestone 1 | Milestone 2 | Total |
 | - | - | - |
-| Estimated Duration | 240-260 hours | 240-260 hours |
-| Full-time equivalent (FTE) | 3 | 3 |
-| Cost (up to $ 30,000) | $ 25,000 | $ 25,000|
+| Estimated Duration | 120-130 hours | 120-130 hours | 240-260 hours |
+| Full-time equivalent (FTE) | 3 | 3 | 3 |
+| Cost (up to $ 30,000) | $ 10,000 | $ 15,000 | $ 25,000|
 
-#### Milestone 1 — Integration & Live launch
+#### Milestone 1 — Integration
 
 | Number | Deliverable | Specification |
 |-|-|-|
 | 1. | Develop out Vechain core functionalities | - Vechain native integration/support in wallet;<br/>- Vechain core functionalities to be able to interact with and utilize the Vechain chain (store, send, receive, create/restore, balance tracking and other core Vechain functionality);<br/>- Complete Vechain transaction history with advanced information/tracking; <br/>- Integrate/develop portfolio & analytics management for Vechain;|
-| 2. | Vechain token support, allowing easy use of all tokens within the Infinity Wallet; | - Ability to import and custom manage any non-default integrated token; <br/>- Develop out support for Vechain tokens across Infinity Wallet (send, receive, balance, transaction history, DApps and etc) and available Infinity Wallet features; <br/>- Support top Vechain tokens as default enabled/integrated for instant use for free (waiving our usual $4,500 token fee exclusively for Vechain tokens); |
+
+
+#### Milestone 2 — Integration & Live launch
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1. | Vechain token support, allowing easy use of all tokens within the Infinity Wallet; | - Ability to import and custom manage any non-default integrated token; <br/>- Develop out support for Vechain tokens across Infinity Wallet (send, receive, balance, transaction history, DApps and etc) and available Infinity Wallet features; <br/>- Support top Vechain tokens as default enabled/integrated for instant use for free (waiving our usual $4,500 token fee exclusively for Vechain tokens); |
 | 3. | Support Vechain for cross-chain swaps/trading between multiple tokens/chains, and support within the fiat on/off ramp. | - Cross-chain swap/bridge support for Vechain. Allowing users to directly onboard to Vechain from other chains (BTC, ETH, BSC etc.) within a single click; <br/> - Support for Vechain within the upcoming fiat on/off ramp integration, enabling seamless onboarding to Vechain via a single access point; |
 | 4. | Live release of the Vechain integration as a default chain and marketing, with on-going support; | - Live release of the Vechain integration and developments; <br/> - On-going support for Vechain as a default enabled native chain; <br/> - Announcements across all social channels; <br/> - Creation of a custom Vechain web page on the website; <br/> - Announcement in the wallet of the integration of Vechain; <br/> - Announce in newsletter to 110k+ subscribers; <br/> - Start collaborating and partnering with Vechain ecosystem projects;|
 
