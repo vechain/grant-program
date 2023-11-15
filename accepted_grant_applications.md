@@ -5,7 +5,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 ---
 
 # 2023
-
+### General Grant
 | Project | Category | Link | Funds | First Delivery | Completed |
 | --- | :-: | :-: | :-: | :-: | :-: |
 | [DApp world](https://github.com/vechain/grant-program/blob/master/applications/dappworld_learning_ecosystem.md) | Tutorials | [Website](https://dapp-world.com/course/vechain-dapp-development-UpGw) | $10,000 | ✅ |  |
@@ -20,7 +20,14 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | [VeBlocks NodeAccess 2023](https://github.com/vechain/grant-program/blob/master/applications/VeBlocks_NodeAccess_2023.md) | Infrustructure | [Website](https://www.veblocks.net/) | $13,040 | | |
 | [VeFarm](https://github.com/vechain/grant-program/blob/master/applications/veFarm.md) | DEX | [POC ](https://main--symphonious-macaron-41163f.netlify.app/) | $12,500 | | |
 
+### EasyA Hackathon Grant Track 
 
+| Project | Category | Link | Funds | First Delivery | Completed |
+| --- | :-: | :-: | :-: | :-: | :-: |
+|  [FibreTag](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/FibreTag.md) | Luxury Tracking  | [GitHub](https://github.com/jjjutla/FibreTag), [Demo](https://www.youtube.com/shorts/-bcWPqIdZ9k)  | $29,000 |   |   |
+| [PropelPixel](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/Create%20PropelPixel.md) | NFT - Sustainability platform |  [PropelPixel_Slidedeck.pdf](https://github.com/victorwangse/grant-program/files/13048872/PropelPixel_Slidedeck.pdf) |  $15,000 |   |   |
+|  [Movelo](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/movelo.md) |  NFT - Eco-friendly travel to earn | [Website](https://movelo.app/), [MVP GitHub](https://github.com/s-alad/movelo)  | $30,000  |   |   |
+|  [Artika Refashion](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/artika_refashion.md) | NFT - Fashion tracking  | [Website](https://www.artikarefashion.com/), [PoC GitHub](https://github.com/IainWinter/ArtikaRefashion)  |  $30,000 |   |   |
 
 # 2022
 
