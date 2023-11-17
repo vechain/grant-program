@@ -62,6 +62,8 @@ VeChain Name Service (VNS) is a decentralized naming service similar to Ethereum
 
 The VeChain Name Service (VNS) team is a small but highly skilled and experienced group of developers and business professionals. They have a deep understanding of the VeChainThor blockchain and are passionate about building innovative solutions to help grow the VeChain ecosystem. The VNS team is confident that they have the technical skills and experience needed to complete the task of building a decentralized name service for the VeChainThor blockchain. They are committed to providing a user-friendly and secure platform that will allow VeChain users to customize their wallet addresses and improve the usability of interactions within the blockchain.
 
+It should be noted that VNS domains was a project originally started by another enitity not affiliated with the current team. The only assets that were transitioned to the current team was the name "VNS Domains" and the domain name www.vns.domains. No previous financial grants were award to the current team by Vechain foundation or any other entity.
+
 ### Team members
 
 Kerryn Pegram (Kiwi) - Co-founder, CEO
@@ -98,7 +100,7 @@ Available upon request.
 
 #### Current Status
 
-VNS Domains has successfully formed a legal business entity and has retained legal counsel to manage all policy and documentation related to the VeChain Name Service. From a development standpoint, the frontend design and user flow of the Dapp have been completed and are currently undergoing extensive testing. The smart contracts have been developed, inspired by the [Ethereum Name Service smart contracts](https://github.com/ensdomains/ens/tree/master/contracts), and are now in the testing phase on our Solo Node. Once the Solo Node and backend testing are completed, the VNS Team will proceed with deploying VNS to Testnet.
+Since taking over the project from another entity, VNS Domains has successfully formed a legal business entity and has retained legal counsel to manage all policy and documentation related to the VeChain Name Service. From a development standpoint, the frontend design and user flow of the Dapp have been completed and are currently undergoing extensive testing. The smart contracts have been developed, inspired by the [Ethereum Name Service smart contracts](https://github.com/ensdomains/ens/tree/master/contracts), and are now in the testing phase on our Solo Node. Once the Solo Node and backend testing are completed, the VNS Team will proceed with deploying VNS to Testnet. Additionally, VNS Domains has identified the need for a pricing Oracle on Vechain in order to sync VET price for domain purchases. The VNS Team was able to develop an Oracle dapp to facilite this requirement.
 
 ###### Feature Current Status 
 
