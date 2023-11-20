@@ -1,10 +1,11 @@
-# VeChain General Grant Application Template
+# Vechain -Easy A Startup Grant Application Template
+Hackathon Date: 7-8th Oct 2023
 
 ## Project Overview 
 
 - Project: Cypress
 - Team Name: Team Cypress
-- Payment Address: USDC (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage. 0x55D5B91fDbEc14D372b3a79fb1A13d8e26B169ed
+- Payment Address: 0x55D5B91fDbEc14D372b3a79fb1A13d8e26B169ed
 
 ### Overview
 
@@ -103,6 +104,18 @@ Finances- Monitor the breakdown of operation, marketing, development, and manage
 
 ### Ecosystem Fit
 https://www.forestapp.cc/ 
+Our app differs from Forestapp in a variety of ways. 
+
+First, Forestapp is dedicated towards associating virtual plant growth with productivity. Users are limited to growing real world trees using their in-app rewards. 
+
+Cypress directly associates plant growth with sustainability - actively encouraging users to make environmentally healthy decisions. Additionally, by making our platform universal - being able to integrate with a variety of partnered companies - our users have flexibility to create real world impact through many different means.
+
+We gamify sustainability even further by offering special challenges, limited-edition plants, and creating friendly competition between friends.
+
+Furthermore, Forestapp's generated plants are client sided. They are not transferrable, have no value, and are linked permanently to the user. On Cypress, users' fully grown plants will be converted into NFTs that have real value, can be sold on marketplaces, and can be traded with others. 
+
+We're really emphasizing the social aspect of our app. It will increase existing user engagement and new user onboarding.
+
 
 
 
