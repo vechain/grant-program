@@ -42,6 +42,96 @@ Extrapolated from the Figma board above, the following images represent our plat
 
 ![Word Scramble UI/UX Mockup](https://i.imgur.com/Q0BTKuQ.png)
 
+API Specifications
+Our API will be further described in both the Supabase admin as well as a Swagger interface for development (internal only). We do intend to extend our API ecosystem to allow third-party developers and brands to utilize the platform for independent game/brand engagement, with a governance process to review add-ons and additional games.
+
+The following is a very high-level (and mostly exemplar) listing of the core PoC/MVP domains within the API.
+
+User Domain:
+Authentication (Auth):
+POST /auth/signup: Register a new user.
+POST /auth/login: Authenticate and retrieve a user token.
+POST /auth/logout: Log the user out and invalidate the token.
+POST /auth/password-reset: Trigger a password reset for the user.
+Profile:
+GET /user/profile: Retrieve a user's profile information.
+PUT /user/profile: Update a user's profile information.
+DELETE /user/profile: Delete a user's profile.
+Settings:
+GET /user/settings: Retrieve user's account and notification settings.
+PUT /user/settings: Update user's account and notification settings.
+
+Game Data Domain
+Scores:
+POST /game/scores: Submit a new game score for a user.
+GET /game/scores/{userId}: Retrieve all scores for a specific user.
+Contextual Data:
+GET /game/data/words: Fetch word library for games.
+GET /game/data/context/{gameId}: Fetch any game-specific context like level data, challenges, etc.
+
+Leaderboards Domain
+GET /leaderboards: Retrieve top scores across all games.
+GET /leaderboards/{gameId}: Retrieve top scores for a specific game.
+GET /leaderboards/user/{userId}: Retrieve leaderboard position of a specific user.
+
+Metrics Domain
+User Engagement:
+GET /metrics/user-engagement: Metrics related to user activity, like daily active users, retention rate, etc.
+Game Performance:
+GET /metrics/game-performance: Metrics regarding game popularity, average playtime, etc.
+Rewards Distribution:
+GET /metrics/rewards: Data on how many rewards (tokens) have been distributed, redeemed, etc.
+
+Rewards and Blockchain Domain:
+Token Rewards
+POST /rewards/claim: User claims rewards.
+GET /rewards/{userId}: Retrieve user's accumulated rewards.
+Smart Contracts:
+POST /blockchain/execute: Execute a smart contract action, like distributing rewards.
+GET /blockchain/transactions/{userId}: Fetch a user's blockchain transaction history.
+
+Miscellaneous Domain:
+Notifications
+GET /notifications/{userId}: Fetch notifications for a user.
+POST /notifications: Send a notification (e.g., for game updates, leaderboard changes).
+Feedback & Support:
+POST /feedback: Submit feedback or report issues.
+GET /support/articles: Fetch support articles or FAQs.
+
+
+Technology Stack
+Gaming Engine: Unity3D is at the heart of our gaming development, chosen for its robust capabilities and wide platform support. This will be employed for both the primary UI/UX and the individual game modules.
+Web Integration: WebView facilitates the seamless integration of mobile web full-stack content directly within our Unity application. This allows for dynamic content updates and real-time engagement metrics.
+Web Development: VueJS and NuxtJS or NextJS are the chosen frameworks for developing the responsive web components, ensuring compatibility across devices and delivering a cohesive user experience.
+Backend Database and API: Supabase serves as our go-to backend, offering real-time database functionalities and APIs. This allows for swift data operations, particularly for score tracking and user profile management.
+Blockchain Integration: A blockchain layer will be incorporated, designed to handle game rewards in the form of tokens. These tokens can then be redeemed by users for various brand-related perks. The entire blockchain process is geared to be frictionless, not necessitating users to have any prior blockchain knowledge.
+Authentication: Single Sign-On (SSO) capabilities will be integrated, enabling users to quickly onboard and log in using familiar platforms like Google, Apple, and Facebook.
+QR Code Integration: A QR scanner will be embedded to allow users to quickly launch games or avail special offers by simply scanning QR codes, making the engagement process even more intuitive.
+Blockchain & Smart Contracts: A blockchain solution will be used for game rewards, and smart contract development will underpin the mechanics of rewards distribution, ensuring transparency and security.
+
+Core Components and Architecture
+Frontend:
+Frameworks to structure the web application such as VueJS, NuxtJS and/or NextJS
+Backend:
+Web3 Integration: Connecting the backend to blockchain networks for rewards processing.
+API Layer:
+RESTful API: Facilitate communication between frontend, backend, and databases. Can use Next or Nuxt JS routing capabilities.
+Database:
+Supabase PostgresSQL: For storing user data, game states, scores, and more.
+Authentication:
+OAuth2.0: For Single Sign-On (SSO) capabilities with Google, Apple, and Facebook.
+JWT (JSON Web Tokens): Securely transmitting information between users and the server.
+Blockchain:
+Smart Contracts: Custom logic for handling game rewards, redemptions, and other blockchain-specific functionalities.
+Cloud and Storage:
+GCP (Google Cloud Platform): Hosting the backend, databases, and asset storage.
+Google Key Manager: For secure storage of keys and critical environment variables.
+CDN (Content Delivery Network): Efficiently delivering game assets and content to users worldwide.
+Security:
+HTTPS/SSL: Encrypting data in transit.
+Data-at-rest encryption: Ensuring stored user data is secure.
+CORS: Configuring server-side cross-origin requests for additional security.
+By combining these core components, the gaming platform will achieve a scalable, performative, and engaging user experience across various devices, while also ensuring security and ease of maintenance.
 
 ### Long-term project Plans
 Starting Q2 of 2024, we will begining our MVP build out which we estimate to cost between $400-500K for 6 months of build. During this build, we will engage our pilot partners for design feedback. Our target customers are niche apparel and food/beverage businesses. In 2024, we will rely on our own network to customers and their investors. We have a strong network to begin this work. With seed funding (at least $2M) in late 2024, we will hire marketing and sales team to expand our reach. Our priority in these first few years is to feature a diverse set of niche and at least one marquee brand.
