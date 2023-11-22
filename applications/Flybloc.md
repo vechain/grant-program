@@ -1,5 +1,7 @@
 # VeChain General Grant Application Template
 
+Hackathon Date: 7-8th Oct 2023
+
 ## Project Overview 
 
 - Project: Flybloc
@@ -190,13 +192,13 @@ These costs are estimates based on our development partner we have vettted and c
 
 | Number | Deliverable | Description |
 |-|-|-|
-| 1 | SC | UXUI and frontend integration is completed. |
-| 2 | Account Abstraction | All screens and designs are completed in Figma. |
-| 3 | Tokens | All screens and designs are implemented in frontend application. |
-| 4 | SC | Frontend application is connected to smart contracts and backend API. |
+| 1 | Frontend | UXUI and frontend integration is completed. |
+| 2 | Design | All screens and designs are completed in Figma. |
+| 3 | Design | All screens and designs are implemented in frontend application. |
+| 4 | Integration | Frontend application is connected to smart contracts and backend API. |
 
 #### Milestone 3  —  Game development
-##### 1 simple game is completed and integrated to application.
+##### 1 simple game is completed and integrated to the application.
 
 | Number | Deliverable | Description |
 |-|-|-|
