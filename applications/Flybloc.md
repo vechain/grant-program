@@ -13,27 +13,27 @@ Flybloc is venturing into a new frontier of brand engagement through the medium 
 ## Project Details
 
 ### Web3 Strategy
-VeChain, with its dual-token system, offers an optimized balance between transaction costs and speed, making it an attractive solution for applications that demand swift and economical operations. By utilizing VeChain's low carbon platform, FlyBlock can demonstrate a commitment to eco-friendly practices in our system operations. Furthermore, its established track record in supply chain management and product traceability offers robust tools and frameworks, which can be leveraged for transparent reward tracking and verification in our gaming platform. 
+VeChain, with its dual-token system, offers an optimized balance between transaction costs and speed, making it an attractive solution for applications that demand swift and economical operations. By utilizing VeChain's low-carbon platform, FlyBlock can demonstrate a commitment to eco-friendly practices in our system operations. Furthermore, its established track record in supply chain management and product traceability offers robust tools and frameworks, which can be leveraged for transparent reward tracking and verification in our gaming platform. 
 
 VeChain's capability to handle a high volume of microtransactions seamlessly and expediently would ensure that our users experience instantaneous blockchain interactions, whether it's earning rewards or redeeming them for brand-sponsored offers. As the product scales, we intend to leverage MTT for concurrent transaction handling.
 
 During our tokenomics provenance period, fee delegation will be explored to offset transaction costs as compared to a chargeback to our partners. While our initial MVP is primarily exploring custodial wallets, Sync2 is a strong candidate for self-custody as we explore the most frictionless experience.
 
-Finally, Vechain's compatibility with standard programming languages facilitates easier integration with our existing tech stack. This is especially true given our preference for javascript-based middleware and services, and the use of Connex is already being researched and tested.
+Finally, VeChain's compatibility with standard programming languages facilitates easier integration with our existing tech stack. This is especially true given our preference for javascript-based middleware and services, and the use of Connex is already being researched and tested.
 
 ## Architecture
 Leveraging Unity3D as our cornerstone, the design encapsulates a primary UI/UX app interfacing with a mobile web full-stack. This ensures a smooth transition and interaction with various game modules. Integration with the Supabase API forms the backbone of our real-time score tracking and user data analytics. The games, though diverse, share common attributes of being engaging and easy to grasp. On the blockchain front, the platform is crafted to reward users for their interactions, with tokens that can be converted into tangible, brand-centric benefits. To top it off, our approach is built on simplicity, ensuring users engage with the brand and its rewards without being entangled in the intricacies of blockchain mechanics.
 
 Please include the team's long-term project plans, operation plans and intentions.
 
-These are the deliverables we submitted for the Harvard 2024 vechain Hackathon. 
+These are the deliverables we submitted for the Harvard 2024 VeChain Hackathon. 
 
 - [Project’s one-pager](https://drive.google.com/file/d/1-XyiktDbbNv989igzI_MBvY1fkbqWTZf/view?usp=drive_link) (provided by BCG at the Hackathon)
 - [Pitch deck on canva](https://www.canva.com/design/DAFwpuolMIE/7p25-BR8dz5krOzmGsBThw/edit)
 - [Figma Board PoC Mockup](https://www.figma.com/file/upzjkNfHciqb3zFB3wHcS0/FlyBloc-UI%2FUX?type=design&node-id=0-1&mode=design)
 
 Mockup of our PoC
-Extrapolated from the Figma board above, the following images represent our platform view and individual games we are developing. For the Vechain grant, we are focused on testing components of this PoC on blockchain to optimize rewards and redemptions. The learnings from this PoC will inform the MVP build out in 2024.
+Extrapolated from the Figma board above, the following images represent our platform view and the individual games we are developing. For the VeChain grant, we are focused on testing components of this PoC on blockchain to optimize rewards and redemptions. The learnings from this PoC will inform the MVP build-out in 2024. Please note that this VeChain grant is sufficient for 1 game for testing purposes. We are drawing upon other funding sources to build out the games below.
 
 
 ![Mobile Device UI/UX](https://i.imgur.com/OdNnZT0.png)
@@ -165,7 +165,7 @@ Our repositories are private while we are in stealth/startup mode. All smart con
 ## Development Roadmap 
 
 ### Overview
-These costs are estimates based on our development partner we have vettted and chosen. We are engaging with a firm who can deliver us post PoC through MVP. We have already defined scope and costs in detail including headcount of various roles. Below is a summary of those costs and staffing. 
+These costs are estimates based on the development partner we have vetted and chosen. We are engaging with a firm that can deliver us post-PoC through MVP. We have already defined the scope and costs in detail including the headcount of various roles. Below is a summary of those costs and staffing. 
 
 |   |  Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 | Total |
 | - | - | - | - | - | - |
@@ -175,34 +175,34 @@ These costs are estimates based on our development partner we have vettted and c
 | Cost | $ 12,500 | $ 10,000 | $ 5,000 | $ 2,500 | $30,000
 
 #### Milestone 1 - Smart contracts, reward models, and backend
-##### All smart contracts, reward models and backend API are defined. During this process we hope to get counsel from vechain developer community if needed.
+##### All smart contracts, reward models and backend API are defined. During this process, we hope to get counsel from VeChain developer community if needed.
 
 | Number | Deliverable | Description |
 |-|-|-|
 | 1 | SC | Smart contract for custody (account abstraction) wallet is completed. |
 | 2 | Tokens | Smart contract for rewards (token) distribution is completed. It has burn functionality for used tokens. |
 | 3 | SC | Tests for contracts are written. |
-| 4 | SC | Smart contracts are deployed to test network and tested. |
-| 5 | SC | Smart contracts API and integration for backend is completed. |
-| 6 | Backend | Backend APIs are completed: User application, Login, Registration, Lost password, User profile, On user registration, wallet is assing to the user automatically, Leaderboards, Reward redemption (exchanging tokens for rewards) |
+| 4 | SC | Smart contracts are deployed to the test network and are tested. |
+| 5 | SC | Smart contracts API and integration for the backend are completed. |
+| 6 | Backend | Backend APIs are completed: User application, Login, Registration, Lost password, User profile, On user registration, wallet is assigned to the user automatically, Leaderboards, Reward redemption (exchanging tokens for rewards) |
 
 
 #### Milestone 2  —  UXUI & Frontend
-##### UXUI and frontend integration is completed.
+##### UXUI and frontend integration are  completed.
 
 | Number | Deliverable | Description |
 |-|-|-|
 | 1 | Frontend | UXUI and frontend integration is completed. |
 | 2 | Design | All screens and designs are completed in Figma. |
-| 3 | Design | All screens and designs are implemented in frontend application. |
+| 3 | Design | All screens and designs are implemented in the frontend application. |
 | 4 | Integration | Frontend application is connected to smart contracts and backend API. |
 
 #### Milestone 3  —  Game development
-##### 1 simple game is completed and integrated to the application.
+##### 1 simple game is completed and integrated into the application.
 
 | Number | Deliverable | Description |
 |-|-|-|
-| 1 | Game | Complete development of simple Unity game. |
+| 1 | Game | Complete development of 3 Unity game. |
 | 2 | API | Game is connected and integrated with smart contracts and backends. |
 | 3 | Game mechanics | User can access to game after login, and rewards are distributed based on the rewards rules. |
 
@@ -218,17 +218,17 @@ These costs are estimates based on our development partner we have vettted and c
 
 #### Community Engagement
 
-We will publish our work here and on our website in blog section
-https://twitter.com/flybloc
-https://www.flybloc.com/ 
+We will publish our work here and on our website in the blog section
+- https://twitter.com/flybloc
+- https://www.flybloc.com/ 
 
 Once our Proof-of-Concept phase begins, we will engage on Telegram for notifications, and Discord for community and social interactions.
 
 
 ## Additional Information 
 
-We want to share that our intention for this grant is to test and deploy on Vechain to assess feasibility of this blockchain for MVP. Without this grant, we will continue to build our PoC (Web2). If we are awarded this grant, our goal test the blockchain infrastructure and APIs and determine if we will leverage those tooling for our PoC that will feature additional games and a platform UI that will contain all games. The budget for this Vechain grant is sufficent for 3 simple games (2 in Unity and 1 in WebGL). However, we are building more games from other funding sources so that upon achieving our milestones successfully, we can apply the APIs developed to additional games. 
+We want to share that our intention for this grant is to test and deploy on VeChain to assess the feasibility of this blockchain for MVP. Without this grant, we will continue to build our PoC in a Web2 tech stack. If we are awarded this grant, our goal is to test the blockchain infrastructure and APIs and determine if we will leverage those tooling for our PoC that will feature additional games along with our platform UI that will contain all games. The budget for this VeChain grant is sufficient for 1 simple game (in Unity) although we are drawing additional funding for 3 additional games (2 in Unity and 1 in WebGL). Upon achieving our milestones successfully, we can apply the APIs developed to these additional games.
 
-We have secured 3 pilot partners so far to test our prototype early 2024. We expect to have a 4th by early next year. We have built one game using Phaser.js for demo purposes. We have one high fidelity wireframe of a golf game for a golf apparel company which are currently in development in Unity. All game mechanics and scoring models have been defined and their build have started. We can share ERD diagram and game mechanics upon request.
+We have secured 3 pilot partners so far to test our prototype in early 2024. We expect to have a 4th by early next year. We have built one game using Phaser.js for demo purposes. We have one high-fidelity wireframe of a golf game for a golf apparel company (game currently in development in Unity). All game mechanics and scoring models have been defined and their build has started. We can share ERD diagram and game mechanics upon request.
 
-We are currently bootstrapped with 1 grant from a local web3 accelerator. This Vechain grant will allow us to test our PoC on blockchain which we originally slated to do for MVP in 2024 pending success of a PoC on a web2 tech stack. This accelerates our timeline with learnings on how to build on blockchain and resuse our codebase should we move forward with Vechain.
+We are currently bootstrapped with 1 grant from a local web3 accelerator. This VeChain grant will allow us to test our PoC on blockchain which we originally slated to do for MVP in 2024 pending the success of a PoC on a web2 tech stack. This accelerates our timeline with learnings on how to build on blockchain and reuse our codebase should we move forward with VeChain.
