@@ -141,6 +141,12 @@ Jennifer is a seasoned marketing professional and award-winning entrepreneur. Sh
 20+ yrs of B2B content marketing sales; 2 exits as founder 
 Douglas has led three successful start-up ventures in Media and Education. As a publisher and partner with Parents Plus, Inc., Douglas developed Boston Parents and other parenting media properties. Upon the sale of Parents Plus, Douglas launched Solomon Media LLC, a Fintech firm for the Education sector. The firm’s assets were acquired by Nelnet Inc. and soon after Douglas launched EEV Education, a BD consultancy. Douglas is a graduate of Stonehill College and resides with his family in Durham NC.
 
+### Sanjay Baskaran, Advisor
+[LinkedIn Profile](https://www.linkedin.com/in/baskaran/)
+
+Tech VC, PE op partner, ex Amazon GM, fintech CEO, board advisor ML/AI, mentor Harvard Innovation Lab, passionate about AR/VR & collecting in web 3
+Sanjay Baskaran currently serves as an advisor to PE firms in fintech & data services. He is among the top users in the VeVe digital collectibles community and owns 4K+ digital collectibles. He has 20+ years’ experience scaling, growing & digitally transforming companies using cloud, AI, ML and other digital tools. His prior FinTech leadership roles include CEO of One Technologies, President of TaxAct, and General Manager of Amazon Cards. Early in his career he served as Visa’s head of analytics for North America and spent a decade at HSBC in various product, marketing & risk management roles. He is an avid technology investor and sits on the advisory board of The Broad College of Business Michigan State University.
+
 ### Arina Shulga, Legal
 [LinkedIn Profile](https://www.linkedin.com/in/arinashulga/)
 
