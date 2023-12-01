@@ -183,19 +183,26 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 | 0a. | Documentation | The labeled Figma prototype will be very detailed and highly engaging while showcasing a fully-functional app. |
 | 0b. | Brand Kit | The brand kit included with this will be the base for the theme we create as well as the logo and wordmakr we use. |
 | 1 | Wireframes and Moodboard | The Figma prototype stems from the wireframes created for the project and the associated moodboard as a guideline. |
-| 2 | Prototype | The clickable prototype includes all functionality needed to create the application for the dev team. The development team can start coding in tandem with the design team. |
+| 2 | Prototype | The clickable prototype includes all functionality needed to create the application for the dev team. The development team can start coding in tandem with the design team as listed below on the frontend application. |
+| 3 | Animations | We're a visually-dependent team and love apps to have a unique feel. We design animations in-house to use on our applications so we can get users to feel a certain way. We do so at this stage to guide design and development. |
 
-#### Milestone 2  —  Frontend MVP
+#### Milestone 2  —  Frontend Development - MVP
 | Number | Deliverable | Specification |
 |-|-|-|
 | 1 | Frontend Application | The frontend application is to be built with basic functionality from the prototype. Final features are to be included after the initial build. Things like the marketplace are excluded. |
+| 1a. | Features | Features included in this MVP inlcude wallet connectivity, heirloom connection and creation, memory creation and management, profile, and user registration. |
+| 1b. | Backend Integration | There's a lot of data we are pulling from the chain and our protocol. Although it is aggregated into an API and presented to the frontend, we validate and manage the queries that present data to users. |
+| 2c. | Tutorials | One major thing of note is we plan to include tutorials and explanations of the partner (you guys!) as well as how-tos on and off the platform in a gamified manner. |
 
-#### Milestone 3  —  Smart Contract
+#### Milestone 3  —  Blockchain Components
 | Number | Deliverable | Specification |
 |-|-|-|
 | 0a. | Documentation | Documentation for each smart contract is created in line with our testing suite before we begin developing code. It is adjusted throughout development. |
 | 0b. | Testing | We develop with testing in mind, so we create our test cases first and build for them. |
-| 1 | Smart Contract | The first of a few smart contracts is to be built and tested. The smart contract tied to our physical product is built at this stage to ensure users can create heirlooms and memories. |
+| 1 | Heirloom & Memory Contracts | The first contracts being deployed ties physical objects to on an-chain backpack, a la token-bound accounts. Each memory is a branch of the heirloom and acts as its own NFT that a user has. |
+| 2 | Fee & Management Contracts | The payment splitter and additional fee implementations and management contracts enable us to add and manage fees on the protocol as a whole while managing payout for cleaner accounting. |
+| 3 | Security and Auditing | Each component of the application starts with tests before code is written for it but we still perform rigorous internal and external audits on each contract to test for things like reentrancy, etc. In addition, most interactions within the ecosystem and protocol require additional security measures like ECDSA to prevent direct-to-contract interactions. All of this is put to the test during this phase of development. |
+| 4 | Wallet Integration | Enabling users to use our app is important! |
 
 
 #### Community Engagement
@@ -218,3 +225,4 @@ There’s a protocol that we created that exists but needs some restructuring to
 No external funding. All funding has come from existing internal team members (self-funded)
 - Have you applied for other grants so far?\
 No, our sights are set on VeChain. I’ve worked on many, many other chains and although they all have their pros and cons, I want to work on a chain that supports sustainability and isn’t just thinking about the degen boom. I also appreciate many of the protocols and attention to detail the dev team has towards other devs. It feels like every update helps us more and more. Most importantly, VeChain is the pioneer in phygital solutions and the use of blockchain technology to solve supply chain problems. In fact, besides for working with VeChain in the past, we hosted VeChain on socials and specifically sought out ONLY VeChain for grant or financial support.
+- [Mockups](https://www.figma.com/file/lLnCWYZiJycukRlpML3Ysx/SW3-Style-Guide?type=design&mode=design&t=pDsr4p3fMOd7MsFn-1) available here.
