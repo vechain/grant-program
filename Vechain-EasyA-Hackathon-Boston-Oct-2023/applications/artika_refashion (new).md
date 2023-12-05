@@ -6,9 +6,9 @@ Hackathon Date: 7-8th Oct 2023
 - Are you applying for the grant with the same project you submitted at the vechain Hackathon: Yes
 - Project name: Artika Refashion
 - Team name: Artika Refashion
-- GitHub handle: onkr0d
+- GitHub handle: Zibilicious
 - College / Employer: Boston University
-- Payment Address: 0x9c48353000A0F5E2F4553E114d93e4e23492354f
+- Payment Address: 0x50545abB29D7e1724d04958eB2c31aBEF4227559
 
 ### Overview
 
@@ -48,10 +48,8 @@ We differ as the only fashion SaaS company in Web3, with a digital platform that
 
 ### Team members
 
-- Iain Winter (Team lead, Developer)
+- Zi Zheng (Team Lead)
 - Alika Grigorova (Project manager)
-- Ivan Khramtchenko (Developer)
-- Zi Zheng (Designer)
 - Anna Sokolova (Project manager)
 
 ### Team Website
@@ -59,13 +57,6 @@ We differ as the only fashion SaaS company in Web3, with a digital platform that
 - [artikarefashion.com](https://www.artikarefashion.com/)
 
 ### Team's experience
-
-* Ivan:
-    * https://github.com/onkr0d/HackHarvard22-Repo/commit/f57dbce9d0e44f89b5d48b17c9deb6cf0acdef70
-    * https://github.com/onkr0d/suc-attendance/commit/29967ebd545225d59dad566306987a04a62376e9
-
-* Iain:
-    * https://github.com/IainWinter/winter-dev-static/commit/879074033b18e23c994f12417431809b94e12ac8#diff-35562a5dc31b1b72ad19939f7448b89dd6af246c55b8419d344dd1b824f574a3
 
 * Zi
     * Zi has 4+ years of experience working cross-functionally developing and managing mobile apps and websites from marketing agencies and startups to global corporations like Goodyear and Bank of America.
@@ -82,10 +73,8 @@ We differ as the only fashion SaaS company in Web3, with a digital platform that
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/in/ivan-khr
 - https://www.linkedin.com/in/zi-zheng/
 - https://www.linkedin.com/in/anna-sokolova-419a41273/
-- https://www.linkedin.com/in/iain-winter/
 - https://www.linkedin.com/in/alika-grigorova-61159b281/
 
 ## Development Roadmap 
