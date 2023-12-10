@@ -3,16 +3,21 @@
 Hackathon Date: 7-8th Oct 2023
 
 ## Project Overview 
+- Problem statement: VeChain track
+- Are you applying for the grant with the same project you submitted at the vechain Hackathon: Yes
 
+Team details
 - Project: Flybloc
-- Team Name: Flybloc 
+- Team Name: Flybloc
+- GitHub handle: FlyblocDev
+- Employer: Flybloc
 - Payment Address: 0xd83d7e802a9abdF6F33d61978579d49ab1d0061F
+
+## Overview
 
 Flybloc is venturing into a new frontier of brand engagement through the medium of gaming. The initiative is rooted in a two-fold approach: fostering a deeper connection with our audience and delivering a rewarding user experience. The digital platform will host a suite of games that are simple, approachable, and designed for quick, engaging interactions. The goal is a fun user experience without demanding a significant time commitment. Beyond just gaming, the platform will seamlessly intertwine the world of blockchain, enabling users to earn rewards that can be redeemed for brand-sponsored discounts, exclusive merchandise, and unique experiences.
 
-## Project Details
-
-### Web3 Strategy
+### Why VeChain?
 VeChain, with its dual-token system, offers an optimized balance between transaction costs and speed, making it an attractive solution for applications that demand swift and economical operations. By utilizing VeChain's low-carbon platform, FlyBlock can demonstrate a commitment to eco-friendly practices in our system operations. Furthermore, its established track record in supply chain management and product traceability offers robust tools and frameworks, which can be leveraged for transparent reward tracking and verification in our gaming platform. 
 
 VeChain's capability to handle a high volume of microtransactions seamlessly and expediently would ensure that our users experience instantaneous blockchain interactions, whether it's earning rewards or redeeming them for brand-sponsored offers. As the product scales, we intend to leverage MTT for concurrent transaction handling.
@@ -21,31 +26,30 @@ During our tokenomics provenance period, fee delegation will be explored to offs
 
 Finally, VeChain's compatibility with standard programming languages facilitates easier integration with our existing tech stack. This is especially true given our preference for javascript-based middleware and services, and the use of Connex is already being researched and tested.
 
-## Architecture
+### Links to one-pager
 Leveraging Unity3D as our cornerstone, the design encapsulates a primary UI/UX app interfacing with a mobile web full-stack. This ensures a smooth transition and interaction with various game modules. Integration with the Supabase API forms the backbone of our real-time score tracking and user data analytics. The games, though diverse, share common attributes of being engaging and easy to grasp. On the blockchain front, the platform is crafted to reward users for their interactions, with tokens that can be converted into tangible, brand-centric benefits. To top it off, our approach is built on simplicity, ensuring users engage with the brand and its rewards without being entangled in the intricacies of blockchain mechanics.
 
 Please include the team's long-term project plans, operation plans and intentions.
 
-These are the deliverables we submitted for the Harvard 2024 VeChain Hackathon. 
+These are the deliverables we submitted for the Harvard 2024 VeChain Hackathon in October. 
 
 - [Project’s one-pager](https://drive.google.com/file/d/1-XyiktDbbNv989igzI_MBvY1fkbqWTZf/view?usp=drive_link) (provided by BCG at the Hackathon)
 - [Pitch deck on canva](https://www.canva.com/design/DAFwpuolMIE/7p25-BR8dz5krOzmGsBThw/edit)
 - [Figma Board PoC Mockup](https://www.figma.com/file/upzjkNfHciqb3zFB3wHcS0/FlyBloc-UI%2FUX?type=design&node-id=0-1&mode=design)
 
-Mockup of our PoC
+## Project Details
+
+### Mockup of our PoC
 Extrapolated from the Figma board above, the following images represent our platform view and the individual games we are developing. For the VeChain grant, we are focused on testing components of this PoC on blockchain to optimize rewards and redemptions. The learnings from this PoC will inform the MVP build-out in 2024. Please note that this VeChain grant is sufficient for 1 game for testing purposes. We are drawing upon other funding sources to build out the games below.
 
-
 ![Mobile Device UI/UX](https://i.imgur.com/OdNnZT0.png)
-
 ![Golf Game UI/UX Mockup](https://i.imgur.com/B1bvRnP.png)
-
 ![Word Scramble UI/UX Mockup](https://i.imgur.com/Q0BTKuQ.png)
 
-API Specifications
+### API Specifications
 Our API will be further described in both the Supabase admin as well as a Swagger interface for development (internal only). We do intend to extend our API ecosystem to allow third-party developers and brands to utilize the platform for independent game/brand engagement, with a governance process to review add-ons and additional games.
 
-The following is a very high-level (and mostly exemplar) listing of the core PoC/MVP domains within the API.
+The following is a very high-level (and mostly exemplar) listing of the core PoC domains within the API.
 
 User Domain:
 Authentication (Auth):
@@ -99,17 +103,17 @@ Feedback & Support:
 - GET /support/articles: Fetch support articles or FAQs.
 
 
-Technology Stack
+### Technology Stack
 - Gaming Engine: Unity3D is at the heart of our gaming development, chosen for its robust capabilities and wide platform support. This will be employed for both the primary UI/UX and the individual game modules.
 - Web Integration: WebView facilitates the seamless integration of mobile web full-stack content directly within our Unity application. This allows for dynamic content updates and real-time engagement metrics.
-- Web Development: VueJS and NuxtJS or NextJS are the chosen frameworks for developing the responsive web components, ensuring compatibility across devices and delivering a cohesive user experience.
+- Web Development: VueJS and NuxtJS or NextJS are the chosen frameworks for developing responsive web components, ensuring compatibility across devices, and delivering a cohesive user experience.
 - Backend Database and API: Supabase serves as our go-to backend, offering real-time database functionalities and APIs. This allows for swift data operations, particularly for score tracking and user profile management.
 - Blockchain Integration: A blockchain layer will be incorporated, designed to handle game rewards in the form of tokens. These tokens can then be redeemed by users for various brand-related perks. The entire blockchain process is geared to be frictionless, not necessitating users to have any prior blockchain knowledge.
 Authentication: Single Sign-On (SSO) capabilities will be integrated, enabling users to quickly onboard and log in using familiar platforms like Google, Apple, and Facebook.
 - QR Code Integration: A QR scanner will be embedded to allow users to quickly launch games or avail special offers by simply scanning QR codes, making the engagement process even more intuitive.
 - Blockchain & Smart Contracts: A blockchain solution will be used for game rewards, and smart contract development will underpin the mechanics of rewards distribution, ensuring transparency and security.
 
-Core Components and Architecture
+### Core Components and Architecture
 Frontend:
 - Frameworks to structure the web application such as VueJS, NuxtJS and/or NextJS
 Backend:
@@ -117,7 +121,7 @@ Backend:
 API Layer:
 - RESTful API: Facilitate communication between frontend, backend, and databases. Can use Next or Nuxt JS routing capabilities.
 Database:
-- Supabase PostgresSQL: For storing user data, game states, scores, and more.
+- Supabase PostgresSQL: For storing user data, game stats, scores, and more.
 Authentication:
 - OAuth2.0: For Single Sign-On (SSO) capabilities with Google, Apple, and Facebook.
 - JWT (JSON Web Tokens): Securely transmitting information between users and the server.
@@ -134,57 +138,7 @@ Security:
 
 By combining these core components, the gaming platform will achieve a scalable, performative, and engaging user experience across various devices, while also ensuring security and ease of maintenance.
 
-### Long-term project Plans
-Starting Q2 of 2024, we will begining our MVP build out which we estimate to cost between $400-500K for 6 months of build. During this build, we will engage our pilot partners for design feedback. Our target customers are niche apparel and food/beverage businesses. In 2024, we will rely on our own network to customers and their investors. We have a strong network to begin this work. With seed funding (at least $2M) in late 2024, we will hire marketing and sales team to expand our reach. Our priority in these first few years is to feature a diverse set of niche and at least one marquee brand.
-
-For this MVP, we will build out in-app purchase feature and marketplace capabilities. This will put us on track to become the first one-stop-shop, gamified e-commerce platform for consumer brands. As a one-stop shop, we will deploy “interactives” (games) to attract users to our platform and enable them to make in-app purchases using rewards they redeem during gameplay. All happens within 1 platform.
-
-Below is our plan for MVP in 2024.
-
-#### Post-Prototype Product Roadmap (MVP) Release Criteria (for MVP 2024 build out):
-
-Core Functionality Completion:
-- All planned game modules are fully functional and integrated into the platform.
-- Complete Supabase API integration for user data and game scores.
-
-Full Authentication Integration:
-- Full implementation and testing of SSO with Google, Apple, and Facebook.
-
-Blockchain Functionality:
-- Live blockchain transactions for token rewards, with smart contracts handling rewards distribution and redemption.
-- Custodial wallet integration that allows for a frictionless experience, with users able to earn and redeem tokens without needing knowledge of underlying blockchain mechanisms.
-
-Performance and Stress Testing:
-- System can handle the expected load for six months post-launch, with scalability plans in place.
-- Game load times optimized for immediate play.
-
-Security Compliance:
-- Comprehensive security audit completed with no critical issues.
-- Compliance with relevant data protection and privacy laws.
-
-User Experience (UX) and Design:
-- Refined UI/UX based on user testing feedback, ensuring a seamless and engaging experience.
-- Accessibility features implemented and tested.
-
-Quality Assurance:
-- All critical bugs identified in testing phases resolved.
-- Performance benchmarks met with consistent system stability.
-
-Documentation and Support:
-- Full documentation for platform use, including FAQs for troubleshooting.
-- Customer support channels established and operational.
-
-Market Readiness:
-- Go-to-market strategy in place, with marketing materials prepared.
-- Partnerships with brands for rewards are established, with a clear pipeline for redemption.
-
-Legal and Compliance:
-- All legal clearances obtained, terms of service and privacy policies drafted and in place.
-Compliance with the regulatory requirements of operating regions confirmed.
-
-The MVP should be considered ready for launch once all these criteria are met, ensuring that the platform is viable for public use and capable of evolving based on real-world usage and feedback.
-
-### Ecosystem Fit
+## Ecosystem Fit
 
 Flybloc draws inspiration from the user engagement strategies employed by loyalty platforms such as FiveStars and Loyalty Lion, which have mastered the art of customer retention and rewards redemption. It mirrors these platforms' abilities to entice users with a plethora of rewards, creating a cycle of engagement and gratification that keeps users returning. However, Flybloc transcends the traditional loyalty system by embedding these mechanics within an interactive gaming environment, much like what users find on casual gaming platforms such as Friv and Poki.com.
 
@@ -205,13 +159,11 @@ Ex-PM @Nearpod; Harvard Doctorate and MBA @Boston Univ.
 Yefei brings 8+ years of product management and startup operating experience. He advises numerous startups on AI strategy and was the former Product Manager at Nearpod, an edtech student engagement company that successfully exited in 2021. Yefei holds his doctorate and masters from Harvard where he studied organizational leadership and data science. He also has his MBA from Boston University Questrom School of Business and B.A. from the Univ. of Minnesota Twin Cities.
 
 
-
 ### Alex White, Cofounder
 [LinkedIn Profile](https://www.linkedin.com/in/alexwhite829/)
 
 Ex-MLB athlete; investor and finance; MBA @UNC Chapel Hill
 Alex is a former CFO turned Venture Capitalist. As founder of Yhat Invest, Alex provides finance and strategic development services to startups and early-stage ventures. Among others, he has worked closely with JustLend Ltd., a UK-based loan services platform, since 2021. Alex holds his MBA from UNC Kenan-Flager Business School where he studied corporate finance. Prior to business school, Alex was a professional MLB athlete for 10 years.
-
 
 
 ### Brandon Wolf, CTO
@@ -257,7 +209,7 @@ As partner at Nelson Mullins, Arina brings advice and counsel for fintech startu
 - [GitHub - Unity-Based Game #1 (private)](https://github.com/FlyblocDev/ScratchGolf)
 - [GitHub - Unity-Based Game #2 (private)](https://github.com/FlyblocDev/FlyScramble)
 
-Our repositories are private while we are in stealth/startup mode. All smart contracts/chain interop coding will be open at MVP. We are happy to provide reviewer access to these repos during the evaluation period.
+Our repositories are private while we are in stealth/startup mode. We have 1 game built out that we can share upon request. We are happy to provide reviewer access to these repos during the evaluation period.
 
 ## Development Roadmap 
 
@@ -313,14 +265,63 @@ These costs are estimates based on the development partner we have vetted and ch
 | 3 | Deployment | Application is deployed to the production servers. |
 | 4 | Deployment | Any user can access and use the application. |
 
-#### Community Engagement
+### Community Engagement
 
-We will publish our work here and on our website in the blog section
+We will publish our work here and on our website
 - https://twitter.com/flybloc
 - https://www.flybloc.com/ 
 
-Once our Proof-of-Concept phase begins, we will engage on Telegram for notifications, and Discord for community and social interactions.
+Once our Proof-of-Concept phase begins, we will engage on Telegram for notifications, the VeVe digital collectibles community on X, and Discord for other community and social interactions.
 
+## Future Plans
+Starting Q2 of 2024, we will begin our MVP build out which we estimate to cost between $400-500K for 6 months of build. During this build, we will expand beyond our 3 existing pilot partners. Our target customers are niche apparel and food/beverage businesses. In 2024, we will rely on our network of customers and various investors we have personal relationships within the industry. We have a strong network to begin this work. With seed funding (at least $2M) in late 2024, we will hire a marketing and sales team to expand our reach. Our priority in these first few years is to feature a diverse set of niche and at least one marquee brand.
+
+For the MVP in 2024, we will build out in-app purchase feature and marketplace capabilities. This will put us on track to become the first one-stop-shop, gamified e-commerce platform for consumer brands. As a one-stop shop, we will deploy “interactives” (games) to attract users to our platform and enable them to make in-app purchases using rewards they redeem during gameplay. All activities will happen within 1 platform.
+
+Below is our plan for MVP in 2024.
+
+#### Post-Prototype Product Roadmap (MVP) Release Criteria (for MVP 2024 build-out):
+
+Core Functionality Completion:
+- All planned game modules are fully functional and integrated into the platform.
+- Complete Supabase API integration for user data and game scores.
+
+Full Authentication Integration:
+- Full implementation and testing of SSO with Google, Apple, and Facebook.
+
+Blockchain Functionality:
+- Live blockchain transactions for token rewards, with smart contracts handling rewards distribution and redemption.
+- Custodial wallet integration that allows for a frictionless experience, with users able to earn and redeem tokens without needing knowledge of underlying blockchain mechanisms.
+
+Performance and Stress Testing:
+- System can handle the expected load for six months post-launch, with scalability plans in place.
+- Game load times optimized for immediate play.
+
+Security Compliance:
+- Comprehensive security audit completed with no critical issues.
+- Compliance with relevant data protection and privacy laws.
+
+User Experience (UX) and Design:
+- Refined UI/UX based on user testing feedback, ensuring a seamless and engaging experience.
+- Accessibility features implemented and tested.
+
+Quality Assurance:
+- All critical bugs identified in testing phases resolved.
+- Performance benchmarks met with consistent system stability.
+
+Documentation and Support:
+- Full documentation for platform use, including FAQs for troubleshooting.
+- Customer support channels established and operational.
+
+Market Readiness:
+- Go-to-market strategy in place, with marketing materials prepared.
+- Partnerships with brands for rewards are established, with a clear pipeline for redemption.
+
+Legal and Compliance:
+- All legal clearances obtained, terms of service and privacy policies drafted and in place.
+Compliance with the regulatory requirements of operating regions confirmed.
+
+The MVP should be considered ready for launch once all these criteria are met, ensuring that the platform is viable for public use and capable of evolving based on real-world usage and feedback.
 
 ## Additional Information 
 
