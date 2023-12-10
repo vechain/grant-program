@@ -15,18 +15,18 @@ Team details
 
 ## Overview
 
-Flybloc is venturing into a new frontier of brand engagement through the medium of gaming. The initiative is rooted in a two-fold approach: fostering a deeper connection with our audience and delivering a rewarding user experience. The digital platform will host a suite of games that are simple, approachable, and designed for quick, engaging interactions. The goal is a fun user experience without demanding a significant time commitment. Beyond just gaming, the platform will seamlessly intertwine the world of blockchain, enabling users to earn rewards that can be redeemed for brand-sponsored discounts, exclusive merchandise, and unique experiences.
+Flybloc is venturing into a new frontier of e-commerce through the medium of gaming. Our initiative is rooted in a two-fold approach: fostering a deeper connection with consumers and delivering a rewarding user experience. Our digital platform will host a suite of consumer-facing games that are simple, approachable, and designed for quick, engaging interactions. The goal is a fun user experience without demanding a significant time commitment. Beyond just gaming, the platform will seamlessly intertwine the world of blockchain, enabling users to earn rewards that can be redeemed for brand-sponsored discounts, exclusive merchandise, and unique experiences.
 
-### Why VeChain?
-VeChain, with its dual-token system, offers an optimized balance between transaction costs and speed, making it an attractive solution for applications that demand swift and economical operations. By utilizing VeChain's low-carbon platform, FlyBlock can demonstrate a commitment to eco-friendly practices in our system operations. Furthermore, its established track record in supply chain management and product traceability offers robust tools and frameworks, which can be leveraged for transparent reward tracking and verification in our gaming platform. 
+### Why VeChain
+VeChain, with its dual-token system, offers an optimized balance between transaction costs and speed, making it an attractive solution for applications that demand swift and economical operations. By utilizing VeChain's low-carbon platform, we can demonstrate a commitment to eco-friendly practices in our system operations. Furthermore, its established track record in supply chain management and product traceability offers robust tools and frameworks, which can be leveraged for transparent reward tracking and verification in our gaming platform. This is important to us because our pilot brands practice sustainability and we want to ensure that our tech strategy aligns with those values. 
 
-VeChain's capability to handle a high volume of microtransactions seamlessly and expediently would ensure that our users experience instantaneous blockchain interactions, whether it's earning rewards or redeeming them for brand-sponsored offers. As the product scales, we intend to leverage MTT for concurrent transaction handling.
+VeChain's capability to handle a high volume of microtransactions seamlessly and expediently would also ensure that our users experience instantaneous blockchain interactions, whether it's earning rewards or redeeming them for brand-sponsored offers. As usage scales, we intend to benefit from economies of scale.
 
 During our tokenomics provenance period, fee delegation will be explored to offset transaction costs as compared to a chargeback to our partners. While our initial MVP is primarily exploring custodial wallets, Sync2 is a strong candidate for self-custody as we explore the most frictionless experience.
 
 Finally, VeChain's compatibility with standard programming languages facilitates easier integration with our existing tech stack. This is especially true given our preference for javascript-based middleware and services, and the use of Connex is already being researched and tested.
 
-### Links to one-pager
+### Links to one-pager and deck
 Leveraging Unity3D as our cornerstone, the design encapsulates a primary UI/UX app interfacing with a mobile web full-stack. This ensures a smooth transition and interaction with various game modules. Integration with the Supabase API forms the backbone of our real-time score tracking and user data analytics. The games, though diverse, share common attributes of being engaging and easy to grasp. On the blockchain front, the platform is crafted to reward users for their interactions, with tokens that can be converted into tangible, brand-centric benefits. To top it off, our approach is built on simplicity, ensuring users engage with the brand and its rewards without being entangled in the intricacies of blockchain mechanics.
 
 Please include the team's long-term project plans, operation plans and intentions.
