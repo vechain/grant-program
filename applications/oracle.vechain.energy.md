@@ -242,11 +242,4 @@ A possible extension is a new vechain.energy function for "Oracle-Services", all
 
 ## Additional Information 
 
-Research and basic testing for an MVP was already done. A prototype is available on the TestNet and can be tested here:
-
-* Contract Address: `0x2d2BAF7d2a1e637C426d86e513d16BE717084985`
-* Interface: `function getLatestValue(bytes32 id) public view returns (uint256 value, uint64 updatedAt)`
-* `id` for `vet-usd` is `0x7665742d75736400000000000000000000000000000000000000000000000000`
-* Heartbeat is 1 hour and 1% deviation
-* Website showing the current data: https://codesandbox.io/p/sandbox/oracle-example-vet-usd-testnet-5s77tv
-* or raw output: [api.vechain.energy/v1/call/test/0x2d2BAF7d2a1e637C426d86e513d16BE717084985/getLatestValue](https://api.vechain.energy/v1/call/test/0x2d2BAF7d2a1e637C426d86e513d16BE717084985/getLatestValue%20(bytes32%200x7665742d75736400000000000000000000000000000000000000000000000000)%20returns%20(uint256%20value,%20uint64%20updatedAt)?formatEther=true)
+Research and basic testing for an MVP was already done. The project is currently been developed and is available here: https://github.com/vechain-energy/oracle.vechain.energy
