@@ -10,7 +10,7 @@ Hackathon Date: 7-8th Oct 2023
 * Team name: FibreTag (previously FiTag at the hackathon)
 * GitHub handle: https://github.com/jjjutla/FibreTag
 * College/Employer: Imperial College London, King's College London, Binance
-* Payment Address: 0xBdd509667c30c04bBA844819373fa028A0ED3294
+* Payment Address: 0xB04c1F26353490f6b6Dc99a0f48b72Ee53B103Ee
 
 ## Overview
 FibreTag is an iOS app that uses the VechainThor Blockchain to enhance brand trust in the luxury fashion industry. By tracking and disclosing product origins, manufacturing procedures, raw materials, and previous owners, FibreTag combats counterfeits and promotes sustainability. Utilizing NFC technology, FibreTag offers users an in-depth view of a product's journey from raw material to purchase. Additionally, each purchase comes with a unique NFT digital twin, ensuring authenticity and providing transparency for conscious consumers.
