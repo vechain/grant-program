@@ -106,10 +106,6 @@ The current committee members are:
 Evaluators are individuals who check whether the application is formatted correctly and includes all the requested information in the preliminary review stage. The following is the current list of evaluators:
 
 - [Tony Li](https://github.com/libotony)
-- [Jack Wu](https://github.com/XJWX89)
-- [Tofu Chu](https://github.com/laalaguer)
-- [Mog Lu](https://github.com/mongelly)
-- [Asbert Ma](http://github.com/asbertMa/)
 
 ## Operation Team
 
