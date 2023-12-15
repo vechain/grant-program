@@ -152,7 +152,7 @@ Please describe the team's relevant experience. If the project involves developm
 
 #### M2: Create a DTT
 
-1) Develop the DTT, a ERC-1155 based NFT tree to contain amm building metadata
+1) Develop the DTT, a ERC-1155 based NFT tree to contain all building metadata
 2) Add storefactory logic to the DTT
 3) Deploy on mainnent
 
