@@ -35,19 +35,17 @@ Visit https://www.vns.domains/ to see the current VNS domains landing page with 
 VNS Domains has a staging dapp to demonstrate the new features as they are developed. Access to this dapp is available upon request to qualified parties.
 
 #### Frontend Preview and Registration Flow Chart
-The figure below shows the process a VNS user will use on the VNS Dapp in order to register a new VNS domain.
-![VNS Registration](https://camo.githubusercontent.com/746e647b1b8ca955b7caf613740975be37dc57018ef68d7d69430d363fac0fe2/68747470733a2f2f73746f726167652e636c6f7564636f6e766572742e636f6d2f7461736b732f31383262343236652d633337332d343765642d393430662d3062383335343231626431612f646f6d61696e5f726567697374726174696f6e5f666c6f775f76332e706e673f4157534163636573734b657949643d636c6f7564636f6e766572742d70726f64756374696f6e26457870697265733d31363839333534373632265369676e61747572653d6237444e4a70396252667346616775504c32444b674475714c764125334426726573706f6e73652d636f6e74656e742d646973706f736974696f6e3d696e6c696e6525334225323066696c656e616d65253344253232646f6d61696e5f726567697374726174696f6e5f666c6f775f76332e706e6725323226726573706f6e73652d636f6e74656e742d747970653d696d616765253246706e67)
+A image that shows the process a VNS user will use on the VNS Dapp in order to register a new VNS domain is available upon request.
+
 
 #### Smart Contracts
 VNS Domains based its smart contracts off of the longstanding and well known [Ethereum Name Service](https://github.com/ensdomains/ens-contracts) with the following noteable features:
 - Use MerkleTree for whitelist
 - Store metadata on-chain
-- No oracle, uses a stablecoin called $VeUSD*
+- VNS developed an oracle as a seperate project which will be used for VET price pegging.
 - No exponential premium pricing, prices are static
 - Minimum registration for domain is 365 days (For ENS, it’s 28 days)
 - No DNS-related functionalities
-
-*Subject to change based on $VeUSD availability
 
 #### Documentation
 VNS Domains has a provided documentation consisting of frequently asked questions, policies and terminology. This documentation will be regularly updated as needed.
@@ -92,11 +90,11 @@ Available upon request.
 
 #### Overview
 
-|  | Current Status| Milestone 1 | Milestone 2 | Milestone 3 |
-| - | - |- | - | - |
-| Estimated Duration | 0 d | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 1 | 1 | 1 | 3 |
-| Cost (up to $ 30,000) |  $ 0  | $ 15,000 | $ 10,000 | $ 5,000|
+|  | Milestone 1 | Milestone 2 | Milestone 3 | Total |
+| - |- | - | - | - |
+| Estimated Duration | 30 d | 30 d | 60 d | 90 d |
+| Full-time equivalent (FTE) | 1 | 1 | 3 | 3+ |
+| Cost (up to $ 30,000) | $ 10,000 | $ 10,000 | $ 10,000|  $ 30,000  |
 
 #### Current Status
 
