@@ -180,7 +180,7 @@ With this additional feed, a EUR value for VET/VTHO can also be derived from the
 
 |  | Contract | Reporter | CCIP | Status-Page | Documentation | Total |
 | - | -: | -: | -: | :- | :- | :- |
-| Estimated Duration | 4d | 8d | 4d | 1.5d | 2d | 18d |
+| Estimated Duration | 4d | 8d | 4d | 1.5d | 2d | 19.5d |
 | Full-time equivalent (FTE) | 1 | 1 | 1 | 1 | 1 | 1 |
 | Cost (up to $ 30,000) | $4,000 | $8,000 | $4,000 | $1,500 | $2,000 | $19,500 |
 
