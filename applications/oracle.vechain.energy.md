@@ -17,7 +17,7 @@ All components will be open-sourced on GitHub, allowing developers to adapt it f
 
 ### Project Details
 
-The project has three elements:
+The project has three core elements:
 
 1. **Contracts** will be built with Solidity and deployed in a hardhat project, tested with jest.
    * Data feeds are stored in a contract, providing access on-chain for other contracts. The feeds are identified with a bytes32 id.
@@ -31,9 +31,9 @@ The project has three elements:
 The deployed contracts provide the current value for data feeds with the timestamp of the last update.  
 The data can be accessed on-chain with:
 
-```sol
+```solidity
 interface OracleV1 {
-    function getLatestValue(bytes32 id) public view returns (uint256 value, uint64 updatedAt);
+    function getLatestValue(bytes32 id) public view returns (uint128 value, uint128 updatedAt);
 }
 
 // id = ethers.utils.formatBytes32String("vet-usd")
@@ -68,13 +68,17 @@ The Reporter can be configured with a Feed Configuration similar to this:
   "sources": [
     {
         "url": "https://api.coinbase.com/v2/exchange-rates?currency=VET",
-        "path": ".data.rates.USD",
-        "type": "string"
+        "path": ".data.rates.USD"
     }
   ],
 
-  // oracle contract to store the value in
-  "contractAddress": "0x2d2BAF7d2a1e637C426d86e513d16BE717084985"
+  // oracle contracts to store the value in
+  "contracts": [
+    {
+       "nodeUrl": "https://node-testnet.vechain.energy",
+       "address": "0x2d2BAF7d2a1e637C426d86e513d16BE717084985"
+    }
+  ]
 }
 ```
 
@@ -116,13 +120,16 @@ sequenceDiagram
         Oracle-Reporter-->>Oracle-Reporter: log error
       else has valid data
        Oracle-Reporter-->>Oracle-Reporter: extract value
-        Oracle-Reporter->>Oracle-Contract: get last value
-        Oracle-Contract-->>Oracle-Reporter: last value + timestamp
 
-        alt value deviated more than deviation threshold
-          Oracle-Reporter->>Oracle-Contract: update data
-        else opt value is older then max age threshold
-          Oracle-Reporter->>Oracle-Contract: update data
+       loop for each configured contract
+         Oracle-Reporter->>Oracle-Contract: get last value
+         Oracle-Contract-->>Oracle-Reporter: last value + timestamp
+
+          alt value deviated more than deviation threshold
+            Oracle-Reporter->>Oracle-Contract: update data
+          else opt value is older then max age threshold
+            Oracle-Reporter->>Oracle-Contract: update data
+          end
         end
       end
     end
@@ -148,8 +155,8 @@ With this additional feed, a EUR value for VET/VTHO can also be derived from the
 
 ### Ecosystem Fit
 
-There are multiple applications that currently cannot rely on fiat pricing and need to use external sources. This oracle provides a stable USD price feed and the ability to price things verifiably in USD.
-All modules will be open-sourced on GitHub, empowering all developers to run their own oracle for their own data feed or purpose.
+1) There are multiple applications that currently cannot rely on fiat pricing and need to use external sources. This oracle provides a stable USD price feed and the ability to price things verifiably in USD.
+2) All modules will be open-sourced on GitHub, empowering all developers to run their own oracle for their own data feed or purpose.
 
 
 ## Team 
@@ -171,11 +178,11 @@ All modules will be open-sourced on GitHub, empowering all developers to run the
 
 #### Overview
 
-|  | Contract | Reporter | CCIP | Documentation | Total |
-| - | -: | -: | -: | :- | :- | 
-| Estimated Duration | 4d | 8d | 4d | 2d | 18d |
-| Full-time equivalent (FTE) | 1 | 1 | 1 | 1 | 1 |
-| Cost (up to $ 30,000) | $4,000 | $8,000 | $4,000 | $2,000 | $18,000 |
+|  | Contract | Reporter | CCIP | Status-Page | Documentation | Total |
+| - | -: | -: | -: | :- | :- | :- |
+| Estimated Duration | 4d | 8d | 4d | 1.5d | 2d | 18d |
+| Full-time equivalent (FTE) | 1 | 1 | 1 | 1 | 1 | 1 |
+| Cost (up to $ 30,000) | $4,000 | $8,000 | $4,000 | $1,500 | $2,000 | $19,500 |
 
 The gas fees for the updates and running the required backend will be a personal investment. 
 
@@ -200,7 +207,7 @@ The gas fees for the updates and running the required backend will be a personal
 | 2.2 | Data-Loading | Load data based on the configured data source(s) |
 | 2.3 | Data-Extraction | Verify, filter data and extract single value as current state value |
 | 2.4 | Update-Check | Verify with the contract if an update is necessary (heartbeat, deviation) |
-| 2.5 | Update Oracle | send updates to the contract (with vechain.energy transaction api) |
+| 2.5 | Update Oracle | send updates to the contract |
 | 2.6 | Feed Activity | Feeding data for Test- and MainNet deployed contracts |
 
 * Delivery will be a public repository with the backend's source code
@@ -219,7 +226,17 @@ The gas fees for the updates and running the required backend will be a personal
 * Link to test request information
 
 
-#### Milestone 4 — Documentation
+#### Milestone 4 — Status-Page
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 4.1 | Application | Web-Application that visualizes the current status of a list of Data Feeds |
+| 4.2 | Deployment | Public URL to access the status information to verify health status |
+
+* Delivery will be a link to the applications source code
+* and link to the deployed version listing details about the health status of all feeds
+
+#### Milestone 5 — Documentation
 
 | Number | Deliverable | Specification |
 |-|-|-|
