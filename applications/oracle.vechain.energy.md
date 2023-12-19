@@ -240,9 +240,9 @@ The gas fees for the updates and running the required backend will be a personal
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 4.1 | Documentation | Addresses and all relevant details about the data source |
-| 4.2 | Snippets  | Example snippets on accessing the data with solidity, connex |
-| 4.3 | Self-Host-Instructions  | Instructions on how to setup and run an oracle |
+| 5.1 | Documentation | Addresses and all relevant details about the data source |
+| 5.2 | Snippets  | Example snippets on accessing the data with solidity, connex |
+| 5.3 | Self-Host-Instructions  | Instructions on how to setup and run an oracle |
 
 * Delivery will be a link to a new section on docs.vechain.energy containing all relevant information needed to use the oracle on TestNet and MainNet, learn about the data quality and links to the source code.
 * Instructions to setup a self-hosted-instance can be used to test the complete delivery.
