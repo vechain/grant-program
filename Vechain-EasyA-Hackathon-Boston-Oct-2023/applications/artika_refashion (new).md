@@ -96,18 +96,21 @@ We differ as the only fashion SaaS company in Web3, with a digital platform that
 | 3.     | Backend           | Create the backend API and a simple test suit.                                                                                         |
 | 4.     | Simplest Frontend | Create a simple HTML frontend without any styling to gain an idea of our app's requirements for state management.                        |
 
-#### Milestone 2  —  Frontend
+#### Milestone 2  —  Backend
 | Number | Deliverable      | Specification                                                                               |
 | ------ | ---------------- | ------------------------------------------------------------------------------------------- |
-| 1.     | Flutter Frontend | Create an app using Flutter to create an iOS, Andriod, and desktop using the same codebase. |
-| 2.     | Smart Contracts  | Connect our app to the VeChain mainnet by using the VeChain Thor RESTful API.               |
+| 1.     | Documentation    | Create in-depth documentation outlining API functionality (smart contract triggers, user authentication, data management). |
+| 2.     | back4app         | Create resources (API, databases, test data, etc.) on the back4app platform, as outlined in the documentation.  |
+| 3.     | Smart Contracts  | Create smart contracts for tracking user history stored on VeChain Thor (conducted on the VeChain testnet by interacting with a public node via the Thorest API). |
+| 4.     | UI               | Create barebones UI in in react native to ensure basic frontend-backend communication. |
+| 5.     | Unit Testing     | Conduct unit testing of all major functions and smart contracts to ensure business logic robustness. |
 
-### Milestone 3 - Marketing, Testing and Community Engagement
-| Number | Deliverable  | Specification                                                                                                                |
-| ------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1.     | QA Testing   | Test the product's basic functionality for logic bugs                                                                        |
-| 2.     | User Testing | Get some test users to use the product and note how easy it is for them to use each feature. Get feedback about ease of use. |
-| 3.     | Fixes        | Start the process of incremental changes based on feedback from QA and user testing                                         |
+### Milestone 3 - Frontend
+| Number | Deliverable        | Specification                                                                                             |
+| ------ | ------------       | --------------------------------------------------------------------------------------------------------- |
+| 1.     | Build UI           | Iteratively build frontend according to design mockups; Done on a per screen basis where functionality is consistent across all platforms. |
+| 2.     | Connect Backend    | Install the ```Parse SDK``` via respective node module and initialize it using App Keys provided on the back4app website. |
+| 3.     | Functional Testing | Ensure UI interactions propagate through API to trigger smart contracts and testnet updates. Similar testing for traditional database querying and updates. |
 
 ### Milestone 4 - Deployment & Marketing
 | Number | Deliverable     | Specification                                                                    |
