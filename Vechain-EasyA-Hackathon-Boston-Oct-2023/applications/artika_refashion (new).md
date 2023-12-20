@@ -24,10 +24,11 @@ With Artika 2.0, we directly partner with brands to create clothing tagged with 
 
 ### Tech stack
 
-- RESTful API backend made with the Go programming language and the Gin Web Framework.
-- Solidity smart contracts for NFT tracking
-- PostgreSQL to store private user data which should not be published on chain 
-- Flutter frontend will allow us to code once and deploy to a variety of screen layouts/devices.
+- Smart contracts, written in Solidity, on VeChainThor.
+- React Native frontend to create single codebase for all platforms (iOS, Android, Web).
+- back4app BaaS to efficiently create, manage and scale backend resources.
+- RESTful API backend made with back4app.
+- Real-time database, provided by back4app, to store user data and link related objects.
 
 ### PoC
 Our PoC was submitted to the VeChain/EasyA hackathon and can be found [here](https://github.com/IainWinter/ArtikaRefashion)
