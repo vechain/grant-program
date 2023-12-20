@@ -96,12 +96,7 @@ For VET and VTHO the configuration will use:
 
 _Additional sources from a blockchain / DEX would be preferred, but currently, none exist or have sufficient activity & liquidity. This will likely change once an official VET bridge becomes available._
 
-The final value will be evaluated by:
-
-1. Filtering invalid data from a source
-2. Filtering Outliers with a percentage difference to the majority of other sources
-3. Averaging the value for the remaining values
-
+The final value will be the median value after removing invalid values.
 
 ```mermaid
 sequenceDiagram
