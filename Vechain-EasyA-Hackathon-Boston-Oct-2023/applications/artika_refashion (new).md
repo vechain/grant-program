@@ -115,7 +115,7 @@ We differ as the only fashion SaaS company in Web3, with a digital platform that
 ### Milestone 4 - Deployment & Marketing
 | Number | Deliverable     | Specification                                                                    |
 | ------ | --------------- | -------------------------------------------------------------------------------- |
-| 1.     | Deployment       | Deplay the app live for anyone to sign up and use.                                |
+| 1.     | Deployment       | Deplay app on the App and Google Play Store. Store compliance would have been verified in previous milestone while creating beta builds of the app.                                |
 | 2.     | Write tutorials | Create blog posts on the website to teach new users how to best use our product. |
 | 3.     | Marketing       | Create a marketing campaign to attract new users.                                |
 
