@@ -27,7 +27,7 @@ PATCH /pieces/{piece_id}
 ***
 ## Users
 
-**GET** /users
+**GET** _/users_
 
 Returns a list of all users.
 | Parameter     | Type        | Description 
@@ -82,7 +82,7 @@ Response:
 ```
 ***
 
-**GET** /users/{user_id}
+**GET** _/users/{user_id}_
 
 Retrieve a single user account.
 | Parameter     | 
@@ -123,7 +123,7 @@ Response:
 ```
 ***
 
-**POST** /users/create
+**POST** _/users/create_
 
 Creates a new user account.
 | Parameter     | Type        | Description 
@@ -181,7 +181,7 @@ Response:
 ```
 ***
 
-**PATCH** /users/{user_id} HTTP/1.1
+**PATCH** _/users/{user_id}_ HTTP/1.1
 
 Update parts of a user's profile information.
 | Parameter     | Type        | Description 
@@ -235,7 +235,7 @@ Response:
 ```
 ***
 
-**DELETE** /users/{user_id}
+**DELETE** _/users/{user_id}_
 
 Deletes a single user from the database.
 | Parameter     | 
@@ -268,7 +268,7 @@ Response:
 ***
 
 ## Jobs
-**GET** /jobs/{job_id}
+**GET** _/jobs/{job_id}_
 
 Retrieve details of a single job, established between a client and designer user.
 | Parameter     | 
@@ -304,7 +304,7 @@ Response:
 ```
 ***
 
-**POST** /jobs/create
+**POST** _/jobs/create_
 
 Creates a new job.
 | Parameter     | Type        | Description 
@@ -349,7 +349,7 @@ Response:
 ```
 ***
 
-**POST** /jobs/{job_id}/cancel
+**POST** _/jobs/{job_id}/cancel_
 
 Cancels an active job; The job must be in a cancelabe state (active_status == 1 && payment_status == "not paid").
 | Parameter     | 
@@ -370,7 +370,7 @@ Returns a single job object if the request was successful. Returns an error if t
 **Example**
 
 Request:
-```
+```http
 POST /jobs/{job_id}/cancel
 ```
 Response:
@@ -386,8 +386,8 @@ Response:
 ***
 
 ## Pieces
-***
-**GET** /pieces
+
+**GET** _/pieces_
 
 Returns a list of all designer users.
 | Parameter     | Type        | Description 
@@ -432,7 +432,7 @@ Response:
 ```
 ***
 
-**POST** /pieces/create
+**POST** _/pieces/create_
 
 Creates a piece.
 | Parameter     | Type        | Description 
@@ -478,7 +478,7 @@ Response:
 ```
 ***
 
-**PATCH** /pieces/{piece_id} HTTP/1.1
+**PATCH** _/pieces/{piece_id}_ HTTP/1.1
 
 Updates information for a specific piece.
 | Parameter     | Type        | Description 
