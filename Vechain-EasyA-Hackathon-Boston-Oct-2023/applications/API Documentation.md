@@ -8,13 +8,31 @@ Sozo's REST API is structured in a way that allows developers to easily fetch da
 | `https://sozo.api.com`   |
 
 ## Endpoints
+```http
+GET /users
+GET /users/{user_id}
+POST /users/create
+PATCH /users/{user_id}
+DELETE /users/{user_id}
+
+GET /requests/{request_id}
+POST /requests
+DELETE /requests/{request_id}
+
+GET /pieces
+GET /pieces/{piece_id}
+POST /pieces/create
+PATCH /pieces/{piece_id}
+```
+
 ### Users
-**GET** /designers
+**GET** /users
 
 Returns a list of all designer users.
 | Parameter     | Type        | Description 
 | -----------   | ----------- | ----------- |  
 | limit          | `integer`    | `optional` Maximum number of designer users to return; Default is 20.  |
+| role          | `string`    | `optional` Type of users to return ('designer' or 'client')  |
 
 **Reponse**
 
@@ -25,8 +43,8 @@ Returns an array of objects containing the following data.
 | username      | `string`    | The name a user's enters for login; Also the name displayed to other users in the app. |
 | role          | `string`    | A user's role (always "designer"). |
 | first_name    | `string`    | A user's first name. |
-| last_name    | `string`    | A user's last name. |
-| active_status    | `binary`    | 1 to indicate active **OR** 0 to indicate not active |
+| last_name     | `string`    | A user's last name. |
+| active_status | `number`    | 1 to indicate active **OR** 0 to indicate not active |
 
 **Example**
 
