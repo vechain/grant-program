@@ -281,8 +281,8 @@ Returns a single job object containing the following data.
 | Key           | Type        | Description 
 | -----------   | :-----------: | ----------- |
 | job_id         | `string`   | Unique value assigned when a job is created. |
-| client_id      | `string`    | A client user's unique id. |
-| designer_id    | `string`    | A designer user's unique id. |
+| client_id      | `string`    | Client user's unique id. |
+| designer_id    | `string`    | Designer user's unique id. |
 | payment_status | `string`    | Status of payment for job. Possible values are `not paid` `pending` or `paid`. |
 | active_status  | `number`    | 1 indicates **active** **OR** 0 indicates **not active** |
 
@@ -309,8 +309,8 @@ Response:
 Creates a new job.
 | Parameter     | Type        | Description 
 | -----------   | :-----------: | ----------- |  
-| client_id      | `string`    | A client user's unique id. |
-| designer_id    | `string`    | A designer user's unique id. |
+| client_id      | `string`    | `required` Client user's unique id. |
+| designer_id    | `string`    | `required` Designer user's unique id. |
 
 **Response**
 
