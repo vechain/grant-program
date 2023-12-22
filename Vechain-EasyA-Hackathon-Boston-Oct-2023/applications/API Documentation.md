@@ -128,12 +128,12 @@ Response:
 Creates a new user account.
 | Parameter     | Type        | Description 
 | -----------   | :-----------: | ----------- |  
-| username      | `string`    | `required` A user's display name. Does not allow special chatacters; Can be used for login. |
-| email         | `string`    | `required` A user's email address; Can be used for login. |
-| role          | `string`    | `required` A user's role ('designer' or 'client'). |
-| first_name    | `string`    | `required` A user's first name. |
-| last_name     | `string`    | `required` A user's last name. |
-| bio           | `string`    | `optional` A description of the user (max length: 200 characters). |
+| username      | `string`    | `required` User's display name. Does not allow special chatacters; Can be used for login. |
+| email         | `string`    | `required` User's email address; Can be used for login. |
+| role          | `string`    | `required` User's role ('designer' or 'client'). |
+| first_name    | `string`    | `required` User's first name. |
+| last_name     | `string`    | `required` User's last name. |
+| bio           | `string`    | `optional` Description of the user (max length: 200 characters). |
 
 **Response**
 
@@ -142,12 +142,12 @@ Returns a single user object containing the following data.
 | Key           | Type        | Description 
 | -----------   | ----------- | ----------- |
 | user_id       | `string`    | Unique value assigned when user is created in the database. |
-| username      | `string`    | A user's display name. |
-| email         | `string`    | A user's email address. |
-| role          | `string`    | A user's role ('designer' or 'client'). |
-| first_name    | `string`    | A user's first name. |
-| last_name     | `string`    | A user's last name. |
-| bio           | `string`    | A description of the user. |
+| username      | `string`    | User's display name. |
+| email         | `string`    | User's email address. |
+| role          | `string`    | User's role ('designer' or 'client'). |
+| first_name    | `string`    | User's first name. |
+| last_name     | `string`    | User's last name. |
+| bio           | `string`    | Description of the user. |
 | active_status | `number`    | 1 indicates **active** **OR** 0 indicates **not active** |
 
 **Example**
@@ -211,7 +211,7 @@ Returns a single user object containing the following data.
 
 Request:
 ```http
-PATCH /users/H094iAjZyPWr4rm0y9WL
+PATCH /users/H094iAjZyPWr4rm0y9WL HTTP/1.1
 ```
 Request Body:
 ```json
@@ -254,7 +254,7 @@ Returns an object containing the following data:
 **Example**
 
 Request:
-```
+```http
 DELETE /users/hTwR4QEXHYPf7Ua6tjjM
 ```
 Response:
