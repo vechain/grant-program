@@ -15,9 +15,9 @@ POST /users/create
 PATCH /users/{user_id}
 DELETE /users/{user_id}
 
-GET /requests/{request_id}
-POST /requests
-DELETE /requests/{request_id}
+GET /jobs/{job_id}
+POST /jobs/create
+POST /jobs/{job_id}/cancel
 
 GET /pieces
 GET /pieces/{piece_id}
@@ -29,7 +29,7 @@ PATCH /pieces/{piece_id}
 
 **GET** /users
 
-Returns a list of all designer users.
+Returns a list of all users.
 | Parameter     | Type        | Description 
 | -----------   | :-----------: | ----------- |  
 | limit          | `integer`    | `optional` Maximum number of designer users to return; Default is 20.  |
@@ -81,6 +81,7 @@ Response:
 ]
 ```
 ***
+
 **GET** /users/{user_id}
 
 Retrieve a single user account.
@@ -121,6 +122,7 @@ Response:
 }
 ```
 ***
+
 **POST** /users/create
 
 Creates a new user account.
@@ -152,7 +154,17 @@ Returns a single user object containing the following data.
 
 Request:
 ```http
-POST /users/create?username=RachelY&email=rachel.yearny%40gmail.com&role=client&first_name=Rachel&last_name=Yearny
+POST /users/create
+```
+Request Body:
+```json
+{
+  "username": "RachelY",
+  "email": "rachel.yearny@gmail.com",
+  "role": "client",
+  "first_name": "Rachel",
+  "last_name": "Yearney"
+}
 ```
 Response:
 ```json
@@ -168,7 +180,8 @@ Response:
 }
 ```
 ***
-**PATCH** /users/{user_id}
+
+**PATCH** /users/{user_id} HTTP/1.1
 
 Update parts of a user's profile information.
 | Parameter     | Type        | Description 
@@ -198,7 +211,14 @@ Returns a single user object containing the following data.
 
 Request:
 ```http
-PATCH /users/H094iAjZyPWr4rm0y9WL?username=YearOfRachel&bio="Sculpting%20sophistication%20in%20every%20stitch.%20Empowering%20women%20through%20distinctive%20designs.%20Committed%20to%20redefining%20style%20with%20grace%20and%20purpose."
+PATCH /users/H094iAjZyPWr4rm0y9WL
+```
+Request Body:
+```json
+{
+  "username": "YearOfRachel",
+  "bio": "Sculpting sophistication in every stitch. Empowering women through distinctive designs. Committed to redefining style with grace and purpose."
+}
 ```
 Response:
 ```json
@@ -214,9 +234,10 @@ Response:
 }
 ```
 ***
+
 **DELETE** /users/{user_id}
 
-Returns an object representing a single user.
+Deletes a single user from the database.
 | Parameter     | 
 | ----------- |  
 | No parameters  |
@@ -245,7 +266,258 @@ Response:
 }
 ```
 ***
-### Requests
+
+### Jobs
+**GET** /jobs/{job_id}
+
+Retrieve details of a single job, established between a client and designer user.
+| Parameter     | 
+| ----------- |  
+| No parameters  |
+
+**Reponse**
+
+Returns a single job object containing the following data.
+| Key           | Type        | Description 
+| -----------   | :-----------: | ----------- |
+| job_id         | `string`   | Unique value assigned when a job is created. |
+| client_id      | `string`    | A client user's unique id. |
+| designer_id    | `string`    | A designer user's unique id. |
+| payment_status | `string`    | Status of payment for job. Possible values are `not paid` `pending` or `paid`. |
+| active_status  | `number`    | 1 indicates **active** **OR** 0 indicates **not active** |
+
+**Example**
+
+Request:
+```http
+GET /jobs/uD7uQ4xjuCT9spwhyNVRxiYk9
+```
+Response:
+```json
+{
+  "job_id": "uD7uQ4xjuCT9spwhyNVRxiYk9",
+  "client_id": "Hfkq7urNonHMonGREKU3",
+  "designer_id": "hTwR4QEXHYPf7Ua6tjjM",
+  "payment_status": "not paid",
+  "active_status": 1
+}
+```
 ***
+
+**POST** /jobs/create
+
+Creates a new job.
+| Parameter     | Type        | Description 
+| -----------   | :-----------: | ----------- |  
+| client_id      | `string`    | A client user's unique id. |
+| designer_id    | `string`    | A designer user's unique id. |
+
+**Response**
+
+Returns a single job object containing the following data.
+
+| Key           | Type        | Description 
+| -----------   | ----------- | ----------- |
+| job_id         | `string`   | Unique value assigned when a job is created. |
+| client_id      | `string`    | A client user's unique id. |
+| designer_id    | `string`    | A designer user's unique id. |
+| payment_status | `string`    | Status of payment for job. Possible values are `not paid` `pending` or `paid`. |
+| active_status  | `number`    | Indicates whether a job is active; 1 is **active** **OR** 0 is **not active** |
+
+**Example**
+
+Request:
+```http
+POST /jobs/create
+```
+Request Body:
+```json
+{
+  "client_id": "Hfkq7urNonHMonGREKU3",
+  "designer_id": "hTwR4QEXHYPf7Ua6tjjM"
+}
+```
+Response:
+```json
+{
+  "job_id": "uD7uQ4xjuCT9spwhyNVRxiYk9",
+  "client_id": "Hfkq7urNonHMonGREKU3",
+  "designer_id": "hTwR4QEXHYPf7Ua6tjjM",
+  "payment_status": "not paid",
+  "active_status": 1
+}
+```
+***
+
+**POST** /jobs/{job_id}/cancel
+
+Cancels an active job; The job must be in a cancelabe state (active_status == 1 && payment_status == "not paid").
+| Parameter     | 
+| ----------- |  
+| No parameters  |
+
+**Reponse**
+
+Returns a single job object if the request was successful. Returns an error if the job is not in a cancelable state.
+| Key           | Type        | Description 
+| -----------   | :-----------: | ----------- |
+| job_id         | `string`   | Unique value assigned when a job is created. |
+| client_id      | `string`    | A client user's unique id. |
+| designer_id    | `string`    | A designer user's unique id. |
+| payment_status | `string`    | Status of payment for job. Possible values are `not paid` `pending` or `paid`. |
+| active_status  | `number`    | 1 indicates **active** **OR** 0 indicates **not active** |
+
+**Example**
+
+Request:
+```
+POST /jobs/{job_id}/cancel
+```
+Response:
+```json
+{
+  "job_id": "uD7uQ4xjuCT9spwhyNVRxiYk9",
+  "client_id": "Hfkq7urNonHMonGREKU3",
+  "designer_id": "hTwR4QEXHYPf7Ua6tjjM",
+  "payment_status": "not paid",
+  "active_status": 0
+}
+```
+***
+
 ### Pieces
 ***
+**GET** /pieces
+
+Returns a list of all designer users.
+| Parameter     | Type        | Description 
+| -----------   | :-----------: | ----------- |  
+| limit         | `integer`    | `optional` Maximum number of designer users to return; Default is 20.  |
+
+**Response**
+
+Returns an array of objects representing pieces created by designers. Each object contains the following data.
+| Key           | Type        | Description 
+| -----------   | :-----------: | ----------- |
+| piece_id       | `string`    | Unique value assigned when a piece in the database. |
+| designer_id    | `string`    | A designer user's unique id. |
+| piece_name    | `string`    | A piece's name. Determined by the designer. |
+| image_name    | `string`    | Name of the image uploaded for the piece. |
+| description    | `string`    | A description of the piece. |
+
+**Example**
+
+Request:
+```http
+GET /pieces?limit=2
+```
+Response:
+```json
+[
+  {
+    "piece_id": "hgmjw3vx4bfnQs9",
+    "designer_id": "hTwR4QEXHYPf7Ua6tjjM",
+    "piece_name": "Stars & Spangles",
+    "image_name": "hgmjw3vx4bfnQs9.jpg",
+    "description": "Unveiling the \"Stars & Spangles\" hoodie: a premium cotton masterpiece embodying the spirit of the United States. Vibrant stars and stripes meticulously dance across this garment, a dynamic celebration of American pride. Perfect for Independence Day or any occasion, this hoodie seamlessly merges style with patriotism. Wear the colors that echo the nation's heartbeat, making the Stars & Spangles a timeless symbol of your love for the land of the free."
+  },
+  {
+    "piece_id": "AgiUjJGhhKtX3oY",
+    "designer_id": "NRDF8FB61BuYThN2scFA",
+    "piece_name": "Stars & Spangles",
+    "image_name": "AgiUjJGhhKtX3oY.jpg",
+    "description": "\"The Raven's Veil\" is a bewitching cloak that cascades in mysterious ebony folds. Embroidered ravens soar across the midnight fabric, their feathers intricately detailed in silver thread. The garment whispers tales of ancient lore, weaving elegance with an enigmatic edge. Embrace the mystique, as the Raven's Veil envelops you in a silhouette of shadowed allure."
+  }
+]
+```
+***
+
+**POST** /pieces/create
+
+Creates a piece.
+| Parameter     | Type        | Description 
+| -----------   | :-----------: | ----------- |  
+| piece_name    | `string`    | `required` A piece's name. |
+| image_name    | `string`    | `required` Name of the image uploaded for the piece. |
+| description    | `string`    | `optional` A description of the piece (max length: 400 characters). |
+
+**Response**
+
+Returns a single piece object containing the following data.
+| Key           | Type        | Description 
+| -----------   | ----------- | ----------- |
+| piece_id       | `string`    | Unique value assigned when a piece in the database. |
+| designer_id    | `string`    | A designer user's unique id. |
+| piece_name    | `string`    | A piece's name. Determined by the designer. |
+| image_name    | `string`    | Name of the image uploaded for the piece. |
+| description    | `string`    | A description of the piece. |
+
+**Example**
+
+Request:
+```http
+POST /users/create
+```
+Request Body:
+```json
+{
+  "piece_name": "Red Monty",
+  "image_name": "IMG_46.jpg",
+  "description": ""
+}
+```
+Response:
+```json
+{
+    "piece_id": "1rjJDBYmLo5pgT7",
+    "designer_id": "YRmNWCQuQdAWbR8u7eP4",
+    "piece_name": "Red Monty",
+    "image_name": "1rjJDBYmLo5pgT7.jpg",
+    "description": ""
+  }
+```
+***
+
+**PATCH** /pieces/{piece_id} HTTP/1.1
+
+Updates information for a specific piece.
+| Parameter     | Type        | Description 
+| -----------   | :-----------: | ----------- |  
+| piece_name    | `string`    | `optional` A piece's name. |
+| image_name    | `string`    | `optional` Name of the image uploaded for the piece. |
+| description    | `string`    | `optional` A description of the piece (max length: 400 characters). |
+
+**Response**
+
+Returns a single piece object containing the following data.
+| Key           | Type        | Description 
+| -----------   | ----------- | ----------- |
+| piece_id       | `string`    | Unique value assigned when a piece in the database. |
+| designer_id    | `string`    | A designer user's unique id. |
+| piece_name    | `string`    | A piece's name. Determined by the designer. |
+| image_name    | `string`    | Name of the image uploaded for the piece. |
+| description    | `string`    | A description of the piece. |
+
+**Example**
+
+Request:
+```http
+PATCH /users/H094iAjZyPWr4rm0y9WL
+```
+Request Body:
+```json
+{
+  "piece_name": "Red Python",
+  "description": "This sizzling masterpiece entwines the fierce allure of red with a sleek python pattern. The sultry silhouette, adorned with glistening serpent scales, invites you to embrace the wild side. A bold statement, embodying passion and power in every slither."
+}
+```
+Response:
+```json
+{
+  "piece_id": "1rjJDBYmLo5pgT7",
+  "designer_id": "YRmNWCQuQdAWbR8u7eP4",
+  "piece_name": "Red Python",
+  "image_name": "1rjJDBYmLo5pgT7.jpg",
+  "description": "This sizzling masterpiece entwines the fierce allure of red with a sleek python pattern. The sultry silhouette, adorned with glistening serpent scales, invites you to embrace the wild side. A bold statement, embodying passion and power in every slither."
+}
+```
