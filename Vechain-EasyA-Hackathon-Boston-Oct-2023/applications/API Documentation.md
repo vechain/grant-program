@@ -9,48 +9,121 @@ Sozo's REST API is structured in a way that allows developers to easily fetch da
 
 ## Endpoints
 ### Users
-**GET** /user/list
+**GET** /designers
 
-Returns a list of all users.
+Returns a list of all designer users.
 | Parameter     | Type        | Description 
 | -----------   | ----------- | ----------- |  
-| limit          | `integer`    | `optional` Maximum number of users to return; Default is 20.  |
+| limit          | `integer`    | `optional` Maximum number of designer users to return; Default is 20.  |
 
 **Reponse**
 
-Returns an array objects containing the following data.
+Returns an array of objects containing the following data.
 | Key           | Type        | Description 
 | -----------   | ----------- | ----------- |
-| id            | `integer`   | Auto-incremented value assigned when user is created in the database |
+| designer_id   | `string`   | Unique value assigned when user is created in the database. |
 | username      | `string`    | The name a user's enters for login; Also the name displayed to other users in the app. |
-| role          | `string`    | A user's role (either "designer" or "client") |
+| role          | `string`    | A user's role (always "designer"). |
+| first_name    | `string`    | A user's first name. |
+| last_name    | `string`    | A user's last name. |
+| active_status    | `binary`    | 1 to indicate active **OR** 0 to indicate not active |
 
 **Example**
 
 Request:
 ```
-GET /users/list?limit=42
+GET /designers?limit=42
 ```
 Response:
 ```json
 [
   {
-  "id": 1,
+  "designer_id": "hTwR4QEXHYPf7Ua6tjjM",
   "username": "DrewDream",
-  "role": "designer"
+  "role": "designer",
+  "first_name": "Drew",
+  "last_name": "Thompson"
   },
   {
-  "id": 2,
+  "designer_id": "Hfkq7urNonHMonGREKU3",
   "username": "TaylorJ",
-  "role": "client"
+  "role": "designer",
+  "first_name": "Taylor",
+  "last_name": "Joslin"
   },
-  // ...
+  {...}
 ]
+```
+
+**GET** /designers/:id
+
+Returns an object representing a single designer user.
+| Parameter     | 
+| ----------- |  
+| No parameters  |
+
+**Reponse**
+
+Returns a single user object containing the following data.
+| Key           | Type        | Description 
+| -----------   | ----------- | ----------- |
+| designer_id   | `string`   | Unique value assigned when user is created in the database. |
+| username      | `string`    | The name a user's enters for login; Also the name displayed to other users in the app. |
+| role          | `string`    | A user's role (always "designer"). |
+| first_name    | `string`    | A user's first name. |
+| last_name     | `string`    | A user's last name. |
+| active_status    | `binary`    | 1 to indicate active **OR** 0 to indicate not active |
+
+**Example**
+
+Request:
+```
+GET /users/4aMvjt3NnNTAeDdM5tri
+```
+Response:
+```json
+{
+  "designer_id": "hTwR4QEXHYPf7Ua6tjjM",
+  "username": "DrewDream",
+  "role": "designer",
+  "first_name": "Drew",
+  "last_name": "Thompson"
+}
 ```
 
 `POST`
 
 `DELETE`
+
+Returns an object representing a single designer user.
+| Parameter     | 
+| ----------- |  
+| No parameters  |
+
+**Reponse**
+
+Returns an object containing the following data:
+| Key           | Type        | Description 
+| -----------   | ----------- | ----------- |
+| designer_id   | `string`   | Unique value assigned when user is created in the database. |
+| username      | `string`    | The name a user's enters for login; Also the name displayed to other users in the app. |
+| deleted | `boolean`    | `true` to indicate account was successfully deleted **OR** `false` to indicate the account was not deleted. |
+
+**Example**
+
+Request:
+```
+DELETE /users/4aMvjt3NnNTAeDdM5tri
+```
+Response:
+```json
+{
+  "designer_id": "hTwR4QEXHYPf7Ua6tjjM",
+  "username": "DrewDream",
+  "deleted": true
+}
+```
+
 ***
 ### Clients
 ***
