@@ -267,7 +267,7 @@ Response:
 ```
 ***
 
-### Jobs
+## Jobs
 **GET** /jobs/{job_id}
 
 Retrieve details of a single job, established between a client and designer user.
@@ -385,7 +385,7 @@ Response:
 ```
 ***
 
-### Pieces
+## Pieces
 ***
 **GET** /pieces
 
