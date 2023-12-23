@@ -31,7 +31,7 @@ As different philosophies and Vechain implementation ideas emerged while working
 - [BCG One-pager](https://docs.google.com/presentation/d/1Luw6KogeUF-JXmZVR5bVUMikw8UoAuFe/edit#slide=id.p1)
 - [Pitch Deck](https://www.canva.com/design/DAFwn8CgBDg/FY_CvfOqyIX_y02IhlxmWg/edit?utm_content=DAFwn8CgBDg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [UI Mockups/designs](https://www.figma.com/file/c6xrEmp5I8KnHepTvaHxwK/artika-refashion?type=design&node-id=0-1&mode=design&t=uaGC8cLWyiq9SIkn-0)
-- [API specifications](https://github.com/KShervington/sozo-infashion-grant/blob/bf5ef0369162667eabfb7c9b4675d706195130a6/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/API%20Documentation.md)
+- [API specifications](https://github.com/KShervington/sozo-infashion-api/blob/5374a16ffee270c1c615674251f3ab389a76f678/API%20Reference.md)
 
 ### Tech stack
 
