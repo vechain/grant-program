@@ -173,13 +173,13 @@ With this additional feed, a EUR value for VET/VTHO can also be derived from the
 
 #### Overview
 
-|  | Contract | Reporter | CCIP | Status-Page | Documentation | Total |
-| - | -: | -: | -: | :- | :- | :- |
-| Estimated Duration | 4d | 8d | 4d | 1.5d | 2d | 19.5d |
-| Full-time equivalent (FTE) | 1 | 1 | 1 | 1 | 1 | 1 |
-| Cost (up to $ 30,000) | $4,000 | $8,000 | $4,000 | $1,500 | $2,000 | $19,500 |
+|  | Contract | Reporter | CCIP | Status-Page | Documentation | Decentralization | Gas Fees | Total |
+| - | -: | -: | -: | :- | :- | :- | :- | :- |
+| Estimated Duration | 4d | 8d | 4d | 1.5d | 2d | 3d | 0.25d | 19.25d |
+| Full-time equivalent (FTE) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 
+| Cost (up to $ 30,000) | $4,000 | $8,000 | $4,000 | $1,500 | $2,000 | $3,000 | $250 | $22,750 |
 
-The gas fees for the updates and running the required backend will be a personal investment. 
+Running the required backend and gas fees exceeding the planned expense on top will be a personal investment.
 
 
 #### Milestone 1 — Contract
@@ -241,6 +241,27 @@ The gas fees for the updates and running the required backend will be a personal
 
 * Delivery will be a link to a new section on docs.vechain.energy containing all relevant information needed to use the oracle on TestNet and MainNet, learn about the data quality and links to the source code.
 * Instructions to setup a self-hosted-instance can be used to test the complete delivery.
+
+#### Milestone 6 — Decentralization
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 6.1 | Multi-Reporter | Contracts are able to manage multiple reporters and extract the median value from all posted values |
+| 6.2 | Documentation | Documentation on how to run multiple Reporters to achieve a decentralized feed reporting from different entitities |
+
+* Delivery will be a public repository with the contracts source code
+* Functionality is proven with unit tests
+* Documentation is a markdown in the repository
+
+
+#### Milestone 7 — Gas Fees
+
+| Number | Deliverable | Specification |
+|-|-|-|
+| 7.0 | VTHO | Running the oracle is estimated to cost 10000 VTHO /yearly. This milestone is meant to purchase VTHO on market value on project start.
+
+The VTHO purchased will be put into a delegation wallet and used for solely paying the gas fees of all reporters.
+
 
 #### Community engagement
 
