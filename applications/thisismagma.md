@@ -11,20 +11,20 @@
 
 Please provide the following:
 
-- Magma is an intuitive platform designed to bring agility to the real estate industry. The Magme platform enables real estate stakeholders to create a unique digital asset of a building from a digital twin, which includes all the technical and contractual documentation of the building's objects and elements. This digital asset is called the Digital Twin Token (DTT®).
+- Magma is an intuitive platform designed to bring agility to the real estate industry. The Magma platform enables real estate stakeholders to create a unique digital asset of a building from a digital twin, which includes all the technical and contractual documentation of the building's objects and elements. This digital asset is called the Digital Twin Token (DTT®).
 
-- We chose VeChain for the Digital Twin Token as this blockchain is based on the Proof of Authority consensus and so requires significantly low gas fees. Vechain's global plans to establish itself as the leader in sustainable and environmentally responsible blockchain solutions joins our approach on building a breakthrough platform for real estate which faces significant ESG challenges. Moreover our CTO jurgen Schouppe has extensive experience on the Vechain blockchain.
+- We chose vechain for the Digital Twin Token as this blockchain is based on the Proof of Authority consensus and so requires significantly low gas fees. vechain's global plans to establish itself as the leader in sustainable and environmentally responsible blockchain solutions joins our approach on building a breakthrough platform for real estate which faces significant ESG challenges. Moreover our CTO Jurgen Schouppe has extensive experience on the vechain blockchain.
 
 - To sum up :
 
-    * Early investors and supporters of Vechain
+    * Early investors and supporters of vechain
     * Low Gas fee
     * Fee Delegation technology
     * Faster transaction confirmation times
  
-- We will use MPP, ATP and also use the connex compatabible wallet from safehaven Comet to interact with the chain.
+- We will use MPP, ATP and also use the connex compatible wallet (Comet) from Safe Haven, or alternative to interact with the chain.
 
-    * VIP-180 : MAgma Governannce Token (ERC-20)
+    * VIP-180 : Magma Governannce Token (ERC-20)
     * ERC-1155 : Digital Twin Token
     * ERC-721 : Magma Access Token
     * Comet
@@ -35,31 +35,26 @@ Please provide the following:
 ### Project Details
 
 
-* login
+* Login
 
 ![P1. 1](https://github.com/thisismagma/media/blob/main/1.jpg)
 
-* Building Index levels
+* Building Index Levels
 
 ![P2. 2](https://github.com/thisismagma/media/blob/main/2.jpg)
 
-* Walet + DTT page
+* Wallet + DTT® Page
 
 ![P3. 3](https://github.com/thisismagma/media/blob/main/3.jpg)
 
-* Activity page
+* Activity Page
 
 ![P4. 4](https://github.com/thisismagma/media/blob/main/4.jpg)
 
-
-- API specifications of the core functionality
-
-* Magma API : https://api-preprod.mymagma.com/api/#/default/HealthCheckController_getHealthCheck
+* API specifications of the core functionality
+* Magma API : https://api-preprod.mymagma.com/api
 * Github : https://github.com/thisismagma/magma-api
-
- -
-
-- An overview of the technology stack to be used
+* An overview of the technology stack to be used
 
 #### Technology stack
 Front End:
@@ -67,9 +62,7 @@ Front End:
 
 Back End:
 - NestJS (NodeJS)
-- we don't share publicy our infrastructure specs, upon requesrt we are happy to share this with the grant commitee privately
-
-
+- We don't share publicy our infrastructure specs, upon request we are happy to share this with the grant commitee privately
 - PoC/MVP or other relevant prior work or research on the topic
 
 https://app-preprod.mymagma.com 
@@ -85,6 +78,7 @@ Magma is revolutionary in the sense that our platform creates an NFT of a buildi
 All the building's elements, objects and documents will be uploaded on Magma and their history will be recorded thanks to blockchain technology.
 
 In addition, we created the Magma Index which evaluate the level of digitization of the building thanks to the data uploaded, but also to measure its environmental performance.
+
 ## Team 
 
 ### Team members
@@ -129,8 +123,6 @@ Please describe the team's relevant experience. If the project involves developm
 * Anthony Carta - https://www.linkedin.com/mwlite/in/anthony-carta-bim-manager
 * Michael Benhamou - https://www.linkedin.com/mwlite/in/michael-benhamou-510165
 
- 
-
 ## Development Roadmap 
 #### Overview
 
@@ -147,20 +139,20 @@ Please describe the team's relevant experience. If the project involves developm
 
 #### M1. Create MUT and MAT
 
-1) build and deploy a VIP-181 access token
-2) build and deploy a VIP-180 utilty token
+1) Build and deploy a VIP-181 Access Token (MAT)
+2) Build and deploy a VIP-180 Utilty Token (MUT)
 
-#### M2: Create a DTT
+#### M2: Create a DTT®
 
-1) Develop the DTT, a ERC-1155 based NFT tree to contain amm building metadata
-2) Add storefactory logic to the DTT
-3) Deploy on mainnent
+1) Develop the DTT®, a ERC-1155 based NFT tree to contain all building metadata
+2) Add storefactory logic to the DTT®
+3) Deploy on mainnet
 
 
-#### M3: Integrate a paimentment system in the platform to perform reward paiements for stakeholders
+#### M3: Integrate a payment system in the platform to perform reward payments for stakeholders
 
-1) Intergrate the ATP for MUT token distribution
-2) use MPP for deploy the DTT for custodian based buildings
+1) Integrate the ATP for MUT token distribution
+2) Use MPP to deploy the DTT® for custodian based buildings
 
 #### Community engagement
 
@@ -183,7 +175,7 @@ Any additional information that you think is relevant to this application that h
 
 Possible additional information to include:
 - What work has been done so far? 
-V1.0 is in auditing phase
+v1.0 is in auditing phase
 - Are there any teams who have already contributed (financially) to the project?
 No
 - Have you applied for other grants so far?
