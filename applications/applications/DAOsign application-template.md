@@ -8,21 +8,29 @@
 
 ### Overview
 
-DAOsign is a decentralized platform for agreements and automated workflows, with publicly verifiable, cryptographic proofs-of-signature, designed for DAOs and WEB3 companies.
+DAOsign is a smart signature and workflow automation platform, with publicly verifiable, cryptographic proofs-of-signature, designed for DAOs and WEB3 companies.
 
 Verifiable Signature is at the core of DAOsign and is based on 3 key proofs: proof-of-identify, proof-of-authority, and proof-of-agreement. Utilizing these proofs, DAOsign provides a platform to design and configure complex workflows that combine smart-contract-based automation with authorized approvals.
 
-DAOsign addresses the need for a secure and transparent way to sign, manage and automate agreements of all kinds with a configurable level of anonymity disclosure.
+One of the most important features of blockchain is privacy and the ability to remain anonymous, especially when it comes to signing important documents. One of the reasons that motivated us to create DAOsign is our previous work as a consulting agency. We often encountered a situation where signing legal agreements with clients was challenging because they did not want to reveal their identities. Neither DocuSign nor other signature platforms could solve this problem. Subsequently, we decided to create a product that addresses the need for a secure and transparent way to sign, manage, and automate agreements of all kinds with a configurable level of anonymity disclosure. 
+
+DAOsign is blockchain agnostic, so users can choose where to store the proofs. DAOsign already allows users to store proofs of signature in the IPFS, Ethereum launch is planned in the nearest time. Also, recently, we received grants from SUI and Polkadot, so DAOsign users will be able to use these blockchains for proofs storing purposes soon as well.
+
+Furthermore, DAOsign provides a robust Governance and Policy Builder platform to offer governance, workflow automation, and controls for organizational policies and procedures.
+
+We also recently discovered and implemented a use case for commodity trading (grain trading), which shows that DAOsign goes beyond web3 and can also be used in web2.
+
+These features and use cases (our team continues to work on to increase their number) are essential for any ecosystem that strives for improved privacy and security.
+
+We suggest watching a demo for a better understanding of how DAOsign works: https://www.youtube.com/watch?v=FdctkL6eShw
+
+And we invite you to try our platform on the Testnet: https://testnet.daosign.org/
 
 ### Project Details
 
 **Core DAOsign components**![image](https://github.com/TetianaRiabova/grant-program/assets/122782612/69a01978-5c7f-4997-85e4-00ad86e216d5)
 
-**Technical design**
-
-Proofs are implemented in the EIP-712 standard and adjusted to ink! ecosystem. Proofs digned using user’s EVM private key. We are supporting this standard in Ink! smart contract to be able to verify the signature in ink! smart contract. Also, we are implementing an adjusted EIP-2771 standard to allow Agreement Signers gas-free delegation to publish proof on-chain. EIP-712 standard will be used for proofs, adaptation means that user data is converted to a binary bit; we use its hash (serialization vs deserialization) And EIP-2771 standard - to securely send the proof and receive it. So that EVM standards will be adapted to ink! ecosystem requirements. Example (interfaces) of the smart contracts can be found here https://github.com/DAOsign/daosign-smart-contracts (Solidity version).
-
-Detailed storyboard can be found here: https://consideritdone.storiesonboard.com/m/PUCLDvQC4kKwoRJ8kbm3MA .
+**DAOsign Stack** ![image](https://github.com/TetianaRiabova/grant-program/assets/122782612/4a0ad112-78c9-43cd-b88e-e9f374b60912)
 
 **Architectural diagram**![image](https://github.com/TetianaRiabova/grant-program/assets/122782612/789d821d-86c8-4a55-b174-aad4b86214bc)
 
@@ -37,16 +45,14 @@ Agreement Proof entity represents 3 proofs:
 The detailed Proof Technical Design is [here](https://github.com/w3f/Grants-Program/files/12183424/Proofs.Technical.Design.-.DAOSign.pdf)
 
 
-
 Pitch Deck: https://docsend.com/view/sbexkxn5su3ahdg8
 
-One-pager: https://drive.google.com/file/d/1lDWNBoz18y11kARGxZpQrN_ca2muDmT7/view?usp=sharing
 
 ### Ecosystem Fit
 
-We believe that DAOsign can benefit the Vechain ecosystem by enhancing governance, fostering collaboration, expanding use cases, ensuring trust and security, and promoting cross-chain compatibility.
+We believe that DAOsign can seamlessly integrate into the Vechain ecosystem by providing a platform to manage decision-making processes in a decentralized manner. Our target audience extends beyond DAOs to include all companies that need to handle agreement/policy management, including the use case for managing Grants, which you can find in our pitch deck. The goal of this use ase is to simplify all stages of the funding process. We didn't find any similar projects in Vechain Ecosystem.
 
-We have 2 categories of competitors: legacy electronic signature tools such as DocuSign and web3 signature tools such as ethsign.xyz. We have made some research and you can find the detailed competitive landscape in the one-pager above. 
+We have 2 categories of competitors: legacy electronic signature tools such as DocuSign and web3 signature tools such as ethsign.xyz. We have made a detailed research and you can find the competitive landscape in the pitch deck above.
 
 ## Team 
 
@@ -58,7 +64,7 @@ Ramil Amerzyanov - CTO
 
 Misha Kushka - Technical Lead
 
-Oleksandra Burmenska - Business Development Director
+Oleksandra Burmenska - Head of Partnerhips
 
 ### Team Website
 
@@ -66,60 +72,54 @@ https://daosign.org/
 
 ### Team's experience
 
-**Eugene Fine**: CEO, Founder Background: Over 20 years of building, scaling, and managing technology organizations. Past experience:
+**Eugene Fine (CEO & Founder)** - Over 20 years of building, scaling, and managing technology organizations. Recent experience includes a CTO role at Explorer Surgical Corp., which was recently acquired by GHX, and VP of Engineering at GHX. Eugene is a founder at consideritdone.tech, a Blockchain/WEB3 development studio.
+GitHub: https://github.com/ConsiderItDone
+LinkedIn link: https://www.linkedin.com/in/eugenefine/
 
-- CTO for https://www.explorersurgical.com
-- tech leadership contribution to https://bird.coach
-- tech advisor and facilitator for polywrap.io to name a few. Also, Eugene is a founder at consideritdone.tech and daosign.org
+**Ramil Amerzyanov (CTO)** - 15+ years building complex technical architecture and software solutions., focusing on Blockchain/WEB3 technologies over the past 7 years. Recent projects include the Fractional CTO role at Landslide Network and CTO role at consideritdone.tech.
+GitHub: https://github.com/ramilexe
+LinkedIn link: https://www.linkedin.com/in/ramil-amerzyanov/
 
 
-**Ramil Amerzyanov**: Solution Architect, CTO Background: 15+ years in building complex enterprize solutions (all SDLC aspects), including 7+ years in Blockchain industry. Past projects include:
+**Misha Kushka (Technical Lead)** - 6+ years developing Blockchain/WEB3 technical architecture and software solutions. Recent projects include Lead Technical Architect roles at Akiva Capita! Holdings and Avalanche
+GitHub: https://github.com/kushkamisha
 
-- contribution to Ethereum standards development
-- tech leadership for https://docsend.com/view/fjrvjtyzgm7wgrkj projects
 
-**Oleksandra Burmenska**: Director of Business Development and Partnerships Background: Engineering, MBA, and Psychology diplomas. Over a decade of experience in IT: development and managerial positions, last five years focused on the Blockchain industry. Experience with enterprises and startup companies, scaling teams, and building blockchain products. Previous blockchain projects include:
+**Oleksandra Burmenska (Head of Partnerships)** - Over 10 years of experience in Business Development and Management roles in Technology organizations, focusing on Blockchain/WEB3 technologies over the past 5 years. Recent projects include contributions to NEAR, Axelar, GnosisSafe, and Avalanche ecosystems.
+GitHub: github.com/burmenska
+LinkedIn link: https://www.linkedin.com/in/oleksandra-burmenska/
 
-- successfully managed ICOs during 2017-2019 (example: Õpet – Medium )
-- contribution to Polywrap, NEAR, Axelar, GnosisSafe, Avalanche ecosystems
-- contribution to nodle.com ecosystem: managing the block explorer development (before it moved to Subscan), leading the Landslide - Avalanche subnet development,etc.
-
-**Misha Kushka**: Tech Lead and Blockchain Developer Background: 6+ years of professional experience as a developer, 4+ years of professional experience in the Blockchain field, 4+ years experience as a lead
-
-Our portfolio: https://docsend.com/view/fjrvjtyzgm7wgrkj
- 
+Our portfolio with the previous projects: https://docsend.com/view/fjrvjtyzgm7wgrkj
 
 ### Team Code Repos
 
-https://github.com/ConsiderItDone,
+- [DAOsign Github](https://github.com/DAOsign)
 
-https://github.com/ramilexe,
+- [Eugene Fine (CIDT)](https://github.com/ConsiderItDone)
 
-https://github.com/kushkamisha,
+- [Ramil Amerzyanov](https://github.com/ramilexe)
 
-https://github.com/burmenska
+- [Misha Kushka](https://github.com/kushkamisha)
+
+- [Oleksandra Burmenska](https://github.com/burmenska)
 
 ### Team LinkedIn Profiles
 
-https://www.linkedin.com/in/eugenefine/
+- [Eugene Fine](https://www.linkedin.com/in/eugenefine/)
 
-https://www.linkedin.com/in/ramil-amerzyanov/
+- [Ramil Amerzyanov](https://www.linkedin.com/in/ramil-amerzyanov/)
 
-https://www.linkedin.com/in/mkushka/
+- [Misha Kushka](https://www.linkedin.com/in/mkushka/)
 
-https://www.linkedin.com/in/oleksandra-burmenska/
+- [Oleksandra Burmenska](https://www.linkedin.com/in/oleksandra-burmenska/)
 
 ## Development Roadmap 
 
-MVP on Testnet - Q2 2023
-
-Blockchain Integration - Q2 2023
-
-Snapshot + GPT3 Integration - Q3 2023 
-
-Agreement Invoicing - Q3 2023 
-
-Plugins Marketplace and Tokenization - Q4 2023
+| Grant Milestones | Detail of work to be implemented to achieve milestone | Intended Outcome for Ecosystem/Users | Expected time required for delivery | Resource allocation |
+|-------------------|--------------------------------------------------------|----------------------------------------|-------------------------------------|----------------------|
+| Vechain Testnet Version | The ability to store proofs on the Vechain Testnet blockchain and verify them there. "Create an agreement" implementation; Assigning signers and observers; Implementation of Proof-of-Authority, Implementation of Proof-of-Signature, Implementation of Proof-of-Agreement. Early adopters program preparation |  Ability to choose different user verifications for Agreement signers and verify user profiles. | Q1-Q2 2024 | 20,000 |
+| Incentivized Testnet version | Early Adopters Program launch; Online onboarding events; Feedback collecting; Roadmap adjustment | Adjusted roadmap based on Early Adopters' feedback | Q1-Q2 2024 | - |
+| Mainnet version | Launching blockchain-stored and verified proofs version of DAOsign. Production support System resiliency; NFT-based Signer Authority Verification System | Publicly verifiable, flexible Signer Identity Verification System | Q2-Q3 2024 | 10,000 |
 
 
 #### Community engagement
@@ -132,4 +132,4 @@ Discord: https://discord.gg/AwnhGFbT8Z
 
 Telegram: https://t.me/DAOsign
 
-Please, take a look at our community statistics [here](https://docs.google.com/document/d/16rOe-6r-mftePwb_88IU6iOkRCEA1cxu1FNcE5Ep4uA/edit?usp=sharing)
+Although we have not allocated funds for the social media, we have a great plan that we are following. We are actively maintaining our social networks, posting regular updates, guides, and will also soon be holding AMAs with our partners. More detailed statistics can be found here: https://docs.google.com/document/d/1Lo0XGODuihE3Ncn-8Wq30BeuH2XalzFrxI9uahY8Ad0/edit?usp=sharing. Also feel free to check our latest article with annual social media summary: https://www.linkedin.com/pulse/daosign-2023-numbers-social-media-edition-daosign-11axe%3FtrackingId=7ikItZPUMEgRYZjzloxwMw%253D%253D/?trackingId=7ikItZPUMEgRYZjzloxwMw%3D%3D
