@@ -59,7 +59,7 @@ Our project is aligned with VeChain's commitment to innovation, technology, and 
 - Pranav Kumar
 - Yash Gupta
 - Sarvottam Kumar Mishra
-- GK Raghav
+- G K Dvijesh Raghav
 
 ### Team Background
 
@@ -80,41 +80,40 @@ Our team comprises four dynamic members who are currently in their final year of
 
 ## Development Roadmap
 
-_Total Funds:_ $30,000 USD
+### Overview
 
-| Milestone                                       | Cost        | Status      | Man-Days |
-| ----------------------------------------------- | ----------- | ----------- | -------- |
-| _M1. NFC Integration & NFT Minting_             | $10,000 USD | In Progress | 30       |
-| _M2. NFT Marketplace Development_               | $10,000 USD | Planned     | 40       |
-| _M3. T-shirt Printing Integration & Operations_ | $10,000 USD | Planned     | 60       |
+|   |  Milestone 1 | Milestone 2 | Milestone 3 | Total |
+| - | - | - | - | - |
+| Estimated Duration | 30 d | 40 d | 60 d | 130 d |
+| Full-time equivalent (FTE) | 1 | 1 | 1 | 3 |
+| Cost (up to $ 30,000) | $ 10,000 | $ 10,000 | $ 10,000 | $ 30,000 |
 
-_Milestone Details_
+### Milestone 1 — NFC Integration & NFT Minting (In Progress)
 
-_M1. NFC Integration & NFT Minting (In Progress)_
+| Number | Deliverable | Specification |
+|-|-|-|
+| 0a. | Company | PVT LTD |
+| 0b. | Documentation | Comprehensive documentation for NFC integration and NFT minting, including step-by-step guides and code comments. |
+| 1 | NFC Tag Integration | Implementation of NFC technology to link physical T-shirts with their corresponding NFTs. |
+| 2 | NFT Minting Enhancement | Development of a mechanism to allow any wallet to mint NFTs, supporting multiple edition and single edition NFTs. |
+| 3 | Metadata Attachment | Enable the attachment of metadata to newly minted NFTs, providing detailed information about the associated artwork. |
 
-- _NFC Tag Integration:_ Implement NFC technology to link physical T-shirts with their corresponding NFTs, allowing users to interact with the digital art through the physical item.
+### Milestone 2 — NFT Marketplace Development (Planned)
 
-- _NFT Minting Enhancement:_ Build a mechanism to allow any wallet to mint NFTs, including multiple edition and single edition NFTs.
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1 | Marketplace Creation | Development of a decentralized NFT marketplace within the dApp, facilitating browsing, buying, and trading of newly minted NFTs. |
+| 2 | Web Interface Enhancement | Implementation of a user-friendly web interface to push NFTs to the marketplace and attach metadata to specific editions. |
+| 3 | Sales and Trading | Enable users to list their NFTs for sale, perform buy and trade transactions, and track their NFT portfolio. |
 
-- _Metadata Attachment:_ Enable the attachment of metadata to newly minted NFTs, providing detailed information about the associated artwork.
+### Milestone 3 — T-shirt Printing Integration & Operations (Planned)
 
-_M2. NFT Marketplace Development (Planned)_
-
-- _Marketplace Creation:_ Develop a decentralized NFT marketplace within the dApp, enabling users to browse, buy, and trade newly minted NFTs.
-
-- _Web Interface Enhancement:_ Implement a user-friendly web interface to push NFTs to the marketplace and attach metadata to specific editions.
-
-- _Sales and Trading:_ Enable users to list their NFTs for sale, perform buy and trade transactions, and track their NFT portfolio.
-
-_M3. T-shirt Printing Integration & Operations (Planned)_
-
-- _Printing Operations:_ Integrate T-shirt printing facilities to bring the physical aspect of fashion into the project. This includes selecting high-quality materials, printing technology, and ensuring efficient operations.
-
-- _Inventory Management:_ Implement robust inventory management systems to track T-shirt production, availability, and sales.
-
-- _Shipping and Logistics:_ Streamline the shipping and logistics process to ensure timely delivery of T-shirts to customers worldwide.
-
-- _Customer Support:_ Establish a customer support system to address inquiries, returns, and ensure a positive customer experience.
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1 | Printing Operations | Integration of T-shirt printing facilities, including the selection of high-quality materials and printing technology for efficient operations. |
+| 2 | Inventory Management | Implementation of robust inventory management systems to track T-shirt production, availability, and sales. |
+| 3 | Shipping and Logistics | Streamlining of the shipping and logistics process to ensure timely delivery of T-shirts to customers worldwide. |
+| 4 | Customer Support | Establishment of a customer support system to address inquiries, returns, and ensure a positive customer experience. |
 
 _Additional Notes:_
 
