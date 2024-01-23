@@ -122,30 +122,37 @@ In addition to the project and team repos mentioned below, we would also like to
 
 ### Overview
 
-|                            | Milestone 1 | Milestone 2 | Total  |
-| -------------------------- | ----------- | ----------- | ------ |
-| Estimated Duration         | 44 d        | 20 d        | 64 d   |
-| Full-time equivalent (FTE) | 2           | 1           | 3      |
-| Cost (up to $ 30,000)      | 20,000      | 10,000      | 30,000 |
+|                            | Milestone 1 | Milestone 2 | Milestone 3 |Total  |
+| -------------------------- | ----------- | ----------- | ----------- | ------ |
+| Estimated Duration         | 14 d        | 30 d        | 20 d        | 64 d   |
+| Full-time equivalent (FTE) | 2           | 2           | 2        | 6      |
+| Cost (up to $ 30,000)      | 7,000      | 13,000      | 10,000       | 30,000 |
 
 ### Milestone 1:
 
 | Number | Deliverable                          | Specification                                                                                                                                      |
 | ------ | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0a.    | Onboarding & Account Creation (CRUD) | Facilitate user onboarding via various interfaces and enable account creation for both companies and users                                         |
-| 0b.    | CRUD for Open Jobs                   | Offer the functionality to create, read, update, and delete job listings, including all necessary information, and publish them on the marketplace |
-| 0c.    | Referral & Application               | Enable users to refer job listings from the marketplace to other users and allow these users to apply directly.                                    |
-| 1a.    | Documentation and Testing            | Ensure comprehensive documentation and thorough testing of all platform features and functionalities                                               |
+| 0a.    | Documentation and Testing            | Ensure comprehensive documentation and thorough testing of all platform features and functionalities                                               |
+| 1a.    | Onboarding & Account Creation (CRUD) | Facilitate user onboarding via various interfaces and enable account creation for both companies and users                                         |
 
 ### Milestone 2:
+
+| Number | Deliverable                          | Specification                                                                                                                                      |
+| ------ | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0a.    | Documentation and Testing            | Ensure comprehensive documentation and thorough testing of all platform features and functionalities                                               |
+| 2a.    | CRUD for Open Jobs                   | Offer the functionality to create, read, update, and delete job listings, including all necessary information, and publish them on the marketplace |
+| 2b.    | Referral & Application               | Enable users to refer job listings from the marketplace to other users and allow these users to apply directly.                                    |
+
+
+### Milestone 3:
 
 | Number | Deliverable                                                                    | Specification                                                                                                                                                                                                                                                              |
 | ------ | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0a.    | Documentation                                                                  | We will provide simple documentation for each contract, explaining their main functions nad their roles.                                                                                                                                                                   |
 | 0b.    | Testing Guide                                                                  | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. We will describe how to run both the [Foundry](https://github.com/foundry-rs/foundry) and Vechain testnet tests.                                                           |
-| 1a.    | Smart Contracts: Development                                                   | We will develop smart contracts that will deal with the payment handling                                                                                                                                                                                                   |
-| 1b.    | Smart Contracts: Testing with [Foundry](https://github.com/foundry-rs/foundry) | We will create several tests in [Foundry](https://github.com/foundry-rs/foundry). Because it allows us to run a mock up of an EVM compatible blockchain and simulate the passage of time, we can run several tests in a matter of seconds, making it easier for debugging. |
-| 1c.    | Smart Contracts: Testing with Vechain Testnet                                  | We will replicate all the [Foundry](https://github.com/foundry-rs/foundry) tests but with regular Python scripts, using the thor-requests library and the testnet. This way we can make sure there is no functionality loss between blockchains.                           |
+| 3a.    | Smart Contracts: Development                                                   | We will develop smart contracts that will deal with the payment handling                                                                                                                                                                                                   |
+| 3b.    | Smart Contracts: Testing with [Foundry](https://github.com/foundry-rs/foundry) | We will create several tests in [Foundry](https://github.com/foundry-rs/foundry). Because it allows us to run a mock up of an EVM compatible blockchain and simulate the passage of time, we can run several tests in a matter of seconds, making it easier for debugging. |
+| 3c.    | Smart Contracts: Testing with Vechain Testnet                                  | We will replicate all the [Foundry](https://github.com/foundry-rs/foundry) tests but with regular Python scripts, using the thor-requests library and the testnet. This way we can make sure there is no functionality loss between blockchains.                           |
 
 ## Future Plans
 
