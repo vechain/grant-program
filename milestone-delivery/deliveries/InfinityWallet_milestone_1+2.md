@@ -1,15 +1,21 @@
 # Milestone Delivery :mailbox:
 
-> Only the GitHub account, which is responsible for the pull request of the accepted application is allowed to submit milestones. Don't remove any of the mandatory parts presented in bold letters or as headlines!
+* **PR Link:** https://github.com/vechain/grant-program/pull/186
+* **Milestone Number:** Milestone 1 & 2
 
-**The Ethereum address has been filled out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](../).**  
+#### Milestone 1 — Integration
 
-* **PR Link:** Please, provide a link to the initial accepted pull request of your application to the [VeChain General Grant Program repository](https://github.com/vechain/grant-program). 
-* **Milestone Number:** The number of the milestone
+| Number | Deliverable | Link | Status |
+|-|-|-|-|
+| 1. | Develop out Vechain core functionalities | Available to [download](https://infinitywallet.io/download) on Desktop for Windows, macOS and Linux | Complete |
 
-Please provide a list of all deliverables of the milestone extracted from the initial application and a link to the deliverable itself. Ideally all links inside the below table should include a commit hash, which should be used for testing.
 
-| Number | Deliverable | Link | Notes |
-| ------------- | ------------- | ------------- |------------- |
-| 1. | ... |...| ...| 
-| 2.  | ... |...| ...| 
+#### Milestone 2 — Integration & Live launch
+
+| Number | Deliverable | Link | Status |
+|-|-|-|-|
+| 1. | Vechain token support, allowing easy use of all tokens within the Infinity Wallet | Available to [download](https://infinitywallet.io/download) on Desktop for Windows, macOS and Linux | Complete |
+| 2. | Support Vechain for cross-chain swaps/trading between multiple tokens/chains, and support within the fiat on/off ramp. | Available to [download](https://infinitywallet.io/download) on Desktop for Windows, macOS and Linux | Complete |
+| 3. | Live release of the Vechain integration as a default chain and marketing, with on-going support; | Available to [download](https://infinitywallet.io/download) on Desktop for Windows, macOS and Linux | Complete |
+
+
