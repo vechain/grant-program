@@ -12,7 +12,7 @@ Chen Feng. He is an assistant professor and Tier-2 principal’s research chair 
 
 ## Payment Address
 
-USDT: 0x9e56ebad8696bfdae4f48fbf80ea5ee2d7216953
+USDT: 0x0157982d81b408E180545277Fa2104490cB46ae9
 
 ## Summary
 
