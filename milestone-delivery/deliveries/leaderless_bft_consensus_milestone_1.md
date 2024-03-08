@@ -2,7 +2,7 @@
 
 
 * **PR Link:** https://github.com/vechain/grant-program/pull/2
-* **Milestone Number:** 2
+* **Milestone Number:** 1
 
 M1. Open-sourced demo of the leaderless BFT consensus protocol. 
 
