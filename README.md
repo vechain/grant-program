@@ -1,13 +1,13 @@
 # Vechain General Grant Program <!-- omit in toc -->
 
-## :loudspeaker::loudspeaker: Vechain -EasyA Hackathon Grant Track :confetti_ball: :sparkles: :tada:
+> [!IMPORTANT]
+> **:loudspeaker::loudspeaker: ATTENTION: We have launched a new Grant Program at https://www.vechain.org/grant-program/. For new applications, please visit the new website to submit. We DO NOT accept new applications in this repository. However, for projects that have already been accepted in this repository, you can still submit your delivery here.**
+
+## Vechain -EasyA Hackathon Grant Track
 
 Under the Vechain general grant program, a special track has been created for the Vechain-EasyA hackathon attendees to support their follow-up project development. The track will make funds available for 10 projects on a first-come, first served basis. Each project can be funded up to 30,000 USD. 
 
 Visit [Vechain-EasyA-Hackathon-Boston-Oct-2023](./Vechain-EasyA-Hackathon-Boston-Oct-2023) to learn more about it.
-
----
-
 
 ## Table of contents
 
@@ -106,10 +106,6 @@ The current committee members are:
 Evaluators are individuals who check whether the application is formatted correctly and includes all the requested information in the preliminary review stage. The following is the current list of evaluators:
 
 - [Tony Li](https://github.com/libotony)
-- [Jack Wu](https://github.com/XJWX89)
-- [Tofu Chu](https://github.com/laalaguer)
-- [Mog Lu](https://github.com/mongelly)
-- [Asbert Ma](http://github.com/asbertMa/)
 
 ## Operation Team
 
