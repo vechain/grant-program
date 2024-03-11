@@ -1,7 +1,7 @@
 # Milestone Delivery :mailbox:
 
 * **PR Link:** https://github.com/vechain/grant-program/pull/186
-* **Milestone Number:** Milestone 1
+* **Milestone Number:** 1
 
 #### Milestone 1 — Integration
 
