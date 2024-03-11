@@ -52,10 +52,10 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 
 # 2021
 
-| Project | Category | Link | Funds | First Delivery | Completed |  Milestone Status |
-| --- | :-: | :-: | :-: | :-: | :-: | :-: |
+| Project | Category | Link | Funds | First Delivery | Completed | Milestone Status |
+| --- | :-: | :-: | :-: | :-: | :-: |:-:|
 | [VeBlocks infrastructure upgrade](https://github.com/vechain/grant-program/blob/master/applications/VeBlocks_upgrade.md) | Infrustructure | [Website](https://visuals.veblocks.net/), [GitHub](https://github.com/mirei83/VeChain-PublicNodes#public-vechain-thor-nodes)| $13,800 | ✅ | ✅ | ![](https://geps.dev/progress/100) |
-| [An institutional map of VeChain governance](https://github.com/vechain/grant-program/blob/master/applications/map-of-vechain-governance.md) | Research  | [Applicantion](https://github.com/vechain/grant-program/blob/master/applications/map-of-vechain-governance.md)  | $29,646 | ✅ |   | ![](https://geps.dev/progress/33) |
-| [Leaderless Byzantine Fault Tolerant Consensus](https://github.com/vechain/grant-program/blob/master/applications/leaderless_bft_consensus.md) | Research |  [Applicantion](https://github.com/vechain/grant-program/blob/master/applications/leaderless_bft_consensus.md) | $15,200 | ✅  | ✅  | ![](https://geps.dev/progress/100) |
+| [An institutional map of VeChain governance](https://github.com/vechain/grant-program/blob/master/applications/map-of-vechain-governance.md) | Research  | [Application](https://github.com/vechain/grant-program/blob/master/applications/map-of-vechain-governance.md)  | $29,646 | ✅ |   | ![](https://geps.dev/progress/33) |
+| [Leaderless Byzantine Fault Tolerant Consensus](https://github.com/vechain/grant-program/blob/master/applications/leaderless_bft_consensus.md) | Research |  [Application](https://github.com/vechain/grant-program/blob/master/applications/leaderless_bft_consensus.md) | $15,200 | ✅  | ✅  | ![](https://geps.dev/progress/100) |
 | [Digital Village](https://github.com/vechain/grant-program/blob/master/applications/digital-village.md) | NFT Marketplace |  [Website](https://digitalvillage.io/) | $30,000 |   |   | ![](https://geps.dev/progress/0) |
 | [Village Protocol](https://github.com/vechain/grant-program/blob/master/applications/village-protocol.md) | Social Media |  [Website](https://digitalvillage.io/) | $30,000 |  |  | ![](https://geps.dev/progress/0) |
