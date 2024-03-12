@@ -3,6 +3,12 @@
 This page gives an overview of accepted grants and a link to their GitHubs. Keep in mind that not all of the accepted grants have already delivered software.
 
 ---
+# 2024
+| Project | Category | Link | Funds | First Delivery | Completed | Milestones Status |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: |
+| [Saints Undone](https://github.com/vechain/grant-program/blob/master/applications/SaintsUndone.md) | NFT | [Pitch Deck](https://docs.google.com/presentation/d/1qgL5mxXXOmUQ8UYo9TGLXd3Vq09wq6ZMTGK7OgivXUQ/edit#slide=id.p) | $30,000 | | | ![](https://geps.dev/progress/0) |
+| [Oracle for VET/USD + VTHO/USD Pricing](https://github.com/vechain/grant-program/blob/master/applications/oracle.vechain.energy.md) | Service |[Website](https://vechain.energy) | $22,750 |  ✅ |  ✅ | ![](https://geps.dev/progress/100)  |
+
 
 # 2023
 ### General Grant
@@ -21,8 +27,6 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | [VeFarm](https://github.com/vechain/grant-program/blob/master/applications/veFarm.md) | DEX | [POC ](https://main--symphonious-macaron-41163f.netlify.app/) | $12,500 |  |  | ![](https://geps.dev/progress/0)  |
 | [Infinity Wallet](https://github.com/vechain/grant-program/blob/master/applications/infinity-wallet.md) | Wallet | [Website](https://infinitywallet.io/) | $25,000 | ✅ | ✅ | ![](https://geps.dev/progress/100) |
 | [Extractor](https://github.com/vechain/grant-program/blob/master/applications/extractor.md) | Tools | [Website](https://extractor.hacken.io/) | $30,000 | | | ![](https://geps.dev/progress/0) |
-| [Saints Undone](https://github.com/vechain/grant-program/blob/master/applications/SaintsUndone.md) | NFT | [Pitch Deck](https://docs.google.com/presentation/d/1qgL5mxXXOmUQ8UYo9TGLXd3Vq09wq6ZMTGK7OgivXUQ/edit#slide=id.p) | $30,000 | | | ![](https://geps.dev/progress/0) |
-| [Oracle for VET/USD + VTHO/USD Pricing](https://github.com/vechain/grant-program/blob/master/applications/oracle.vechain.energy.md) | Service |[Website](https://vechain.energy) | $22,750 |  ✅ |  ✅ | ![](https://geps.dev/progress/100)  |
 
 ### EasyA Hackathon Grant Track 
 
