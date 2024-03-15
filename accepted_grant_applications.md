@@ -3,6 +3,12 @@
 This page gives an overview of accepted grants and a link to their GitHubs. Keep in mind that not all of the accepted grants have already delivered software.
 
 ---
+# 2024
+| Project | Category | Link | Funds | First Delivery | Completed | Milestones Status |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: |
+| [Saints Undone](https://github.com/vechain/grant-program/blob/master/applications/SaintsUndone.md) | NFT | [Pitch Deck](https://docs.google.com/presentation/d/1qgL5mxXXOmUQ8UYo9TGLXd3Vq09wq6ZMTGK7OgivXUQ/edit#slide=id.p) | $30,000 | | | ![](https://geps.dev/progress/0) |
+| [Oracle for VET/USD + VTHO/USD Pricing](https://github.com/vechain/grant-program/blob/master/applications/oracle.vechain.energy.md) | Service |[Website](https://vechain.energy) | $22,750 |  ✅ |  ✅ | ![](https://geps.dev/progress/100)  |
+
 
 # 2023
 ### General Grant
@@ -19,19 +25,20 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | [Thisismagma](https://github.com/vechain/grant-program/blob/master/applications/thisismagma.md) | Estate platform | [Website](https://thisismagma.com/)| $30,000 | ✅ | ✅ | ![](https://geps.dev/progress/100)  |
 | [VeBlocks NodeAccess 2023](https://github.com/vechain/grant-program/blob/master/applications/VeBlocks_NodeAccess_2023.md) | Infrustructure | [Website](https://www.veblocks.net/) | $13,040 |  |  | ![](https://geps.dev/progress/0) |
 | [VeFarm](https://github.com/vechain/grant-program/blob/master/applications/veFarm.md) | DEX | [POC ](https://main--symphonious-macaron-41163f.netlify.app/) | $12,500 |  |  | ![](https://geps.dev/progress/0)  |
-| [Infinity Wallet](https://github.com/vechain/grant-program/blob/master/applications/infinity-wallet.md) | Wallet | [Website](https://infinitywallet.io/) | $25,000 | | | ![](https://geps.dev/progress/0) |
+| [Infinity Wallet](https://github.com/vechain/grant-program/blob/master/applications/infinity-wallet.md) | Wallet | [Website](https://infinitywallet.io/) | $25,000 | ✅ | ✅ | ![](https://geps.dev/progress/100) |
 | [Extractor](https://github.com/vechain/grant-program/blob/master/applications/extractor.md) | Tools | [Website](https://extractor.hacken.io/) | $30,000 | | | ![](https://geps.dev/progress/0) |
 
 ### EasyA Hackathon Grant Track 
 
 | Project | Category | Link | Funds | First Delivery | Completed | Milestones Status |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: |
-|  [FibreTag](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/FibreTag.md) | Luxury Tracking  | [GitHub](https://github.com/jjjutla/FibreTag), [Demo](https://www.youtube.com/shorts/-bcWPqIdZ9k)  | $29,000 | ✅   |   | ![](https://geps.dev/progress/25)  |
+|  [FibreTag](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/FibreTag.md) | Luxury Tracking  | [GitHub](https://github.com/jjjutla/FibreTag), [Demo](https://www.youtube.com/shorts/-bcWPqIdZ9k)  | $29,000 | ✅ |   | ![](https://geps.dev/progress/25)  |
 | [PropelPixel](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/Create%20PropelPixel.md) | NFT - Sustainability platform |  [PropelPixel_Slidedeck.pdf](https://github.com/victorwangse/grant-program/files/13048872/PropelPixel_Slidedeck.pdf) |  $15,000 |   |   | ![](https://geps.dev/progress/0)  |
 |  [Movelo](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/movelo.md) |  NFT - Eco-friendly travel to earn | [Website](https://movelo.app/), [MVP GitHub](https://github.com/s-alad/movelo)  | $30,000  |   |   | ![](https://geps.dev/progress/0)  |
 |  [Artika Refashion](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/artika_refashion.md) | NFT - Fashion tracking  | [Website](https://www.artikarefashion.com/), [PoC GitHub](https://github.com/IainWinter/ArtikaRefashion)  |  $30,000 |   |   | ![](https://geps.dev/progress/0)  |
 | [Cypress](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/cypress.md) | Sustainabilty | [Pitch Deck](https://www.canva.com/design/DAFwoshzffw/z1hK9R1SEokgJ87e3lU17g/edit?utm_content=DAFwoshzffw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | $30,000 | | |  ![](https://geps.dev/progress/0)  |
-
+| [Sozo inFashion](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/sozo_infashion.md) | NFT | [PoC GitHub](https://github.com/KShervington/sozo-app) | $30,000 |   |   | ![](https://geps.dev/progress/0)  |
+ 
 # 2022
 
 | Project | Category | Link | Funds | First Delivery | Completed | Milestones Status |
@@ -52,7 +59,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | Project | Category | Link | Funds | First Delivery | Completed | Milestone Status |
 | --- | :-: | :-: | :-: | :-: | :-: |:-:|
 | [VeBlocks infrastructure upgrade](https://github.com/vechain/grant-program/blob/master/applications/VeBlocks_upgrade.md) | Infrustructure | [Website](https://visuals.veblocks.net/), [GitHub](https://github.com/mirei83/VeChain-PublicNodes#public-vechain-thor-nodes)| $13,800 | ✅ | ✅ | ![](https://geps.dev/progress/100) |
-| [An institutional map of VeChain governance](https://github.com/vechain/grant-program/blob/master/applications/map-of-vechain-governance.md) | Research  | [Applicantion](https://github.com/vechain/grant-program/blob/master/applications/map-of-vechain-governance.md)  | $29,646 | ✅ |   | ![](https://geps.dev/progress/33) |
-| [Leaderless Byzantine Fault Tolerant Consensus](https://github.com/vechain/grant-program/blob/master/applications/leaderless_bft_consensus.md) | Research |  [Applicantion](https://github.com/vechain/grant-program/blob/master/applications/leaderless_bft_consensus.md) | $15,200 | ✅ | ✅ | ![](https://geps.dev/progress/100) |
+| [An institutional map of VeChain governance](https://github.com/vechain/grant-program/blob/master/applications/map-of-vechain-governance.md) | Research  | [Application](https://github.com/vechain/grant-program/blob/master/applications/map-of-vechain-governance.md)  | $29,646 | ✅ |   | ![](https://geps.dev/progress/33) |
+| [Leaderless Byzantine Fault Tolerant Consensus](https://github.com/vechain/grant-program/blob/master/applications/leaderless_bft_consensus.md) | Research |  [Application](https://github.com/vechain/grant-program/blob/master/applications/leaderless_bft_consensus.md) | $15,200 | ✅  | ✅  | ![](https://geps.dev/progress/100) |
 | [Digital Village](https://github.com/vechain/grant-program/blob/master/applications/digital-village.md) | NFT Marketplace |  [Website](https://digitalvillage.io/) | $30,000 |   |   | ![](https://geps.dev/progress/0) |
 | [Village Protocol](https://github.com/vechain/grant-program/blob/master/applications/village-protocol.md) | Social Media |  [Website](https://digitalvillage.io/) | $30,000 |  |  | ![](https://geps.dev/progress/0) |
