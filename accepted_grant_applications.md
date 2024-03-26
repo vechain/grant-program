@@ -6,7 +6,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 # 2024
 | Project | Category | Link | Funds | First Delivery | Completed | Milestones Status |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: |
-| [Saints Undone](https://github.com/vechain/grant-program/blob/master/applications/SaintsUndone.md) | NFT | [Pitch Deck](https://docs.google.com/presentation/d/1qgL5mxXXOmUQ8UYo9TGLXd3Vq09wq6ZMTGK7OgivXUQ/edit#slide=id.p) | $30,000 | | | ![](https://geps.dev/progress/0) |
+| [Saints Undone](https://github.com/vechain/grant-program/blob/master/applications/SaintsUndone.md) | NFT | [Pitch Deck](https://docs.google.com/presentation/d/1qgL5mxXXOmUQ8UYo9TGLXd3Vq09wq6ZMTGK7OgivXUQ/edit#slide=id.p) | $30,000 | ✅ | | ![](https://geps.dev/progress/33) |
 | [Oracle for VET/USD + VTHO/USD Pricing](https://github.com/vechain/grant-program/blob/master/applications/oracle.vechain.energy.md) | Service |[Website](https://vechain.energy) | $22,750 |  ✅ |  ✅ | ![](https://geps.dev/progress/100)  |
 
 
@@ -20,11 +20,11 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | [node.vechain.energy](https://github.com/vechain/grant-program/blob/master/applications/node.vechain.energy.md) | Tools | [Website](https://vechain.energy/) | $26,648 | ✅ | ✅ | ![](https://geps.dev/progress/100)  |
 | [A mobile V3-Swap](https://github.com/vechain/grant-program/blob/master/applications/mobile-v3-swap.md) | DEX | [Application](https://github.com/vechain/grant-program/blob/master/applications/mobile-v3-swap.md) | $30,000 | ✅ |    | ![](https://geps.dev/progress/50) |
 | [VeTools - VeChain VSCode Toolkit](https://github.com/vechain/grant-program/blob/master/applications/vetools_vscode.md) | Tools | [Application](https://github.com/vechain/grant-program/blob/master/applications/vetools_vscode.md) | $30,000 | ✅ |    |  ![](https://geps.dev/progress/33)  |
-|[miden](https://github.com/vechain/grant-program/blob/master/applications/miden.md)| Sustainability platform | [Application](https://github.com/vechain/grant-program/blob/master/applications/miden.md) | $30,000 |  |  | ![](https://geps.dev/progress/0)  |
+|[miden](https://github.com/vechain/grant-program/blob/master/applications/miden.md)| Sustainability platform | [Application](https://github.com/vechain/grant-program/blob/master/applications/miden.md) | $30,000 | ✅ |  | ![](https://geps.dev/progress/20)  |
 | [Forward Protocol](https://github.com/vechain/grant-program/blob/master/applications/Forward_VeChain.md) | Tools | [Website](https://forwardprotocol.io/), [GitHub](https://github.com/ForwardProtocol) | $25,000 |  |  | ![](https://geps.dev/progress/0)   |
 | [Thisismagma](https://github.com/vechain/grant-program/blob/master/applications/thisismagma.md) | Estate platform | [Website](https://thisismagma.com/)| $30,000 | ✅ | ✅ | ![](https://geps.dev/progress/100)  |
 | [VeBlocks NodeAccess 2023](https://github.com/vechain/grant-program/blob/master/applications/VeBlocks_NodeAccess_2023.md) | Infrustructure | [Website](https://www.veblocks.net/) | $13,040 |  |  | ![](https://geps.dev/progress/0) |
-| [VeFarm](https://github.com/vechain/grant-program/blob/master/applications/veFarm.md) | DEX | [POC ](https://main--symphonious-macaron-41163f.netlify.app/) | $12,500 |  |  | ![](https://geps.dev/progress/0)  |
+| [VeFarm](https://github.com/vechain/grant-program/blob/master/applications/veFarm.md) | DEX | [POC ](https://main--symphonious-macaron-41163f.netlify.app/) | $12,500 | ✅ |  | ![](https://geps.dev/progress/66)  |
 | [Infinity Wallet](https://github.com/vechain/grant-program/blob/master/applications/infinity-wallet.md) | Wallet | [Website](https://infinitywallet.io/) | $25,000 | ✅ | ✅ | ![](https://geps.dev/progress/100) |
 | [Extractor](https://github.com/vechain/grant-program/blob/master/applications/extractor.md) | Tools | [Website](https://extractor.hacken.io/) | $30,000 | | | ![](https://geps.dev/progress/0) |
 
@@ -32,7 +32,7 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 
 | Project | Category | Link | Funds | First Delivery | Completed | Milestones Status |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: |
-|  [FibreTag](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/FibreTag.md) | Luxury Tracking  | [GitHub](https://github.com/jjjutla/FibreTag), [Demo](https://www.youtube.com/shorts/-bcWPqIdZ9k)  | $29,000 | ✅ |   | ![](https://geps.dev/progress/25)  |
+|  [FibreTag](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/FibreTag.md) | Luxury Tracking  | [GitHub](https://github.com/jjjutla/FibreTag), [Demo](https://www.youtube.com/shorts/-bcWPqIdZ9k)  | $29,000 | ✅ |   | ![](https://geps.dev/progress/50)  |
 | [PropelPixel](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/Create%20PropelPixel.md) | NFT - Sustainability platform |  [PropelPixel_Slidedeck.pdf](https://github.com/victorwangse/grant-program/files/13048872/PropelPixel_Slidedeck.pdf) |  $15,000 |   |   | ![](https://geps.dev/progress/0)  |
 |  [Movelo](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/movelo.md) |  NFT - Eco-friendly travel to earn | [Website](https://movelo.app/), [MVP GitHub](https://github.com/s-alad/movelo)  | $30,000  |   |   | ![](https://geps.dev/progress/0)  |
 |  [Artika Refashion](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/artika_refashion.md) | NFT - Fashion tracking  | [Website](https://www.artikarefashion.com/), [PoC GitHub](https://github.com/IainWinter/ArtikaRefashion)  |  $30,000 |   |   | ![](https://geps.dev/progress/0)  |
