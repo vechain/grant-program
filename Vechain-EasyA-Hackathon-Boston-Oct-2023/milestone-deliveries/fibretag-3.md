@@ -5,7 +5,7 @@
 **The Ethereum address has been filled out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](../#milestone-delivery-process).**  
 
 * **PR Link:** https://github.com/vechain/grant-program/pull/195
-* **Milestone Number:** 2
+* **Milestone Number:** 3
 
 Please provide a list of all deliverables of the milestone extracted from the initial application and a link to the deliverable itself. Ideally all links inside the below table should include a commit hash, which should be used for testing.
 
