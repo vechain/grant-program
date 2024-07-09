@@ -135,10 +135,10 @@ Link to uQualify's BoS system: https://my.uqualify.co.uk/login
 
 #### Overview
 
-|  | Smart contract | Website | API | Application MVP | Marketing |  Total |
+|  | Smart contract | Marketing | Website | API | Application MVP |  Total |
 | - | - |- | - | - | - | - |
-| Estimated Duration | 30 d | 7 d | 20 d | 30 d| 20d | 107 d|
-| Full-time equivalent (FTE) | 6 | 1 | 5 | 6 | 1 | 19 | 
+| Estimated Duration | 30 d | 20 d | 7 d | 20 d| 30d | 107 d|
+| Full-time equivalent (FTE) | 6 | 1 | 1 | 5 | 6 | 19 | 
 | Cost | $ 8,000 | $ 3,000 | $ 8,000 | $8,000 | $3,000 | $30,000 |
 
 Estimations are based on quotations received from third parties. The calculations above do not include utilisation of internal resources, offerred by the team members as contribution to the Company. 
@@ -152,35 +152,36 @@ Estimations are based on quotations received from third parties. The calculation
 | 1.2 | NFT contracts | Create sponsorships as NFT with full ERC/VIP support |
 | 1.3 | Token configuration| Configure signing parameters |
 
-
-#### Milestone 2  —  Website
-| Number | Deliverable | Specification |
-|-|-|-|
-| 2.0 | UX Website design | Enhance features and functionality in accordance with our branding  |
-| 2.1 | UX audit | Survey assessing UI experience of the users |
-| 2.2 | Maintenace | UX corrections and subsequent maintenance |
-
-#### Milestone 3 - API
+#### Milestone 2 - Marketing
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 3.0 | User registration | Profile creation of the users followed by wallet linking  |
-| 2.1 | API wallet managment | Verify requests against contracts |
-| 2.2 | Log Access | Blockchain queries that will allow access to structured data |
+| 2.0 | Marketing packs | Development of marketing and branding packs  |
 
-#### Milestone 4 - Application MVP
+#### Milestone 3  —  Website
+| Number | Deliverable | Specification |
+|-|-|-|
+| 3.0 | UX Website design | Enhance features and functionality in accordance with our branding  |
+| 3.1 | UX audit | Survey assessing UI experience of the users |
+| 3.2 | Maintenace | UX corrections and subsequent maintenance |
+
+#### Milestone 4 - API
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 4.0 | Dashboard | UI for dashboard  |
-| 4.1 | Pull requests from API | Transfer of data to UI environment |
-| 4.2 | MVP features | Features development as per mock-ups |
+| 4.0 | User registration | Profile creation of the users followed by wallet linking  |
+| 4.1 | API wallet managment | Verify requests against contracts |
+| 4.2 | Log Access | Blockchain queries that will allow access to structured data |
 
-#### Milestone 5 - Marketing
+#### Milestone 5 - Application MVP
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 5.0 | Marketing packs | Development of marketing and branding packs  |
+| 5.0 | Dashboard | UI for dashboard  |
+| 5.1 | Pull requests from API | Transfer of data to UI environment |
+| 5.2 | MVP features | Features development as per mock-ups |
+
+
 
 #### Community engagement
 
