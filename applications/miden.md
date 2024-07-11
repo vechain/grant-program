@@ -139,7 +139,7 @@ Link to uQualify's BoS system: https://my.uqualify.co.uk/login
 | - | - |- | - | - | - | - |
 | Estimated Duration | 30 d | 20 d | 7 d | 20 d| 30d | 107 d|
 | Full-time equivalent (FTE) | 6 | 1 | 1 | 5 | 6 | 19 | 
-| Cost | $ 8,000 | $ 3,000 | $ 8,000 | $8,000 | $3,000 | $30,000 |
+| Cost | $ 8,000 | $ 3,000 | $ 3,000 | $8,000 | $8,000 | $30,000 |
 
 Estimations are based on quotations received from third parties. The calculations above do not include utilisation of internal resources, offerred by the team members as contribution to the Company. 
 
