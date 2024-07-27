@@ -4,7 +4,7 @@
 
 - Project: miden
 - Team Name: N.A.U. MIDEN LTD
-- Payment Address: 0x17FFd4654E1d506B3D449efAFf827b22f2DaF796
+- Payment Address: 0xFE59E858d5999C16A6f60bf521209167Abf6Df15
 
 ### Overview
 
