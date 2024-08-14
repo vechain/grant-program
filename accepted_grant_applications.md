@@ -24,20 +24,20 @@ This page gives an overview of accepted grants and a link to their GitHubs. Keep
 | [Forward Protocol](https://github.com/vechain/grant-program/blob/master/applications/Forward_VeChain.md) | Tools | [Website](https://forwardprotocol.io/), [GitHub](https://github.com/ForwardProtocol) | $25,000 |  |  | ![](https://geps.dev/progress/0)   |
 | [Thisismagma](https://github.com/vechain/grant-program/blob/master/applications/thisismagma.md) | Estate platform | [Website](https://thisismagma.com/)| $30,000 | ✅ | ✅ | ![](https://geps.dev/progress/100)  |
 | [VeBlocks NodeAccess 2023](https://github.com/vechain/grant-program/blob/master/applications/VeBlocks_NodeAccess_2023.md) | Infrustructure | [Website](https://www.veblocks.net/) | $13,040 |  |  | ![](https://geps.dev/progress/0) |
-| [VeFarm](https://github.com/vechain/grant-program/blob/master/applications/veFarm.md) | DEX | [POC ](https://main--symphonious-macaron-41163f.netlify.app/) | $12,500 | ✅ |  | ![](https://geps.dev/progress/66)  |
+| [VeFarm](https://github.com/vechain/grant-program/blob/master/applications/veFarm.md) | DEX | [POC ](https://main--symphonious-macaron-41163f.netlify.app/) | $12,500 | ✅ | ✅ | ![](https://geps.dev/progress/100)  |
 | [Infinity Wallet](https://github.com/vechain/grant-program/blob/master/applications/infinity-wallet.md) | Wallet | [Website](https://infinitywallet.io/) | $25,000 | ✅ | ✅ | ![](https://geps.dev/progress/100) |
-| [Extractor](https://github.com/vechain/grant-program/blob/master/applications/extractor.md) | Tools | [Website](https://extractor.hacken.io/) | $30,000 | | | ![](https://geps.dev/progress/0) |
+| [Extractor](https://github.com/vechain/grant-program/blob/master/applications/extractor.md) | Tools | [Website](https://extractor.hacken.io/) | $30,000 | ✅ |✅| ![](https://geps.dev/progress/100) |
 
 ### EasyA Hackathon Grant Track 
 
 | Project | Category | Link | Funds | First Delivery | Completed | Milestones Status |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: |
-|  [FibreTag](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/FibreTag.md) | Luxury Tracking  | [GitHub](https://github.com/jjjutla/FibreTag), [Demo](https://www.youtube.com/shorts/-bcWPqIdZ9k)  | $29,000 | ✅ |   | ![](https://geps.dev/progress/50)  |
+|  [FibreTag](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/FibreTag.md) | Luxury Tracking  | [GitHub](https://github.com/jjjutla/FibreTag), [Demo](https://www.youtube.com/shorts/-bcWPqIdZ9k)  | $29,000 | ✅ |   | ![](https://geps.dev/progress/75)  |
 | [PropelPixel](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/Create%20PropelPixel.md) | NFT - Sustainability platform |  [PropelPixel_Slidedeck.pdf](https://github.com/victorwangse/grant-program/files/13048872/PropelPixel_Slidedeck.pdf) |  $15,000 |   |   | ![](https://geps.dev/progress/0)  |
 |  [Movelo](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/movelo.md) |  NFT - Eco-friendly travel to earn | [Website](https://movelo.app/), [MVP GitHub](https://github.com/s-alad/movelo)  | $30,000  |   |   | ![](https://geps.dev/progress/0)  |
 |  [Artika Refashion](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/artika_refashion.md) | NFT - Fashion tracking  | [Website](https://www.artikarefashion.com/), [PoC GitHub](https://github.com/IainWinter/ArtikaRefashion)  |  $30,000 |   |   | ![](https://geps.dev/progress/0)  |
 | [Cypress](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/cypress.md) | Sustainabilty | [Pitch Deck](https://www.canva.com/design/DAFwoshzffw/z1hK9R1SEokgJ87e3lU17g/edit?utm_content=DAFwoshzffw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | $30,000 | ✅ | |  ![](https://geps.dev/progress/25)  |
-| [Sozo inFashion](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/sozo_infashion.md) | NFT | [PoC GitHub](https://github.com/KShervington/sozo-app) | $30,000 |   |   | ![](https://geps.dev/progress/0)  |
+| [Sozo inFashion](https://github.com/vechain/grant-program/blob/master/Vechain-EasyA-Hackathon-Boston-Oct-2023/applications/sozo_infashion.md) | NFT | [PoC GitHub](https://github.com/KShervington/sozo-app) | $30,000 |  ✅ |   | ![](https://geps.dev/progress/25)  |
  
 # 2022
 
