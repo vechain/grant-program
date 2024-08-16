@@ -4,7 +4,7 @@
 
 - Project: __Extractor__
 - Team Name: Hacken OU
-- Payment Address: 0xe159c80850fba5d34a34a9f18bed089d3c1be929 (USDC ERC-20).
+- Payment Address: 0xbde346b7ed0e995cc7998be68da372e96f88a1cd (USDT/USDC ERC 20).
 
 
 ### Overview
