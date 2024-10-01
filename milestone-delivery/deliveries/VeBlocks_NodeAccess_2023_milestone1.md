@@ -1,6 +1,6 @@
 # Milestone Delivery :mailbox:
 
-* **PR Link:** [https://github.com/vechain/grant-program/pull/6](https://github.com/vechain/grant-program/pull/176)
+* **PR Link:** [https://github.com/vechain/grant-program/pull/176](https://github.com/vechain/grant-program/pull/176)
 * **Milestone Number:** 1
 
 Another year has passed and we are in October 2024. With that in mind, the 1st milestone of the Veblocks grand is close to beeing fullfilled: 
