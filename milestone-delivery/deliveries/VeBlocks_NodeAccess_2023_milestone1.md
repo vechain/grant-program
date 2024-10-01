@@ -12,6 +12,8 @@ All steps to the 1st milestone have been accomplished.
 
 With this delivery notice I can hopefully fullfill the trust layed in me by the vechain foundation for the 3nd milestone.
 
+**Please notice a change of payment address: 0xbB8bF4bbe1Eb688343d58fbA1975aCd442B9cA1c USDC (ERC 20)**
+
 #### Milestone 1 — Uptime, maintenance and improvements for 12 months (2023-2024) ✔️
 
 | Number | Deliverable | Specification | Status |
