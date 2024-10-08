@@ -2,7 +2,7 @@
 
 - Project: VeBlocks NodeAccess 2023
 - Team Name: MiRei - I am happy to provide a detailed resume via email but not happy to have it on github.
-- Payment Address: 0xcb0c81cf6742c2ea97cec01f95c08d22045edbfc USDC (ERC 20)
+- Payment Address: 0xbB8bF4bbe1Eb688343d58fbA1975aCd442B9cA1c USDC (ERC 20)
 
 ### Overview
 
